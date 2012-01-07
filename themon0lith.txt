@@ -1,0 +1,149 @@
+$BUILT                                             2012-01-06 15:38:38
+$AUTHOR                                                   Insane Steve
+$GERMAN                                                               
+$ENGLISH                                                  The Mon0lith
+
+#SIZE_X                                                            640
+#SIZE_Y                                                            400
+#TORUS_X                                                             0
+#TORUS_Y                                                             0
+#START_X                                                             0
+#START_Y                                                             0
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                    0
+#BACKGROUND_BLUE                                                     0
+
+#SECONDS                                                           140
+#INITIAL                                                            40
+#REQUIRED                                                           28
+#SPAWN_INTERVAL                                                     10
+
+#CLIMBER                                                             4
+#FLOATER                                                             4
+#RUNNER                                                              2
+#NOTHING                                                             0
+#NOTHING                                                             0
+#BLOCKER                                                             2
+#BUILDER                                                             4
+#NOTHING                                                             0
+#NOTHING                                                             0
+#BASHER                                                             10
+#MINER                                                               3
+#DIGGER                                                              1
+
+:bitmap/geoo/sandstone/Hatch.H:                           72       224     r
+:bitmap/geoo/sandstone/Hatch.H:                          496       224
+
+:bitmap/geoo/sandstone/Goal.G:                           304        16
+
+:bitmap/geoo/sandstone/torch.F:                          544        40
+:bitmap/geoo/sandstone/torch.F:                          576        40
+:bitmap/geoo/sandstone/torch.F:                          608        40
+:bitmap/geoo/sandstone/torch.F:                            0        40
+:bitmap/geoo/sandstone/torch.F:                           32        40
+:bitmap/geoo/sandstone/torch.F:                           64        40
+:bitmap/geoo/sandstone/brazier.F:                         48       302
+:bitmap/geoo/sandstone/brazier.F:                        560       302
+:bitmap/geoo/sandstone/brazier.F:                        -16       302
+:bitmap/geoo/sandstone/brazier.F:                        624       302
+
+:bitmap/geoo/sandstone/32x32:                            192       304
+:bitmap/geoo/sandstone/32x32:                            224       304
+:bitmap/geoo/sandstone/32x32:                            256       304
+:bitmap/geoo/sandstone/32x32:                            288       304
+:bitmap/geoo/sandstone/32x32:                            320       304
+:bitmap/geoo/sandstone/32x32:                            352       304
+:bitmap/geoo/sandstone/32x32:                            384       304
+:bitmap/geoo/sandstone/32x32:                            416       304
+:bitmap/geoo/sandstone/32x32:                            192       272
+:bitmap/geoo/sandstone/32x32:                            224       272
+:bitmap/geoo/sandstone/32x32:                            256       272
+:bitmap/geoo/sandstone/32x32:                            288       272
+:bitmap/geoo/sandstone/32x32:                            320       272
+:bitmap/geoo/sandstone/32x32:                            352       272
+:bitmap/geoo/sandstone/32x32:                            384       272
+:bitmap/geoo/sandstone/32x32:                            416       272
+:bitmap/geoo/sandstone/32x32:                            224       240
+:bitmap/geoo/sandstone/32x32:                            256       240
+:bitmap/geoo/sandstone/32x32:                            288       240
+:bitmap/geoo/sandstone/32x32:                            320       240
+:bitmap/geoo/sandstone/32x32:                            352       240
+:bitmap/geoo/sandstone/32x32:                            384       240
+:bitmap/geoo/sandstone/32x32:                            416       240
+:bitmap/geoo/sandstone/32x32:                            224       208
+:bitmap/geoo/sandstone/32x32:                            256       208
+:bitmap/geoo/sandstone/32x32:                            288       208
+:bitmap/geoo/sandstone/32x32:                            320       208
+:bitmap/geoo/sandstone/32x32:                            352       208
+:bitmap/geoo/sandstone/32x32:                            384       208
+:bitmap/geoo/sandstone/32x32:                            416       208
+:bitmap/geoo/sandstone/32x32:                            224       176
+:bitmap/geoo/sandstone/32x32:                            256       176
+:bitmap/geoo/sandstone/32x32:                            288       176
+:bitmap/geoo/sandstone/32x32:                            320       176
+:bitmap/geoo/sandstone/32x32:                            352       176
+:bitmap/geoo/sandstone/32x32:                            384       176
+:bitmap/geoo/sandstone/32x32:                            224       144
+:bitmap/geoo/sandstone/32x32:                            256       144
+:bitmap/geoo/sandstone/32x32:                            288       144
+:bitmap/geoo/sandstone/32x32:                            320       144
+:bitmap/geoo/sandstone/32x32:                            352       144
+:bitmap/geoo/sandstone/32x32:                            384       144
+:bitmap/geoo/sandstone/32x32:                            256       112
+:bitmap/geoo/sandstone/32x32:                            288       112
+:bitmap/geoo/sandstone/32x32:                            320       112
+:bitmap/geoo/sandstone/32x32:                            352       112
+:bitmap/geoo/sandstone/32x32:                            384       112
+:bitmap/geoo/sandstone/32x32:                            256        80
+:bitmap/geoo/sandstone/32x32:                            288        80
+:bitmap/geoo/sandstone/32x32:                            320        80
+:bitmap/geoo/sandstone/32x32:                            352        80
+:bitmap/geoo/sandstone/32x32:                            384        80
+:bitmap/geoo/sandstone/slopes/16x32lb:                   128       304
+:bitmap/geoo/sandstone/slopes/16x32rb:                   496       304
+:bitmap/geoo/sandstone/pillar_32:                        592       272
+:bitmap/geoo/sandstone/pillar_32:                        592       304
+:bitmap/geoo/sandstone/pillar_32:                        592       240
+:bitmap/geoo/sandstone/pillar_32:                        592       144
+:bitmap/geoo/sandstone/pillar_32:                        592       176
+:bitmap/geoo/sandstone/pillar_32:                        592       208
+:bitmap/geoo/sandstone/pillar_top_ext:                   576       112
+:bitmap/geoo/sandstone/pillar_top_shaded:                592       128
+:bitmap/geoo/sandstone/64x32:                            608        80
+:bitmap/geoo/sandstone/64x32:                            544        80
+:bitmap/geoo/sandstone/pillar_32:                         16       272
+:bitmap/geoo/sandstone/pillar_32:                         16       304
+:bitmap/geoo/sandstone/pillar_32:                         16       240
+:bitmap/geoo/sandstone/pillar_32:                         16       144
+:bitmap/geoo/sandstone/pillar_32:                         16       176
+:bitmap/geoo/sandstone/pillar_32:                         16       208
+:bitmap/geoo/sandstone/pillar_top_ext:                     0       112
+:bitmap/geoo/sandstone/pillar_top_shaded:                 16       128
+:bitmap/geoo/sandstone/64x32:                             32        80
+:bitmap/geoo/sandstone/64x32:                            -32        80
+:bitmap/geoo/sandstone/ebony/h16b:                        48         0
+:bitmap/geoo/sandstone/ebony/h16b:                       592         0
+:bitmap/geoo/sandstone/ebony/h16a:                        16         0
+:bitmap/geoo/sandstone/ebony/h16a:                       624         0
+:bitmap/geoo/sandstone/ebony/h16c:                       -16         0
+:bitmap/geoo/sandstone/ebony/h16c:                       560         0
+:bitmap/geoo/sandstone/pillar_bottom:                    592       288
+:bitmap/geoo/sandstone/pillar_bottom:                     16       288
+:bitmap/geoo/sandstone/pillar_bottom_ext:                576       320
+:bitmap/geoo/sandstone/pillar_bottom_ext:                  0       320
+:bitmap/geoo/sandstone/ebony/h16b:                       496         0
+:bitmap/geoo/sandstone/ebony/h16a:                       528         0
+:bitmap/geoo/sandstone/ebony/h16c:                        80         0
+:bitmap/geoo/sandstone/ebony/h16b:                       112         0
+:bitmap/geoo/sandstone/ebony/h16l:                       480         0
+:bitmap/geoo/sandstone/ebony/h16r:                       144         0
+:bitmap/geoo/steel/dark_64x64.S:                           0       336
+:bitmap/geoo/steel/dark_64x64.S:                          64       336
+:bitmap/geoo/steel/dark_64x64.S:                         128       336
+:bitmap/geoo/steel/dark_64x64.S:                         192       336
+:bitmap/geoo/steel/dark_64x64.S:                         256       336
+:bitmap/geoo/steel/dark_64x64.S:                         320       336
+:bitmap/geoo/steel/dark_64x64.S:                         384       336
+:bitmap/geoo/steel/dark_64x64.S:                         448       336
+:bitmap/geoo/steel/dark_64x64.S:                         512       336
+:bitmap/geoo/steel/dark_64x64.S:                         576       336
