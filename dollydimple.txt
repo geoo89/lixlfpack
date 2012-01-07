@@ -1,4 +1,4 @@
-$BUILT                                             2012-01-07 12:41:16
+$BUILT                                             2012-01-07 19:12:54
 $AUTHOR                                                           geoo
 $GERMAN                                                               
 $ENGLISH                                       dolly dimple/redundancy
@@ -45,17 +45,18 @@ $ENGLISH                                       dolly dimple/redundancy
 :bitmap/matt/02 - Gold Mine/01:                          192       208     rrr
 :bitmap/matt/02 - Gold Mine/06:                          208       150     rrr
 :bitmap/matt/02 - Gold Mine/plank support:               396       226
-:bitmap/matt/02 - Gold Mine/07:                          564       284
 :bitmap/matt/02 - Gold Mine/07:                          442       312
+:bitmap/matt/02 - Gold Mine/06:                          618       278
+:bitmap/matt/02 - Gold Mine/07:                          570       294
 :bitmap/matt/02 - Gold Mine/crate32:                     336        96
 :bitmap/matt/02 - Gold Mine/plank:                       336       128
 :bitmap/matt/02 - Gold Mine/06:                          524       316
 :bitmap/matt/02 - Gold Mine/00:                          434       354
 :bitmap/matt/02 - Gold Mine/06:                          572       382
 :bitmap/matt/02 - Gold Mine/plank support:               576       128
-:bitmap/matt/02 - Gold Mine/01:                          620       252
+:bitmap/matt/02 - Gold Mine/00:                          616       236
+:bitmap/matt/02 - Gold Mine/01:                          618       280
 :bitmap/matt/02 - Gold Mine/plank:                       452       128
-:bitmap/matt/02 - Gold Mine/00:                          608       256
 :bitmap/matt/02 - Gold Mine/01:                          282       342
 :bitmap/matt/02 - Gold Mine/00:                          320       316
 :bitmap/matt/02 - Gold Mine/crate64:                     576        64
