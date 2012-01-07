@@ -1,0 +1,65 @@
+$BUILT                                             2011-12-25 13:31:12
+$AUTHOR                                                           geoo
+$GERMAN                                                               
+$ENGLISH                                                  A.T. variant
+
+#SIZE_X                                                            640
+#SIZE_Y                                                            400
+#TORUS_X                                                             0
+#TORUS_Y                                                             0
+#START_X                                                             0
+#START_Y                                                             0
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                    0
+#BACKGROUND_BLUE                                                     0
+
+#SECONDS                                                             0
+#INITIAL                                                            80
+#REQUIRED                                                           60
+#SPAWN_INTERVAL                                                     13
+
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#CLIMBER                                                            10
+#CUBER                                                              10
+#BASHER                                                             10
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+
+:bitmap/geoo/construction/Hatch.H:                       368       112
+:bitmap/geoo/construction/Hatch.H:                       560       192     r
+
+:bitmap/geoo/construction/Goal2.G:                        32       112
+
+:bitmap/geoo/construction/wall/big_128x128:              352       176
+:bitmap/geoo/construction/wall/big_128x128:              384       272
+:bitmap/geoo/construction/wall/big_128x128:              512       272
+:bitmap/geoo/construction/wall/big_128x128:              256       272
+:bitmap/geoo/construction/wall/big_128x128:              128       272
+:bitmap/geoo/construction/wall/big_128x128:                0       272
+:bitmap/geoo/construction/wall/big_128x128:              224       176
+:bitmap/geoo/construction/wall/big_128x128:               96       176
+:bitmap/geoo/construction/wall/big_128x128:              -32       176
+:bitmap/geoo/construction/pillar_bottom:                 608       256
+:bitmap/geoo/construction/pillar_32:                     608       224
+:bitmap/geoo/construction/pillar_32:                     608       192
+:bitmap/geoo/construction/pillar_32:                     608       160
+:bitmap/geoo/construction/pillar_32:                     608       128
+:bitmap/geoo/construction/pillar_32:                     608       112
+:bitmap/geoo/construction/pillar_top_shaded:             608        64
+:bitmap/geoo/construction/wall/big_128x128:              512       -64
+:bitmap/geoo/construction/wall/big_128x128:              384       -64
+:bitmap/geoo/construction/wall/big_128x128:              256       -64
+:bitmap/geoo/construction/wall/big_128x128:              128       -64
+:bitmap/geoo/construction/pillar_32:                     608        80
+:bitmap/geoo/construction/wall/big_128x128:                0       -64
+:bitmap/geoo/construction/pillar_bottom:                   0       160
+:bitmap/geoo/construction/pillar_top_shaded:               0        64
+:bitmap/geoo/construction/pillar_32:                       0       128
+:bitmap/geoo/construction/pillar_32:                       0       112
+:bitmap/geoo/construction/pillar_32:                       0        80

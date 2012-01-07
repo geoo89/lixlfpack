@@ -1,0 +1,113 @@
+$BUILT                                             2012-01-07 12:27:47
+$AUTHOR                                                          tseug
+$GERMAN                                                               
+$ENGLISH                                             Oh No, Not Again!
+
+#SIZE_X                                                           1024
+#SIZE_Y                                                            400
+#TORUS_X                                                             0
+#TORUS_Y                                                             0
+#START_X                                                           384
+#START_Y                                                           -20
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                    0
+#BACKGROUND_BLUE                                                     0
+
+#SECONDS                                                             0
+#INITIAL                                                           200
+#REQUIRED                                                          200
+#SPAWN_INTERVAL                                                     20
+
+#CLIMBER                                                             1
+#FLOATER                                                             1
+#NOTHING                                                             0
+#BUILDER                                                             3
+#NOTHING                                                             0
+#BASHER                                                              1
+#MINER                                                               1
+#DIGGER                                                              1
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+
+:bitmap/matt/01 - Earth/Hatch.H:                         754       100
+
+:bitmap/matt/01 - Earth/Goal.G:                          866       312
+
+:bitmap/geoo/steel/32x64o.S:                             992        80
+:bitmap/geoo/steel/32x64o.S:                             992       144
+:bitmap/geoo/steel/32x64o.S:                             992       208
+:bitmap/geoo/steel/32x64o.S:                             992       272
+:bitmap/geoo/steel/32x64o.S:                             992       336
+:bitmap/geoo/steel/32x64o.S:                               0        80
+:bitmap/geoo/steel/32x64o.S:                               0       144
+:bitmap/geoo/steel/32x64o.S:                               0       208
+:bitmap/geoo/steel/32x64o.S:                               0       272
+:bitmap/geoo/steel/32x64o.S:                               0       336
+:bitmap/geoo/steel/32x64o.S:                               0        16
+:bitmap/geoo/steel/32x64o.S:                             992        16
+:bitmap/matt/01 - Earth/03:                              204       142     frr
+:bitmap/matt/01 - Earth/03:                              232       176     frr
+:bitmap/matt/01 - Earth/05:                               64       136     r
+:bitmap/geoo/steel/32x64o.S:                              64        80
+:bitmap/geoo/steel/32x64o.S:                              64       144
+:bitmap/geoo/steel/32x64o.S:                              64       208
+:bitmap/geoo/steel/32x64o.S:                              64       272
+:bitmap/geoo/steel/32x64o.S:                              64       336
+:bitmap/matt/01 - Earth/10:                              704       144
+:bitmap/matt/01 - Earth/10:                              688       192     d
+:bitmap/matt/01 - Earth/01:                              800       216
+:bitmap/matt/01 - Earth/03:                              800       208
+:bitmap/matt/01 - Earth/03:                              832       180
+:bitmap/geoo/steel/32x64o.S:                             928        80
+:bitmap/matt/01 - Earth/09:                              870       268
+:bitmap/matt/01 - Earth/09:                              886       266
+:bitmap/geoo/steel/32x64o.S:                             928       272
+:bitmap/matt/01 - Earth/15:                              856       376
+:bitmap/geoo/steel/32x64o.S:                             928       336
+:bitmap/geoo/steel/32x64o.S:                             960       176     d
+:bitmap/matt/01 - Earth/03:                              624       148
+:bitmap/matt/01 - Earth/10:                              476       340
+:bitmap/matt/01 - Earth/03:                              468       338
+:bitmap/matt/01 - Earth/09:                              546       334
+:bitmap/matt/01 - Earth/03:                              590       340
+:bitmap/matt/01 - Earth/05:                              670       336     rr
+:bitmap/matt/01 - Earth/01:                              364       340
+:bitmap/matt/01 - Earth/02:                              354       342
+:bitmap/matt/01 - Earth/00:                              588       340
+:bitmap/matt/01 - Earth/09:                              594       334
+:bitmap/matt/01 - Earth/09:                              642       334
+:bitmap/matt/01 - Earth/09:                              690       334
+:bitmap/matt/01 - Earth/09:                              498       336
+:bitmap/matt/01 - Earth/09:                              354       334
+:bitmap/matt/01 - Earth/04:                              604       356
+:bitmap/matt/01 - Earth/17:                              432       136     fr
+:bitmap/matt/01 - Earth/05:                              256       136     fr
+:bitmap/matt/01 - Earth/05:                              296       152     fr
+:bitmap/matt/01 - Earth/00:                              512       144
+:bitmap/matt/01 - Earth/09:                              -16         8
+:bitmap/matt/01 - Earth/09:                              984         8
+:bitmap/matt/01 - Earth/05:                              512       136     r
+:bitmap/matt/01 - Earth/17:                              732       165     fr
+:bitmap/matt/01 - Earth/05:                              528       156     fr
+:bitmap/matt/01 - Earth/00:                              864       192
+:bitmap/geoo/steel/32x64o.S:                             928       144
+:bitmap/geoo/steel/32x64o.S:                             928       208
+:bitmap/matt/01 - Earth/23:                              256       320
+:bitmap/matt/01 - Earth/26:                              264       296
+:bitmap/matt/01 - Earth/01:                              248       288
+:bitmap/matt/01 - Earth/23:                              152       288
+:bitmap/matt/01 - Earth/26:                              160       264
+:bitmap/matt/01 - Earth/01:                              144       256
+:bitmap/matt/01 - Earth/03:                              356       338
+:bitmap/matt/01 - Earth/10:                              380       340
+:bitmap/matt/01 - Earth/09:                              402       334
+:bitmap/matt/01 - Earth/09:                              450       334
+:bitmap/matt/01 - Earth/15:                              704       272
+:bitmap/matt/01 - Earth/05:                              464       152     r
+:bitmap/geoo/steel/64x64.S:                              864       224
+:bitmap/matt/01 - Earth/03:                              702       201     frr
+:bitmap/geoo/steel/64x64.S:                              800       224
+:bitmap/geoo/steel/32x64o.S:                             960       336
+:bitmap/geoo/steel/32x64o.S:                              32       336
