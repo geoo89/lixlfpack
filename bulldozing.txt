@@ -1,7 +1,7 @@
-$BUILT                                             2011-12-25 13:31:12
+$BUILT                                             2012-01-13 20:17:45
 $AUTHOR                                                           geoo
 $GERMAN                                                               
-$ENGLISH                                                  A.T. variant
+$ENGLISH                                                     Bulldozer
 
 #SIZE_X                                                            640
 #SIZE_Y                                                            400
@@ -63,3 +63,4 @@ $ENGLISH                                                  A.T. variant
 :bitmap/geoo/construction/pillar_32:                       0       128
 :bitmap/geoo/construction/pillar_32:                       0       112
 :bitmap/geoo/construction/pillar_32:                       0        80
+:bitmap/geoo/construction/wall/big_square:               448       208

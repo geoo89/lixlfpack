@@ -1,0 +1,117 @@
+$BUILT                                             2012-01-13 20:45:34
+$AUTHOR                                                           geoo
+$GERMAN                                                               
+$ENGLISH                                                Alien Invasion
+
+#SIZE_X                                                            640
+#SIZE_Y                                                            400
+#TORUS_X                                                             0
+#TORUS_Y                                                             0
+#START_X                                                             0
+#START_Y                                                             0
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                    0
+#BACKGROUND_BLUE                                                     0
+
+#SECONDS                                                             0
+#INITIAL                                                            60
+#REQUIRED                                                           58
+#SPAWN_INTERVAL                                                      7
+
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#CLIMBER                                                             1
+#BASHER                                                              1
+#BUILDER                                                             3
+#CUBER                                                               2
+#DIGGER                                                              1
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+
+:bitmap/geoo/construction/Hatch.H:                       112       128
+:bitmap/geoo/construction/Hatch.H:                       176       128
+:bitmap/geoo/construction/Hatch.H:                       240       128
+
+:bitmap/matt/01 - Earth/Goal.G:                          496       188
+
+:bitmap/matt/water.W:                                    -16       368
+:bitmap/matt/water.W:                                     16       368
+:bitmap/matt/water.W:                                     48       368
+:bitmap/matt/water.W:                                     80       368
+:bitmap/geoo/sandstone/brazier.F:                        168        38
+:bitmap/geoo/sandstone/brazier.F:                        184        38
+:bitmap/geoo/sandstone/torch.F:                          168        40
+:bitmap/geoo/sandstone/torch.F:                          184        40
+:bitmap/geoo/sandstone/brazier.F:                        232        38
+:bitmap/geoo/sandstone/brazier.F:                        248        38
+:bitmap/geoo/sandstone/torch.F:                          232        40
+:bitmap/geoo/sandstone/torch.F:                          248        40
+:bitmap/geoo/sandstone/brazier.F:                        104        38
+:bitmap/geoo/sandstone/brazier.F:                        120        38
+:bitmap/geoo/sandstone/torch.F:                          104        40
+:bitmap/geoo/sandstone/torch.F:                          120        40
+
+:bitmap/matt/01 - Earth/03:                              346       320
+:bitmap/matt/01 - Earth/10:                              362       322
+:bitmap/matt/01 - Earth/01:                              390       312
+:bitmap/matt/01 - Earth/02:                              406       276
+:bitmap/matt/01 - Earth/01:                              328       372
+:bitmap/matt/01 - Earth/05:                              136       364     r
+:bitmap/matt/01 - Earth/05:                              326       326
+:bitmap/matt/01 - Earth/00:                              138       312
+:bitmap/matt/01 - Earth/06:                              438       252
+:bitmap/matt/01 - Earth/05:                              405       252     fr
+:bitmap/matt/01 - Earth/10:                              436       270
+:bitmap/matt/01 - Earth/16:                              512       298
+:bitmap/matt/01 - Earth/04:                              158       326     frr
+:bitmap/matt/03 - Carnival/47:                            64       296
+:bitmap/matt/03 - Carnival/48:                            64       296
+:bitmap/matt/01 - Earth/16:                               94       322
+:bitmap/matt/01 - Earth/16:                              612       -96
+:bitmap/matt/01 - Earth/10:                              448       -38
+:bitmap/matt/01 - Earth/03:                              382        20     fr
+:bitmap/matt/01 - Earth/02:                              392       122
+:bitmap/matt/01 - Earth/16:                              390       -56
+:bitmap/matt/01 - Earth/27:                              496       112
+:bitmap/matt/01 - Earth/28:                              466       126
+:bitmap/matt/01 - Earth/29:                              574       106
+:bitmap/matt/01 - Earth/29:                              446       130
+:bitmap/matt/01 - Earth/10:                              384        26
+:bitmap/matt/01 - Earth/17:                              592       298
+:bitmap/matt/01 - Earth/17:                              592       202
+:bitmap/matt/01 - Earth/05:                              592        26
+:bitmap/matt/01 - Earth/04:                              512       -22
+:bitmap/matt/01 - Earth/09:                              498       252
+:bitmap/matt/01 - Earth/09:                              474       250
+:bitmap/matt/01 - Earth/09:                              410       262     frr
+:bitmap/matt/01 - Earth/09:                              536       248     rr
+:bitmap/matt/03 - Carnival/54:                           160       192
+:bitmap/geoo/steel/64x32o.S:                              32       192
+:bitmap/geoo/steel/64x32o.S:                              96       192
+:bitmap/geoo/steel/64x32o.S:                             224       192
+:bitmap/geoo/steel/64x32o.S:                             288       192
+:bitmap/matt/03 - Carnival/25:                           288       128
+:bitmap/matt/03 - Carnival/25:                            32       128
+:bitmap/matt/03 - Carnival/46:                           320        96
+:bitmap/matt/03 - Carnival/46:                           288        64
+:bitmap/matt/03 - Carnival/45:                            32        96
+:bitmap/matt/03 - Carnival/45:                            64        64
+:bitmap/matt/03 - Carnival/08:                            64        96
+:bitmap/matt/03 - Carnival/09:                           288        96
+:bitmap/matt/03 - Carnival/43:                            96        96
+:bitmap/matt/03 - Carnival/44:                           256        96
+:bitmap/matt/03 - Carnival/51:                            96        64
+:bitmap/matt/03 - Carnival/51:                           160        64
+:bitmap/matt/03 - Carnival/51:                           224        64
+:bitmap/matt/03 - Carnival/29:                           160        48
+:bitmap/matt/03 - Carnival/29:                           224        48
+:bitmap/matt/03 - Carnival/29:                            96        48
+:bitmap/matt/03 - Carnival/05:                           288       224
+:bitmap/matt/03 - Carnival/05:                            64       224
+:bitmap/matt/03 - Carnival/01:                            64       288
+:bitmap/matt/03 - Carnival/48:                           288       296
+:bitmap/matt/03 - Carnival/47:                           288       296
+:bitmap/matt/03 - Carnival/01:                           288       288
