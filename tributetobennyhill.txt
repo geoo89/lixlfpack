@@ -1,0 +1,114 @@
+$BUILT                                             2012-01-14 23:33:56
+$AUTHOR                                                   Insane Steve
+$GERMAN                                                               
+$ENGLISH                                         Tribute to Benny Hill
+
+#SIZE_X                                                            800
+#SIZE_Y                                                            400
+#TORUS_X                                                             0
+#TORUS_Y                                                             0
+#START_X                                                             0
+#START_Y                                                           -20
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                    0
+#BACKGROUND_BLUE                                                     0
+
+#SECONDS                                                          1800
+#INITIAL                                                             5
+#REQUIRED                                                            4
+#SPAWN_INTERVAL                                                      1
+
+#CLIMBER                                                             1
+#FLOATER                                                             4
+#EXPLODER                                                            3
+#BLOCKER                                                             0
+#BUILDER                                                             3
+#BASHER                                                              0
+#MINER                                                               1
+#DIGGER                                                              0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+
+:bitmap/geoo/construction/Hatch.H:                        16       256
+:bitmap/geoo/construction/Hatch.H:                        48       256
+:bitmap/geoo/construction/Hatch.H:                        80       256
+:bitmap/geoo/construction/Hatch.H:                       112       256
+:bitmap/geoo/construction/Hatch.H:                       416       128
+
+:bitmap/simon/tapir/goal.G:                               48       128
+
+:bitmap/geoo/construction/squisher.T:                    176       112
+
+:bitmap/simon/tapir/064:                                 256       336
+:bitmap/simon/tapir/064:                                 192       336
+:bitmap/simon/tapir/064:                                 128       336
+:bitmap/simon/tapir/064:                                  64       336
+:bitmap/simon/tapir/064:                                   0       336
+:bitmap/simon/tapir/016h:                                 48       352
+:bitmap/simon/tapir/016h:                                112       368
+:bitmap/simon/tapir/016h:                                176       352
+:bitmap/simon/tapir/016h:                                240       368
+:bitmap/simon/tapir/032a:                                288       304
+:bitmap/simon/tapir/032a:                                320       272
+:bitmap/simon/tapir/032a:                                352       240
+:bitmap/simon/tapir/032a:                                384       208
+:bitmap/simon/tapir/016hb:                               384       192
+:bitmap/simon/tapir/016h:                                352       192
+:bitmap/simon/tapir/016hb:                               352       176
+:bitmap/simon/tapir/032d:                                384       240
+:bitmap/simon/tapir/032d:                                352       272
+:bitmap/simon/tapir/032d:                                320       304
+:bitmap/matt/steel/32x32.S:                              320       176
+:bitmap/matt/steel/32x32.S:                              288       176
+:bitmap/matt/steel/32x32.S:                              256       176
+:bitmap/matt/steel/32x32.S:                              224       176
+:bitmap/matt/steel/32x32.S:                              192       176
+:bitmap/matt/steel/32x32.S:                              160       176
+:bitmap/matt/steel/32x32.S:                              128       176
+:bitmap/matt/steel/32x32.S:                               96       176
+:bitmap/matt/steel/32x32.S:                               64       176
+:bitmap/matt/steel/32x32.S:                               32       176
+:bitmap/matt/steel/32x32.S:                              416       208
+:bitmap/matt/steel/32x32.S:                              448       208
+:bitmap/matt/steel/32x32.S:                              480       208
+:bitmap/matt/steel/32x32.S:                              512       208
+:bitmap/matt/steel/32x32.S:                              544       208
+:bitmap/matt/steel/32x32.S:                              576       208
+:bitmap/matt/steel/32x32.S:                              608       208
+:bitmap/matt/steel/32x32.S:                              640       208
+:bitmap/matt/steel/32x32.S:                              672       208
+:bitmap/matt/steel/32x32.S:                              704       208
+:bitmap/matt/steel/32x32.S:                              736       208
+:bitmap/matt/steel/32x32.S:                              736       176
+:bitmap/matt/steel/32x32.S:                              736       144
+:bitmap/matt/steel/32x32.S:                              736       112
+:bitmap/matt/steel/32x32.S:                              736        80
+:bitmap/matt/steel/32x32.S:                              736        48
+:bitmap/matt/steel/32x32.S:                              736        16
+:bitmap/matt/steel/32x32.S:                              736       -16
+:bitmap/simon/tapir/032vc:                               704        32
+:bitmap/simon/tapir/032:                                 704         0
+:bitmap/matt/steel/32x32.S:                              480       160
+:bitmap/matt/steel/32x32.S:                              480       128
+:bitmap/matt/steel/32x32.S:                              480        96
+:bitmap/matt/steel/32x32.S:                              480        64
+:bitmap/matt/steel/32x32.S:                              480        32
+:bitmap/matt/steel/32x32.S:                              480         0
+:bitmap/matt/steel/32x32.S:                              192       142
+:bitmap/matt/steel/32x32.S:                              192       110
+:bitmap/matt/steel/32x32.S:                              192        78
+:bitmap/matt/steel/32x32.S:                              192        46
+:bitmap/matt/steel/32x32.S:                              192        14
+:bitmap/matt/steel/32x32.S:                              192       -18
+:bitmap/matt/steel/32x32.S:                              160       142
+:bitmap/matt/steel/32x32.S:                              160       110
+:bitmap/matt/steel/32x32.S:                              160        78
+:bitmap/matt/steel/32x32.S:                              160        46
+:bitmap/matt/steel/32x32.S:                              160        14
+:bitmap/matt/steel/32x32.S:                              160       -18
+:bitmap/simon/tapir/016vc:                               688         0
+:bitmap/simon/tapir/016vd:                               544         0
+:bitmap/simon/tapir/032:                                 512         0
+:bitmap/simon/tapir/032vd:                               512        32
