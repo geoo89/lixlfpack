@@ -1,4 +1,4 @@
-$BUILT                                             2012-01-13 20:45:34
+$BUILT                                             2012-01-16 21:46:25
 $AUTHOR                                                           geoo
 $GERMAN                                                               
 $ENGLISH                                                Alien Invasion
@@ -14,8 +14,8 @@ $ENGLISH                                                Alien Invasion
 #BACKGROUND_BLUE                                                     0
 
 #SECONDS                                                             0
-#INITIAL                                                            60
-#REQUIRED                                                           58
+#INITIAL                                                           120
+#REQUIRED                                                          118
 #SPAWN_INTERVAL                                                      7
 
 #NOTHING                                                             0
@@ -53,23 +53,22 @@ $ENGLISH                                                Alien Invasion
 :bitmap/geoo/sandstone/brazier.F:                        120        38
 :bitmap/geoo/sandstone/torch.F:                          104        40
 :bitmap/geoo/sandstone/torch.F:                          120        40
+:bitmap/matt/water.W:                                    112       368
+:bitmap/matt/water.W:                                    384       368
+:bitmap/matt/water.W:                                    416       368
 
-:bitmap/matt/01 - Earth/03:                              346       320
-:bitmap/matt/01 - Earth/10:                              362       322
-:bitmap/matt/01 - Earth/01:                              390       312
-:bitmap/matt/01 - Earth/02:                              406       276
+:bitmap/matt/01 - Earth/18:                              338       360
+:bitmap/matt/01 - Earth/10:                              426       308
+:bitmap/matt/01 - Earth/02:                              409       272
 :bitmap/matt/01 - Earth/01:                              328       372
-:bitmap/matt/01 - Earth/05:                              136       364     r
+:bitmap/matt/01 - Earth/02:                              222       390
+:bitmap/matt/01 - Earth/04:                              234       360     fr
 :bitmap/matt/01 - Earth/05:                              326       326
-:bitmap/matt/01 - Earth/00:                              138       312
 :bitmap/matt/01 - Earth/06:                              438       252
 :bitmap/matt/01 - Earth/05:                              405       252     fr
 :bitmap/matt/01 - Earth/10:                              436       270
 :bitmap/matt/01 - Earth/16:                              512       298
-:bitmap/matt/01 - Earth/04:                              158       326     frr
-:bitmap/matt/03 - Carnival/47:                            64       296
-:bitmap/matt/03 - Carnival/48:                            64       296
-:bitmap/matt/01 - Earth/16:                               94       322
+:bitmap/matt/01 - Earth/16:                              108       328
 :bitmap/matt/01 - Earth/16:                              612       -96
 :bitmap/matt/01 - Earth/10:                              448       -38
 :bitmap/matt/01 - Earth/03:                              382        20     fr
@@ -109,9 +108,5 @@ $ENGLISH                                                Alien Invasion
 :bitmap/matt/03 - Carnival/29:                           160        48
 :bitmap/matt/03 - Carnival/29:                           224        48
 :bitmap/matt/03 - Carnival/29:                            96        48
-:bitmap/matt/03 - Carnival/05:                           288       224
-:bitmap/matt/03 - Carnival/05:                            64       224
-:bitmap/matt/03 - Carnival/01:                            64       288
-:bitmap/matt/03 - Carnival/48:                           288       296
-:bitmap/matt/03 - Carnival/47:                           288       296
-:bitmap/matt/03 - Carnival/01:                           288       288
+:bitmap/matt/01 - Earth/15:                              152       264
+:bitmap/matt/01 - Earth/04:                              140       348     frr

@@ -1,4 +1,4 @@
-$BUILT                                             2012-01-13 17:24:36
+$BUILT                                             2012-01-19 08:14:54
 $AUTHOR                                                   Insane Steve
 $GERMAN                                                               
 $ENGLISH                                                  Well OK Then
@@ -39,10 +39,10 @@ $ENGLISH                                                  Well OK Then
 :bitmap/geoo/construction/wall/small_64x32:              194       272
 :bitmap/geoo/construction/wall/small_64x32:              258       272
 :bitmap/geoo/construction/wall/small_64x32:              322       272
-:bitmap/geoo/construction/wall/small_64x32:              128       368
-:bitmap/geoo/construction/wall/small_64x32:              192       368
-:bitmap/geoo/construction/wall/small_64x32:              256       368
-:bitmap/geoo/construction/wall/small_64x32:              320       368
+:bitmap/geoo/construction/wall/small_64x32:              130       368
+:bitmap/geoo/construction/wall/small_64x32:              194       368
+:bitmap/geoo/construction/wall/small_64x32:              258       368
+:bitmap/geoo/construction/wall/small_64x32:              322       368
 :bitmap/geoo/steel/16x16o.S:                             366       240
 :bitmap/geoo/steel/16x16o.S:                             350       240
 :bitmap/geoo/steel/16x16o.S:                             334       240
