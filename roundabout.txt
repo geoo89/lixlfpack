@@ -1,0 +1,119 @@
+$BUILT                                             2012-01-28 21:42:27
+$AUTHOR                                                 Thick Molasses
+$GERMAN                                                               
+$ENGLISH                                                    Roundabout
+
+#SIZE_X                                                           1072
+#SIZE_Y                                                            400
+#TORUS_X                                                             0
+#TORUS_Y                                                             0
+#START_X                                                            32
+#START_Y                                                           -20
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                   16
+#BACKGROUND_BLUE                                                    48
+
+#SECONDS                                                             0
+#INITIAL                                                            50
+#REQUIRED                                                           50
+#SPAWN_INTERVAL                                                     62
+
+#CLIMBER                                                             2
+#FLOATER                                                             2
+#BUILDER                                                            10
+#BASHER                                                             10
+#MINER                                                               1
+#DIGGER                                                             10
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+
+:bitmap/matt/02 - Gold Mine/GoalTop.D:                   128       -16
+
+:bitmap/simon/hatch001.H:                                141       145
+
+:bitmap/matt/02 - Gold Mine/Goal.G:                      128        32
+
+:bitmap/matt/10tons.T:                                   319        32
+
+:bitmap/matt/water.W:                                    426       340
+:bitmap/matt/water.W:                                    458       340
+:bitmap/simon/water.W:                                    64       352
+
+:bitmap/matt/02 - Gold Mine/ExplosiveCrate:              304       352
+:bitmap/matt/02 - Gold Mine/crate64:                      64       288
+:bitmap/matt/02 - Gold Mine/crate64:                      64       224
+:bitmap/matt/02 - Gold Mine/crate64:                     128       288
+:bitmap/matt/02 - Gold Mine/crate64:                     128       224
+:bitmap/matt/02 - Gold Mine/crate64:                     192       288
+:bitmap/matt/02 - Gold Mine/crate64:                     256       224
+:bitmap/matt/02 - Gold Mine/crate64:                     256       288
+:bitmap/matt/02 - Gold Mine/crate64:                     192       224
+:bitmap/matt/02 - Gold Mine/06:                          422       366
+:bitmap/matt/02 - Gold Mine/07:                          485       311
+:bitmap/matt/02 - Gold Mine/07:                          388       376
+:bitmap/matt/02 - Gold Mine/ExplosiveCrate:              368       352
+:bitmap/matt/02 - Gold Mine/crate32:                     400       320
+:bitmap/matt/02 - Gold Mine/06:                          640       380
+:bitmap/geoo/steel/64x64o.S:                             128        80
+:bitmap/geoo/steel/64x64o.S:                              64        80
+:bitmap/geoo/steel/64x64o.S:                             192        80
+:bitmap/matt/02 - Gold Mine/crate64:                     255       137
+:bitmap/matt/02 - Gold Mine/crate64:                     255        73
+:bitmap/matt/02 - Gold Mine/crate64:                     319       137
+:bitmap/matt/02 - Gold Mine/crate64:                     319        73
+:bitmap/matt/02 - Gold Mine/crate64:                     382       137
+:bitmap/matt/02 - Gold Mine/crate64:                     382        73
+:bitmap/matt/02 - Gold Mine/crate64:                     446       137
+:bitmap/matt/02 - Gold Mine/crate64:                     446        73
+:bitmap/geoo/steel/64x64o.S:                             688       352
+:bitmap/geoo/steel/64x64o.S:                             688       288
+:bitmap/geoo/steel/64x64o.S:                             688       224
+:bitmap/matt/02 - Gold Mine/crate64:                     880       336
+:bitmap/matt/02 - Gold Mine/crate64:                     880       272
+:bitmap/matt/02 - Gold Mine/crate64:                     944       336
+:bitmap/matt/02 - Gold Mine/crate64:                     944       272
+:bitmap/matt/02 - Gold Mine/crate64:                     752       376
+:bitmap/matt/02 - Gold Mine/crate64:                     816       376
+:bitmap/matt/02 - Gold Mine/crate64:                     880       208
+:bitmap/matt/02 - Gold Mine/crate64:                     880       144
+:bitmap/matt/02 - Gold Mine/crate64:                     944       208
+:bitmap/matt/02 - Gold Mine/crate64:                     944       144
+:bitmap/matt/02 - Gold Mine/crate64:                    1008       336
+:bitmap/matt/02 - Gold Mine/crate64:                    1008       272
+:bitmap/matt/02 - Gold Mine/crate64:                    1008       208
+:bitmap/matt/02 - Gold Mine/crate64:                    1008       144
+:bitmap/geoo/steel/64x64o.S:                               0       336
+:bitmap/geoo/steel/64x64o.S:                               0       272
+:bitmap/geoo/steel/64x64o.S:                               0       208
+:bitmap/geoo/steel/dark_64x32o.S:                        510        83
+:bitmap/matt/02 - Gold Mine/02:                          605        -8
+:bitmap/matt/02 - Gold Mine/ExplosiveCrate:              572        78
+:bitmap/matt/08 - Bricks/17:                             732        81     frr
+:bitmap/matt/02 - Gold Mine/05:                          679        75
+:bitmap/matt/02 - Gold Mine/ExplosiveCrate:              636        78
+:bitmap/matt/08 - Bricks/17:                             782       129     frr
+:bitmap/matt/02 - Gold Mine/ExplosiveCrate:              315       -31
+:bitmap/geoo/steel/64x64o.S:                             112       352
+:bitmap/geoo/steel/64x64o.S:                               0       144
+:bitmap/geoo/steel/64x64o.S:                               0        80
+:bitmap/geoo/steel/64x64o.S:                               0        16
+:bitmap/geoo/steel/64x64o.S:                            1008       336
+:bitmap/geoo/steel/64x64o.S:                            1008       272
+:bitmap/geoo/steel/64x64o.S:                            1008       208
+:bitmap/geoo/steel/64x64o.S:                            1008       144
+:bitmap/geoo/steel/64x64o.S:                            1008        80
+:bitmap/geoo/steel/64x64o.S:                            1008        16
+:bitmap/geoo/steel/32x64o.S:                             880        48
+:bitmap/geoo/steel/32x32o.S:                             880        16
+:bitmap/geoo/steel/32x16o.S:                             880         0
+:bitmap/geoo/steel/32x16o.S:                             912         0
+:bitmap/geoo/steel/32x16o.S:                             944         0
+:bitmap/geoo/steel/32x16o.S:                             976         0
+:bitmap/geoo/steel/32x16o.S:                            1008         0
+:bitmap/geoo/steel/32x16o.S:                            1040         0
+:bitmap/geoo/steel/32x16o.S:                               0         0
+:bitmap/geoo/steel/32x16o.S:                              32         0

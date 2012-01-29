@@ -1,0 +1,90 @@
+$BUILT                                             2012-01-28 21:40:29
+$AUTHOR                                      Thick Molasses/Nortaneous
+$GERMAN                                                               
+$ENGLISH                                         Subversive Activities
+
+#SIZE_X                                                            768
+#SIZE_Y                                                            400
+#TORUS_X                                                             0
+#TORUS_Y                                                             0
+#START_X                                                             0
+#START_Y                                                           -20
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                    0
+#BACKGROUND_BLUE                                                     0
+
+#SECONDS                                                             0
+#INITIAL                                                            50
+#REQUIRED                                                           47
+#SPAWN_INTERVAL                                                     50
+
+#CLIMBER                                                             2
+#FLOATER                                                             3
+#BLOCKER                                                             1
+#EXPLODER2                                                           2
+#PLATFORMER                                                          5
+#MINER                                                               1
+#DIGGER                                                              1
+#RUNNER                                                              1
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+
+:bitmap/matt/09 - Marble/Hatch.H:                         48       192
+
+:bitmap/matt/09 - Marble/Goal.G:                         416        96
+
+:bitmap/matt/09 - Marble/07b:                            576       304
+:bitmap/matt/09 - Marble/06b:                            704       304
+:bitmap/matt/09 - Marble/06b:                            704       240
+:bitmap/matt/09 - Marble/09:                              32       272
+:bitmap/matt/09 - Marble/09:                             160       208
+:bitmap/matt/09 - Marble/09:                             160       272
+:bitmap/matt/09 - Marble/09:                              96       272
+:bitmap/matt/09 - Marble/09:                             160       144
+:bitmap/matt/09 - Marble/09:                             224       208
+:bitmap/matt/09 - Marble/09:                             224       272
+:bitmap/matt/09 - Marble/09:                             224       144
+:bitmap/matt/09 - Marble/09a:                            288       336
+:bitmap/matt/09 - Marble/09a:                            352       336
+:bitmap/matt/09 - Marble/09a:                            416       336
+:bitmap/geoo/steel/32x64o.S:                             464        64
+:bitmap/geoo/steel/32x64o.S:                             320        64
+:bitmap/matt/09 - Marble/09a:                            384       144
+:bitmap/matt/09 - Marble/09a:                            448       144
+:bitmap/matt/09 - Marble/09a:                            516       144
+:bitmap/matt/09 - Marble/09a:                            576       144
+:bitmap/geoo/steel/32x64o.S:                             464         0
+:bitmap/matt/09 - Marble/09b:                            480       336
+:bitmap/matt/09 - Marble/23e:                            672       304
+:bitmap/matt/09 - Marble/14b:                            544       304
+:bitmap/matt/09 - Marble/14b:                            576       272
+:bitmap/matt/09 - Marble/14b:                            608       240
+:bitmap/matt/09 - Marble/14b:                            640       208
+:bitmap/matt/09 - Marble/14b:                            672       176
+:bitmap/matt/09 - Marble/14b:                            704       144
+:bitmap/matt/09 - Marble/09b:                            544       336
+:bitmap/matt/09 - Marble/09b:                            608       336
+:bitmap/matt/09 - Marble/09b:                            672       336
+:bitmap/matt/09 - Marble/07b:                            608       272
+:bitmap/matt/09 - Marble/07b:                            624       288
+:bitmap/matt/09 - Marble/07b:                            640       240
+:bitmap/matt/09 - Marble/07b:                            672       208
+:bitmap/matt/09 - Marble/07b:                            672       256
+:bitmap/matt/09 - Marble/06b:                            704       176
+:bitmap/matt/09 - Marble/23e:                            688       224
+:bitmap/geoo/steel/32x64o.S:                             736       208
+:bitmap/geoo/steel/32x64o.S:                             736       144
+:bitmap/geoo/steel/32x64o.S:                             736       336
+:bitmap/geoo/steel/32x64o.S:                             736       272
+:bitmap/geoo/steel/32x64o.S:                             736        16
+:bitmap/geoo/steel/32x64o.S:                             736        80
+:bitmap/matt/09 - Marble/23e:                            608       288
+:bitmap/geoo/steel/32x64o.S:                             320       128
+:bitmap/matt/09 - Marble/04a:                            640       144
+:bitmap/geoo/steel/32x16o.S:                             432         0
+:bitmap/geoo/steel/32x64o.S:                             208       224
+:bitmap/geoo/steel/32x64o.S:                             208       280     d
+:bitmap/matt/09 - Marble/09a:                            224       336
+:bitmap/geoo/steel/32x64o.S:                             208       272     n

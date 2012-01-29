@@ -1,0 +1,265 @@
+$BUILT                                             2012-01-25 15:07:42
+$AUTHOR                                                        Michael
+$GERMAN                                                               
+$ENGLISH                                      The Adventure Playground
+
+#SIZE_X                                                            640
+#SIZE_Y                                                           1200
+#TORUS_X                                                             0
+#TORUS_Y                                                             0
+#START_X                                                             0
+#START_Y                                                             0
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                    0
+#BACKGROUND_BLUE                                                     0
+
+#SECONDS                                                             0
+#INITIAL                                                            25
+#REQUIRED                                                           10
+#SPAWN_INTERVAL                                                     32
+
+#WALKER                                                             -1
+#RUNNER                                                             -1
+#JUMPER                                                             -1
+#CLIMBER                                                            -1
+#FLOATER                                                            -1
+#BLOCKER                                                            -1
+#BATTER                                                             -1
+#BUILDER                                                            -1
+#PLATFORMER                                                         -1
+#BASHER                                                             -1
+#MINER                                                              -1
+#DIGGER                                                             -1
+
+:bitmap/geoo/construction/Hatch.H:                       400       224     r
+
+:bitmap/matt/07 - Underworld/Goal.G:                     320      1104
+
+:bitmap/matt/10tons.T:                                   400       576
+:bitmap/matt/10tons.T:                                   168       776
+
+:bitmap/simon/water.W:                                   272       464
+:bitmap/simon/water.W:                                   320       464
+:bitmap/simon/water.W:                                   368       464
+:bitmap/simon/water.W:                                   224       464
+:bitmap/geoo/sandstone/brazier.F:                        312       824
+:bitmap/geoo/sandstone/brazier.F:                        360       824
+:bitmap/geoo/sandstone/brazier.F:                        440       824
+:bitmap/geoo/sandstone/brazier.F:                        488       824
+:bitmap/geoo/sandstone/brazier.F:                         56      1080
+:bitmap/geoo/sandstone/brazier.F:                        104      1080
+:bitmap/geoo/sandstone/brazier.F:                        184       984
+:bitmap/geoo/sandstone/brazier.F:                        232       984
+:bitmap/matt/07 - Underworld/Lava.W:                      16      1152
+:bitmap/matt/07 - Underworld/Lava.W:                     -32      1152
+
+:bitmap/geoo/construction/wall/small_64x32:              256       256
+:bitmap/geoo/construction/wall/small_64x32:              320       256
+:bitmap/geoo/construction/pillar_base:                     0       240
+:bitmap/geoo/construction/pillar_32:                      16       208
+:bitmap/geoo/construction/pillar_32:                      16       176
+:bitmap/geoo/construction/pillar_32:                      16       144
+:bitmap/geoo/construction/pillar_32:                      16       112
+:bitmap/geoo/construction/pillar_32:                      16        80
+:bitmap/geoo/construction/pillar_32:                      16        48
+:bitmap/geoo/construction/pillar_base:                     0        32     f
+:bitmap/geoo/construction/pillar_base:                   576       240
+:bitmap/geoo/construction/pillar_32:                     592       208
+:bitmap/geoo/construction/pillar_32:                     592       176
+:bitmap/geoo/construction/pillar_32:                     592       144
+:bitmap/geoo/construction/pillar_32:                     592       112
+:bitmap/geoo/construction/pillar_32:                     592        80
+:bitmap/geoo/construction/pillar_32:                     592        48
+:bitmap/geoo/construction/pillar_base:                   576        32     f
+:bitmap/geoo/construction/fence_rust_64x64:              464       192
+:bitmap/geoo/construction/fence_rust_64x64:              528       192
+:bitmap/geoo/construction/fence_rust_64x64:              528       128
+:bitmap/geoo/construction/fence_rust_64x64:              464       128
+:bitmap/geoo/construction/concrete/032h:                   0         0
+:bitmap/geoo/construction/concrete/032h:                 576         0
+:bitmap/geoo/construction/concrete/032h:                 512         0
+:bitmap/geoo/construction/concrete/032h:                 448         0
+:bitmap/geoo/construction/concrete/032h:                 384         0
+:bitmap/geoo/construction/concrete/032h:                 320         0
+:bitmap/geoo/construction/concrete/032h:                 256         0
+:bitmap/geoo/construction/concrete/032h:                 192         0
+:bitmap/geoo/construction/concrete/032h:                 128         0
+:bitmap/geoo/construction/concrete/032h:                  64         0
+:bitmap/geoo/construction/fence_rust_64x64:              528        64
+:bitmap/geoo/construction/fence_rust_64x64:              464        64
+:bitmap/geoo/construction/fence_rust_64x64:              400        64
+:bitmap/geoo/construction/fence_rust_32x32:              432       128
+:bitmap/geoo/construction/fence_rust_32x32:              368        64
+:bitmap/geoo/steel/dark_64x32o.S:                        128       256
+:bitmap/geoo/steel/dark_64x32o.S:                        192       256
+:bitmap/geoo/steel/dark_64x32o.S:                        384       256
+:bitmap/geoo/steel/dark_64x32o.S:                        448       256
+:bitmap/geoo/construction/squarebrick_large:              64       224
+:bitmap/geoo/construction/squarebrick_large:             112       224
+:bitmap/geoo/construction/squarebrick_large:             176       224
+:bitmap/geoo/construction/squarebrick_large:             160       192
+:bitmap/geoo/construction/squarebrick_large:              80       192
+:bitmap/geoo/construction/squarebrick_large:             128       192
+:bitmap/geoo/construction/squarebrick_large:              64       160
+:bitmap/geoo/construction/squarebrick_large:             112       160
+:bitmap/geoo/construction/squarebrick_large:              48       128
+:bitmap/geoo/construction/squarebrick_small:             160       176
+:bitmap/geoo/construction/squarebrick_small:             128       144
+:bitmap/geoo/construction/squarebrick_small:              80       128
+:bitmap/geoo/construction/squarebrick_large:              96       112
+:bitmap/geoo/construction/squarebrick_large:              64        96
+:bitmap/geoo/construction/squarebrick_large:             144       144
+:bitmap/geoo/construction/squarebrick_large:             112        80
+:bitmap/geoo/construction/squarebrick_small:              80        80
+:bitmap/geoo/construction/squarebrick_large:              64        48
+:bitmap/geoo/construction/squarebrick_small:              48        64
+:bitmap/geoo/construction/squarebrick_small:              96        48
+:bitmap/geoo/construction/squarebrick_large:             128        48
+:bitmap/geoo/construction/squarebrick_large:             160        64
+:bitmap/geoo/construction/squarebrick_large:             176        96
+:bitmap/geoo/construction/squarebrick_small:             176        48
+:bitmap/geoo/construction/squarebrick_small:             160       112
+:bitmap/geoo/construction/squarebrick_small:             128        32
+:bitmap/geoo/construction/squarebrick_small:              64        32
+:bitmap/geoo/construction/squarebrick_large:             192        32
+:bitmap/geoo/construction/concrete/032hc:                256        32
+:bitmap/geoo/construction/concrete/032hd:                320        32
+:bitmap/geoo/construction/wall/small_64x32:              512       256
+:bitmap/geoo/construction/wall/small_64x32:              576       256
+:bitmap/geoo/construction/wall/small_64x32:                0       256
+:bitmap/geoo/construction/wall/small_64x32:               64       256
+:bitmap/geoo/sandstone/pillar_top_ext:                   160       288
+:bitmap/geoo/sandstone/pillar_32:                        176       336
+:bitmap/geoo/sandstone/pillar_top:                       176       304
+:bitmap/geoo/sandstone/pillar_32:                        176       368
+:bitmap/geoo/sandstone/pillar_32:                        176       400
+:bitmap/geoo/sandstone/pillar_bottom:                    176       432
+:bitmap/geoo/sandstone/pillar_bottom_ext:                160       464
+:bitmap/geoo/sandstone/pillar_top_ext:                   416       288
+:bitmap/geoo/sandstone/pillar_32:                        432       336
+:bitmap/geoo/sandstone/pillar_top:                       432       304
+:bitmap/geoo/sandstone/pillar_32:                        432       368
+:bitmap/geoo/sandstone/pillar_32:                        432       400
+:bitmap/geoo/sandstone/pillar_32:                        432       432
+:bitmap/geoo/sandstone/pillar_bottom:                    432       432
+:bitmap/geoo/sandstone/pillar_bottom_ext:                416       464
+:bitmap/matt/01 - Earth/03:                              368       528
+:bitmap/matt/01 - Earth/00:                              160       496
+:bitmap/matt/01 - Earth/10:                              224       512     f
+:bitmap/geoo/steel/dark_64x32o.S:                        384       512
+:bitmap/matt/01 - Earth/01:                              128       496
+:bitmap/geoo/steel/dark_64x32o.S:                        128       480
+:bitmap/geoo/steel/dark_64x32o.S:                        192       512
+:bitmap/matt/01 - Earth/00:                              448       480
+:bitmap/geoo/steel/dark_64x32o.S:                        448       480
+:bitmap/geoo/steel/dark_64x32o.S:                        256       512
+:bitmap/geoo/steel/dark_64x32o.S:                        320       512
+:bitmap/geoo/steel/dark_32x32o.S:                        416       480
+:bitmap/geoo/steel/dark_32x32o.S:                        192       480
+:bitmap/geoo/sandstone/slopes/64x32lt:                   256       336
+:bitmap/geoo/sandstone/slopes/64x32rt:                   320       336
+:bitmap/geoo/sandstone/slopes/64x32rb:                   320       368
+:bitmap/geoo/sandstone/slopes/64x32lb:                   256       368
+:bitmap/geoo/sandstone/pillar_top_ext:                   -32       304
+:bitmap/geoo/sandstone/64x32_blank:                        0       288
+:bitmap/geoo/sandstone/slopes/64x32lt:                    64       288
+:bitmap/geoo/sandstone/pillar_32:                        -16       352
+:bitmap/geoo/sandstone/pillar_top:                       -16       320
+:bitmap/geoo/sandstone/slopes/64x32lt:                     0       320
+:bitmap/geoo/sandstone/32x64:                            592       288
+:bitmap/geoo/sandstone/32x64:                            560       288
+:bitmap/geoo/sandstone/32x64:                            592       352
+:bitmap/geoo/sandstone/slopes/32x64rt:                   528       288
+:bitmap/geoo/sandstone/slopes/32x64rt:                   560       352
+:bitmap/matt/01 - Earth/00:                              576       480
+:bitmap/geoo/sandstone/64x32:                            560       480
+:bitmap/geoo/sandstone/pillar_32:                        -16       448
+:bitmap/geoo/sandstone/pillar_bottom:                    -16       448
+:bitmap/geoo/sandstone/pillar_bottom_ext:                -32       480
+:bitmap/matt/01 - Earth/04:                              -16       464
+:bitmap/geoo/sandstone/slopes/64x32rb:                     0       448
+:bitmap/geoo/sandstone/slopes/64x32rb:                    64       416
+:bitmap/geoo/sandstone/slopes/64x32lt:                    64       448
+:bitmap/geoo/sandstone/slopes/64x32lt:                     0       480
+:bitmap/geoo/steel/dark_16x32o.S:                        624       416
+:bitmap/geoo/steel/dark_16x32o.S:                        624       448
+:bitmap/geoo/steel/dark_16x32o.S:                        624       480
+:bitmap/geoo/steel/dark_16x32o.S:                        624       288
+:bitmap/geoo/steel/dark_16x32o.S:                        624       320
+:bitmap/geoo/steel/dark_16x32o.S:                        624       352
+:bitmap/geoo/steel/dark_16x32o.S:                        624       384
+:bitmap/geoo/sandstone/pillar_32:                        -16       384
+:bitmap/geoo/sandstone/pillar_32:                        -16       416
+:bitmap/matt/01 - Earth/27:                              144       544
+:bitmap/matt/01 - Earth/28:                              192       560
+:bitmap/matt/01 - Earth/29:                              216       568
+:bitmap/matt/01 - Earth/28:                              240       592
+:bitmap/matt/01 - Earth/29:                              264       608
+:bitmap/matt/01 - Earth/27:                              272       616
+:bitmap/matt/01 - Earth/26:                              272       616
+:bitmap/matt/01 - Earth/28:                              336       608
+:bitmap/matt/01 - Earth/29:                              360       600
+:bitmap/matt/01 - Earth/28:                              376       584
+:bitmap/matt/01 - Earth/27:                              448       552
+:bitmap/matt/01 - Earth/28:                              400       576
+:bitmap/matt/01 - Earth/29:                              432       568
+:bitmap/matt/01 - Earth/16:                              576       640     f
+:bitmap/matt/01 - Earth/10:                              480       576
+:bitmap/matt/01 - Earth/27:                              584       536
+:bitmap/matt/01 - Earth/09:                              536       568
+:bitmap/matt/01 - Earth/06:                              496       576
+:bitmap/matt/01 - Earth/29:                              608       544
+:bitmap/matt/01 - Earth/01:                              608       592
+:bitmap/matt/01 - Earth/09:                              584       584
+:bitmap/matt/01 - Earth/10:                              -56       584
+:bitmap/matt/01 - Earth/10:                              136       664
+:bitmap/matt/01 - Earth/16:                              360       616
+:bitmap/matt/01 - Earth/10:                              288       680
+:bitmap/matt/01 - Earth/09:                              192       656
+:bitmap/matt/01 - Earth/06:                              152       664
+:bitmap/matt/01 - Earth/08:                              288       680
+:bitmap/matt/01 - Earth/09:                              232       672
+:bitmap/matt/01 - Earth/06:                              328       664
+:bitmap/matt/01 - Earth/06:                              368       640
+:bitmap/matt/01 - Earth/16:                              576       880     f
+:bitmap/matt/01 - Earth/10:                              544       784
+:bitmap/matt/01 - Earth/10:                              576       736
+:bitmap/matt/01 - Earth/19:                               48       816
+:bitmap/matt/01 - Earth/04:                              -64       688
+:bitmap/matt/01 - Earth/18:                              -16       944
+:bitmap/matt/01 - Earth/17:                              -24       840     f
+:bitmap/matt/01 - Earth/10:                             -160       784
+:bitmap/matt/07 - Underworld/02:                         448       848
+:bitmap/matt/07 - Underworld/02:                         320       848
+:bitmap/matt/07 - Underworld/02:                         320       944
+:bitmap/matt/07 - Underworld/02:                         448       944
+:bitmap/matt/07 - Underworld/01:                         384      1008
+:bitmap/matt/07 - Underworld/01:                         512      1008
+:bitmap/matt/07 - Underworld/01:                         256      1008
+:bitmap/matt/07 - Underworld/01:                         192      1008
+:bitmap/matt/07 - Underworld/01:                         576      1008
+:bitmap/matt/07 - Underworld/02:                         192      1104
+:bitmap/matt/07 - Underworld/02:                          64      1104
+:bitmap/matt/07 - Underworld/02:                         576      1040
+:bitmap/matt/07 - Underworld/02:                         448      1104
+:bitmap/matt/07 - Underworld/02:                         576      1136
+:bitmap/matt/07 - Underworld/01:                         512      1168
+:bitmap/matt/07 - Underworld/01:                         256      1168
+:bitmap/matt/07 - Underworld/01:                         320      1168
+:bitmap/matt/07 - Underworld/01:                         384      1168
+:bitmap/matt/07 - Underworld/01:                         128      1168
+:bitmap/matt/07 - Underworld/09a:                        256      1048
+:bitmap/geoo/steel/dark_32x16o.S:                        256      1040
+:bitmap/matt/07 - Underworld/09a:                        312      1048
+:bitmap/geoo/steel/dark_32x16o.S:                        288      1040
+:bitmap/geoo/steel/dark_32x16o.S:                        320      1040
+:bitmap/matt/07 - Underworld/09a:                        368      1048
+:bitmap/geoo/steel/dark_32x16o.S:                        352      1040
+:bitmap/geoo/steel/dark_32x16o.S:                        384      1040
+:bitmap/geoo/steel/dark_32x16o.S:                        416      1040
+:bitmap/matt/07 - Underworld/01:                         448      1072
+:bitmap/geoo/steel/dark_64x32o.S:                        448      1040
+:bitmap/matt/07 - Underworld/01:                         192      1072
+:bitmap/geoo/steel/dark_64x32o.S:                        192      1040
+:bitmap/matt/07 - Underworld/09c:                        616       976
+:bitmap/matt/07 - Underworld/09c:                        592       944

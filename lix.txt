@@ -1,0 +1,90 @@
+$BUILT                                             2012-01-25 01:02:29
+$AUTHOR                                                        Michael
+$GERMAN                                                            LIX
+$ENGLISH                                                           LIX
+
+#SIZE_X                                                            640
+#SIZE_Y                                                            400
+#TORUS_X                                                             0
+#TORUS_Y                                                             0
+#START_X                                                             0
+#START_Y                                                             0
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                    0
+#BACKGROUND_BLUE                                                     0
+
+#SECONDS                                                           309
+#INITIAL                                                            59
+#REQUIRED                                                           35
+#SPAWN_INTERVAL                                                     59
+
+#CLIMBER                                                             5
+#FLOATER                                                             9
+#EXPLODER                                                            5
+#BLOCKER                                                             9
+#BUILDER                                                             5
+#BASHER                                                              9
+#MINER                                                               5
+#DIGGER                                                              9
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+
+:bitmap/geoo/construction/Hatch.H:                        96       240
+
+:bitmap/geoo/construction/Goal2.G:                       560        48
+
+:bitmap/geoo/construction/wall/big_brick1:               256       304
+:bitmap/geoo/construction/wall/small_64x32:               16       304     frrn
+:bitmap/geoo/construction/wall/small_64x32:               80       304     frrn
+:bitmap/geoo/construction/pillar_base:                    16       288
+:bitmap/geoo/construction/pillar_32:                      32       256
+:bitmap/geoo/construction/pillar_32:                      32       224
+:bitmap/geoo/construction/pillar_32:                      32       192
+:bitmap/geoo/construction/pillar_32:                      32       160
+:bitmap/geoo/construction/pillar_32:                      32       128
+:bitmap/geoo/construction/pillar_32:                      32        96
+:bitmap/geoo/construction/pillar_base:                    16        80     f
+:bitmap/geoo/construction/wall/small_64x32:              144       304
+:bitmap/geoo/construction/wall/big_square:               176       272
+:bitmap/geoo/construction/wall/big_diag_tu:              224       304
+:bitmap/geoo/construction/wall/big_diag_td:              320       304
+:bitmap/geoo/construction/pillar_base:                   240       288
+:bitmap/geoo/construction/pillar_32:                     256       256
+:bitmap/geoo/construction/pillar_32:                     256       224
+:bitmap/geoo/construction/pillar_32:                     256       192
+:bitmap/geoo/construction/pillar_32:                     256       160
+:bitmap/geoo/construction/pillar_32:                     256       128
+:bitmap/geoo/construction/pillar_base:                   240        80     f
+:bitmap/geoo/construction/pillar_base:                   272       288
+:bitmap/geoo/construction/pillar_32:                     288       256
+:bitmap/geoo/construction/pillar_32:                     288       224
+:bitmap/geoo/construction/pillar_32:                     288       192
+:bitmap/geoo/construction/pillar_32:                     288       160
+:bitmap/geoo/construction/pillar_32:                     288       128
+:bitmap/geoo/construction/pillar_base:                   272        80     f
+:bitmap/geoo/construction/wall/big_brickdiag_bd:         368       112
+:bitmap/geoo/construction/wall/big_brickdiag_bd:         400       144
+:bitmap/geoo/construction/wall/big_brickdiag_bd:         432       176
+:bitmap/geoo/construction/wall/big_brickdiag_bu:         560       112
+:bitmap/geoo/construction/wall/big_brickdiag_bu:         528       144
+:bitmap/geoo/construction/wall/big_brickdiag_bu:         496       176
+:bitmap/geoo/construction/wall/big_brickdiag_tu:         368       272
+:bitmap/geoo/construction/wall/big_brickdiag_tu:         400       240
+:bitmap/geoo/construction/wall/big_brickdiag_td:         560       272
+:bitmap/geoo/construction/wall/big_brickdiag_td:         528       240
+:bitmap/geoo/construction/wall/big_square:               368        80
+:bitmap/geoo/construction/wall/big_square:               368       304
+:bitmap/geoo/construction/wall/big_square:               592       304
+:bitmap/geoo/construction/wall/big_brickdiag_tu:         432       208
+:bitmap/geoo/construction/wall/big_brickdiag_td:         496       208
+:bitmap/geoo/construction/wall/big_square:               400        80
+:bitmap/geoo/construction/wall/big_square:               400       304
+:bitmap/geoo/construction/wall/big_square:               560       304
+:bitmap/geoo/construction/pillar_32:                     256        96
+:bitmap/geoo/construction/pillar_32:                     288        96
+:bitmap/geoo/construction/wall/big_diag_tu:              608       368
+:bitmap/geoo/construction/wall/big_diag_td:                0       368
+:bitmap/geoo/construction/wall/big_diag_bu:                0         0
+:bitmap/geoo/construction/wall/big_diag_bd:              608         0
