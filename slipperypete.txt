@@ -1,0 +1,139 @@
+$BUILT                                             2012-01-30 16:01:10
+$AUTHOR                                                 Thick Molasses
+$GERMAN                                                               
+$ENGLISH                                                 Slippery Pete
+
+#SIZE_X                                                           1488
+#SIZE_Y                                                            400
+#TORUS_X                                                             0
+#TORUS_Y                                                             0
+#START_X                                                           654
+#START_Y                                                           -20
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                    0
+#BACKGROUND_BLUE                                                     0
+
+#SECONDS                                                             0
+#INITIAL                                                            10
+#REQUIRED                                                            9
+#SPAWN_INTERVAL                                                     40
+
+#CLIMBER                                                             1
+#FLOATER                                                             5
+#NOTHING                                                             0
+#BUILDER                                                             4
+#BASHER                                                              1
+#MINER                                                               2
+#DIGGER                                                              3
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+
+:bitmap/simon/hatch001.H:                                914         4
+
+:bitmap/matt/08 - Bricks/Goal.G:                        1264       240
+
+:bitmap/geoo/construction/Laseremit_hzl_16.F:            690       216
+:bitmap/geoo/construction/Laser_hz_64.F:                 706       216
+:bitmap/geoo/construction/Laser_hz_64.F:                 770       216
+:bitmap/geoo/construction/Laser_hz_64.F:                 818       216
+:bitmap/geoo/construction/Laseremit_hzr_16.F:            866       216
+:bitmap/geoo/construction/Laser_hz_64.F:                 928       184
+:bitmap/geoo/construction/Laseremit_hzl_16.F:            912       184
+:bitmap/geoo/construction/Laseremit_hzr_16.F:           1056       184
+:bitmap/geoo/construction/Laser_hz_64.F:                 992       184
+:bitmap/geoo/construction/sawblade.F:                     74       186
+:bitmap/geoo/construction/sawblade.F:                   1312       144
+:bitmap/matt/07 - Underworld/Lava.W:                     624       144
+:bitmap/matt/07 - Underworld/Lava.W:                     576       144
+:bitmap/matt/07 - Underworld/Lava.W:                     528       144
+:bitmap/matt/07 - Underworld/Lava.W:                     480       144
+
+:bitmap/matt/08 - Bricks/03:                            1136       224
+:bitmap/matt/02 - Gold Mine/07:                          446       -76
+:bitmap/geoo/steel/64x32o.S:                             608       174
+:bitmap/geoo/steel/64x32o.S:                             480       174
+:bitmap/geoo/steel/64x32o.S:                             544       174
+:bitmap/matt/02 - Gold Mine/01:                          432       142
+:bitmap/matt/02 - Gold Mine/00:                          368       142
+:bitmap/matt/02 - Gold Mine/00:                          360       272
+:bitmap/matt/02 - Gold Mine/04:                          242       114
+:bitmap/matt/02 - Gold Mine/07:                          256       142
+:bitmap/matt/02 - Gold Mine/plank:                       832        56
+:bitmap/matt/08 - Bricks/03:                             160        98
+:bitmap/matt/08 - Bricks/03:                             224        98
+:bitmap/matt/08 - Bricks/03:                             288        98
+:bitmap/matt/08 - Bricks/03:                             352        98
+:bitmap/matt/08 - Bricks/03:                             160        34
+:bitmap/matt/08 - Bricks/03:                             224        34
+:bitmap/matt/08 - Bricks/03:                             288        34
+:bitmap/matt/08 - Bricks/03:                             352        34
+:bitmap/matt/08 - Bricks/01a:                            464       120
+:bitmap/matt/08 - Bricks/03:                             416        98
+:bitmap/matt/08 - Bricks/03:                             416        34
+:bitmap/matt/02 - Gold Mine/plank:                       960        56
+:bitmap/matt/02 - Gold Mine/plank:                       720        56
+:bitmap/matt/02 - Gold Mine/plank:                       896        56     rrr
+:bitmap/matt/08 - Bricks/03:                            1136        24
+:bitmap/matt/08 - Bricks/03:                            1120        72
+:bitmap/matt/08 - Bricks/03:                            1136       160
+:bitmap/matt/08 - Bricks/03a:                           1136       288
+:bitmap/matt/08 - Bricks/03a:                           1120       336
+:bitmap/matt/08 - Bricks/03a:                           1200       288
+:bitmap/matt/08 - Bricks/03a:                           1184       336
+:bitmap/matt/08 - Bricks/03a:                           1264       288
+:bitmap/matt/08 - Bricks/03a:                           1248       336
+:bitmap/matt/02 - Gold Mine/plank:                       768       368
+:bitmap/matt/02 - Gold Mine/plank:                       896       368
+:bitmap/matt/08 - Bricks/17:                            1008       336
+:bitmap/matt/02 - Gold Mine/plank:                       640       362
+:bitmap/matt/02 - Gold Mine/plank:                       896       136     rrr
+:bitmap/matt/08 - Bricks/03:                            1152        72
+:bitmap/geoo/steel/64x64o.S:                            1376       192
+:bitmap/geoo/steel/64x64o.S:                               0        64
+:bitmap/geoo/steel/64x64o.S:                               0         0
+:bitmap/matt/02 - Gold Mine/00:                          238       208
+:bitmap/matt/02 - Gold Mine/07:                          272       224
+:bitmap/matt/02 - Gold Mine/07:                          368       222
+:bitmap/matt/02 - Gold Mine/00:                          534       270
+:bitmap/matt/02 - Gold Mine/00:                          528       222
+:bitmap/matt/02 - Gold Mine/07:                          352       160
+:bitmap/matt/02 - Gold Mine/07:                          400       286     rr
+:bitmap/geoo/steel/64x64o.S:                             160       272
+:bitmap/geoo/steel/64x64o.S:                             160       336
+:bitmap/geoo/steel/64x64o.S:                               0       128
+:bitmap/geoo/steel/64x64o.S:                            1264        64
+:bitmap/matt/08 - Bricks/03:                              96        98
+:bitmap/matt/08 - Bricks/03:                              96        34
+:bitmap/matt/08 - Bricks/01a:                            496       120
+:bitmap/matt/08 - Bricks/01a:                            528       120
+:bitmap/matt/08 - Bricks/01a:                            560       120
+:bitmap/matt/08 - Bricks/01a:                            592       120
+:bitmap/matt/08 - Bricks/01a:                            624       120
+:bitmap/matt/08 - Bricks/01a:                            656       120
+:bitmap/matt/08 - Bricks/01a:                            688       120
+:bitmap/geoo/steel/32x64o.S:                             672       142
+:bitmap/matt/08 - Bricks/03a:                           1296       288
+:bitmap/matt/08 - Bricks/03a:                           1280       336
+:bitmap/matt/08 - Bricks/03a:                           1344       288     d
+:bitmap/geoo/steel/64x64o.S:                            1376       256
+:bitmap/matt/08 - Bricks/03:                            1168       224
+:bitmap/matt/08 - Bricks/03:                            1168       160
+:bitmap/geoo/steel/32x64o.S:                            1136       136
+:bitmap/geoo/steel/64x64o.S:                            1168       136
+:bitmap/matt/08 - Bricks/03:                            1136       -40
+:bitmap/geoo/steel/32x64o.S:                            1136        16
+:bitmap/matt/08 - Bricks/03a:                            992       376     d
+:bitmap/matt/08 - Bricks/03a:                           1136       288
+:bitmap/geoo/steel/64x64o.S:                            1232       304
+:bitmap/matt/08 - Bricks/03:                             160       -30
+:bitmap/matt/08 - Bricks/03:                             224       -30
+:bitmap/matt/08 - Bricks/03:                             288       -30
+:bitmap/matt/08 - Bricks/03:                             352       -30
+:bitmap/matt/08 - Bricks/03:                             416       -30
+:bitmap/matt/08 - Bricks/03:                              96       -30
+:bitmap/geoo/steel/64x64o.S:                            1072       336
+:bitmap/matt/08 - Bricks/03a:                           1136       -48     d
+:bitmap/matt/08 - Bricks/03a:                           1072        72     d

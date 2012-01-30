@@ -1,4 +1,4 @@
-$BUILT                                             2012-01-28 22:33:38
+$BUILT                                             2012-01-29 17:37:55
 $AUTHOR                                                 Thick Molasses
 $GERMAN                                                               
 $ENGLISH                                     The Transmigration of Lix
@@ -13,7 +13,7 @@ $ENGLISH                                     The Transmigration of Lix
 #BACKGROUND_GREEN                                                    0
 #BACKGROUND_BLUE                                                     0
 
-#SECONDS                                                           270
+#SECONDS                                                             0
 #INITIAL                                                            10
 #REQUIRED                                                           10
 #SPAWN_INTERVAL                                                     30

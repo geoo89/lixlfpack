@@ -1,4 +1,4 @@
-$BUILT                                             2012-01-16 21:46:25
+$BUILT                                             2012-01-30 14:43:30
 $AUTHOR                                                           geoo
 $GERMAN                                                               
 $ENGLISH                                                Alien Invasion
@@ -16,7 +16,7 @@ $ENGLISH                                                Alien Invasion
 #SECONDS                                                             0
 #INITIAL                                                           120
 #REQUIRED                                                          118
-#SPAWN_INTERVAL                                                      7
+#SPAWN_INTERVAL                                                      3
 
 #NOTHING                                                             0
 #NOTHING                                                             0
@@ -31,9 +31,10 @@ $ENGLISH                                                Alien Invasion
 #NOTHING                                                             0
 #NOTHING                                                             0
 
-:bitmap/geoo/construction/Hatch.H:                       112       128
-:bitmap/geoo/construction/Hatch.H:                       176       128
-:bitmap/geoo/construction/Hatch.H:                       240       128
+:bitmap/geoo/construction/Hatch.H:                       272       128     r
+:bitmap/geoo/construction/Hatch.H:                        80       128
+:bitmap/geoo/construction/Hatch.H:                       208       128
+:bitmap/geoo/construction/Hatch.H:                       144       128     r
 
 :bitmap/matt/01 - Earth/Goal.G:                          496       188
 
