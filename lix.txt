@@ -1,4 +1,4 @@
-$BUILT                                             2012-01-29 17:37:44
+$BUILT                                             2012-02-05 01:56:12
 $AUTHOR                                                        Michael
 $GERMAN                                                            LIX
 $ENGLISH                                                           LIX
@@ -13,7 +13,7 @@ $ENGLISH                                                           LIX
 #BACKGROUND_GREEN                                                    0
 #BACKGROUND_BLUE                                                     0
 
-#SECONDS                                                             0
+#SECONDS                                                           309
 #INITIAL                                                            59
 #REQUIRED                                                           35
 #SPAWN_INTERVAL                                                     59
