@@ -1,5 +1,5 @@
-$BUILT                                             2012-01-29 17:37:55
-$AUTHOR                                                 Thick Molasses
+$BUILT                                             2012-02-01 14:45:47
+$AUTHOR                                                             TM
 $GERMAN                                                               
 $ENGLISH                                     The Transmigration of Lix
 

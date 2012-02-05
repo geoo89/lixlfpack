@@ -1,0 +1,114 @@
+$BUILT                                             2012-01-31 21:47:41
+$AUTHOR                                                   Insane Steve
+$GERMAN                                                               
+$ENGLISH                                       A Matter of Perspective
+
+#SIZE_X                                                            800
+#SIZE_Y                                                            400
+#TORUS_X                                                             0
+#TORUS_Y                                                             0
+#START_X                                                             0
+#START_Y                                                           -20
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                    0
+#BACKGROUND_BLUE                                                     0
+
+#SECONDS                                                             0
+#INITIAL                                                           100
+#REQUIRED                                                          100
+#SPAWN_INTERVAL                                                     29
+
+#WALKER                                                              0
+#JUMPER                                                              0
+#CLIMBER                                                             5
+#FLOATER                                                            10
+#EXPLODER2                                                           1
+#BLOCKER                                                             0
+#RUNNER                                                              1
+#BUILDER                                                             1
+#PLATFORMER                                                          1
+#BASHER                                                              0
+#MINER                                                               2
+#DIGGER                                                              0
+
+:bitmap/matt/08 - Bricks/Hatch.H:                        416        72
+:bitmap/matt/08 - Bricks/Hatch.H:                        112        48
+
+:bitmap/matt/09 - Marble/Goal.G:                         576        64
+
+:bitmap/matt/08 - Bricks/02:                             480       144
+:bitmap/matt/08 - Bricks/02:                             576       112
+:bitmap/matt/08 - Bricks/02:                             416       144
+:bitmap/matt/08 - Bricks/02:                             576       144
+:bitmap/matt/08 - Bricks/02:                             576       176
+:bitmap/matt/08 - Bricks/02:                             576       208
+:bitmap/matt/08 - Bricks/02:                             576       240
+:bitmap/matt/08 - Bricks/02:                             576       272
+:bitmap/matt/08 - Bricks/02:                             576       368
+:bitmap/matt/08 - Bricks/02:                             512       368
+:bitmap/matt/08 - Bricks/02:                             448       368
+:bitmap/matt/08 - Bricks/02:                             384       368
+:bitmap/matt/08 - Bricks/02:                             320       368
+:bitmap/matt/08 - Bricks/02:                             352       144
+:bitmap/matt/08 - Bricks/02:                             256       368
+:bitmap/matt/08 - Bricks/02:                             160       144
+:bitmap/matt/08 - Bricks/02:                             224       144
+:bitmap/matt/08 - Bricks/02:                             288       144
+:bitmap/matt/08 - Bricks/02:                             192       368
+:bitmap/matt/08 - Bricks/02:                             128       368
+:bitmap/matt/08 - Bricks/19:                             304       128
+:bitmap/matt/08 - Bricks/18:                             312        96
+:bitmap/matt/08 - Bricks/18:                             312        64
+:bitmap/matt/08 - Bricks/18:                             312        32
+:bitmap/matt/08 - Bricks/18:                             312         0
+:bitmap/matt/08 - Bricks/02:                              64       368
+:bitmap/matt/08 - Bricks/02:                              64       336
+:bitmap/matt/08 - Bricks/02:                              64       304
+:bitmap/matt/08 - Bricks/02:                              64       272
+:bitmap/matt/08 - Bricks/02:                              64       240
+:bitmap/matt/08 - Bricks/02:                              64       208
+:bitmap/matt/08 - Bricks/02:                              64       176
+:bitmap/matt/08 - Bricks/02:                              64       144
+:bitmap/matt/08 - Bricks/02:                              64       112
+:bitmap/matt/08 - Bricks/02:                             640       368
+:bitmap/matt/08 - Bricks/02:                             704       368
+:bitmap/matt/08 - Bricks/02:                             704       336
+:bitmap/matt/08 - Bricks/02:                             704       304
+:bitmap/matt/08 - Bricks/02:                             704       272
+:bitmap/matt/08 - Bricks/02:                             704       240
+:bitmap/matt/08 - Bricks/02:                             704       208
+:bitmap/matt/08 - Bricks/02:                             704       176
+:bitmap/matt/08 - Bricks/02:                             704       144
+:bitmap/matt/08 - Bricks/02:                             704       112
+:bitmap/matt/08 - Bricks/02:                             704        80
+:bitmap/matt/08 - Bricks/02:                             160       192
+:bitmap/matt/08 - Bricks/02:                             224       192
+:bitmap/matt/08 - Bricks/02:                             288       192
+:bitmap/matt/08 - Bricks/02:                             352       192
+:bitmap/matt/08 - Bricks/02:                             416       192
+:bitmap/matt/08 - Bricks/02:                             480       192
+:bitmap/matt/08 - Bricks/02:                             576       304
+:bitmap/matt/08 - Bricks/04:                             640       112
+:bitmap/matt/08 - Bricks/04:                             640       240
+:bitmap/matt/08 - Bricks/07:                             640       176
+:bitmap/matt/08 - Bricks/07:                             640       304
+:bitmap/geoo/abstract/cvblocks/000:                      376       280
+:bitmap/matt/08 - Bricks/02:                               0       112
+:bitmap/matt/08 - Bricks/02:                               0       336
+:bitmap/matt/08 - Bricks/02:                               0       304
+:bitmap/matt/08 - Bricks/02:                               0       272
+:bitmap/matt/08 - Bricks/02:                               0       240
+:bitmap/matt/08 - Bricks/02:                               0       208
+:bitmap/matt/08 - Bricks/02:                               0       176
+:bitmap/matt/08 - Bricks/02:                               0       144
+:bitmap/matt/08 - Bricks/02:                               0       368
+:bitmap/matt/08 - Bricks/02:                             768        80
+:bitmap/matt/08 - Bricks/02:                             768       112
+:bitmap/matt/08 - Bricks/02:                             768       144
+:bitmap/matt/08 - Bricks/02:                             768       176
+:bitmap/matt/08 - Bricks/02:                             768       208
+:bitmap/matt/08 - Bricks/02:                             768       240
+:bitmap/matt/08 - Bricks/02:                             768       272
+:bitmap/matt/08 - Bricks/02:                             768       304
+:bitmap/matt/08 - Bricks/02:                             768       336
+:bitmap/matt/08 - Bricks/02:                             768       368

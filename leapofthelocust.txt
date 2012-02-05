@@ -1,0 +1,129 @@
+$BUILT                                             2012-02-05 01:10:15
+$AUTHOR                                                             TM
+$GERMAN                                                               
+$ENGLISH                                            Leap Of The Locust
+
+#SIZE_X                                                            880
+#SIZE_Y                                                            400
+#TORUS_X                                                             0
+#TORUS_Y                                                             0
+#START_X                                                           240
+#START_Y                                                           -20
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                    0
+#BACKGROUND_BLUE                                                     0
+
+#SECONDS                                                             0
+#INITIAL                                                            20
+#REQUIRED                                                           20
+#SPAWN_INTERVAL                                                     35
+
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#JUMPER                                                             20
+#BASHER                                                              1
+#BUILDER                                                             1
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+
+:bitmap/geoo/sandstone/Hatch.H:                          528       224     r
+
+:bitmap/geoo/sandstone/Goal.G:                            80       256
+
+:bitmap/simon/water.W:                                   640       352
+
+:bitmap/geoo/sandstone/64x32:                             64       336
+:bitmap/geoo/sandstone/64x32:                            192       336
+:bitmap/geoo/sandstone/64x32:                              0       304
+:bitmap/geoo/sandstone/64x32:                            128       336
+:bitmap/geoo/sandstone/64x32:                              0       336
+:bitmap/geoo/sandstone/64x32:                              0       368
+:bitmap/geoo/sandstone/64x32:                             64       368
+:bitmap/geoo/sandstone/64x32:                            128       368
+:bitmap/geoo/sandstone/64x32:                            256       336
+:bitmap/geoo/sandstone/64x32:                            320       336
+:bitmap/geoo/sandstone/64x32:                            192       368
+:bitmap/geoo/sandstone/64x32:                            256       368
+:bitmap/geoo/sandstone/64x32:                            320       368
+:bitmap/geoo/sandstone/64x32:                            384       336
+:bitmap/geoo/sandstone/64x32:                            448       336
+:bitmap/geoo/sandstone/64x32:                            512       336
+:bitmap/geoo/sandstone/64x32:                            384       368
+:bitmap/geoo/sandstone/64x32:                            448       368
+:bitmap/geoo/sandstone/64x32:                            512       368
+:bitmap/geoo/sandstone/64x32:                            320       272
+:bitmap/geoo/sandstone/64x32:                            320       304
+:bitmap/geoo/sandstone/64x32:                            256       272
+:bitmap/geoo/sandstone/64x32:                            320       208
+:bitmap/geoo/sandstone/64x32:                            256       304
+:bitmap/geoo/sandstone/64x32:                            320       240
+:bitmap/geoo/sandstone/64x32:                            256       208
+:bitmap/geoo/sandstone/64x32:                            256       240
+:bitmap/geoo/sandstone/64x32:                            576       336
+:bitmap/geoo/sandstone/64x32:                            688       336
+:bitmap/geoo/sandstone/64x32:                            576       368
+:bitmap/geoo/sandstone/64x32:                            688       368
+:bitmap/geoo/sandstone/64x32:                            816       336
+:bitmap/geoo/sandstone/64x32:                            816       368
+:bitmap/geoo/sandstone/64x32:                            576         0
+:bitmap/geoo/sandstone/64x32:                            448         0
+:bitmap/geoo/sandstone/64x32:                            512         0
+:bitmap/geoo/sandstone/pillar_bottom_ext:                816       320
+:bitmap/geoo/sandstone/64x32:                            768         0
+:bitmap/geoo/sandstone/64x32:                            640         0
+:bitmap/geoo/sandstone/64x32:                            704         0
+:bitmap/geoo/sandstone/pillar_bottom:                    832       288
+:bitmap/geoo/sandstone/pillar_top:                       832       256
+:bitmap/geoo/sandstone/pillar_bottom:                    832       224
+:bitmap/geoo/sandstone/pillar_top:                       832       192
+:bitmap/geoo/sandstone/pillar_bottom:                    832       160
+:bitmap/geoo/sandstone/pillar_top:                       832       128
+:bitmap/geoo/sandstone/pillar_bottom:                    832        96
+:bitmap/geoo/sandstone/pillar_top:                       832        64
+:bitmap/geoo/sandstone/pillar_top_ext:                   816        32
+:bitmap/geoo/sandstone/pillar_top:                       832        48
+:bitmap/geoo/sandstone/64x32:                            192         0
+:bitmap/geoo/sandstone/64x32:                             64         0
+:bitmap/geoo/sandstone/64x32:                            128         0
+:bitmap/geoo/sandstone/64x32:                            384         0
+:bitmap/geoo/sandstone/64x32:                            256         0
+:bitmap/geoo/sandstone/64x32:                            320         0
+:bitmap/geoo/sandstone/pillar_bottom_ext:                  0       288
+:bitmap/geoo/sandstone/pillar_bottom:                     16       256
+:bitmap/geoo/sandstone/pillar_top:                        16       224
+:bitmap/geoo/sandstone/pillar_bottom:                     16       192
+:bitmap/geoo/sandstone/pillar_top:                        16       160
+:bitmap/geoo/sandstone/pillar_bottom:                     16       128
+:bitmap/geoo/sandstone/pillar_top:                        16        96
+:bitmap/geoo/sandstone/pillar_top_ext:                     0        32
+:bitmap/geoo/sandstone/64x32:                              0         0
+:bitmap/geoo/sandstone/pillar_top:                        16        48
+:bitmap/geoo/sandstone/64x32:                            448       272
+:bitmap/geoo/sandstone/64x32:                            448       304
+:bitmap/geoo/sandstone/64x32:                            384       272
+:bitmap/geoo/sandstone/64x32:                            448       208
+:bitmap/geoo/sandstone/64x32:                            384       304
+:bitmap/geoo/sandstone/64x32:                            448       240
+:bitmap/geoo/sandstone/64x32:                            384       208
+:bitmap/geoo/sandstone/64x32:                            384       240
+:bitmap/geoo/sandstone/64x32:                            752       336
+:bitmap/geoo/sandstone/64x32:                            752       368
+:bitmap/geoo/sandstone/64x32:                            864         0
+:bitmap/geoo/sandstone/64x32_blank:                      640        32
+:bitmap/geoo/sandstone/64x32_blank:                      640        64
+:bitmap/geoo/sandstone/64x32_blank:                      640        96
+:bitmap/geoo/sandstone/32x64:                            432        32
+:bitmap/geoo/sandstone/32x32:                            336        32
+:bitmap/geoo/sandstone/32x64:                            160        32
+:bitmap/geoo/sandstone/32x64:                            160        96
+:bitmap/geoo/sandstone/slopes/64x32rt:                   576        32
+:bitmap/geoo/sandstone/pillar_bottom:                     16        64
+:bitmap/geoo/sandstone/64x16:                             64       320
+:bitmap/geoo/sandstone/64x16:                            128       320
+:bitmap/geoo/sandstone/64x16:                            192       320
+:bitmap/geoo/sandstone/32x32:                            832         0

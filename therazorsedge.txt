@@ -1,0 +1,54 @@
+$BUILT                                             2012-01-31 16:41:25
+$AUTHOR                                                   Insane Steve
+$GERMAN                                                               
+$ENGLISH                                              The Razor's Edge
+
+#SIZE_X                                                            640
+#SIZE_Y                                                            400
+#TORUS_X                                                             0
+#TORUS_Y                                                             0
+#START_X                                                             0
+#START_Y                                                             0
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                    0
+#BACKGROUND_BLUE                                                     0
+
+#SECONDS                                                             0
+#INITIAL                                                            50
+#REQUIRED                                                           49
+#SPAWN_INTERVAL                                                     20
+
+#CLIMBER                                                             1
+#FLOATER                                                             1
+#EXPLODER                                                            1
+#BLOCKER                                                             1
+#BUILDER                                                             5
+#BASHER                                                              1
+#MINER                                                               0
+#DIGGER                                                              0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+
+:bitmap/geoo/abstract/hatch.H:                           168       192
+
+:bitmap/geoo/abstract/goal.G:                            432       128
+
+:bitmap/geoo/abstract/pipes/central0:                    208       240     rrr
+:bitmap/geoo/abstract/pipes/central0:                    208       208     rrr
+:bitmap/geoo/abstract/pipes/central0:                    208       176     rrr
+:bitmap/geoo/abstract/pipes/central0:                    208       144     rrr
+:bitmap/geoo/abstract/pipes/central0:                    208       112     rrr
+:bitmap/geoo/steel/64x64.S:                              152       272
+:bitmap/geoo/abstract/pipes/central0:                    206       240     rrrd
+:bitmap/geoo/abstract/pipes/central0:                    206       208     rrrd
+:bitmap/geoo/abstract/pipes/central0:                    206       176     rrrd
+:bitmap/geoo/abstract/pipes/central0:                    206       144     rrrd
+:bitmap/geoo/abstract/pipes/central0:                    206       112     rrrd
+:bitmap/geoo/abstract/pipes/central0:                    208        80     rrr
+:bitmap/geoo/abstract/pipes/central0:                    206        80     rrrd
+:bitmap/geoo/abstract/cvblocks/030:                      384       176
+:bitmap/geoo/abstract/cvblocks/030:                      416       176
+:bitmap/geoo/abstract/cvblocks/030:                      448       176
+:bitmap/geoo/abstract/cvblocks/030:                      480       176

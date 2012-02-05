@@ -1,0 +1,92 @@
+$BUILT                                             2012-01-31 23:53:07
+$AUTHOR                                                           geoo
+$GERMAN                                                               
+$ENGLISH                                 Buy one get one free (Part 1)
+
+#SIZE_X                                                            640
+#SIZE_Y                                                            400
+#TORUS_X                                                             0
+#TORUS_Y                                                             0
+#START_X                                                             0
+#START_Y                                                             0
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                    0
+#BACKGROUND_BLUE                                                     0
+
+#SECONDS                                                             0
+#INITIAL                                                            40
+#REQUIRED                                                           38
+#SPAWN_INTERVAL                                                      4
+
+#NOTHING                                                             0
+#NOTHING                                                             0
+#CLIMBER                                                             1
+#JUMPER                                                              1
+#EXPLODER                                                            1
+#PLATFORMER                                                          1
+#BUILDER                                                             1
+#CUBER                                                               1
+#MINER                                                               1
+#NOTHING                                                             0
+#BLOCKER                                                             1
+#NOTHING                                                             0
+
+:bitmap/geoo/abstract/hatch.H:                           144       208
+:bitmap/geoo/abstract/hatch.H:                           224        80
+
+:bitmap/geoo/abstract/goal.G:                             48       104
+:bitmap/geoo/abstract/goal.G:                            560       104
+:bitmap/geoo/abstract/goal.G:                            304       104
+
+:bitmap/matt/03 - Carnival/25:                           224       224
+:bitmap/matt/03 - Carnival/25:                           288       224
+:bitmap/matt/03 - Carnival/25:                           224       160
+:bitmap/matt/03 - Carnival/25:                           288       160
+:bitmap/geoo/abstract/pipes/central5:                    160       288
+:bitmap/geoo/abstract/pipes/central5:                    192       288
+:bitmap/geoo/abstract/pipes/central5:                    224       288
+:bitmap/geoo/abstract/pipes/central5:                    256       288
+:bitmap/geoo/abstract/pipes/central5:                    352       288
+:bitmap/geoo/abstract/pipes/central5:                    384       288
+:bitmap/geoo/abstract/pipes/central5:                     32       288
+:bitmap/geoo/abstract/pipes/central5:                     64       288
+:bitmap/geoo/abstract/pipes/ends5:                       408       288     rr
+:bitmap/geoo/abstract/pipes/ends5:                        32       288
+:bitmap/geoo/abstract/pipes/central5:                    512       288
+:bitmap/geoo/abstract/pipes/central5:                    544       288
+:bitmap/geoo/abstract/pipes/central5:                    576       288
+:bitmap/geoo/abstract/pipes/central5:                    480       288
+:bitmap/geoo/abstract/pipes/ends5:                       480       288
+:bitmap/geoo/abstract/pipes/ends5:                       600       288     rr
+:bitmap/matt/03 - Carnival/25:                           480       224
+:bitmap/matt/03 - Carnival/25:                           544       224
+:bitmap/matt/03 - Carnival/25:                           480       160
+:bitmap/matt/03 - Carnival/25:                           544       160
+:bitmap/matt/03 - Carnival/25:                            32       224
+:bitmap/geoo/abstract/pipes/central5:                     96       288
+:bitmap/geoo/abstract/pipes/central5:                    128       288
+:bitmap/geoo/abstract/pipes/central5:                    288       288
+:bitmap/geoo/abstract/pipes/central5:                    320       288
+:bitmap/matt/03 - Carnival/25:                           352       160
+:bitmap/matt/03 - Carnival/25:                           352       224
+:bitmap/geoo/abstract/pipes/central5:                    352       152
+:bitmap/geoo/abstract/pipes/central5:                    384       152
+:bitmap/geoo/abstract/pipes/central5:                    416       152
+:bitmap/geoo/abstract/pipes/central5:                    448       152
+:bitmap/geoo/abstract/pipes/central5:                    544       152
+:bitmap/geoo/abstract/pipes/central5:                    576       152
+:bitmap/geoo/abstract/pipes/central5:                    224       152
+:bitmap/geoo/abstract/pipes/central5:                    256       152
+:bitmap/geoo/abstract/pipes/ends5:                       600       152     rr
+:bitmap/geoo/abstract/pipes/central5:                    288       152
+:bitmap/geoo/abstract/pipes/central5:                    320       152
+:bitmap/geoo/abstract/pipes/central5:                    480       152
+:bitmap/geoo/abstract/pipes/central5:                    512       152
+:bitmap/geoo/abstract/pipes/central5:                     64       152
+:bitmap/geoo/abstract/pipes/central5:                     96       152
+:bitmap/geoo/abstract/pipes/central5:                    128       152
+:bitmap/geoo/abstract/pipes/central5:                     32       152
+:bitmap/geoo/abstract/pipes/ends5:                        32       152
+:bitmap/matt/03 - Carnival/25:                            32       160
+:bitmap/geoo/abstract/pipes/central5:                    160       152
+:bitmap/geoo/abstract/pipes/central5:                    192       152

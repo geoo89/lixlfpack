@@ -1,5 +1,5 @@
-$BUILT                                             2012-01-30 16:01:10
-$AUTHOR                                                 Thick Molasses
+$BUILT                                             2012-02-01 14:45:19
+$AUTHOR                                                             TM
 $GERMAN                                                               
 $ENGLISH                                                 Slippery Pete
 

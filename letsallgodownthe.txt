@@ -1,7 +1,7 @@
-$BUILT                                             2012-02-01 16:49:36
-$AUTHOR                                                   Insane Steve
+$BUILT                                             2012-02-05 00:33:11
+$AUTHOR                                                   I.S./Michael
 $GERMAN                                                               
-$ENGLISH                                                      Get Hype
+$ENGLISH                                  Let's all go down the Strand
 
 #SIZE_X                                                            768
 #SIZE_Y                                                            400
@@ -15,21 +15,21 @@ $ENGLISH                                                      Get Hype
 
 #SECONDS                                                             0
 #INITIAL                                                            13
-#REQUIRED                                                           12
-#SPAWN_INTERVAL                                                      4
+#REQUIRED                                                            6
+#SPAWN_INTERVAL                                                     24
 
-#WALKER                                                              0
-#JUMPER                                                              0
-#CLIMBER                                                             1
-#FLOATER                                                             1
-#EXPLODER2                                                           1
-#BLOCKER                                                             0
+#WALKER                                                              3
+#JUMPER                                                              3
+#CLIMBER                                                             3
+#FLOATER                                                             3
 #NOTHING                                                             0
-#BUILDER                                                             2
-#PLATFORMER                                                          2
-#BASHER                                                              2
-#MINER                                                               2
-#DIGGER                                                              1
+#NOTHING                                                             0
+#NOTHING                                                             0
+#BUILDER                                                            10
+#PLATFORMER                                                         10
+#BASHER                                                              3
+#MINER                                                               3
+#DIGGER                                                              3
 
 :bitmap/simon/hatch001.H:                                448        16
 

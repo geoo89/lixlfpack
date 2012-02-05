@@ -1,0 +1,117 @@
+$BUILT                                             2012-02-03 09:38:14
+$AUTHOR                                                     Nortaneous
+$GERMAN                                                               
+$ENGLISH                                       Another Lix in the Wall
+
+#SIZE_X                                                            640
+#SIZE_Y                                                            400
+#TORUS_X                                                             0
+#TORUS_Y                                                             0
+#START_X                                                           -32
+#START_Y                                                           -20
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                    0
+#BACKGROUND_BLUE                                                     0
+
+#SECONDS                                                             0
+#INITIAL                                                             8
+#REQUIRED                                                            5
+#SPAWN_INTERVAL                                                     10
+
+#CLIMBER                                                             6
+#EXPLODER2                                                           1
+#CUBER                                                               3
+#BATTER                                                              1
+#BUILDER                                                             1
+#PLATFORMER                                                          1
+#DIGGER                                                              1
+#WALKER                                                              1
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+
+:bitmap/geoo/construction/Hatch.H:                       208       160
+:bitmap/geoo/construction/Hatch.H:                       112       272
+:bitmap/geoo/construction/Hatch.H:                       208       272
+:bitmap/geoo/construction/Hatch.H:                       304       272
+
+:bitmap/geoo/construction/Goal2.G:                       400       152
+
+:bitmap/geoo/construction/wall/small_64x32:              288       216
+:bitmap/geoo/construction/wall/small_64x32:              224       216
+:bitmap/geoo/construction/wall/small_64x32:               96       216
+:bitmap/geoo/construction/wall/small_64x32:              480       216
+:bitmap/geoo/construction/wall/small_64x32:              416       216
+:bitmap/geoo/construction/wall/small_64x32:              352       216
+:bitmap/geoo/construction/wall/small_64x32:               96       360
+:bitmap/geoo/construction/wall/small_64x32:              288       360
+:bitmap/geoo/construction/wall/small_64x32:              224       360
+:bitmap/geoo/construction/wall/small_64x32:              160       360
+:bitmap/geoo/construction/wall/small_64x32:              416       360
+:bitmap/geoo/construction/wall/small_64x32:              352       360
+:bitmap/geoo/construction/wall/small_64x32:              480       360
+:bitmap/geoo/construction/pillar_32:                     544       336
+:bitmap/geoo/construction/pillar_32:                     544       224
+:bitmap/geoo/construction/pillar_top:                    544       208
+:bitmap/geoo/construction/wall/small_64x32:              160       216
+:bitmap/geoo/construction/pillar_bottom:                 544       288
+:bitmap/geoo/construction/pillar_32:                     544       256
+:bitmap/geoo/construction/pillar_top:                    544       320
+:bitmap/geoo/construction/pillar_32:                     544       368
+:bitmap/geoo/construction/pillar_32:                      64       336
+:bitmap/geoo/construction/pillar_32:                      64       224
+:bitmap/geoo/construction/pillar_top:                     64       208
+:bitmap/geoo/construction/pillar_bottom:                  64       288
+:bitmap/geoo/construction/pillar_32:                      64       256
+:bitmap/geoo/construction/pillar_top:                     64       320
+:bitmap/geoo/construction/pillar_32:                      64       368
+:bitmap/geoo/construction/wall/big_diag_bd:               32       240
+:bitmap/geoo/construction/wall/big_diag_tu:                0       368
+:bitmap/geoo/construction/wall/big_diag_td:              576       336
+:bitmap/geoo/construction/wall/big_diag_bu:              576       240
+:bitmap/geoo/construction/wall/big_diag_bu:              608       208
+:bitmap/geoo/construction/wall/big_diag_bd:                0       208
+:bitmap/geoo/construction/wall/big_diag_tu:               32       336
+:bitmap/geoo/construction/wall/big_diag_td:              608       368
+:bitmap/geoo/construction/wall/big_diag_bd:              256        64
+:bitmap/geoo/construction/wall/big_diag_bu:              352        64
+:bitmap/geoo/construction/wall/big_diag_bd:              224        32
+:bitmap/geoo/construction/wall/big_diag_bd:              192         0
+:bitmap/geoo/construction/wall/big_diag_bu:              384        32
+:bitmap/geoo/construction/wall/big_diag_bu:              416         0
+:bitmap/geoo/construction/wall/big_brick1:               288        64
+:bitmap/geoo/construction/wall/big_brick2:               256        32
+:bitmap/geoo/construction/wall/big_brick3:               320        32
+:bitmap/geoo/construction/wall/big_brick1:               288         0
+:bitmap/geoo/construction/wall/big_brick3:               224         0
+:bitmap/geoo/construction/wall/big_brick2:               352         0
+:bitmap/geoo/construction/pillar_32:                     304        63
+:bitmap/geoo/construction/pillar_32:                     304        32
+:bitmap/geoo/construction/pillar_32:                     304         0
+:bitmap/geoo/construction/pillar_32:                     208        16     rn
+:bitmap/geoo/construction/pillar_32:                     400        16     rn
+:bitmap/geoo/construction/pillar_32:                     176        16     rn
+:bitmap/geoo/construction/pillar_32:                     432        16     rn
+:bitmap/geoo/construction/wall/big_diag_bd:               16         0
+:bitmap/geoo/construction/wall/big_diag_bd:               48        32
+:bitmap/geoo/construction/wall/big_diag_bu:               80        32
+:bitmap/geoo/construction/wall/big_diag_bu:              112         0
+:bitmap/geoo/construction/wall/big_brick2:                48         0
+:bitmap/geoo/construction/wall/big_diag_bd:              496         0
+:bitmap/geoo/construction/wall/big_diag_bd:              528        32
+:bitmap/geoo/construction/wall/big_diag_bu:              560        32
+:bitmap/geoo/construction/wall/big_diag_bu:              592         0
+:bitmap/geoo/construction/wall/big_brick2:               528         0
+:bitmap/geoo/construction/pillar_32:                     464        16     rn
+:bitmap/geoo/construction/pillar_32:                     496        16     rn
+:bitmap/geoo/construction/pillar_32:                     528        16     rn
+:bitmap/geoo/construction/pillar_32:                     144        16     rn
+:bitmap/geoo/construction/pillar_32:                     112        16     rn
+:bitmap/geoo/construction/pillar_32:                      80        16     rn
+:bitmap/geoo/construction/wall/big_diag_bd:              288        96
+:bitmap/geoo/construction/wall/big_diag_bu:              320        96
+:bitmap/geoo/construction/wall/big_square:                32       208
+:bitmap/geoo/construction/wall/big_square:               576       208
+:bitmap/geoo/construction/wall/big_square:               576       368
+:bitmap/geoo/construction/wall/big_square:                32       368
