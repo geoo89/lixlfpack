@@ -1,4 +1,4 @@
-$BUILT                                             2012-01-22 15:36:22
+$BUILT                                             2012-01-23 00:31:29
 $AUTHOR                                                          Simon
 $GERMAN                                                               
 $ENGLISH                                          Mice in the Pipeline
@@ -60,9 +60,11 @@ $ENGLISH                                          Mice in the Pipeline
 :bitmap/geoo/sandstone/brazier.F:                        134       232
 :bitmap/geoo/sandstone/brazier.F:                         26       232
 :bitmap/geoo/sandstone/brazier.F:                        474        40
+:bitmap/geoo/sandstone/brazier.F:                        582       264
 :bitmap/geoo/sandstone/brazier.F:                        582        40
 :bitmap/geoo/sandstone/brazier.F:                        582       232
 :bitmap/geoo/sandstone/brazier.F:                         26        40
+:bitmap/geoo/sandstone/brazier.F:                         26        72
 :bitmap/geoo/sandstone/brazier.F:                        186       232
 :bitmap/geoo/sandstone/brazier.F:                        422        40
 
@@ -157,6 +159,7 @@ $ENGLISH                                          Mice in the Pipeline
 :bitmap/geoo/sandstone/16x16:                            520       376
 :bitmap/geoo/sandstone/16x16:                            456       376
 :bitmap/geoo/sandstone/pillar_bottom:                    608       112
+:bitmap/geoo/sandstone/slopes/32x16rt:                   596       288
 :bitmap/geoo/sandstone/pillar_32:                        608        80
 :bitmap/geoo/sandstone/slopes/32x16lt:                   462        64
 :bitmap/geoo/sandstone/slopes/32x16rt:                   436        64
@@ -168,6 +171,7 @@ $ENGLISH                                          Mice in the Pipeline
 :bitmap/geoo/sandstone/pillar_top_shaded:                  0        48
 :bitmap/geoo/sandstone/pillar_bottom_ext:                -16       144
 :bitmap/geoo/sandstone/pillar_bottom:                      0       112
+:bitmap/geoo/sandstone/slopes/32x16lt:                    12        96
 :bitmap/geoo/sandstone/pillar_32:                          0        80
 :bitmap/geoo/sandstone/pillar_top_ext:                   592       224
 :bitmap/geoo/sandstone/slopes/32x16rt:                   596       256

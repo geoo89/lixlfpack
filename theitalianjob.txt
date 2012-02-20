@@ -1,4 +1,4 @@
-$BUILT                                             2012-02-05 01:08:36
+$BUILT                                             2012-02-07 20:49:02
 $AUTHOR                                                             TM
 $GERMAN                                                               
 $ENGLISH                                               The Italian Job
@@ -14,8 +14,8 @@ $ENGLISH                                               The Italian Job
 #BACKGROUND_BLUE                                                     0
 
 #SECONDS                                                             0
-#INITIAL                                                            50
-#REQUIRED                                                           50
+#INITIAL                                                           150
+#REQUIRED                                                          150
 #SPAWN_INTERVAL                                                      5
 
 #CLIMBER                                                             2

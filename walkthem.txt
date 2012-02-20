@@ -1,0 +1,192 @@
+$BUILT                                             2012-02-19 20:42:41
+$AUTHOR                                                        Michael
+$GERMAN                                                               
+$ENGLISH                                       Walk them golden stairs
+
+#SIZE_X                                                           1024
+#SIZE_Y                                                            400
+#TORUS_X                                                             0
+#TORUS_Y                                                             0
+#START_X                                                           160
+#START_Y                                                           -20
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                    0
+#BACKGROUND_BLUE                                                     0
+
+#SECONDS                                                             0
+#INITIAL                                                            40
+#REQUIRED                                                           20
+#SPAWN_INTERVAL                                                     15
+
+#CLIMBER                                                            10
+#FLOATER                                                            10
+#EXPLODER                                                           10
+#BLOCKER                                                             1
+#BUILDER                                                            10
+#PLATFORMER                                                         10
+#BASHER                                                             10
+#MINER                                                              10
+#DIGGER                                                             10
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+
+:bitmap/geoo/sandstone/Hatch.H:                          464       144
+
+:bitmap/geoo/sandstone/Goal.G:                           384        32
+
+:bitmap/geoo/construction/squisher.T:                    944        96
+
+:bitmap/simon/water.W:                                   560       368
+:bitmap/simon/water.W:                                   512       368
+:bitmap/simon/water.W:                                   464       368
+:bitmap/simon/water.W:                                   416       368
+:bitmap/simon/water.W:                                   368       368
+:bitmap/simon/water.W:                                   320       368
+:bitmap/simon/water.W:                                   272       368
+
+:bitmap/geoo/sandstone/pillar_top:                       608       368
+:bitmap/geoo/sandstone/pillar_top_ext:                   592       352
+:bitmap/geoo/sandstone/pillar_32:                        672       320     r
+:bitmap/geoo/sandstone/pillar_32:                        640       320     r
+:bitmap/geoo/sandstone/pillar_32:                        608       320     r
+:bitmap/geoo/sandstone/pillar_32:                        704       320     r
+:bitmap/geoo/sandstone/pillar_32:                        736       320     r
+:bitmap/geoo/sandstone/pillar_32:                        512       320     r
+:bitmap/geoo/sandstone/pillar_32:                        480       320     r
+:bitmap/geoo/sandstone/pillar_32:                        544       320     r
+:bitmap/geoo/sandstone/pillar_32:                        576       320     r
+:bitmap/geoo/sandstone/pillar_32:                        768       320     r
+:bitmap/geoo/sandstone/pillar_32:                        800       320     r
+:bitmap/geoo/sandstone/pillar_32:                        832       320     r
+:bitmap/geoo/sandstone/slopes/32x32rt:                   448       320
+:bitmap/geoo/sandstone/pillar_32:                        448       288
+:bitmap/geoo/sandstone/pillar_32:                        448       256
+:bitmap/geoo/sandstone/slopes/32x32rb:                   448       224
+:bitmap/geoo/sandstone/pillar_32:                        512       224     r
+:bitmap/geoo/sandstone/pillar_32:                        544       224     r
+:bitmap/geoo/sandstone/pillar_32:                        480       224     r
+:bitmap/geoo/sandstone/pillar_32:                        352       288
+:bitmap/geoo/sandstone/pillar_32:                        352       256
+:bitmap/geoo/sandstone/slopes/32x32lt:                   352       320
+:bitmap/geoo/sandstone/slopes/32x32lb:                   352       224
+:bitmap/geoo/sandstone/pillar_32:                        448        96     r
+:bitmap/geoo/sandstone/pillar_32:                        480        96     r
+:bitmap/geoo/sandstone/pillar_32:                        512        96     r
+:bitmap/geoo/sandstone/pillar_32:                        544        96     r
+:bitmap/geoo/sandstone/pillar_32:                        352        96     r
+:bitmap/geoo/sandstone/pillar_32:                        384        96     r
+:bitmap/geoo/sandstone/pillar_32:                        416        96     r
+:bitmap/geoo/steel/dark_32x64o.S:                        576         0
+:bitmap/geoo/steel/dark_32x64o.S:                        576        64
+:bitmap/geoo/sandstone/pillar_top:                       576       224     r
+:bitmap/geoo/sandstone/pillar_32:                        864       320     r
+:bitmap/geoo/sandstone/pillar_32:                        896       320     r
+:bitmap/geoo/sandstone/pillar_32:                        928       320     r
+:bitmap/geoo/sandstone/pillar_32:                        960       320     r
+:bitmap/geoo/sandstone/slopes/32x32lt:                   992       320
+:bitmap/geoo/sandstone/pillar_top:                       832       368
+:bitmap/geoo/sandstone/pillar_top_ext:                   816       352
+:bitmap/geoo/sandstone/pillar_32:                        992       288
+:bitmap/geoo/sandstone/pillar_32:                        992       256
+:bitmap/geoo/sandstone/pillar_32:                        992       224
+:bitmap/geoo/sandstone/pillar_32:                        992       192
+:bitmap/geoo/construction/fence_rust_64x64:              928       256
+:bitmap/geoo/construction/fence_rust_64x64:              864       256
+:bitmap/geoo/construction/fence_rust_64x64:              800       256
+:bitmap/geoo/construction/fence_rust_64x64:              736       256
+:bitmap/geoo/construction/fence_rust_64x64:              672       256
+:bitmap/matt/08 - Bricks/06:                             672       256     d
+:bitmap/geoo/construction/fence_rust_64x64:              928       192
+:bitmap/geoo/construction/fence_rust_64x64:              864       192
+:bitmap/geoo/construction/fence_rust_64x64:              800       192
+:bitmap/geoo/construction/fence_rust_64x64:              736       192
+:bitmap/matt/08 - Bricks/06:                             736       192     d
+:bitmap/geoo/sandstone/slopes/32x32lb:                   992       160
+:bitmap/geoo/construction/fence_rust_64x64:              800       128
+:bitmap/geoo/construction/fence_rust_64x64:              864       128
+:bitmap/geoo/construction/rod_steel/straight32.S:        984       128     rrr
+:bitmap/geoo/construction/rod_steel/straight32.S:        984        96     rrr
+:bitmap/geoo/steel/dark_64x32o.S:                        928        64
+:bitmap/geoo/sandstone/slopes/32x32lt:                   992        64
+:bitmap/geoo/sandstone/pillar_32:                        992        32
+:bitmap/geoo/sandstone/slopes/32x32rt:                   896       128     d
+:bitmap/geoo/construction/fence_rust_64x64:              736       128
+:bitmap/matt/08 - Bricks/04:                             736       128     d
+:bitmap/geoo/construction/fence_rust_64x64:              800        64
+:bitmap/geoo/construction/fence_rust_32x32:              864        96
+:bitmap/geoo/sandstone/slopes/32x32rt:                   864        96     d
+:bitmap/geoo/steel/dark_64x32o.S:                        608        64
+:bitmap/geoo/construction/fence_rust_64x64:              736        64
+:bitmap/geoo/construction/fence_rust_64x64:              672        64
+:bitmap/matt/08 - Bricks/04:                             672        64     d
+:bitmap/geoo/sandstone/slopes/32x32lb:                   992         0
+:bitmap/geoo/sandstone/pillar_32:                        768         0     r
+:bitmap/geoo/sandstone/pillar_32:                        736         0     r
+:bitmap/geoo/sandstone/pillar_32:                        640         0     r
+:bitmap/geoo/sandstone/pillar_32:                        608         0     r
+:bitmap/geoo/sandstone/pillar_32:                        672         0     r
+:bitmap/geoo/sandstone/pillar_32:                        704         0     r
+:bitmap/geoo/sandstone/pillar_32:                        960         0     r
+:bitmap/geoo/sandstone/pillar_32:                        928         0     r
+:bitmap/geoo/sandstone/pillar_32:                        832         0     r
+:bitmap/geoo/sandstone/pillar_32:                        800         0     r
+:bitmap/geoo/sandstone/pillar_32:                        864         0     r
+:bitmap/geoo/sandstone/pillar_32:                        896         0     r
+:bitmap/geoo/steel/dark_32x32o.S:                        896        64
+:bitmap/geoo/construction/fence_rust_32x32:              864        64
+:bitmap/geoo/sandstone/slopes/32x32rb:                   864        64     d
+:bitmap/geoo/sandstone/pillar_32:                        256       320     r
+:bitmap/geoo/sandstone/pillar_32:                        224       320     r
+:bitmap/geoo/sandstone/pillar_32:                        288       320     r
+:bitmap/geoo/sandstone/pillar_32:                        320       320     r
+:bitmap/geoo/sandstone/pillar_top:                       256       368
+:bitmap/geoo/sandstone/pillar_top_ext:                   240       352
+:bitmap/geoo/sandstone/pillar_32:                        128       320     r
+:bitmap/geoo/sandstone/pillar_32:                         96       320     r
+:bitmap/geoo/sandstone/pillar_32:                        160       320     r
+:bitmap/geoo/sandstone/pillar_32:                        192       320     r
+:bitmap/geoo/sandstone/pillar_32:                         64       320     r
+:bitmap/geoo/sandstone/pillar_32:                        256       224     r
+:bitmap/geoo/sandstone/pillar_32:                        224       224     r
+:bitmap/geoo/sandstone/pillar_32:                        288       224     r
+:bitmap/geoo/sandstone/pillar_32:                        320       224     r
+:bitmap/geoo/sandstone/pillar_32:                        128       224     r
+:bitmap/geoo/sandstone/pillar_32:                         96       224     r
+:bitmap/geoo/sandstone/pillar_32:                        160       224     r
+:bitmap/geoo/sandstone/pillar_32:                        192       224     r
+:bitmap/geoo/sandstone/pillar_32:                         64       224     r
+:bitmap/geoo/sandstone/pillar_top:                        96       272
+:bitmap/geoo/sandstone/pillar_top_ext:                    80       256
+:bitmap/geoo/sandstone/pillar_top_ext:                    48       352
+:bitmap/geoo/sandstone/pillar_32:                         96       336
+:bitmap/geoo/sandstone/pillar_32:                         96       304
+:bitmap/geoo/sandstone/pillar_32:                         96       368
+:bitmap/geoo/sandstone/pillar_32:                        320        96     r
+:bitmap/geoo/sandstone/pillar_bottom:                    288        96     r
+:bitmap/geoo/sandstone/pillar_bottom_ext:                272        80     r
+:bitmap/geoo/steel/dark_64x32o.S:                        928       160
+:bitmap/geoo/construction/fence_rust_64x64:              224       160
+:bitmap/geoo/construction/fence_rust_64x64:              160       160
+:bitmap/geoo/construction/fence_rust_64x64:               96       160
+:bitmap/geoo/construction/fence_rust_64x64:              160        96
+:bitmap/geoo/construction/fence_rust_64x64:               96        96
+:bitmap/geoo/construction/fence_rust_64x64:               96        32
+:bitmap/matt/08 - Bricks/05:                              96        32     d
+:bitmap/matt/08 - Bricks/05:                             160        96     d
+:bitmap/matt/08 - Bricks/05:                             224       160     d
+:bitmap/geoo/sandstone/pillar_32:                         32       320     r
+:bitmap/geoo/sandstone/pillar_32:                          0       320     r
+:bitmap/geoo/sandstone/pillar_32:                         32       224     r
+:bitmap/geoo/sandstone/pillar_32:                          0       224     r
+:bitmap/geoo/construction/fence_rust_64x64:               32       160
+:bitmap/geoo/construction/fence_rust_64x64:               32        96
+:bitmap/geoo/construction/fence_rust_64x64:               32        32
+:bitmap/geoo/sandstone/pillar_32:                          0       192
+:bitmap/geoo/sandstone/pillar_32:                          0       160
+:bitmap/geoo/sandstone/pillar_32:                          0       128
+:bitmap/geoo/sandstone/pillar_top:                         0        96
+:bitmap/geoo/construction/fence_rust_32x32:                0        64
+:bitmap/geoo/sandstone/pillar_top_ext:                   -16        80
+:bitmap/geoo/construction/fence_rust_32x32:                0        32
+:bitmap/geoo/sandstone/pillar_top:                        64       368

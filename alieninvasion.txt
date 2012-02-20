@@ -1,4 +1,4 @@
-$BUILT                                             2012-01-30 14:43:30
+$BUILT                                             2012-02-06 02:33:28
 $AUTHOR                                                           geoo
 $GERMAN                                                               
 $ENGLISH                                                Alien Invasion
@@ -35,6 +35,7 @@ $ENGLISH                                                Alien Invasion
 :bitmap/geoo/construction/Hatch.H:                        80       128
 :bitmap/geoo/construction/Hatch.H:                       208       128
 :bitmap/geoo/construction/Hatch.H:                       144       128     r
+:bitmap/geoo/construction/Hatch.H:                       304       160
 
 :bitmap/matt/01 - Earth/Goal.G:                          496       188
 

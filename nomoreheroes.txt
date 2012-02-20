@@ -1,9 +1,9 @@
-$BUILT                                             2012-02-01 17:08:49
+$BUILT                                             2012-02-05 16:21:55
 $AUTHOR                                                   Insane Steve
 $GERMAN                                                               
 $ENGLISH                                                No More Heroes
 
-#SIZE_X                                                            800
+#SIZE_X                                                            848
 #SIZE_Y                                                            400
 #TORUS_X                                                             0
 #TORUS_Y                                                             0
@@ -108,7 +108,6 @@ $ENGLISH                                                No More Heroes
 :bitmap/simon/tapir/032vc:                               656       256
 :bitmap/simon/tapir/064:                                 688       256
 :bitmap/simon/tapir/032:                                 784       320
-:bitmap/simon/tapir/032:                                 784       352
 :bitmap/simon/tapir/016h:                                736       384
 :bitmap/simon/tapir/032:                                 576       224
 :bitmap/simon/tapir/032:                                 576       256
@@ -138,9 +137,16 @@ $ENGLISH                                                No More Heroes
 :bitmap/simon/tapir/032hc:                               496       128
 :bitmap/simon/tapir/032vb:                               416       144
 :bitmap/simon/tapir/032:                                 752       320
-:bitmap/simon/tapir/032c:                                720       320
-:bitmap/simon/tapir/032c:                                752       352
 :bitmap/geoo/steel/64x64.S:                              624        64
 :bitmap/simon/tapir/032b:                                688        64
 :bitmap/simon/tapir/032b:                                720        96
 :bitmap/simon/tapir/032:                                 688        96
+:bitmap/simon/tapir/016h:                                800       384
+:bitmap/simon/tapir/032hc:                               688       320
+:bitmap/simon/tapir/032vb:                               816       224
+:bitmap/simon/tapir/016h:                                816       288
+:bitmap/simon/tapir/016h:                                816       304
+:bitmap/simon/tapir/032:                                 816       320
+:bitmap/simon/tapir/032:                                 816       352
+:bitmap/simon/tapir/032hc:                               752       352
+:bitmap/simon/tapir/016h:                                832       384

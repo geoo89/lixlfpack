@@ -1,0 +1,166 @@
+$BUILT                                             2012-02-17 03:23:15
+$AUTHOR                                                     Nortaneous
+$GERMAN                                                               
+$ENGLISH                                        The Abominable Snowlix
+
+#SIZE_X                                                            640
+#SIZE_Y                                                            400
+#TORUS_X                                                             0
+#TORUS_Y                                                             0
+#START_X                                                             0
+#START_Y                                                           -20
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                    0
+#BACKGROUND_BLUE                                                     0
+
+#SECONDS                                                             0
+#INITIAL                                                            50
+#REQUIRED                                                           35
+#SPAWN_INTERVAL                                                     40
+
+#WALKER                                                              1
+#JUMPER                                                              1
+#CLIMBER                                                             1
+#FLOATER                                                             1
+#EXPLODER2                                                           1
+#BLOCKER                                                             1
+#CUBER                                                               1
+#BUILDER                                                             1
+#PLATFORMER                                                          1
+#BASHER                                                              1
+#MINER                                                               1
+#DIGGER                                                              1
+
+:bitmap/matt/05 - Winter/Hatch.H:                        288       222
+
+:bitmap/matt/05 - Winter/Goal.G:                         488        52
+:bitmap/matt/05 - Winter/Goal.G:                          66        46
+
+:bitmap/matt/05 - Winter/18:                             200       200
+:bitmap/matt/05 - Winter/10:                              80       120
+:bitmap/matt/05 - Winter/10:                              88       264
+:bitmap/matt/05 - Winter/14:                             130       190
+:bitmap/matt/05 - Winter/04:                             160        72
+:bitmap/matt/05 - Winter/10:                              32       184
+:bitmap/matt/05 - Winter/10:                             136       320
+:bitmap/matt/05 - Winter/10:                             224       344
+:bitmap/matt/05 - Winter/10:                             312       328
+:bitmap/matt/05 - Winter/10:                             408       208
+:bitmap/matt/05 - Winter/10:                             408       152
+:bitmap/matt/05 - Winter/10:                             344       104
+:bitmap/matt/05 - Winter/10:                             256        72
+:bitmap/matt/05 - Winter/10:                             208        64
+:bitmap/matt/05 - Winter/00:                             240       272     d
+:bitmap/matt/05 - Winter/00:                             208       248     d
+:bitmap/matt/05 - Winter/00:                             192       224     d
+:bitmap/matt/05 - Winter/00:                             224       184     d
+:bitmap/matt/05 - Winter/00:                             248       176     d
+:bitmap/matt/05 - Winter/00:                             272       168     d
+:bitmap/matt/05 - Winter/00:                             312       168     d
+:bitmap/matt/05 - Winter/00:                             344       184     d
+:bitmap/matt/05 - Winter/00:                             360       216     d
+:bitmap/matt/05 - Winter/10:                             384       288
+:bitmap/matt/05 - Winter/00:                             360       248     d
+:bitmap/matt/05 - Winter/11:                             360       272     d
+:bitmap/matt/05 - Winter/11:                             320       280     d
+:bitmap/matt/05 - Winter/13:                             176       256
+:bitmap/matt/05 - Winter/01:                             200       304
+:bitmap/matt/05 - Winter/18:                             368       312     frrd
+:bitmap/matt/05 - Winter/14:                             424       272
+:bitmap/matt/05 - Winter/14:                             408       304
+:bitmap/matt/05 - Winter/18:                             384       312     frrd
+:bitmap/matt/05 - Winter/16:                             384       256
+:bitmap/matt/05 - Winter/14:                             368       328     fr
+:bitmap/matt/05 - Winter/10:                             392       304
+:bitmap/matt/05 - Winter/05:                             512       184     d
+:bitmap/matt/05 - Winter/05:                             520       192     d
+:bitmap/matt/05 - Winter/05:                             560       168     d
+:bitmap/matt/05 - Winter/05:                             576       160     d
+:bitmap/matt/05 - Winter/05:                             528       104     d
+:bitmap/matt/05 - Winter/16:                             464       320     d
+:bitmap/matt/05 - Winter/02:                              64       120     d
+:bitmap/matt/05 - Winter/10:                              16       336     d
+:bitmap/matt/05 - Winter/04:                              96       160
+:bitmap/matt/05 - Winter/01:                              96       320     d
+:bitmap/matt/05 - Winter/10:                              60        18     rd
+:bitmap/matt/05 - Winter/14:                              72       220     rrd
+:bitmap/matt/05 - Winter/14:                              80       200     rrd
+:bitmap/matt/05 - Winter/14:                              96       272     frrd
+:bitmap/matt/05 - Winter/14:                             112       296     frrd
+:bitmap/matt/05 - Winter/14:                             120       224
+:bitmap/matt/05 - Winter/16:                             136       100
+:bitmap/matt/05 - Winter/00:                             216       192     d
+:bitmap/matt/05 - Winter/14:                              74       234     frrd
+:bitmap/matt/05 - Winter/14:                              70       214     frrd
+:bitmap/matt/05 - Winter/18:                             142        98     d
+:bitmap/matt/05 - Winter/16:                             466       160     frr
+:bitmap/matt/05 - Winter/16:                             448       122     frr
+:bitmap/matt/05 - Winter/16:                             480       288     d
+:bitmap/matt/05 - Winter/16:                             512       214     d
+:bitmap/matt/05 - Winter/00:                             458        70     frd
+:bitmap/matt/05 - Winter/00:                             480        96     frd
+:bitmap/matt/05 - Winter/00:                             504       132     frd
+:bitmap/matt/05 - Winter/00:                             522       168     frd
+:bitmap/matt/05 - Winter/00:                             528       200     frd
+:bitmap/matt/05 - Winter/00:                             402       108
+:bitmap/matt/05 - Winter/01:                             444       138
+:bitmap/matt/05 - Winter/00:                             438       164
+:bitmap/matt/05 - Winter/01:                             470       188
+:bitmap/matt/05 - Winter/13:                             508       220
+:bitmap/matt/05 - Winter/13:                             522       256
+:bitmap/matt/05 - Winter/13:                             500       264
+:bitmap/matt/05 - Winter/14:                             510       282     d
+:bitmap/matt/05 - Winter/14:                             536       240     d
+:bitmap/matt/05 - Winter/03:                             258        60
+:bitmap/matt/05 - Winter/00:                             360        16     d
+:bitmap/matt/05 - Winter/00:                             380        30     d
+:bitmap/matt/05 - Winter/00:                             372        26     d
+:bitmap/matt/05 - Winter/18:                             342        60
+:bitmap/matt/05 - Winter/00:                             326        72
+:bitmap/matt/05 - Winter/01:                             374        90
+:bitmap/matt/05 - Winter/15:                             508       110
+:bitmap/matt/05 - Winter/15:                              62       104
+:bitmap/matt/05 - Winter/06:                             142        64
+:bitmap/matt/05 - Winter/15:                              78       104
+:bitmap/matt/05 - Winter/16:                             508       188     rrd
+:bitmap/matt/05 - Winter/14:                             516       258     d
+:bitmap/matt/05 - Winter/14:                             536       272     d
+:bitmap/matt/05 - Winter/14:                             524       236     d
+:bitmap/matt/05 - Winter/18:                             512       212     d
+:bitmap/matt/05 - Winter/18:                             502       198     d
+:bitmap/matt/05 - Winter/18:                             510       208     d
+:bitmap/matt/05 - Winter/18:                             496       182     d
+:bitmap/matt/05 - Winter/18:                             492       164     d
+:bitmap/matt/05 - Winter/18:                             516       222     d
+:bitmap/matt/05 - Winter/18:                             488       148     d
+:bitmap/matt/05 - Winter/18:                             480       130     d
+:bitmap/matt/05 - Winter/01:                             432       124
+:bitmap/matt/05 - Winter/15:                             474       156     rrr
+:bitmap/matt/05 - Winter/15:                             484       170     rrr
+:bitmap/matt/05 - Winter/17:                             458       178
+:bitmap/matt/05 - Winter/18:                             518       276     d
+:bitmap/matt/05 - Winter/18:                             526       264     d
+:bitmap/matt/05 - Winter/18:                             522       288     d
+:bitmap/matt/05 - Winter/00:                             502       142     frd
+:bitmap/matt/05 - Winter/00:                             514       166     frd
+:bitmap/matt/05 - Winter/00:                             520       184     frd
+:bitmap/matt/05 - Winter/05:                             518       118     d
+:bitmap/matt/05 - Winter/00:                             492       120     frd
+:bitmap/matt/05 - Winter/09c:                            486       138     d
+:bitmap/matt/05 - Winter/09c:                            490       146     d
+:bitmap/matt/05 - Winter/09c:                            480       126     d
+:bitmap/matt/05 - Winter/09c:                            484       132     d
+:bitmap/matt/05 - Winter/06:                             142        26     d
+:bitmap/matt/05 - Winter/07:                             142        26
+:bitmap/matt/05 - Winter/06:                             488        64
+:bitmap/matt/05 - Winter/06:                             488        26     d
+:bitmap/matt/05 - Winter/07:                             488        26
+:bitmap/matt/05 - Winter/15:                             486       112
+:bitmap/matt/05 - Winter/09c:                            518       224     d
+:bitmap/matt/05 - Winter/09c:                            514       216     d
+:bitmap/matt/05 - Winter/09c:                            510       208     d
+:bitmap/matt/05 - Winter/09c:                            508       200     d
+:bitmap/matt/05 - Winter/09c:                            506       192     d
+:bitmap/matt/05 - Winter/18:                             428       258
+:bitmap/matt/05 - Winter/16:                               2       178     d
+:bitmap/matt/05 - Winter/16:                              14       246     d

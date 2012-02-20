@@ -1,19 +1,19 @@
-$BUILT                                             2012-02-05 00:03:15
+$BUILT                                             2012-02-20 00:24:43
 $AUTHOR                                                          Pieuw
 $GERMAN                                                               
-$ENGLISH                                         Bibblidi-Bobblidi-Boo
+$ENGLISH                                           Bibbidi-Bobbidi-Boo
 
-#SIZE_X                                                           1104
+#SIZE_X                                                           1136
 #SIZE_Y                                                            368
 #TORUS_X                                                             0
 #TORUS_Y                                                             0
 #START_X                                                            30
-#START_Y                                                           316
+#START_Y                                                           -52
 #BACKGROUND_RED                                                      0
 #BACKGROUND_GREEN                                                    0
 #BACKGROUND_BLUE                                                     0
 
-#SECONDS                                                           120
+#SECONDS                                                             0
 #INITIAL                                                             5
 #REQUIRED                                                            3
 #SPAWN_INTERVAL                                                     50
@@ -33,47 +33,42 @@ $ENGLISH                                         Bibblidi-Bobblidi-Boo
 
 :bitmap/matt/02 - Gold Mine/Hatch.H:                     144        46
 
-:bitmap/matt/02 - Gold Mine/Goal.G:                      960       128
+:bitmap/matt/02 - Gold Mine/Goal.G:                     1016       128
 
-:bitmap/geoo/construction/squisher.T:                    776       112
+:bitmap/geoo/construction/squisher.T:                    856       112
 
+:bitmap/matt/02 - Gold Mine/06:                          432       168     rr
+:bitmap/matt/02 - Gold Mine/crate32:                     648        24
 :bitmap/matt/02 - Gold Mine/00:                          376       188
 :bitmap/matt/02 - Gold Mine/crate32:                     272        80
 :bitmap/matt/02 - Gold Mine/crate32:                     304        80
 :bitmap/matt/02 - Gold Mine/crate32:                     336        80
 :bitmap/matt/02 - Gold Mine/plank:                       224       272
-:bitmap/matt/02 - Gold Mine/crate32:                     584        -8
-:bitmap/matt/02 - Gold Mine/crate32:                     584        24
-:bitmap/matt/02 - Gold Mine/crate32:                     712        88     f
-:bitmap/matt/02 - Gold Mine/03:                          682       182     frr
-:bitmap/matt/02 - Gold Mine/03:                          632       168     rr
-:bitmap/matt/02 - Gold Mine/07:                          750       164     rr
+:bitmap/matt/02 - Gold Mine/crate32:                     872        88     f
+:bitmap/matt/02 - Gold Mine/06:                          808       176
+:bitmap/matt/02 - Gold Mine/03:                          720       168     rr
+:bitmap/matt/02 - Gold Mine/07:                          808       160     rr
 :bitmap/matt/02 - Gold Mine/06:                          360       168
-:bitmap/matt/02 - Gold Mine/crate32:                     640       264
+:bitmap/matt/02 - Gold Mine/crate32:                     640       248
 :bitmap/matt/02 - Gold Mine/ExplosiveCrate:              224       280
 :bitmap/matt/02 - Gold Mine/07:                          176       160     rr
 :bitmap/matt/02 - Gold Mine/06:                          208       168
 :bitmap/matt/02 - Gold Mine/03:                           96       168
 :bitmap/matt/02 - Gold Mine/ExplosiveCrate:              360       304
-:bitmap/matt/02 - Gold Mine/crate32:                     640       232
-:bitmap/matt/02 - Gold Mine/crate32:                     552       232
-:bitmap/matt/02 - Gold Mine/crate32:                     552       296
-:bitmap/matt/02 - Gold Mine/crate32:                     552       328
-:bitmap/matt/02 - Gold Mine/plank support:               912       208
-:bitmap/matt/02 - Gold Mine/crate32:                     776        72
-:bitmap/matt/02 - Gold Mine/crate32:                     744        72
-:bitmap/matt/02 - Gold Mine/crate32:                     680        88
-:bitmap/matt/02 - Gold Mine/crate32:                     648        88
-:bitmap/matt/02 - Gold Mine/crate32:                     616        88
-:bitmap/matt/02 - Gold Mine/crate32:                     584        88
-:bitmap/matt/02 - Gold Mine/plank:                       856       304
-:bitmap/matt/02 - Gold Mine/plank:                       544       224
-:bitmap/matt/02 - Gold Mine/plank:                       416       224
-:bitmap/matt/02 - Gold Mine/plank:                       392       176
-:bitmap/matt/02 - Gold Mine/plank:                       672       192
-:bitmap/matt/02 - Gold Mine/plank:                       840       104
+:bitmap/matt/02 - Gold Mine/crate32:                     552       280
+:bitmap/matt/02 - Gold Mine/crate32:                     552       312
+:bitmap/matt/02 - Gold Mine/plank support:               976       208
+:bitmap/matt/02 - Gold Mine/crate32:                     808        88
+:bitmap/matt/02 - Gold Mine/crate32:                     840        88
+:bitmap/matt/02 - Gold Mine/crate32:                     776        88
+:bitmap/matt/02 - Gold Mine/crate32:                     744        88
+:bitmap/matt/02 - Gold Mine/plank:                       912       304
+:bitmap/matt/02 - Gold Mine/plank:                       544       240
+:bitmap/matt/02 - Gold Mine/plank:                       416       240
+:bitmap/matt/02 - Gold Mine/plank:                       488       176
+:bitmap/matt/02 - Gold Mine/plank:                       896       104
 :bitmap/matt/02 - Gold Mine/09:                          416       184
-:bitmap/matt/02 - Gold Mine/plank:                       600       176
+:bitmap/matt/02 - Gold Mine/plank:                       688       176
 :bitmap/matt/02 - Gold Mine/05:                          424       224
 :bitmap/matt/02 - Gold Mine/00:                          408       256     rr
 :bitmap/matt/02 - Gold Mine/04:                          316       180     rr
@@ -106,26 +101,24 @@ $ENGLISH                                         Bibblidi-Bobblidi-Boo
 :bitmap/matt/02 - Gold Mine/01:                          190        -2
 :bitmap/matt/02 - Gold Mine/04:                          280       -96
 :bitmap/matt/02 - Gold Mine/00:                          300        30
-:bitmap/matt/01 - Earth/20:                              634       352     rrr
+:bitmap/matt/01 - Earth/20:                              600       344     rrr
 :bitmap/matt/01 - Earth/20:                              230       354     rrr
 :bitmap/matt/02 - Gold Mine/08:                          696       328
 :bitmap/matt/02 - Gold Mine/00:                          624       264
 :bitmap/matt/02 - Gold Mine/01:                          200       328
 :bitmap/matt/02 - Gold Mine/09:                          232       296
-:bitmap/matt/02 - Gold Mine/07:                          352        40
+:bitmap/matt/02 - Gold Mine/07:                          336        24
 :bitmap/matt/02 - Gold Mine/07:                          344       -24
-:bitmap/matt/02 - Gold Mine/07:                          640       -56
-:bitmap/matt/02 - Gold Mine/09:                          720        40     rr
-:bitmap/matt/02 - Gold Mine/07:                          696        16     rr
-:bitmap/matt/02 - Gold Mine/05:                          776        96
-:bitmap/matt/02 - Gold Mine/07:                          752       -48     rr
-:bitmap/matt/02 - Gold Mine/08:                          960       272
-:bitmap/matt/02 - Gold Mine/04:                          928       280
-:bitmap/matt/02 - Gold Mine/00:                          968       264
-:bitmap/matt/02 - Gold Mine/05:                          936         0
-:bitmap/matt/02 - Gold Mine/08:                          496       -16     rr
-:bitmap/matt/02 - Gold Mine/plank:                       904       104
-:bitmap/matt/02 - Gold Mine/plank support:               952       -24
+:bitmap/matt/02 - Gold Mine/07:                          632       -56
+:bitmap/matt/02 - Gold Mine/plank:                       960       104
+:bitmap/matt/02 - Gold Mine/07:                          808        16     rr
+:bitmap/matt/02 - Gold Mine/07:                          776       -48     rr
+:bitmap/matt/02 - Gold Mine/08:                         1008       272
+:bitmap/matt/02 - Gold Mine/04:                          976       280
+:bitmap/matt/02 - Gold Mine/00:                         1016       264
+:bitmap/matt/02 - Gold Mine/05:                          976       -16
+:bitmap/matt/02 - Gold Mine/08:                          488        -8     rr
+:bitmap/matt/02 - Gold Mine/plank support:              1016       -24
 :bitmap/matt/02 - Gold Mine/crate32:                      72       176
 :bitmap/matt/02 - Gold Mine/crate32:                     104       176
 :bitmap/matt/02 - Gold Mine/crate32:                     136       176
@@ -138,27 +131,32 @@ $ENGLISH                                         Bibblidi-Bobblidi-Boo
 :bitmap/matt/02 - Gold Mine/crate32:                     360       176
 :bitmap/matt/02 - Gold Mine/crate32:                     392       176
 :bitmap/matt/02 - Gold Mine/crate32:                     456       176
-:bitmap/matt/02 - Gold Mine/crate32:                     584        56
-:bitmap/matt/02 - Gold Mine/crate32:                     632       176
-:bitmap/matt/02 - Gold Mine/crate32:                     664       176
-:bitmap/matt/02 - Gold Mine/crate32:                     696       176
-:bitmap/matt/02 - Gold Mine/crate32:                     728       176
-:bitmap/matt/02 - Gold Mine/crate32:                     760       176
-:bitmap/matt/02 - Gold Mine/crate32:                     792       176
-:bitmap/matt/02 - Gold Mine/crate32:                     824       176
-:bitmap/matt/02 - Gold Mine/crate32:                     856       176
-:bitmap/matt/02 - Gold Mine/crate32:                     888       176
-:bitmap/matt/02 - Gold Mine/crate32:                     920       176
-:bitmap/matt/02 - Gold Mine/crate32:                     920       176
-:bitmap/matt/02 - Gold Mine/crate32:                     952       176
-:bitmap/matt/02 - Gold Mine/crate32:                     984       176
-:bitmap/matt/02 - Gold Mine/crate32:                    1016       176
-:bitmap/matt/02 - Gold Mine/plank:                       856       312     rrr
+:bitmap/matt/02 - Gold Mine/crate32:                     720       176
+:bitmap/matt/02 - Gold Mine/crate32:                     752       176
+:bitmap/matt/02 - Gold Mine/crate32:                     784       176
+:bitmap/matt/02 - Gold Mine/crate32:                     816       176
+:bitmap/matt/02 - Gold Mine/crate32:                     848       176
+:bitmap/matt/02 - Gold Mine/crate32:                     880       176
+:bitmap/matt/02 - Gold Mine/crate32:                     912       176
+:bitmap/matt/02 - Gold Mine/crate32:                     944       176
+:bitmap/matt/02 - Gold Mine/crate32:                     976       176
+:bitmap/matt/02 - Gold Mine/crate32:                     976       176
+:bitmap/matt/02 - Gold Mine/crate32:                    1008       176
+:bitmap/matt/02 - Gold Mine/crate32:                    1040       176
+:bitmap/matt/02 - Gold Mine/crate32:                    1072       176
+:bitmap/matt/02 - Gold Mine/plank:                       912       312     rrr
 :bitmap/geoo/steel/64x64o.S:                             240       208     d
 :bitmap/matt/02 - Gold Mine/05:                          280       224
 :bitmap/geoo/steel/64x64o.S:                             176       208     d
-:bitmap/matt/02 - Gold Mine/crate32:                     552       264
+:bitmap/matt/02 - Gold Mine/crate32:                     552       248
 :bitmap/matt/02 - Gold Mine/crate32:                     424       176
-:bitmap/matt/02 - Gold Mine/crate32:                     552       360
+:bitmap/matt/02 - Gold Mine/crate32:                     576       344
 :bitmap/matt/02 - Gold Mine/07:                          560       280
-:bitmap/geoo/steel/64x64o.S:                             112       208     d
+:bitmap/matt/02 - Gold Mine/00:                          376       236
+:bitmap/matt/02 - Gold Mine/crate32:                     552       176
+:bitmap/matt/02 - Gold Mine/crate32:                     488       176
+:bitmap/matt/02 - Gold Mine/crate32:                     648        56
+:bitmap/matt/02 - Gold Mine/crate32:                     648        88
+:bitmap/matt/02 - Gold Mine/crate32:                     680        88
+:bitmap/matt/02 - Gold Mine/crate32:                     712        88     f
+:bitmap/matt/02 - Gold Mine/crate32:                     520       176

@@ -1,4 +1,4 @@
-$BUILT                                             2012-01-31 21:47:41
+$BUILT                                             2012-02-05 16:34:56
 $AUTHOR                                                   Insane Steve
 $GERMAN                                                               
 $ENGLISH                                       A Matter of Perspective
@@ -16,12 +16,12 @@ $ENGLISH                                       A Matter of Perspective
 #SECONDS                                                             0
 #INITIAL                                                           100
 #REQUIRED                                                          100
-#SPAWN_INTERVAL                                                     29
+#SPAWN_INTERVAL                                                     32
 
 #WALKER                                                              0
 #JUMPER                                                              0
 #CLIMBER                                                             5
-#FLOATER                                                            10
+#FLOATER                                                             7
 #EXPLODER2                                                           1
 #BLOCKER                                                             0
 #RUNNER                                                              1
@@ -72,15 +72,6 @@ $ENGLISH                                       A Matter of Perspective
 :bitmap/matt/08 - Bricks/02:                              64       112
 :bitmap/matt/08 - Bricks/02:                             640       368
 :bitmap/matt/08 - Bricks/02:                             704       368
-:bitmap/matt/08 - Bricks/02:                             704       336
-:bitmap/matt/08 - Bricks/02:                             704       304
-:bitmap/matt/08 - Bricks/02:                             704       272
-:bitmap/matt/08 - Bricks/02:                             704       240
-:bitmap/matt/08 - Bricks/02:                             704       208
-:bitmap/matt/08 - Bricks/02:                             704       176
-:bitmap/matt/08 - Bricks/02:                             704       144
-:bitmap/matt/08 - Bricks/02:                             704       112
-:bitmap/matt/08 - Bricks/02:                             704        80
 :bitmap/matt/08 - Bricks/02:                             160       192
 :bitmap/matt/08 - Bricks/02:                             224       192
 :bitmap/matt/08 - Bricks/02:                             288       192
@@ -88,11 +79,11 @@ $ENGLISH                                       A Matter of Perspective
 :bitmap/matt/08 - Bricks/02:                             416       192
 :bitmap/matt/08 - Bricks/02:                             480       192
 :bitmap/matt/08 - Bricks/02:                             576       304
-:bitmap/matt/08 - Bricks/04:                             640       112
-:bitmap/matt/08 - Bricks/04:                             640       240
-:bitmap/matt/08 - Bricks/07:                             640       176
-:bitmap/matt/08 - Bricks/07:                             640       304
-:bitmap/geoo/abstract/cvblocks/000:                      376       280
+:bitmap/matt/08 - Bricks/04:                             704       112
+:bitmap/matt/08 - Bricks/04:                             704       240
+:bitmap/matt/08 - Bricks/07:                             704       176
+:bitmap/matt/08 - Bricks/07:                             704       304
+:bitmap/geoo/abstract/cvblocks/000:                      312       280
 :bitmap/matt/08 - Bricks/02:                               0       112
 :bitmap/matt/08 - Bricks/02:                               0       336
 :bitmap/matt/08 - Bricks/02:                               0       304
@@ -112,3 +103,9 @@ $ENGLISH                                       A Matter of Perspective
 :bitmap/matt/08 - Bricks/02:                             768       304
 :bitmap/matt/08 - Bricks/02:                             768       336
 :bitmap/matt/08 - Bricks/02:                             768       368
+:bitmap/matt/08 - Bricks/02:                             640       112
+:bitmap/matt/08 - Bricks/02:                             640       144
+:bitmap/matt/08 - Bricks/12:                             672       208
+:bitmap/geoo/abstract/cvblocks/000:                      160       280
+:bitmap/geoo/abstract/cvblocks/000:                      168       280
+:bitmap/geoo/abstract/cvblocks/000:                      320       280

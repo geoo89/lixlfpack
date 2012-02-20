@@ -1,0 +1,175 @@
+$BUILT                                             2012-02-05 17:13:04
+$AUTHOR                                                             TM
+$GERMAN                                                               
+$ENGLISH                                             Dances With Lixes
+
+#SIZE_X                                                            960
+#SIZE_Y                                                            400
+#TORUS_X                                                             0
+#TORUS_Y                                                             0
+#START_X                                                           320
+#START_Y                                                           380
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                    0
+#BACKGROUND_BLUE                                                     0
+
+#SECONDS                                                           420
+#INITIAL                                                            50
+#REQUIRED                                                           46
+#SPAWN_INTERVAL                                                     20
+
+#CLIMBER                                                             4
+#FLOATER                                                             2
+#EXPLODER                                                            3
+#BLOCKER                                                             2
+#BUILDER                                                            15
+#BASHER                                                              1
+#MINER                                                               1
+#DIGGER                                                              0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+
+:bitmap/simon/hatch001.H:                                784       304
+
+:bitmap/matt/09 - Marble/Goal.G:                         560       144
+
+:bitmap/geoo/construction/sawblade_small.F:              800       248
+
+:bitmap/matt/09 - Marble/09b:                            512       336
+:bitmap/matt/09 - Marble/09b:                            448       336
+:bitmap/matt/09 - Marble/09b:                            384       336
+:bitmap/matt/09 - Marble/22c:                            160        -8
+:bitmap/matt/09 - Marble/23d:                            136        80
+:bitmap/matt/09 - Marble/23d:                            104        80
+:bitmap/matt/09 - Marble/23d:                            136        48
+:bitmap/matt/09 - Marble/23d:                            104        48
+:bitmap/matt/09 - Marble/22:                             352         8
+:bitmap/matt/04 - Sandy Beach/Sand Decor/palm tree:       16       272
+:bitmap/matt/04 - Sandy Beach/Daytime Sand/06:           488       -48     rr
+:bitmap/matt/09 - Marble/22c:                            784        32
+:bitmap/matt/04 - Sandy Beach/Daytime Sand/00:           800       -16
+:bitmap/geoo/steel/64x32o.S:                             784       368
+:bitmap/matt/09 - Marble/06b:                            848       336
+:bitmap/matt/09 - Marble/06b:                            848       272
+:bitmap/matt/09 - Marble/06b:                            848       208
+:bitmap/matt/09 - Marble/06b:                            848       144
+:bitmap/matt/09 - Marble/23e:                            528       272
+:bitmap/matt/09 - Marble/23e:                            560       272
+:bitmap/matt/09 - Marble/23e:                            528       304
+:bitmap/matt/09 - Marble/23e:                            560       304
+:bitmap/matt/09 - Marble/23e:                            528       336
+:bitmap/matt/09 - Marble/23e:                            560       336
+:bitmap/matt/09 - Marble/23e:                            528       368
+:bitmap/matt/09 - Marble/23e:                            560       368
+:bitmap/matt/09 - Marble/23e:                            592       272
+:bitmap/matt/09 - Marble/23e:                            624       272
+:bitmap/matt/09 - Marble/23e:                            592       304
+:bitmap/matt/09 - Marble/23e:                            624       304
+:bitmap/matt/09 - Marble/23e:                            592       336
+:bitmap/matt/09 - Marble/23e:                            624       336
+:bitmap/matt/09 - Marble/23e:                            592       368
+:bitmap/matt/09 - Marble/23e:                            624       368
+:bitmap/matt/09 - Marble/23e:                            656       272
+:bitmap/matt/09 - Marble/23e:                            688       272
+:bitmap/matt/09 - Marble/23e:                            656       304
+:bitmap/matt/09 - Marble/23e:                            688       304
+:bitmap/matt/09 - Marble/23e:                            656       336
+:bitmap/matt/09 - Marble/23e:                            688       336
+:bitmap/matt/09 - Marble/23e:                            656       368
+:bitmap/matt/09 - Marble/23e:                            688       368
+:bitmap/matt/09 - Marble/23e:                            720       272
+:bitmap/matt/09 - Marble/23e:                            752       272
+:bitmap/matt/09 - Marble/23e:                            720       304
+:bitmap/matt/09 - Marble/23e:                            752       304
+:bitmap/matt/09 - Marble/23e:                            720       336
+:bitmap/matt/09 - Marble/23e:                            752       336
+:bitmap/matt/09 - Marble/23e:                            720       368
+:bitmap/matt/09 - Marble/23e:                            752       368
+:bitmap/matt/04 - Sandy Beach/Sand Decor/grass07:        672       328
+:bitmap/matt/04 - Sandy Beach/Daytime Sand/06:           544       336
+:bitmap/matt/09 - Marble/23e:                            528       208
+:bitmap/matt/09 - Marble/23e:                            560       208
+:bitmap/matt/09 - Marble/23e:                            528       240
+:bitmap/matt/09 - Marble/23e:                            560       240
+:bitmap/matt/09 - Marble/23e:                            592       208
+:bitmap/matt/09 - Marble/23e:                            624       208
+:bitmap/matt/09 - Marble/23e:                            592       240
+:bitmap/matt/09 - Marble/23e:                            624       240
+:bitmap/matt/09 - Marble/23e:                            656       208
+:bitmap/matt/09 - Marble/23e:                            688       208
+:bitmap/matt/09 - Marble/23e:                            656       240
+:bitmap/matt/09 - Marble/23e:                            688       240
+:bitmap/matt/09 - Marble/23e:                            720       208
+:bitmap/matt/09 - Marble/23e:                            752       208
+:bitmap/matt/09 - Marble/23e:                            720       240
+:bitmap/matt/09 - Marble/23e:                            752       240
+:bitmap/matt/09 - Marble/16:                             768        32
+:bitmap/matt/09 - Marble/16:                             800        64
+:bitmap/matt/09 - Marble/05:                             768        64
+:bitmap/matt/09 - Marble/06b:                            848        80
+:bitmap/matt/09 - Marble/06b:                            848        16
+:bitmap/matt/09 - Marble/06b:                            848       -48
+:bitmap/matt/09 - Marble/21b:                            464         0
+:bitmap/matt/09 - Marble/21b:                            528         0
+:bitmap/matt/09 - Marble/21b:                            336         0
+:bitmap/matt/09 - Marble/21b:                            400         0
+:bitmap/matt/09 - Marble/21b:                            720         0
+:bitmap/matt/09 - Marble/21b:                            784         0
+:bitmap/matt/09 - Marble/21b:                            592         0
+:bitmap/matt/09 - Marble/21b:                            656         0
+:bitmap/geoo/steel/64x64o.S:                             880         0
+:bitmap/geoo/steel/64x64o.S:                             880        64
+:bitmap/geoo/steel/64x64o.S:                             880       128
+:bitmap/geoo/steel/64x64o.S:                             880       192
+:bitmap/geoo/steel/64x64o.S:                             880       256
+:bitmap/geoo/steel/64x64o.S:                             880       336
+:bitmap/matt/04 - Sandy Beach/Daytime Sand/13:           480       336
+:bitmap/geoo/steel/64x64o.S:                             576       336     d
+:bitmap/geoo/steel/32x64o.S:                             544       336
+:bitmap/geoo/steel/64x32o.S:                             544       304
+:bitmap/matt/09 - Marble/23e:                            432       208
+:bitmap/matt/09 - Marble/23e:                            432       240
+:bitmap/matt/09 - Marble/23e:                            464       208
+:bitmap/matt/09 - Marble/23e:                            496       208
+:bitmap/matt/09 - Marble/23e:                            464       240
+:bitmap/matt/09 - Marble/23e:                            496       240
+:bitmap/geoo/steel/32x64o.S:                             752       272
+:bitmap/geoo/steel/32x64o.S:                             752       208
+:bitmap/matt/09 - Marble/01b:                            432       304
+:bitmap/matt/09 - Marble/01b:                            448       304
+:bitmap/matt/09 - Marble/01b:                            464       304
+:bitmap/matt/09 - Marble/01b:                            480       304
+:bitmap/matt/09 - Marble/01b:                            496       304
+:bitmap/matt/09 - Marble/01b:                            512       304
+:bitmap/geoo/steel/64x64o.S:                             368       192
+:bitmap/geoo/steel/64x64o.S:                             368       256
+:bitmap/geoo/steel/64x32o.S:                             432       192
+:bitmap/geoo/steel/64x32o.S:                             496       192
+:bitmap/geoo/steel/64x32o.S:                             560       192
+:bitmap/geoo/steel/64x32o.S:                             624       192
+:bitmap/geoo/steel/64x32o.S:                             688       192
+:bitmap/matt/04 - Sandy Beach/Daytime Sand/14:           296       -24     rr
+:bitmap/matt/09 - Marble/09b:                            256       336
+:bitmap/matt/04 - Sandy Beach/Daytime Sand/13:           -24       336
+:bitmap/matt/09 - Marble/03:                             472        16
+:bitmap/matt/09 - Marble/02e:                            496        16
+:bitmap/matt/09 - Marble/02e:                            416        16
+:bitmap/geoo/steel/64x32o.S:                             752       192
+:bitmap/matt/04 - Sandy Beach/Daytime Sand/14:            40       344
+:bitmap/matt/04 - Sandy Beach/Daytime Sand/06:           112       -72     rr
+:bitmap/matt/04 - Sandy Beach/Daytime Sand/14:           232       -56     rr
+:bitmap/matt/09 - Marble/09b:                            320       336
+:bitmap/matt/09 - Marble/09b:                            192       336
+:bitmap/matt/09 - Marble/09b:                            192       272
+:bitmap/matt/09 - Marble/22c:                             48         0     rrr
+:bitmap/matt/04 - Sandy Beach/Daytime Sand/14:           264       -32     rr
+:bitmap/matt/09 - Marble/18a:                             72        80
+:bitmap/matt/09 - Marble/18a:                            136        16
+:bitmap/matt/09 - Marble/18a:                            136        80     rrr
+:bitmap/matt/09 - Marble/18a:                             72        16     rrr
+:bitmap/matt/04 - Sandy Beach/Daytime Sand/03:            32       -24     rr
+:bitmap/geoo/steel/32x16o.S:                             880       320
+:bitmap/geoo/steel/32x16o.S:                             912       320
+:bitmap/matt/09 - Marble/03:                             496        32

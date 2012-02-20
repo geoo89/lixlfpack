@@ -1,0 +1,93 @@
+$BUILT                                             2012-02-06 16:33:48
+$AUTHOR                                                           geoo
+$GERMAN                                                               
+$ENGLISH                                                      Downpour
+
+#SIZE_X                                                            640
+#SIZE_Y                                                            256
+#TORUS_X                                                             0
+#TORUS_Y                                                             1
+#START_X                                                             0
+#START_Y                                                            92
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                    0
+#BACKGROUND_BLUE                                                     0
+
+#SECONDS                                                             0
+#INITIAL                                                           140
+#REQUIRED                                                           40
+#SPAWN_INTERVAL                                                      1
+
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#JUMPER                                                             -1
+#EXPLODER2                                                          -1
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+
+:bitmap/geoo/construction/Hatch.H:                       256        32
+:bitmap/geoo/construction/Hatch.H:                       320        32
+:bitmap/geoo/construction/Hatch.H:                       384        32
+:bitmap/geoo/construction/Hatch.H:                       256        32
+:bitmap/geoo/construction/Hatch.H:                       320        32
+:bitmap/geoo/construction/Hatch.H:                       384        32
+:bitmap/geoo/construction/Hatch.H:                        16         0
+
+:bitmap/geoo/abstract/goal.G:                            544        80
+:bitmap/geoo/abstract/goal.G:                            544       208
+
+:bitmap/geoo/abstract/tbeam_down.T:                      448         0
+:bitmap/geoo/abstract/tbeam_down.T:                      448        32
+:bitmap/geoo/abstract/tbeam_down.T:                      448        64
+:bitmap/geoo/abstract/tbeam_down.T:                      448       128
+:bitmap/geoo/abstract/tbeam_down.T:                      448       160
+:bitmap/geoo/abstract/tbeam_down.T:                      448       192
+:bitmap/geoo/abstract/tbeam_right.T:                     448       192
+:bitmap/geoo/abstract/tbeam_right.T:                     448       160
+:bitmap/geoo/abstract/tbeam_right.T:                     448       128
+:bitmap/geoo/abstract/tbeam_right.T:                     448        64
+:bitmap/geoo/abstract/tbeam_right.T:                     448        32
+:bitmap/geoo/abstract/tbeam_right.T:                     448         0
+:bitmap/geoo/abstract/tbeam_up.T:                        448       224
+:bitmap/geoo/abstract/tbeam_right.T:                     448       224
+:bitmap/geoo/abstract/tbeam_up.T:                        448        96
+:bitmap/geoo/abstract/tbeam_right.T:                     448        96
+:bitmap/geoo/abstract/tbeam_left.T:                       48         0
+:bitmap/geoo/abstract/tbeam_left.T:                       80         0
+:bitmap/geoo/abstract/tbeam_left.T:                      112         0
+:bitmap/geoo/abstract/tbeam_left.T:                      144         0
+:bitmap/geoo/abstract/tbeam_left.T:                      176         0
+
+:bitmap/geoo/abstract/pipes/central5:                      0        80
+:bitmap/geoo/abstract/pipes/central5:                     32        80
+:bitmap/geoo/abstract/pipes/central5:                     64        80
+:bitmap/geoo/abstract/pipes/central5:                     96        80
+:bitmap/geoo/abstract/pipes/central5:                    160        80
+:bitmap/geoo/abstract/pipes/endr5:                       192        80
+:bitmap/geoo/abstract/pipes/central5:                    488       128
+:bitmap/geoo/abstract/pipes/central5:                    520       128
+:bitmap/geoo/abstract/pipes/central5:                    552       128
+:bitmap/geoo/abstract/pipes/endr5:                       480       128     frr
+:bitmap/geoo/abstract/pipes/central5:                    584       128
+:bitmap/geoo/abstract/pipes/central5:                    616       128
+:bitmap/geoo/abstract/pipes/central5:                    488         0
+:bitmap/geoo/abstract/pipes/central5:                    520         0
+:bitmap/geoo/abstract/pipes/central5:                    552         0
+:bitmap/geoo/abstract/pipes/endr5:                       480         0     frr
+:bitmap/geoo/abstract/pipes/central5:                    584         0
+:bitmap/geoo/abstract/pipes/central5:                    616         0
+:bitmap/geoo/abstract/pipes/central5:                    128        80
+:bitmap/geoo/abstract/pipes/endr5:                       204         0     rrr
+:bitmap/geoo/abstract/pipes/endr5:                       204        24     r
+:bitmap/geoo/abstract/pipes/cshort5:                     204         8     rrr
+:bitmap/geoo/abstract/pipes/cshort5:                     204        16     rrr
+:bitmap/geoo/abstract/pipes/cshort5:                       0        72     rrr
+:bitmap/geoo/abstract/pipes/ends5:                         0        64     r
+:bitmap/geoo/abstract/pipes/cshort5:                      56        72     rrr
+:bitmap/geoo/abstract/pipes/ends5:                        56        64     r
