@@ -1,4 +1,4 @@
-$BUILT                                             2012-01-31 23:53:07
+$BUILT                                             2012-02-21 14:45:29
 $AUTHOR                                                           geoo
 $GERMAN                                                               
 $ENGLISH                                 Buy one get one free (Part 1)
@@ -34,8 +34,12 @@ $ENGLISH                                 Buy one get one free (Part 1)
 :bitmap/geoo/abstract/hatch.H:                           144       208
 :bitmap/geoo/abstract/hatch.H:                           224        80
 
+:bitmap/geoo/abstract/goal.G:                            308       108
+:bitmap/geoo/abstract/goal.G:                            300       108
+:bitmap/geoo/abstract/goal.G:                            306       106
 :bitmap/geoo/abstract/goal.G:                             48       104
 :bitmap/geoo/abstract/goal.G:                            560       104
+:bitmap/geoo/abstract/goal.G:                            302       106
 :bitmap/geoo/abstract/goal.G:                            304       104
 
 :bitmap/matt/03 - Carnival/25:                           224       224

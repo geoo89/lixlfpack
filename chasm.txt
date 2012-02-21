@@ -1,0 +1,199 @@
+$BUILT                                             2012-02-09 18:46:16
+$AUTHOR                                                   Insane Steve
+$GERMAN                                                               
+$ENGLISH                                                         Chasm
+
+#SIZE_X                                                            960
+#SIZE_Y                                                            400
+#TORUS_X                                                             0
+#TORUS_Y                                                             0
+#START_X                                                             0
+#START_Y                                                           -20
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                    0
+#BACKGROUND_BLUE                                                     0
+
+#SECONDS                                                             0
+#INITIAL                                                            50
+#REQUIRED                                                           45
+#SPAWN_INTERVAL                                                     32
+
+#WALKER                                                              5
+#JUMPER                                                              5
+#CLIMBER                                                            25
+#FLOATER                                                             5
+#EXPLODER2                                                           2
+#CUBER                                                               5
+#RUNNER                                                              5
+#BUILDER                                                             0
+#PLATFORMER                                                          0
+#BASHER                                                              0
+#MINER                                                               0
+#DIGGER                                                              2
+
+:bitmap/geoo/abstract/hatch.H:                           112       304
+:bitmap/geoo/abstract/hatch.H:                           688       144
+
+:bitmap/geoo/abstract/goal.G:                             16       320
+:bitmap/geoo/abstract/goal.G:                            776        56
+
+:bitmap/geoo/abstract/cvblocks/035:                      160       368
+:bitmap/geoo/abstract/cvblocks/030:                      256        48
+:bitmap/geoo/abstract/cvblocks/030:                      256        80
+:bitmap/geoo/abstract/cvblocks/030:                      256       112
+:bitmap/geoo/abstract/cvblocks/030:                      256       144
+:bitmap/geoo/abstract/cvblocks/030:                      256       176
+:bitmap/geoo/abstract/cvblocks/030:                      256       208
+:bitmap/geoo/abstract/cvblocks/030:                      256       240
+:bitmap/geoo/abstract/cvblocks/030:                      256       272
+:bitmap/geoo/abstract/cvblocks/030:                      256       304
+:bitmap/geoo/abstract/cvblocks/030:                      256       336
+:bitmap/geoo/abstract/cvblocks/033:                      160        48
+:bitmap/geoo/abstract/cvblocks/035:                       96       368
+:bitmap/geoo/steel/32x32o.S:                             576       328
+:bitmap/geoo/steel/32x32o.S:                             608       328
+:bitmap/geoo/steel/32x32o.S:                             712       328
+:bitmap/geoo/steel/32x32o.S:                             576       296
+:bitmap/geoo/steel/32x32o.S:                             608       296
+:bitmap/geoo/steel/32x32o.S:                             576       264
+:bitmap/geoo/steel/32x32o.S:                             608       264
+:bitmap/geoo/steel/32x32o.S:                             576       232
+:bitmap/geoo/steel/32x32o.S:                             608       232
+:bitmap/geoo/steel/32x32o.S:                             576       200
+:bitmap/geoo/abstract/cvblocks/030:                       64       368
+:bitmap/geoo/abstract/cvblocks/030:                       32       368
+:bitmap/geoo/abstract/cvblocks/030:                        0       368
+:bitmap/geoo/steel/32x32o.S:                             712       296
+:bitmap/geoo/steel/32x32o.S:                             712       264
+:bitmap/geoo/steel/32x32o.S:                             712       232
+:bitmap/geoo/steel/32x32o.S:                             712       200
+:bitmap/geoo/steel/32x32o.S:                             608       200
+:bitmap/geoo/steel/32x32o.S:                             576       168
+:bitmap/geoo/steel/32x32o.S:                             608       168
+:bitmap/geoo/steel/32x32o.S:                             576       136
+:bitmap/geoo/steel/32x32o.S:                             608       136
+:bitmap/geoo/steel/32x32o.S:                             576       104
+:bitmap/geoo/steel/32x32o.S:                             608       104
+:bitmap/geoo/steel/32x32o.S:                             744       328
+:bitmap/geoo/steel/32x32o.S:                             744       296
+:bitmap/geoo/steel/32x32o.S:                             744       264
+:bitmap/geoo/steel/32x32o.S:                             744       232
+:bitmap/geoo/steel/32x32o.S:                             744       200
+:bitmap/geoo/steel/32x32o.S:                             776       328
+:bitmap/geoo/steel/32x32o.S:                             776       296
+:bitmap/geoo/steel/32x32o.S:                             776       264
+:bitmap/geoo/steel/32x32o.S:                             776       232
+:bitmap/geoo/steel/32x32o.S:                             776       200
+:bitmap/geoo/steel/32x32o.S:                             808       328
+:bitmap/geoo/steel/32x32o.S:                             808       296
+:bitmap/geoo/steel/32x32o.S:                             808       264
+:bitmap/geoo/steel/32x32o.S:                             808       232
+:bitmap/geoo/steel/32x32o.S:                             808       200
+:bitmap/geoo/steel/32x32o.S:                             776       168
+:bitmap/geoo/steel/32x32o.S:                             776       136
+:bitmap/geoo/steel/32x32o.S:                             672       104
+:bitmap/geoo/steel/32x32o.S:                             640       104
+:bitmap/geoo/steel/32x32o.S:                             808       168
+:bitmap/geoo/steel/32x32o.S:                             808       136
+:bitmap/geoo/steel/32x32o.S:                             680       328
+:bitmap/geoo/steel/32x32o.S:                             680       296
+:bitmap/geoo/steel/32x32o.S:                             680       264
+:bitmap/geoo/steel/32x32o.S:                             680       232
+:bitmap/geoo/steel/32x32o.S:                             680       200
+:bitmap/geoo/steel/32x32o.S:                             648       328
+:bitmap/geoo/steel/32x32o.S:                             648       296
+:bitmap/geoo/steel/32x32o.S:                             648       264
+:bitmap/geoo/steel/32x32o.S:                             648       232
+:bitmap/geoo/steel/32x32o.S:                             648       200
+:bitmap/geoo/abstract/cvblocks/030:                      224        48
+:bitmap/geoo/abstract/cvblocks/030:                      192        48
+:bitmap/geoo/abstract/cvblocks/030:                      192        80
+:bitmap/geoo/abstract/cvblocks/030:                      192       112
+:bitmap/geoo/abstract/cvblocks/030:                      192       144
+:bitmap/geoo/abstract/cvblocks/030:                      192       176
+:bitmap/geoo/abstract/cvblocks/030:                      192       208
+:bitmap/geoo/abstract/cvblocks/030:                      192       240
+:bitmap/geoo/abstract/cvblocks/030:                      192       272
+:bitmap/geoo/abstract/cvblocks/030:                      192       304
+:bitmap/geoo/abstract/cvblocks/030:                      192       336
+:bitmap/geoo/steel/32x32o.S:                             224       336
+:bitmap/geoo/steel/32x32o.S:                             224       304
+:bitmap/geoo/steel/32x32o.S:                             224       272
+:bitmap/geoo/steel/32x32o.S:                             224       240
+:bitmap/geoo/steel/32x32o.S:                             224       208
+:bitmap/geoo/steel/32x32o.S:                             224       176
+:bitmap/geoo/steel/32x32o.S:                             224       144
+:bitmap/geoo/steel/32x32o.S:                             224       112
+:bitmap/geoo/steel/32x32o.S:                             224        80
+:bitmap/geoo/abstract/cvblocks/030:                      256       368
+:bitmap/geoo/steel/32x32o.S:                             224       368
+:bitmap/geoo/abstract/cvblocks/032:                      288       368
+:bitmap/geoo/steel/32x32o.S:                             704       104
+:bitmap/geoo/steel/32x32o.S:                             808       104
+:bitmap/geoo/abstract/cvblocks/030:                      744       104
+:bitmap/geoo/steel/32x32o.S:                             808        72
+:bitmap/geoo/steel/32x32o.S:                             800       368
+:bitmap/geoo/steel/32x32o.S:                             832       368
+:bitmap/geoo/steel/32x32o.S:                             864       368
+:bitmap/geoo/steel/32x32o.S:                             896       368
+:bitmap/geoo/steel/32x32o.S:                             768       368
+:bitmap/geoo/steel/32x32o.S:                             736       368
+:bitmap/geoo/steel/32x32o.S:                             608       368
+:bitmap/geoo/steel/32x32o.S:                             640       368
+:bitmap/geoo/steel/32x32o.S:                             672       368
+:bitmap/geoo/steel/32x32o.S:                             704       368
+:bitmap/geoo/steel/32x32o.S:                             576       368
+:bitmap/geoo/steel/32x32o.S:                             928       368
+:bitmap/geoo/steel/32x32o.S:                             928       336
+:bitmap/geoo/steel/32x32o.S:                             928       304
+:bitmap/geoo/steel/32x32o.S:                             896       336
+:bitmap/geoo/steel/32x32o.S:                             896       304
+:bitmap/geoo/steel/32x32o.S:                             864       336
+:bitmap/geoo/steel/32x32o.S:                             864       304
+:bitmap/geoo/steel/32x32o.S:                             928       272
+:bitmap/geoo/steel/32x32o.S:                             928       240
+:bitmap/geoo/steel/32x32o.S:                             896       272
+:bitmap/geoo/steel/32x32o.S:                             896       240
+:bitmap/geoo/steel/32x32o.S:                             864       272
+:bitmap/geoo/steel/32x32o.S:                             864       240
+:bitmap/geoo/steel/32x32o.S:                             928       208
+:bitmap/geoo/steel/32x32o.S:                             928       176
+:bitmap/geoo/steel/32x32o.S:                             896       208
+:bitmap/geoo/steel/32x32o.S:                             896       176
+:bitmap/geoo/steel/32x32o.S:                             864       208
+:bitmap/geoo/steel/32x32o.S:                             864       176
+:bitmap/geoo/steel/32x32o.S:                             928       144
+:bitmap/geoo/steel/32x32o.S:                             928       112
+:bitmap/geoo/steel/32x32o.S:                             896       144
+:bitmap/geoo/steel/32x32o.S:                             896       112
+:bitmap/geoo/steel/32x32o.S:                             864       144
+:bitmap/geoo/steel/32x32o.S:                             864       112
+:bitmap/geoo/steel/32x32o.S:                             928        80
+:bitmap/geoo/steel/32x32o.S:                             928        48
+:bitmap/geoo/steel/32x32o.S:                             896        80
+:bitmap/geoo/steel/32x32o.S:                             896        48
+:bitmap/geoo/steel/32x32o.S:                             864        80
+:bitmap/geoo/steel/32x32o.S:                             864        48
+:bitmap/geoo/steel/32x32o.S:                             928        16
+:bitmap/geoo/steel/32x32o.S:                             896        16
+:bitmap/geoo/steel/32x32o.S:                             864        16
+:bitmap/geoo/steel/32x32o.S:                             928       -16
+:bitmap/geoo/steel/32x32o.S:                             896       -16
+:bitmap/geoo/steel/32x32o.S:                             864       -16
+:bitmap/geoo/steel/32x16o.S:                             648       184
+:bitmap/geoo/steel/32x16o.S:                             680       184
+:bitmap/geoo/steel/32x16o.S:                             712       184
+:bitmap/geoo/steel/32x16o.S:                             744       184
+:bitmap/geoo/steel/32x32o.S:                             776       104
+:bitmap/geoo/steel/32x16o.S:                             776        48
+:bitmap/geoo/steel/32x16o.S:                             744        48
+:bitmap/geoo/steel/32x16o.S:                             704        48
+:bitmap/geoo/steel/32x16o.S:                             672        48
+:bitmap/geoo/steel/32x16o.S:                             808        56
+:bitmap/geoo/steel/32x16o.S:                             640        48
+:bitmap/geoo/steel/32x16o.S:                             608        48
+:bitmap/geoo/steel/32x16o.S:                             576        48
+:bitmap/geoo/steel/32x16o.S:                             712        48
+:bitmap/geoo/steel/32x32o.S:                             712       104
+:bitmap/geoo/steel/32x16o.S:                             544        48
+:bitmap/geoo/steel/16x16o.S:                             528        48
