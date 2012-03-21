@@ -1,0 +1,128 @@
+$BUILT                                             2012-02-25 16:26:32
+$AUTHOR                                                             TM
+$GERMAN                                                   Folterkammer
+$ENGLISH                                               Torture Chamber
+
+#SIZE_X                                                            944
+#SIZE_Y                                                            400
+#TORUS_X                                                             0
+#TORUS_Y                                                             0
+#START_X                                                           -16
+#START_Y                                                           -20
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                    0
+#BACKGROUND_BLUE                                                     0
+
+#SECONDS                                                             0
+#INITIAL                                                            20
+#REQUIRED                                                           20
+#SPAWN_INTERVAL                                                     15
+
+#CLIMBER                                                             1
+#FLOATER                                                             1
+#BLOCKER                                                             1
+#BUILDER                                                             1
+#NOTHING                                                             0
+#BASHER                                                              1
+#DIGGER                                                              2
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+
+:bitmap/matt/07 - Underworld/Hatch.H:                    416         8
+
+:bitmap/matt/07 - Underworld/Goal.G:                     736       272
+
+:bitmap/matt/07 - Underworld/Lava.W:                     416       136
+:bitmap/matt/07 - Underworld/Lava.W:                     464       136
+:bitmap/matt/07 - Underworld/Lava.W:                     512       136
+:bitmap/matt/07 - Underworld/Lava.W:                     560       136
+:bitmap/matt/07 - Underworld/Lava.W:                     608       136
+:bitmap/geoo/construction/sawblade.F:                    248       104
+:bitmap/matt/07 - Underworld/Lava.W:                     368       136
+:bitmap/geoo/sandstone/brazier.F:                        640       112
+:bitmap/geoo/sandstone/brazier.F:                        336       192
+:bitmap/geoo/sandstone/brazier.F:                        176       192
+:bitmap/geoo/construction/sawblade.F:                     88       368
+:bitmap/geoo/sandstone/brazier.F:                        696       176
+:bitmap/geoo/sandstone/brazier.F:                        712       176
+:bitmap/geoo/sandstone/brazier.F:                        728       176
+:bitmap/geoo/sandstone/brazier.F:                        744       176
+:bitmap/geoo/sandstone/brazier.F:                        760       176
+:bitmap/geoo/sandstone/brazier.F:                        776       176
+:bitmap/geoo/sandstone/brazier.F:                        792       176
+:bitmap/geoo/sandstone/brazier.F:                        808       176
+:bitmap/geoo/sandstone/brazier.F:                        680       176
+:bitmap/geoo/construction/sawblade.F:                    840       368
+:bitmap/geoo/sandstone/brazier.F:                        664       176
+:bitmap/geoo/sandstone/brazier.F:                        824       176
+:bitmap/geoo/sandstone/brazier.F:                        840       176
+
+:bitmap/matt/07 - Underworld/thinplatform64:     690        16     rrr
+:bitmap/matt/07 - Underworld/thinplatform128:    770       116
+:bitmap/matt/07 - Underworld/thinplatform128:    746       116
+:bitmap/matt/07 - Underworld/thinplatform64:     722        16     rrr
+:bitmap/matt/07 - Underworld/thinplatform64:     752        16     rrr
+:bitmap/matt/07 - Underworld/thinplatform64:     782        16     rrr
+:bitmap/matt/07 - Underworld/thinplatform128:    704       240
+:bitmap/matt/07 - Underworld/thinplatform128:    798        66
+:bitmap/matt/07 - Underworld/00:                          96       384
+:bitmap/matt/07 - Underworld/02:                         336        88
+:bitmap/matt/07 - Underworld/00:                         336       184
+:bitmap/matt/07 - Underworld/01:                         400        88
+:bitmap/matt/07 - Underworld/01:                         464        88
+:bitmap/matt/07 - Underworld/02:                         144        88
+:bitmap/matt/07 - Underworld/00:                         144       184
+:bitmap/matt/07 - Underworld/00:                         464       184
+:bitmap/matt/07 - Underworld/00:                         528       184
+:bitmap/matt/07 - Underworld/00:                         592       184
+:bitmap/matt/07 - Underworld/00:                         400       184
+:bitmap/matt/07 - Underworld/02:                         160       336
+:bitmap/geoo/steel/dark_32x64o.S:                        336       136
+:bitmap/matt/07 - Underworld/02:                         224       336
+:bitmap/matt/07 - Underworld/02:                         288       336
+:bitmap/matt/07 - Underworld/02:                         352       336
+:bitmap/matt/07 - Underworld/02:                         416       336
+:bitmap/matt/07 - Underworld/02:                         480       336
+:bitmap/matt/07 - Underworld/02:                         544       336
+:bitmap/matt/07 - Underworld/02:                         608       336
+:bitmap/matt/07 - Underworld/02:                         672       336
+:bitmap/matt/07 - Underworld/02:                         736       336
+:bitmap/matt/07 - Underworld/02:                         800       384
+:bitmap/matt/07 - Underworld/02:                         864       384
+:bitmap/matt/07 - Underworld/00:                          32       384
+:bitmap/matt/07 - Underworld/thinplatform128:    208       198
+:bitmap/geoo/steel/dark_32x64o.S:                        176       136
+:bitmap/geoo/steel/dark_32x64o.S:                         32       320
+:bitmap/geoo/steel/dark_32x64o.S:                         32       256
+:bitmap/geoo/steel/dark_32x64o.S:                         32       192
+:bitmap/matt/02 - Gold Mine/crate64:                     368       120     d
+:bitmap/geoo/steel/dark_32x64o.S:                        640       136
+:bitmap/geoo/steel/dark_32x64o.S:                        896       320
+:bitmap/geoo/steel/dark_32x64o.S:                        896       256
+:bitmap/geoo/steel/dark_32x64o.S:                        896       192
+:bitmap/geoo/steel/dark_64x32o.S:                        368        88
+:bitmap/geoo/steel/dark_64x32o.S:                        432        88
+:bitmap/geoo/steel/dark_32x32o.S:                        336        88
+:bitmap/geoo/steel/dark_64x32o.S:                        496        88
+:bitmap/matt/07 - Underworld/08:                          44       -88     rr
+:bitmap/matt/07 - Underworld/08:                         114       -98
+:bitmap/matt/07 - Underworld/thinplatform128:    768       240
+:bitmap/matt/07 - Underworld/01:                         560        88
+:bitmap/matt/07 - Underworld/01:                         560        56
+:bitmap/matt/07 - Underworld/01:                         624        88
+:bitmap/matt/07 - Underworld/01:                         624        56
+:bitmap/matt/07 - Underworld/01:                         688        88
+:bitmap/matt/07 - Underworld/01:                         688        56
+:bitmap/matt/08 - Bricks/06:                             560        24     d
+:bitmap/geoo/steel/dark_32x64o.S:                        752        56
+:bitmap/matt/07 - Underworld/thinplatform128:    926        64     rrr
+:bitmap/matt/07 - Underworld/thinplatform16:     912        16
+:bitmap/matt/07 - Underworld/thinplatform128:    926        16     rrr
+:bitmap/matt/07 - Underworld/thinplatform64:     782        16
+:bitmap/matt/07 - Underworld/thinplatform64:     804        16
+:bitmap/geoo/steel/dark_32x32o.S:                        792        48     d
+:bitmap/geoo/steel/dark_32x16o.S:                        720        56
+:bitmap/geoo/steel/dark_32x16o.S:                        688        56

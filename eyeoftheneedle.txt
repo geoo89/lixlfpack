@@ -1,4 +1,4 @@
-$BUILT                                             2012-02-21 15:35:00
+$BUILT                                             2012-03-06 15:31:34
 $AUTHOR                                                             TM
 $GERMAN                                                       Nadelohr
 $ENGLISH                                             Eye of the Needle
@@ -17,10 +17,11 @@ $ENGLISH                                             Eye of the Needle
 #INITIAL                                                            10
 #REQUIRED                                                            7
 #SPAWN_INTERVAL                                                     50
+#SPAWN_INTERVAL_FAST                                                 4
 
 #CLIMBER                                                            10
 #FLOATER                                                             1
-#RUNNER                                                              1
+#RUNNER                                                              2
 #EXPLODER                                                            2
 #BLOCKER                                                             1
 #PLATFORMER                                                          3
@@ -33,7 +34,7 @@ $ENGLISH                                             Eye of the Needle
 
 :bitmap/simon/hatch001.H:                               1064       198     r
 
-:bitmap/geoo/abstract/goal.G:                            170       212
+:bitmap/geoo/abstract/goal.G:                            170       210
 
 :bitmap/geoo/construction/sawblade_small.F:              920        32
 
@@ -42,36 +43,42 @@ $ENGLISH                                             Eye of the Needle
 :bitmap/geoo/steel/64x64o.S:                             968       304
 :bitmap/geoo/steel/64x64o.S:                             968       240
 :bitmap/geoo/construction/concrete/128:                  840       240
-:bitmap/geoo/steel/64x64o.S:                             840       176
-:bitmap/geoo/steel/64x64o.S:                             840       112
-:bitmap/geoo/steel/64x64o.S:                             840        48
-:bitmap/geoo/steel/64x64o.S:                             668       260
-:bitmap/geoo/steel/64x64o.S:                             348       260
+:bitmap/geoo/steel/64x64o.S:                             840       174
+:bitmap/geoo/steel/64x64o.S:                             840       110
+:bitmap/geoo/steel/64x64o.S:                             840        46
+:bitmap/geoo/steel/64x64o.S:                             668       258
+:bitmap/geoo/steel/64x64o.S:                             348       258
 :bitmap/geoo/construction/wall/big_128x128:             1064         0
 :bitmap/geoo/construction/wall/big_128x128:             1064        64
-:bitmap/geoo/construction/concrete/064:                  968       176
-:bitmap/geoo/construction/concrete/064:                  968       112
-:bitmap/geoo/construction/concrete/064:                  968        48
-:bitmap/geoo/steel/64x64o.S:                             732       260
-:bitmap/geoo/construction/wall/small_64x64:              776        48
-:bitmap/geoo/construction/wall/small_64x64:              712        48
-:bitmap/geoo/construction/wall/small_64x64:              648        48
-:bitmap/geoo/steel/64x64o.S:                             284       260
-:bitmap/geoo/steel/64x64o.S:                             220       260
-:bitmap/geoo/steel/64x64o.S:                             156       260
+:bitmap/geoo/construction/concrete/064:                  968       174
+:bitmap/geoo/construction/concrete/064:                  968       110
+:bitmap/geoo/construction/concrete/064:                  968        46
+:bitmap/geoo/steel/64x64o.S:                             732       258
+:bitmap/geoo/construction/wall/small_64x64:              776        46
+:bitmap/geoo/construction/wall/small_64x64:              712        46
+:bitmap/geoo/construction/wall/small_64x64:              648        46
+:bitmap/geoo/steel/64x64o.S:                             284       258
+:bitmap/geoo/steel/64x64o.S:                             220       258
+:bitmap/geoo/steel/64x64o.S:                             156       258
 :bitmap/geoo/construction/wall/big_brick3:                72         0
 :bitmap/geoo/construction/wall/big_brick2:               120        32
 :bitmap/geoo/construction/wall/big_brick2:               104        64
 :bitmap/geoo/construction/wall/big_brick2:                56        32
 :bitmap/geoo/construction/wall/big_brick2:                88        96
 :bitmap/geoo/construction/wall/big_brick2:               120       128
-:bitmap/geoo/construction/wall/small_64x64:              584        48
+:bitmap/geoo/construction/wall/small_64x64:              584        46
 :bitmap/geoo/construction/wall/big_brick2:                24       304
 :bitmap/geoo/construction/wall/big_brick2:                48       336
 :bitmap/geoo/construction/wall/big_brick2:                40       368
-:bitmap/geoo/steel/64x64o.S:                             604       260
-:bitmap/geoo/steel/64x64o.S:                             540       260
-:bitmap/geoo/construction/wall/small_64x64:              520        48
-:bitmap/geoo/construction/wall/small_64x64:              456        48
-:bitmap/geoo/steel/64x64o.S:                             476       260
-:bitmap/geoo/steel/64x64o.S:                             412       260
+:bitmap/geoo/steel/64x64o.S:                             604       258
+:bitmap/geoo/steel/64x64o.S:                             540       258
+:bitmap/geoo/construction/wall/small_64x64:              520        46
+:bitmap/geoo/construction/wall/small_64x64:              456        46
+:bitmap/geoo/steel/64x64o.S:                             476       258
+:bitmap/geoo/steel/64x64o.S:                             412       258
+:bitmap/geoo/construction/platform.S:                    968       238
+:bitmap/geoo/construction/platform.S:                   1000       238
+:bitmap/geoo/construction/platform.S:                    840       238
+:bitmap/geoo/construction/platform.S:                    872       238
+:bitmap/geoo/construction/platformbrick:                 904       238
+:bitmap/geoo/construction/platformbrick:                 936       238

@@ -1,0 +1,119 @@
+$BUILT                                             2012-03-18 16:02:45
+$AUTHOR                                                   Insane Steve
+$GERMAN                                                               
+$ENGLISH                                     Infrastructure Budget Cut
+
+#SIZE_X                                                            640
+#SIZE_Y                                                            400
+#TORUS_X                                                             0
+#TORUS_Y                                                             0
+#START_X                                                             0
+#START_Y                                                             0
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                    0
+#BACKGROUND_BLUE                                                     0
+
+#SECONDS                                                             0
+#INITIAL                                                            50
+#REQUIRED                                                           49
+#SPAWN_INTERVAL                                                     32
+#SPAWN_INTERVAL_FAST                                                 4
+
+#CLIMBER                                                             2
+#FLOATER                                                             2
+#EXPLODER                                                            0
+#BLOCKER                                                             2
+#BUILDER                                                             2
+#BASHER                                                              2
+#MINER                                                               0
+#DIGGER                                                              0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+
+:bitmap/matt/09 - Marble/Hatch.H:                        272        64
+
+:bitmap/matt/09 - Marble/Goal.G:                         560       176
+
+:bitmap/geoo/construction/squisher.T:                    352        96
+:bitmap/geoo/construction/squisher.T:                    384        96
+:bitmap/geoo/construction/squisher.T:                    416        96
+:bitmap/geoo/construction/squisher.T:                    448        96
+:bitmap/geoo/construction/squisher.T:                    480        96
+
+:bitmap/matt/09 - Marble/05:                             256       160
+:bitmap/matt/09 - Marble/05a:                            288       160
+:bitmap/matt/09 - Marble/05b:                            320       160
+:bitmap/matt/09 - Marble/05c:                            480       160
+:bitmap/matt/09 - Marble/05d:                            512       160
+:bitmap/matt/09 - Marble/05a:                            320       192
+:bitmap/matt/09 - Marble/05b:                            448       192
+:bitmap/matt/09 - Marble/05c:                            480       192
+:bitmap/matt/09 - Marble/05d:                            416       160
+:bitmap/matt/09 - Marble/05b:                            256       192
+:bitmap/matt/09 - Marble/05c:                            288       192
+:bitmap/matt/09 - Marble/05d:                            448       160
+:bitmap/matt/09 - Marble/05:                             352       160
+:bitmap/matt/09 - Marble/05a:                            384       160
+:bitmap/matt/09 - Marble/05b:                            512       192
+:bitmap/matt/09 - Marble/05c:                            320       224
+:bitmap/matt/09 - Marble/05d:                            128       256
+:bitmap/matt/09 - Marble/05:                             160       256
+:bitmap/matt/09 - Marble/05a:                            256       224
+:bitmap/matt/09 - Marble/05b:                            288       224
+:bitmap/matt/09 - Marble/05c:                            352       192
+:bitmap/matt/09 - Marble/05d:                            384       192
+:bitmap/matt/09 - Marble/05:                             416       192
+:bitmap/matt/09 - Marble/05a:                            512       224
+:bitmap/matt/09 - Marble/05b:                            352       224
+:bitmap/matt/09 - Marble/05c:                            384       224
+:bitmap/matt/09 - Marble/05d:                            416       224
+:bitmap/matt/09 - Marble/05:                             544       224
+:bitmap/matt/09 - Marble/05a:                            576       224
+:bitmap/matt/09 - Marble/05b:                            608       224
+:bitmap/matt/09 - Marble/09d:                            192        80
+:bitmap/matt/09 - Marble/09c:                            192       144
+:bitmap/matt/09 - Marble/09:                             192       208
+:bitmap/matt/09 - Marble/09a:                            192       272
+:bitmap/matt/09 - Marble/09b:                            192       336
+:bitmap/matt/09 - Marble/05c:                            160       224
+:bitmap/matt/09 - Marble/05a:                             96       224
+:bitmap/matt/09 - Marble/05b:                            128       224
+:bitmap/matt/09 - Marble/05c:                             96       256
+:bitmap/matt/09 - Marble/05a:                             32       256
+:bitmap/matt/09 - Marble/05b:                             64       256
+:bitmap/matt/09 - Marble/05d:                            448       224
+:bitmap/matt/09 - Marble/05:                             480       224
+:bitmap/matt/09 - Marble/15d:                             32       288
+:bitmap/matt/09 - Marble/17b:                            160       288
+:bitmap/matt/09 - Marble/05a:                              0       288
+:bitmap/matt/09 - Marble/05c:                              0       256
+:bitmap/matt/09 - Marble/05d:                              0       320
+:bitmap/matt/09 - Marble/05:                               0       352
+:bitmap/matt/09 - Marble/05d:                              0       384
+:bitmap/matt/09 - Marble/15d:                            256       256
+:bitmap/matt/09 - Marble/05:                             608       256
+:bitmap/matt/09 - Marble/05c:                            608       288
+:bitmap/matt/09 - Marble/05b:                            608       320
+:bitmap/matt/09 - Marble/05a:                            608       352
+:bitmap/matt/09 - Marble/05c:                            608       384
+:bitmap/matt/09 - Marble/17b:                            576       256
+:bitmap/matt/09 - Marble/05d:                              0       224
+:bitmap/matt/09 - Marble/05d:                             32       224
+:bitmap/matt/09 - Marble/05:                              64       224
+:bitmap/matt/09 - Marble/05b:                            448        32
+:bitmap/matt/09 - Marble/05a:                            448        64
+:bitmap/matt/09 - Marble/05b:                            384         0
+:bitmap/matt/09 - Marble/05d:                            448         0
+:bitmap/matt/09 - Marble/05d:                            480         0
+:bitmap/matt/09 - Marble/05:                             480        32
+:bitmap/matt/09 - Marble/05a:                            416         0
+:bitmap/matt/09 - Marble/05c:                            480        64
+:bitmap/matt/09 - Marble/05d:                            416        32
+:bitmap/matt/09 - Marble/05:                             352         0
+:bitmap/matt/09 - Marble/05c:                            352        32
+:bitmap/matt/09 - Marble/05a:                            384        32
+:bitmap/matt/09 - Marble/05c:                            384        64
+:bitmap/matt/09 - Marble/05b:                            352        64
+:bitmap/matt/09 - Marble/05:                             416        64

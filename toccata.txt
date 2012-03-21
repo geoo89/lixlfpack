@@ -1,4 +1,4 @@
-$BUILT                                             2012-02-13 14:53:23
+$BUILT                                             2012-02-26 18:31:36
 $AUTHOR                                                        Michael
 $GERMAN                                                               
 $ENGLISH                                                       Toccata
@@ -34,6 +34,8 @@ $ENGLISH                                                       Toccata
 :bitmap/geoo/construction/Hatch.H:                       688       528
 
 :bitmap/geoo/construction/Goal2.G:                       832       320
+
+:bitmap/geoo/construction/sawblade_small.F:              928       432
 
 :bitmap/geoo/construction/fence_rust_64x64:               52       524
 :bitmap/geoo/construction/concrete/064:                    0       576
@@ -492,7 +494,7 @@ $ENGLISH                                                       Toccata
 :bitmap/geoo/abstract/pipes/central7:                    760       480     rd
 :bitmap/geoo/construction/rod_steel/straight32.S:        764       516     rrr
 :bitmap/geoo/abstract/pipes/central7:                    760       512     rd
-:bitmap/geoo/construction/rod_steel/straight32.S:        764       548     rrr
+:bitmap/geoo/construction/rod_steel/straight32.S:        764       548     rrrn
 :bitmap/geoo/steel/dark_64x64o.S:                        768       576
 :bitmap/geoo/abstract/pipes/central7:                    760       544     rd
 :bitmap/geoo/abstract/pipes/central7:                    896       576

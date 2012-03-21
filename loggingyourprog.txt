@@ -1,0 +1,128 @@
+$BUILT                                             2012-03-07 03:53:53
+$AUTHOR                                                          Simon
+$GERMAN                                                               
+$ENGLISH                                Logging Your Progress (Part 1)
+
+#SIZE_X                                                            640
+#SIZE_Y                                                            400
+#TORUS_X                                                             0
+#TORUS_Y                                                             0
+#START_X                                                             0
+#START_Y                                                             0
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                    0
+#BACKGROUND_BLUE                                                     0
+
+#SECONDS                                                             0
+#INITIAL                                                            50
+#REQUIRED                                                           49
+#SPAWN_INTERVAL                                                      5
+#SPAWN_INTERVAL_FAST                                                 5
+
+#WALKER                                                              0
+#JUMPER                                                              0
+#CLIMBER                                                             1
+#FLOATER                                                             0
+#EXPLODER2                                                           0
+#BLOCKER                                                             1
+#BATTER                                                              2
+#BUILDER                                                             0
+#PLATFORMER                                                          0
+#BASHER                                                              0
+#MINER                                                               4
+#DIGGER                                                              0
+
+:bitmap/geoo/construction/Hatch.H:                        64       208
+
+:bitmap/simon/tapir/goal.G:                              544       248
+
+:bitmap/simon/tapir/128:                                 -80       296
+:bitmap/simon/tapir/128:                                  48       296
+:bitmap/simon/tapir/008h:                                 40       304
+:bitmap/simon/tapir/008h:                                 40       320
+:bitmap/simon/tapir/008h:                                 40       336
+:bitmap/simon/tapir/128:                                 176       296
+:bitmap/simon/tapir/008h:                                168       304
+:bitmap/simon/tapir/008h:                                168       320
+:bitmap/simon/tapir/008h:                                168       336
+:bitmap/simon/tapir/128:                                 304       296
+:bitmap/simon/tapir/008h:                                296       304
+:bitmap/simon/tapir/008h:                                296       320
+:bitmap/simon/tapir/008h:                                296       336
+:bitmap/simon/tapir/008h:                                296       352
+:bitmap/simon/tapir/008h:                                168       352
+:bitmap/simon/tapir/008h:                                 40       352
+:bitmap/simon/tapir/128:                                 432       296
+:bitmap/simon/tapir/008h:                                424       304
+:bitmap/simon/tapir/008h:                                424       320
+:bitmap/simon/tapir/008h:                                424       336
+:bitmap/simon/tapir/008h:                                424       352
+:bitmap/simon/tapir/128:                                 560       296
+:bitmap/simon/tapir/008h:                                552       304
+:bitmap/simon/tapir/008h:                                552       320
+:bitmap/simon/tapir/008h:                                552       336
+:bitmap/simon/tapir/008h:                                552       352
+:bitmap/geoo/construction/pillar_32:                     304       232     r
+:bitmap/geoo/construction/pillar_32:                     336       232     r
+:bitmap/geoo/construction/pillar_32:                     368       232     r
+:bitmap/geoo/construction/pillar_32:                     400       232     r
+:bitmap/geoo/construction/pillar_bottom:                 464       232     fr
+:bitmap/geoo/construction/pillar_bottom:                 288       232     r
+:bitmap/geoo/sandstone/pillar_32:                        216       264     fr
+:bitmap/geoo/sandstone/pillar_32:                        248       264     r
+:bitmap/geoo/sandstone/pillar_32:                        256       264     r
+:bitmap/geoo/sandstone/pillar_32:                        288       264     r
+:bitmap/geoo/sandstone/pillar_32:                        320       264     r
+:bitmap/geoo/sandstone/pillar_32:                        384       264     r
+:bitmap/geoo/sandstone/pillar_32:                        416       264     r
+:bitmap/geoo/sandstone/pillar_32:                        448       264     r
+:bitmap/geoo/sandstone/pillar_top_jaggedl:               480       264     r
+:bitmap/geoo/sandstone/pillar_top_jaggedr:               184       264     fr
+:bitmap/simon/tapir/032h:                                 80        48
+:bitmap/simon/tapir/032v:                                 96       -16
+:bitmap/simon/tapir/032h:                                176       144
+:bitmap/simon/tapir/032v:                                192        80
+:bitmap/simon/tapir/032v:                                192        16
+:bitmap/simon/tapir/032v:                                192       -48
+:bitmap/simon/tapir/032h:                                 16        96
+:bitmap/simon/tapir/032v:                                 32        32
+:bitmap/simon/tapir/032v:                                 32       -32
+:bitmap/simon/tapir/032h:                                448        32
+:bitmap/simon/tapir/032v:                                464       -32
+:bitmap/simon/tapir/032h:                                544       112
+:bitmap/simon/tapir/032v:                                560        48
+:bitmap/simon/tapir/032v:                                560       -16
+:bitmap/simon/tapir/008v:                                 38        24
+:bitmap/simon/tapir/008v:                                 50        24
+:bitmap/simon/tapir/008v:                                114        40
+:bitmap/simon/tapir/008v:                                102        40
+:bitmap/simon/tapir/008v:                                 50        88
+:bitmap/simon/tapir/008v:                                 38        88
+:bitmap/simon/tapir/008v:                                210         8
+:bitmap/simon/tapir/008v:                                198         8
+:bitmap/simon/tapir/008v:                                210        72
+:bitmap/simon/tapir/008v:                                198        72
+:bitmap/simon/tapir/008v:                                198       136
+:bitmap/simon/tapir/008v:                                210       136
+:bitmap/simon/tapir/008v:                                470        24
+:bitmap/simon/tapir/008v:                                482        24
+:bitmap/simon/tapir/008v:                                566        40
+:bitmap/simon/tapir/008v:                                578        40
+:bitmap/simon/tapir/008v:                                566       104
+:bitmap/simon/tapir/008v:                                578       104
+:bitmap/simon/tapir/032h:                                304        16
+:bitmap/simon/tapir/032v:                                320       -48
+:bitmap/simon/tapir/008v:                                326         8
+:bitmap/simon/tapir/008v:                                338         8
+:bitmap/simon/tapir/008h:                                 40       368
+:bitmap/simon/tapir/008h:                                 40       384
+:bitmap/simon/tapir/008h:                                168       368
+:bitmap/simon/tapir/008h:                                168       384
+:bitmap/simon/tapir/008h:                                296       368
+:bitmap/simon/tapir/008h:                                296       384
+:bitmap/simon/tapir/008h:                                424       368
+:bitmap/simon/tapir/008h:                                424       384
+:bitmap/simon/tapir/008h:                                552       368
+:bitmap/simon/tapir/008h:                                552       384
+:bitmap/geoo/construction/pillar_32:                     432       232     r
+:bitmap/geoo/sandstone/pillar_32:                        352       264     r

@@ -1,0 +1,133 @@
+$BUILT                                             2012-02-23 01:02:24
+$AUTHOR                                                     Nortaneous
+$GERMAN                                                               
+$ENGLISH                                             This Is A Stickup
+
+#SIZE_X                                                           1280
+#SIZE_Y                                                            400
+#TORUS_X                                                             0
+#TORUS_Y                                                             0
+#START_X                                                           320
+#START_Y                                                           -20
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                    0
+#BACKGROUND_BLUE                                                     0
+
+#SECONDS                                                             0
+#INITIAL                                                            32
+#REQUIRED                                                           20
+#SPAWN_INTERVAL                                                     32
+
+#FLOATER                                                             1
+#BLOCKER                                                             1
+#EXPLODER                                                            3
+#BUILDER                                                             5
+#PLATFORMER                                                          2
+#MINER                                                               1
+#DIGGER                                                              3
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+
+:bitmap/matt/02 - Gold Mine/Hatch.H:                     458        96     r
+:bitmap/matt/02 - Gold Mine/Hatch.H:                     756        96
+
+:bitmap/matt/02 - Gold Mine/Goal.G:                      608       320
+
+:bitmap/geoo/construction/sawblade_small.F:              152       304
+:bitmap/geoo/construction/sawblade.F:                   1124       360
+:bitmap/geoo/construction/Laser_hz_64.F:                 688       146
+:bitmap/geoo/construction/Laser_hz_64.F:                 752       146
+:bitmap/geoo/construction/Laser_hz_64.F:                 852       106
+:bitmap/geoo/construction/Laser_hz_64.F:                 528       146
+:bitmap/geoo/construction/Laser_hz_64.F:                 464       146
+:bitmap/geoo/construction/Laser_hz_64.F:                 364       106
+
+:bitmap/matt/02 - Gold Mine/00:                          712       352
+:bitmap/matt/02 - Gold Mine/plank support:               576         2
+:bitmap/matt/02 - Gold Mine/04:                         1016       352
+:bitmap/matt/02 - Gold Mine/01:                         1158       294
+:bitmap/geoo/steel/16x16o.S:                            1212       320
+:bitmap/geoo/steel/16x16o.S:                            1232       368
+:bitmap/geoo/steel/16x16o.S:                            1238       352
+:bitmap/geoo/steel/16x16o.S:                            1224       336
+:bitmap/geoo/steel/16x16o.S:                            1206       336
+:bitmap/geoo/steel/16x16o.S:                            1220       352
+:bitmap/matt/02 - Gold Mine/01:                         1158       302
+:bitmap/matt/02 - Gold Mine/03:                         1036       384
+:bitmap/matt/02 - Gold Mine/plank:                       636       178     rrr
+:bitmap/matt/02 - Gold Mine/plank:                       636        50     rrr
+:bitmap/geoo/steel/dark_32x16o.S:                        336       112
+:bitmap/geoo/steel/dark_32x16o.S:                        368       112
+:bitmap/geoo/steel/dark_32x16o.S:                        336       128
+:bitmap/geoo/steel/dark_32x16o.S:                        880       112
+:bitmap/geoo/steel/dark_32x16o.S:                        912       112
+:bitmap/geoo/steel/dark_32x16o.S:                        912       128
+:bitmap/matt/02 - Gold Mine/04:                           24        88
+:bitmap/matt/02 - Gold Mine/09:                           32         8
+:bitmap/matt/02 - Gold Mine/08:                          -16       -72
+:bitmap/matt/02 - Gold Mine/09:                          -16        32
+:bitmap/matt/02 - Gold Mine/01:                           -8       128
+:bitmap/matt/02 - Gold Mine/09:                           -8       144
+:bitmap/matt/02 - Gold Mine/05:                          -16       240
+:bitmap/matt/02 - Gold Mine/07:                           16       312
+:bitmap/matt/02 - Gold Mine/00:                           24       272
+:bitmap/matt/02 - Gold Mine/09:                          136       320
+:bitmap/matt/02 - Gold Mine/03:                          216       376
+:bitmap/matt/02 - Gold Mine/02:                           16       288
+:bitmap/matt/02 - Gold Mine/02:                            0       312
+:bitmap/matt/02 - Gold Mine/08:                          -56       280
+:bitmap/matt/02 - Gold Mine/07:                          336       344
+:bitmap/matt/02 - Gold Mine/03:                          752       334
+:bitmap/matt/02 - Gold Mine/09:                          752       352
+:bitmap/matt/02 - Gold Mine/09:                          784       352
+:bitmap/matt/02 - Gold Mine/08:                          704       336
+:bitmap/matt/02 - Gold Mine/03:                         1004       372
+:bitmap/matt/02 - Gold Mine/06:                         1184       296
+:bitmap/matt/02 - Gold Mine/06:                         1232       312
+:bitmap/matt/02 - Gold Mine/00:                         1214       278
+:bitmap/matt/02 - Gold Mine/06:                         1136       384
+:bitmap/matt/02 - Gold Mine/plank:                      1168       384
+:bitmap/matt/02 - Gold Mine/09:                         1240       304
+:bitmap/matt/02 - Gold Mine/06:                         1208       384
+:bitmap/matt/02 - Gold Mine/08:                         1196       242     rrrd
+:bitmap/geoo/steel/16x16o.S:                            1194       368
+:bitmap/geoo/steel/16x16o.S:                            1214       368
+:bitmap/geoo/steel/16x16o.S:                            1198       352
+:bitmap/matt/02 - Gold Mine/07:                          128       336
+:bitmap/matt/02 - Gold Mine/04:                           56       208
+:bitmap/matt/02 - Gold Mine/09:                           40       184
+:bitmap/matt/02 - Gold Mine/06:                         1008       304
+:bitmap/matt/02 - Gold Mine/10:                          992       312
+:bitmap/matt/02 - Gold Mine/06:                          958       306
+:bitmap/matt/02 - Gold Mine/10:                          946       316     d
+:bitmap/matt/02 - Gold Mine/10:                          960       320     d
+:bitmap/matt/02 - Gold Mine/07:                          826       326
+:bitmap/matt/02 - Gold Mine/plank:                       636       370     rrr
+:bitmap/matt/02 - Gold Mine/03:                          688       376
+:bitmap/matt/02 - Gold Mine/03:                         1044       298
+:bitmap/matt/02 - Gold Mine/01:                         1136       300
+:bitmap/matt/02 - Gold Mine/plank support:               402        86
+:bitmap/matt/02 - Gold Mine/ExplosiveCrate:              392        40     d
+:bitmap/matt/02 - Gold Mine/plank:                       336       104
+:bitmap/matt/02 - Gold Mine/ExplosiveCrate:              440        48     d
+:bitmap/matt/02 - Gold Mine/ExplosiveCrate:              472        40     d
+:bitmap/matt/03 - Carnival/44:                           436       116     d
+:bitmap/matt/02 - Gold Mine/ExplosiveCrate:              463        80     d
+:bitmap/matt/03 - Carnival/44:                           418        98     d
+:bitmap/matt/02 - Gold Mine/ExplosiveCrate:              448       152     d
+:bitmap/matt/02 - Gold Mine/plank:                       464       144
+:bitmap/matt/02 - Gold Mine/plank support:               746        88
+:bitmap/matt/02 - Gold Mine/ExplosiveCrate:              792       152     d
+:bitmap/matt/02 - Gold Mine/ExplosiveCrate:              816        40     d
+:bitmap/matt/02 - Gold Mine/ExplosiveCrate:              825        38     d
+:bitmap/matt/02 - Gold Mine/plank:                       816       104
+:bitmap/matt/02 - Gold Mine/plank:                       688       144
+:bitmap/matt/03 - Carnival/43:                           815       112     d
+:bitmap/matt/03 - Carnival/43:                           829        98     d
+:bitmap/matt/02 - Gold Mine/ExplosiveCrate:              752        80     d
+:bitmap/matt/02 - Gold Mine/ExplosiveCrate:              742        56     d
+:bitmap/matt/02 - Gold Mine/ExplosiveCrate:              772        54     d
+:bitmap/matt/02 - Gold Mine/ExplosiveCrate:              458        53     d

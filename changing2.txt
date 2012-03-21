@@ -1,7 +1,7 @@
-$BUILT                                             2012-03-20 23:03:24
-$AUTHOR                                                        Michael
+$BUILT                                             2012-02-23 23:18:36
+$AUTHOR                                                   Michael/geoo
 $GERMAN                                                               
-$ENGLISH                               Changing of the Guards (Part 1)
+$ENGLISH                               Changing of the Guards (Part 2)
 
 #SIZE_X                                                           1376
 #SIZE_Y                                                            400
@@ -15,15 +15,14 @@ $ENGLISH                               Changing of the Guards (Part 1)
 
 #SECONDS                                                            60
 #INITIAL                                                            10
-#REQUIRED                                                            5
+#REQUIRED                                                            8
 #SPAWN_INTERVAL                                                     32
-#SPAWN_INTERVAL_FAST                                                 4
 
+#NOTHING                                                             0
 #CLIMBER                                                             1
 #FLOATER                                                             1
 #EXPLODER                                                            1
 #BLOCKER                                                             1
-#BUILDER                                                             1
 #DIGGER                                                              1
 #NOTHING                                                             0
 #NOTHING                                                             0
@@ -35,7 +34,8 @@ $ENGLISH                               Changing of the Guards (Part 1)
 :bitmap/matt/09 - Marble/Hatch.H:                        304        32
 :bitmap/matt/09 - Marble/Hatch.H:                        912        32
 
-:bitmap/matt/09 - Marble/Goal.G:                         656       288
+:bitmap/matt/09 - Marble/Goal.G:                         652       304
+:bitmap/matt/09 - Marble/Goal.G:                         660       304
 
 :bitmap/simon/water.W:                                  1136       352
 :bitmap/simon/water.W:                                  1184       352
@@ -54,40 +54,41 @@ $ENGLISH                               Changing of the Guards (Part 1)
 :bitmap/matt/09 - Marble/21c:                            528       112
 :bitmap/matt/09 - Marble/21c:                            592       144
 :bitmap/matt/09 - Marble/21c:                            592       112
+:bitmap/matt/09 - Marble/20:                             680       144
 :bitmap/matt/09 - Marble/21c:                            656       144
 :bitmap/matt/09 - Marble/21c:                            656       112
-:bitmap/matt/09 - Marble/21c:                            464       368
-:bitmap/matt/09 - Marble/21c:                            464       336
-:bitmap/matt/09 - Marble/21c:                            528       368
-:bitmap/matt/09 - Marble/21c:                            528       336
-:bitmap/matt/09 - Marble/21c:                            592       368
-:bitmap/matt/09 - Marble/21c:                            592       336
-:bitmap/matt/09 - Marble/21c:                            656       368
-:bitmap/matt/09 - Marble/21c:                            656       336
-:bitmap/matt/09 - Marble/21:                             464       352
-:bitmap/matt/09 - Marble/21:                             528       352
-:bitmap/matt/09 - Marble/21:                             592       352
-:bitmap/matt/09 - Marble/21:                             656       352
+:bitmap/matt/09 - Marble/21c:                            464       384
+:bitmap/matt/09 - Marble/21c:                            464       352
+:bitmap/matt/09 - Marble/21c:                            528       384
+:bitmap/matt/09 - Marble/21c:                            528       352
+:bitmap/matt/09 - Marble/21c:                            592       384
+:bitmap/matt/09 - Marble/21c:                            592       352
+:bitmap/matt/09 - Marble/21c:                            656       384
+:bitmap/matt/09 - Marble/21c:                            656       352
+:bitmap/matt/09 - Marble/21:                             464       368
+:bitmap/matt/09 - Marble/21:                             528       368
+:bitmap/matt/09 - Marble/21:                             592       368
+:bitmap/matt/09 - Marble/21:                             656       368
 :bitmap/matt/09 - Marble/21:                             464       128
 :bitmap/matt/09 - Marble/21:                             528       128
 :bitmap/matt/09 - Marble/21:                             592       128
 :bitmap/matt/09 - Marble/21:                             656       128
 :bitmap/matt/09 - Marble/21c:                            720       144
 :bitmap/matt/09 - Marble/21c:                            720       112
-:bitmap/matt/09 - Marble/21c:                            720       368
-:bitmap/matt/09 - Marble/21c:                            720       336
-:bitmap/matt/09 - Marble/21:                             720       352
+:bitmap/matt/09 - Marble/21c:                            720       384
+:bitmap/matt/09 - Marble/21c:                            720       352
+:bitmap/matt/09 - Marble/21:                             720       368
 :bitmap/matt/09 - Marble/21:                             720       128
 :bitmap/matt/09 - Marble/21c:                            784       144
 :bitmap/matt/09 - Marble/21c:                            784       112
 :bitmap/matt/09 - Marble/21c:                            848       144
 :bitmap/matt/09 - Marble/21c:                            848       112
-:bitmap/matt/09 - Marble/21c:                            784       368
-:bitmap/matt/09 - Marble/21c:                            784       336
-:bitmap/matt/09 - Marble/21c:                            848       368
-:bitmap/matt/09 - Marble/21c:                            848       336
-:bitmap/matt/09 - Marble/21:                             784       352
-:bitmap/matt/09 - Marble/21:                             848       352
+:bitmap/matt/09 - Marble/21c:                            784       384
+:bitmap/matt/09 - Marble/21c:                            784       352
+:bitmap/matt/09 - Marble/21c:                            848       384
+:bitmap/matt/09 - Marble/21c:                            848       352
+:bitmap/matt/09 - Marble/21:                             784       368
+:bitmap/matt/09 - Marble/21:                             848       368
 :bitmap/matt/09 - Marble/21:                             784       128
 :bitmap/matt/09 - Marble/21:                             848       128
 :bitmap/geoo/steel/dark_32x64o.S:                        912       112
@@ -257,7 +258,6 @@ $ENGLISH                               Changing of the Guards (Part 1)
 :bitmap/geoo/steel/dark_64x64o.S:                        240       336
 :bitmap/geoo/steel/dark_64x64o.S:                       1072       336
 :bitmap/matt/09 - Marble/20:                             680       128
-:bitmap/matt/05 - Winter/09b:                            672       176
 :bitmap/matt/09 - Marble/20a:                           1216       336
 :bitmap/matt/09 - Marble/21a:                           1192       320
 :bitmap/matt/09 - Marble/20a:                           1256       336
@@ -333,3 +333,6 @@ $ENGLISH                               Changing of the Guards (Part 1)
 :bitmap/matt/05 - Winter/07:                             808         8     f
 :bitmap/matt/05 - Winter/07:                             832        -8     f
 :bitmap/matt/05 - Winter/16:                             776       -64     frrr
+:bitmap/matt/05 - Winter/09a:                            656       172
+:bitmap/matt/09 - Marble/21:                             912       384     rrr
+:bitmap/matt/09 - Marble/21:                             448       384     rrr

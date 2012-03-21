@@ -1,4 +1,4 @@
-$BUILT                                             2012-02-06 16:33:48
+$BUILT                                             2012-03-05 02:11:42
 $AUTHOR                                                           geoo
 $GERMAN                                                               
 $ENGLISH                                                      Downpour
@@ -91,3 +91,5 @@ $ENGLISH                                                      Downpour
 :bitmap/geoo/abstract/pipes/ends5:                         0        64     r
 :bitmap/geoo/abstract/pipes/cshort5:                      56        72     rrr
 :bitmap/geoo/abstract/pipes/ends5:                        56        64     r
+:bitmap/geoo/abstract/pipes/junct5:                       56        80
+:bitmap/geoo/abstract/pipes/corner5:                       0        80

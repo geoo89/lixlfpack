@@ -1,4 +1,4 @@
-$BUILT                                             2012-01-15 00:39:24
+$BUILT                                             2012-03-07 03:55:50
 $AUTHOR                                                          tseug
 $GERMAN                                                               
 $ENGLISH                                             Oh No, Not Again!
@@ -14,9 +14,10 @@ $ENGLISH                                             Oh No, Not Again!
 #BACKGROUND_BLUE                                                     0
 
 #SECONDS                                                           150
-#INITIAL                                                           200
-#REQUIRED                                                          200
+#INITIAL                                                            50
+#REQUIRED                                                           50
 #SPAWN_INTERVAL                                                     20
+#SPAWN_INTERVAL_FAST                                                 4
 
 #CLIMBER                                                             1
 #FLOATER                                                             1

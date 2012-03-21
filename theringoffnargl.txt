@@ -1,4 +1,4 @@
-$BUILT                                             2012-02-09 18:39:13
+$BUILT                                             2012-03-17 14:57:01
 $AUTHOR                                                     Nortaneous
 $GERMAN                                                               
 $ENGLISH                                            The Ring of Fnargl
@@ -17,23 +17,24 @@ $ENGLISH                                            The Ring of Fnargl
 #INITIAL                                                            80
 #REQUIRED                                                           10
 #SPAWN_INTERVAL                                                     50
+#SPAWN_INTERVAL_FAST                                                 4
 
 #CLIMBER                                                             1
 #FLOATER                                                            30
 #CUBER                                                               3
 #EXPLODER2                                                           1
 #PLATFORMER                                                          5
-#DIGGER                                                              2
+#MINER                                                               1
+#DIGGER                                                              1
 #RUNNER                                                              1
 #NOTHING                                                             0
 #NOTHING                                                             0
 #NOTHING                                                             0
 #NOTHING                                                             0
-#NOTHING                                                             0
 
-:bitmap/geoo/construction/Hatch.H:                       304        64
+:bitmap/geoo/construction/Hatch.H:                       304        80
 
-:bitmap/geoo/construction/Goal2.G:                       288         0
+:bitmap/geoo/construction/Goal2.G:                       288       -16
 
 :bitmap/matt/07 - Underworld/Lava.W:                     208       368
 :bitmap/matt/07 - Underworld/Lava.W:                      16       368
@@ -121,3 +122,5 @@ $ENGLISH                                            The Ring of Fnargl
 :bitmap/geoo/abstract/cvblocks/044:                      496       240
 :bitmap/geoo/abstract/cvblocks/044:                      528       176
 :bitmap/geoo/abstract/cvblocks/040:                      496       176
+:bitmap/geoo/abstract/cvblocks/016:                      288        48
+:bitmap/geoo/abstract/cvblocks/017:                      336        48

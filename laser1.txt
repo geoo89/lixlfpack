@@ -1,0 +1,140 @@
+$BUILT                                             2012-03-20 22:40:20
+$AUTHOR                                                   Insane Steve
+$GERMAN                                                               
+$ENGLISH                                      Laser Deathroom (Part 1)
+
+#SIZE_X                                                            640
+#SIZE_Y                                                            400
+#TORUS_X                                                             0
+#TORUS_Y                                                             0
+#START_X                                                             0
+#START_Y                                                             0
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                    0
+#BACKGROUND_BLUE                                                     0
+
+#SECONDS                                                             0
+#INITIAL                                                            50
+#REQUIRED                                                           49
+#SPAWN_INTERVAL                                                     32
+#SPAWN_INTERVAL_FAST                                                 4
+
+#CLIMBER                                                             5
+#FLOATER                                                             5
+#EXPLODER                                                            5
+#BLOCKER                                                             0
+#BUILDER                                                            10
+#BASHER                                                              5
+#MINER                                                               5
+#DIGGER                                                              5
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#PLATFORMER                                                          0
+
+:bitmap/geoo/abstract/hatch.H:                           212       156
+
+:bitmap/geoo/abstract/goal.G:                            388       188
+
+:bitmap/geoo/construction/Laser_vr_64.F:                 272       146
+:bitmap/geoo/construction/Laser_vr_64.F:                 352       148
+:bitmap/geoo/construction/Laser_hz_16.F:                 268       204
+:bitmap/geoo/construction/Laser_hz_16.F:                 356       204
+:bitmap/geoo/construction/Laser_hz_64.F:                 214       140
+:bitmap/geoo/construction/Laser_hz_64.F:                 358       140
+:bitmap/geoo/construction/Laser_vr_64.F:                 200       148
+:bitmap/geoo/construction/Laser_vr_64.F:                 424       148
+:bitmap/geoo/construction/Laser_hz_16.F:                 206       140
+:bitmap/geoo/construction/Laser_hz_16.F:                 418       140
+:bitmap/geoo/construction/Laser_hz_16.F:                 410       140
+:bitmap/geoo/construction/Laser_hz_16.F:                 212       140
+:bitmap/geoo/construction/Laser_hz_64.F:                 206       340
+:bitmap/geoo/construction/Laser_hz_64.F:                 370       340
+:bitmap/geoo/construction/Laser_vr_16.F:                 270       252
+:bitmap/geoo/construction/Laser_vr_16.F:                 270       332
+:bitmap/geoo/construction/Laser_vr_16.F:                 270       256
+:bitmap/geoo/construction/Laser_vr_16.F:                 354       332
+:bitmap/geoo/construction/Laser_vr_16.F:                 354       252
+:bitmap/geoo/construction/Laser_vr_16.F:                 200       252
+:bitmap/geoo/construction/Laser_vr_16.F:                 200       256
+:bitmap/geoo/construction/Laser_vr_16.F:                 200       332
+:bitmap/geoo/construction/Laser_vr_16.F:                 424       332
+:bitmap/geoo/construction/Laser_vr_16.F:                 424       258
+:bitmap/geoo/construction/Laser_vr_16.F:                 424       252
+:bitmap/geoo/construction/Laser_hz_16.F:                 264       340
+:bitmap/geoo/construction/Laser_hz_16.F:                 360       340
+:bitmap/geoo/construction/Laser_vr_64.F:                 270       268
+:bitmap/geoo/construction/Laser_vr_64.F:                 200       272
+:bitmap/geoo/construction/Laser_vr_64.F:                 354       268
+:bitmap/geoo/construction/Laser_vr_64.F:                 424       272
+:bitmap/geoo/construction/Laser_hz_16.F:                 304       216
+:bitmap/geoo/construction/Laser_vr_64.F:                 298       160
+:bitmap/geoo/construction/Laser_vr_64.F:                 326       160
+:bitmap/geoo/construction/Laser_hz_16.F:                 304       152
+:bitmap/geoo/construction/Laser_hz_16.F:                 320       216
+:bitmap/geoo/construction/Laser_hz_16.F:                 320       152
+
+:bitmap/geoo/steel/16x16o.S:                             268       236
+:bitmap/geoo/steel/16x16o.S:                             356       236
+:bitmap/geoo/steel/16x16o.S:                             268       214
+:bitmap/geoo/steel/16x16o.S:                             356       212
+:bitmap/geoo/steel/16x16o.S:                             372       236
+:bitmap/geoo/steel/16x16o.S:                             388       236
+:bitmap/geoo/steel/16x16o.S:                             404       236
+:bitmap/geoo/steel/16x16o.S:                             420       236
+:bitmap/geoo/steel/16x16o.S:                             420       220
+:bitmap/geoo/steel/16x16o.S:                             420       204
+:bitmap/geoo/steel/16x16o.S:                             252       236
+:bitmap/geoo/steel/16x16o.S:                             236       236
+:bitmap/geoo/steel/16x16o.S:                             220       236
+:bitmap/geoo/steel/16x16o.S:                             204       236
+:bitmap/geoo/steel/16x16o.S:                             204       220
+:bitmap/geoo/steel/16x16o.S:                             204       204
+:bitmap/geoo/abstract/cvblocks/000:                      244       228
+:bitmap/geoo/abstract/cvblocks/000:                      244       220
+:bitmap/geoo/abstract/cvblocks/000:                      244       212
+:bitmap/geoo/abstract/cvblocks/000:                      244       204
+:bitmap/geoo/abstract/cvblocks/030:                      304       368
+:bitmap/geoo/abstract/cvblocks/035:                      224       368
+:bitmap/geoo/abstract/cvblocks/035:                      352       368
+:bitmap/geoo/abstract/cvblocks/030:                      416       368
+:bitmap/geoo/abstract/cvblocks/030:                      192       368
+:bitmap/geoo/abstract/cvblocks/047:                      128       272
+:bitmap/geoo/abstract/cvblocks/047:                      448       272
+:bitmap/geoo/abstract/cvblocks/047:                      128       144
+:bitmap/geoo/abstract/cvblocks/047:                      448       144
+:bitmap/geoo/abstract/cvblocks/047:                      448        16
+:bitmap/geoo/abstract/cvblocks/047:                      128        16
+:bitmap/geoo/abstract/cvblocks/035:                      128       -16
+:bitmap/geoo/abstract/cvblocks/035:                      448       -16
+:bitmap/geoo/abstract/cvblocks/035:                      384         0
+:bitmap/geoo/abstract/cvblocks/035:                      192         0
+:bitmap/geoo/abstract/cvblocks/030:                      256         0
+:bitmap/geoo/abstract/cvblocks/030:                      352         0
+:bitmap/geoo/abstract/cvblocks/030:                      304         0
+:bitmap/geoo/abstract/cvblocks/045:                      512       336
+:bitmap/geoo/abstract/cvblocks/045:                      512       272
+:bitmap/geoo/abstract/cvblocks/045:                      512       208
+:bitmap/geoo/abstract/cvblocks/045:                      512       144
+:bitmap/geoo/abstract/cvblocks/045:                      512        80
+:bitmap/geoo/abstract/cvblocks/045:                      576       144
+:bitmap/geoo/abstract/cvblocks/045:                      576       208
+:bitmap/geoo/abstract/cvblocks/045:                      576       272
+:bitmap/geoo/abstract/cvblocks/045:                      576       336
+:bitmap/geoo/abstract/cvblocks/045:                        0       336
+:bitmap/geoo/abstract/cvblocks/045:                        0       272
+:bitmap/geoo/abstract/cvblocks/045:                        0       208
+:bitmap/geoo/abstract/cvblocks/045:                        0       144
+:bitmap/geoo/abstract/cvblocks/045:                       64        80
+:bitmap/geoo/abstract/cvblocks/045:                       64       144
+:bitmap/geoo/abstract/cvblocks/045:                       64       208
+:bitmap/geoo/abstract/cvblocks/045:                       64       272
+:bitmap/geoo/abstract/cvblocks/045:                       64       336
+:bitmap/geoo/abstract/cvblocks/015:                      288        16
+:bitmap/geoo/abstract/cvblocks/015:                      288         0
+:bitmap/geoo/abstract/cvblocks/015:                      336         0
+:bitmap/geoo/abstract/cvblocks/015:                      336        16
+:bitmap/geoo/abstract/cvblocks/015:                      336       368
+:bitmap/geoo/abstract/cvblocks/015:                      336       384
+:bitmap/geoo/abstract/cvblocks/015:                      288       384
+:bitmap/geoo/abstract/cvblocks/015:                      288       368

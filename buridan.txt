@@ -1,4 +1,4 @@
-$BUILT                                             2012-02-16 14:00:02
+$BUILT                                             2012-02-21 19:38:11
 $AUTHOR                                                        Michael
 $GERMAN                                                               
 $ENGLISH                                                 Buridan's Lix
@@ -15,14 +15,14 @@ $ENGLISH                                                 Buridan's Lix
 
 #SECONDS                                                            70
 #INITIAL                                                            10
-#REQUIRED                                                           10
+#REQUIRED                                                            9
 #SPAWN_INTERVAL                                                     50
 
 #NOTHING                                                             0
 #NOTHING                                                             0
 #NOTHING                                                             0
 #NOTHING                                                             0
-#BUILDER                                                             5
+#BUILDER                                                             4
 #DIGGER                                                              3
 #NOTHING                                                             0
 #NOTHING                                                             0
@@ -44,7 +44,7 @@ $ENGLISH                                                 Buridan's Lix
 :bitmap/simon/water.W:                                  1136       352
 :bitmap/simon/water.W:                                  1088       352
 :bitmap/simon/water.W:                                  1184       352
-:bitmap/geoo/construction/sawblade.F:                    248       168
+:bitmap/geoo/construction/sawblade.F:                    248       176
 
 :bitmap/geoo/abstract/pipes/central0:                    432       208
 :bitmap/geoo/abstract/pipes/central0:                    464       208
@@ -178,7 +178,7 @@ $ENGLISH                                                 Buridan's Lix
 :bitmap/matt/01 - Earth/10:                              -32       320     frr
 :bitmap/geoo/abstract/pipes/central0:                    304       208
 :bitmap/geoo/abstract/pipes/central0:                    272       208
-:bitmap/geoo/steel/dark_32x32o.S:                        252       200
+:bitmap/geoo/steel/dark_32x32o.S:                        252       208
 :bitmap/matt/09 - Marble/20a:                             96       128
 :bitmap/matt/09 - Marble/21d:                             64       168
 :bitmap/matt/09 - Marble/20d:                             48       160
