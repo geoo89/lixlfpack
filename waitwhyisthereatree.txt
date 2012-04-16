@@ -32,52 +32,52 @@ $ENGLISH                                      Wait why is there a tree
 #NOTHING                                                             0
 #NOTHING                                                             0
 
-:bitmap/geoo/abstract/hatch.H:                            96       272
+:geoo/abstract/hatch.H:                            96       272
 
-:bitmap/matt/09 - Marble/Goal.G:                         560       160
+:matt/marble/Goal.G:                         560       160
 
-:bitmap/matt/08 - Bricks/03:                               0       336
-:bitmap/matt/08 - Bricks/03:                              64       336
-:bitmap/matt/08 - Bricks/03:                             128       336
-:bitmap/matt/08 - Bricks/03:                             192       336
-:bitmap/matt/08 - Bricks/03:                             256       336
-:bitmap/matt/08 - Bricks/03:                             320       336
-:bitmap/matt/08 - Bricks/03:                             384       336
-:bitmap/matt/08 - Bricks/03:                             448       336
-:bitmap/matt/08 - Bricks/19:                             352       288
-:bitmap/matt/08 - Bricks/18:                             360       256
-:bitmap/matt/08 - Bricks/18:                             360       224
-:bitmap/matt/08 - Bricks/18:                             360       192
-:bitmap/matt/08 - Bricks/18:                             360       160
-:bitmap/matt/08 - Bricks/18:                             360       128
-:bitmap/matt/08 - Bricks/17:                             288       248     f
-:bitmap/matt/08 - Bricks/17:                             232       192     f
-:bitmap/matt/08 - Bricks/17:                             246       142
-:bitmap/matt/08 - Bricks/17:                             302        86
-:bitmap/matt/08 - Bricks/18:                             360        96
-:bitmap/matt/08 - Bricks/18:                             360        64
-:bitmap/matt/08 - Bricks/03:                               0         0
-:bitmap/matt/08 - Bricks/03:                              64         0
-:bitmap/matt/08 - Bricks/03:                             256         0
-:bitmap/matt/08 - Bricks/03:                             192         0
-:bitmap/matt/08 - Bricks/03:                             128         0
-:bitmap/matt/08 - Bricks/03:                             320         0
-:bitmap/matt/08 - Bricks/03:                             384         0
-:bitmap/matt/08 - Bricks/03:                             448         0
-:bitmap/matt/08 - Bricks/03:                             512         0
-:bitmap/matt/08 - Bricks/03:                             576         0
-:bitmap/matt/06 - Oriental/bonsai tree:                   16        48
-:bitmap/matt/08 - Bricks/02:                              64       240
-:bitmap/matt/08 - Bricks/03:                             416       272
-:bitmap/matt/08 - Bricks/03:                             480       272
-:bitmap/matt/08 - Bricks/03:                             480       336
-:bitmap/matt/08 - Bricks/03:                             480       208
-:bitmap/matt/08 - Bricks/03:                             416       208
-:bitmap/matt/08 - Bricks/03:                             416       176
-:bitmap/matt/08 - Bricks/03:                             480       176
-:bitmap/matt/08 - Bricks/02:                               0       304
-:bitmap/matt/08 - Bricks/02:                              32       272
-:bitmap/matt/08 - Bricks/19:                             352       224
-:bitmap/matt/08 - Bricks/12:                             544       208
-:bitmap/matt/08 - Bricks/12:                             576       208
-:bitmap/matt/08 - Bricks/12:                             608       208
+:matt/bricks/03:                               0       336
+:matt/bricks/03:                              64       336
+:matt/bricks/03:                             128       336
+:matt/bricks/03:                             192       336
+:matt/bricks/03:                             256       336
+:matt/bricks/03:                             320       336
+:matt/bricks/03:                             384       336
+:matt/bricks/03:                             448       336
+:matt/bricks/19:                             352       288
+:matt/bricks/18:                             360       256
+:matt/bricks/18:                             360       224
+:matt/bricks/18:                             360       192
+:matt/bricks/18:                             360       160
+:matt/bricks/18:                             360       128
+:matt/bricks/17:                             288       248     f
+:matt/bricks/17:                             232       192     f
+:matt/bricks/17:                             246       142
+:matt/bricks/17:                             302        86
+:matt/bricks/18:                             360        96
+:matt/bricks/18:                             360        64
+:matt/bricks/03:                               0         0
+:matt/bricks/03:                              64         0
+:matt/bricks/03:                             256         0
+:matt/bricks/03:                             192         0
+:matt/bricks/03:                             128         0
+:matt/bricks/03:                             320         0
+:matt/bricks/03:                             384         0
+:matt/bricks/03:                             448         0
+:matt/bricks/03:                             512         0
+:matt/bricks/03:                             576         0
+:matt/oriental/bonsaitree:                   16        48
+:matt/bricks/02:                              64       240
+:matt/bricks/03:                             416       272
+:matt/bricks/03:                             480       272
+:matt/bricks/03:                             480       336
+:matt/bricks/03:                             480       208
+:matt/bricks/03:                             416       208
+:matt/bricks/03:                             416       176
+:matt/bricks/03:                             480       176
+:matt/bricks/02:                               0       304
+:matt/bricks/02:                              32       272
+:matt/bricks/19:                             352       224
+:matt/bricks/12:                             544       208
+:matt/bricks/12:                             576       208
+:matt/bricks/12:                             608       208

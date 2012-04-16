@@ -31,60 +31,60 @@ $ENGLISH                                         Subversive Activities
 #NOTHING                                                             0
 #NOTHING                                                             0
 
-:bitmap/matt/09 - Marble/Hatch.H:                         48       192
+:matt/marble/Hatch.H:                         48       192
 
-:bitmap/matt/09 - Marble/Goal.G:                         416        96
+:matt/marble/Goal.G:                         416        96
 
-:bitmap/matt/09 - Marble/07b:                            576       304
-:bitmap/matt/09 - Marble/06b:                            704       304
-:bitmap/matt/09 - Marble/06b:                            704       240
-:bitmap/matt/09 - Marble/09:                              32       272
-:bitmap/matt/09 - Marble/09:                             160       208
-:bitmap/matt/09 - Marble/09:                             160       272
-:bitmap/matt/09 - Marble/09:                              96       272
-:bitmap/matt/09 - Marble/09:                             160       144
-:bitmap/matt/09 - Marble/09:                             224       208
-:bitmap/matt/09 - Marble/09:                             224       272
-:bitmap/matt/09 - Marble/09:                             224       144
-:bitmap/matt/09 - Marble/09a:                            288       336
-:bitmap/matt/09 - Marble/09a:                            352       336
-:bitmap/matt/09 - Marble/09a:                            416       336
-:bitmap/geoo/steel/32x64o.S:                             464        64
-:bitmap/geoo/steel/32x64o.S:                             320        64
-:bitmap/matt/09 - Marble/09a:                            384       144
-:bitmap/matt/09 - Marble/09a:                            448       144
-:bitmap/matt/09 - Marble/09a:                            516       144
-:bitmap/matt/09 - Marble/09a:                            576       144
-:bitmap/geoo/steel/32x64o.S:                             464         0
-:bitmap/matt/09 - Marble/09b:                            480       336
-:bitmap/matt/09 - Marble/23e:                            672       304
-:bitmap/matt/09 - Marble/14b:                            544       304
-:bitmap/matt/09 - Marble/14b:                            576       272
-:bitmap/matt/09 - Marble/14b:                            608       240
-:bitmap/matt/09 - Marble/14b:                            640       208
-:bitmap/matt/09 - Marble/14b:                            672       176
-:bitmap/matt/09 - Marble/14b:                            704       144
-:bitmap/matt/09 - Marble/09b:                            544       336
-:bitmap/matt/09 - Marble/09b:                            608       336
-:bitmap/matt/09 - Marble/09b:                            672       336
-:bitmap/matt/09 - Marble/07b:                            608       272
-:bitmap/matt/09 - Marble/07b:                            624       288
-:bitmap/matt/09 - Marble/07b:                            640       240
-:bitmap/matt/09 - Marble/07b:                            672       208
-:bitmap/matt/09 - Marble/07b:                            672       256
-:bitmap/matt/09 - Marble/06b:                            704       176
-:bitmap/matt/09 - Marble/23e:                            688       224
-:bitmap/geoo/steel/32x64o.S:                             736       208
-:bitmap/geoo/steel/32x64o.S:                             736       144
-:bitmap/geoo/steel/32x64o.S:                             736       336
-:bitmap/geoo/steel/32x64o.S:                             736       272
-:bitmap/geoo/steel/32x64o.S:                             736        16
-:bitmap/geoo/steel/32x64o.S:                             736        80
-:bitmap/matt/09 - Marble/23e:                            608       288
-:bitmap/geoo/steel/32x64o.S:                             320       128
-:bitmap/matt/09 - Marble/04a:                            640       144
-:bitmap/geoo/steel/32x16o.S:                             432         0
-:bitmap/geoo/steel/32x64o.S:                             208       224
-:bitmap/geoo/steel/32x64o.S:                             208       280     d
-:bitmap/matt/09 - Marble/09a:                            224       336
-:bitmap/geoo/steel/32x64o.S:                             208       272     n
+:matt/marble/07b:                            576       304
+:matt/marble/06b:                            704       304
+:matt/marble/06b:                            704       240
+:matt/marble/09:                              32       272
+:matt/marble/09:                             160       208
+:matt/marble/09:                             160       272
+:matt/marble/09:                              96       272
+:matt/marble/09:                             160       144
+:matt/marble/09:                             224       208
+:matt/marble/09:                             224       272
+:matt/marble/09:                             224       144
+:matt/marble/09a:                            288       336
+:matt/marble/09a:                            352       336
+:matt/marble/09a:                            416       336
+:geoo/steel/32x64o.S:                             464        64
+:geoo/steel/32x64o.S:                             320        64
+:matt/marble/09a:                            384       144
+:matt/marble/09a:                            448       144
+:matt/marble/09a:                            516       144
+:matt/marble/09a:                            576       144
+:geoo/steel/32x64o.S:                             464         0
+:matt/marble/09b:                            480       336
+:matt/marble/23e:                            672       304
+:matt/marble/14b:                            544       304
+:matt/marble/14b:                            576       272
+:matt/marble/14b:                            608       240
+:matt/marble/14b:                            640       208
+:matt/marble/14b:                            672       176
+:matt/marble/14b:                            704       144
+:matt/marble/09b:                            544       336
+:matt/marble/09b:                            608       336
+:matt/marble/09b:                            672       336
+:matt/marble/07b:                            608       272
+:matt/marble/07b:                            624       288
+:matt/marble/07b:                            640       240
+:matt/marble/07b:                            672       208
+:matt/marble/07b:                            672       256
+:matt/marble/06b:                            704       176
+:matt/marble/23e:                            688       224
+:geoo/steel/32x64o.S:                             736       208
+:geoo/steel/32x64o.S:                             736       144
+:geoo/steel/32x64o.S:                             736       336
+:geoo/steel/32x64o.S:                             736       272
+:geoo/steel/32x64o.S:                             736        16
+:geoo/steel/32x64o.S:                             736        80
+:matt/marble/23e:                            608       288
+:geoo/steel/32x64o.S:                             320       128
+:matt/marble/04a:                            640       144
+:geoo/steel/32x16o.S:                             432         0
+:geoo/steel/32x64o.S:                             208       224
+:geoo/steel/32x64o.S:                             208       280     d
+:matt/marble/09a:                            224       336
+:geoo/steel/32x64o.S:                             208       272     n

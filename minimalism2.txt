@@ -31,21 +31,21 @@ $ENGLISH                                           Minimalism (Part 2)
 #NOTHING                                                             0
 #NOTHING                                                             0
 
-:bitmap/geoo/abstract/hatch.H:                           304       136
+:geoo/abstract/hatch.H:                           304       136
 
-:bitmap/geoo/abstract/goal.G:                            160       176
+:geoo/abstract/goal.G:                            160       176
 
-:bitmap/geoo/abstract/pipes/central0:                    128       224
-:bitmap/geoo/abstract/pipes/central0:                    160       224
-:bitmap/geoo/abstract/pipes/central0:                    192       224
-:bitmap/geoo/abstract/pipes/central0:                    224       224
-:bitmap/geoo/abstract/pipes/central0:                    256       224
-:bitmap/geoo/abstract/pipes/central0:                    288       224
-:bitmap/geoo/abstract/pipes/central0:                    320       224
-:bitmap/geoo/abstract/pipes/central0:                    352       224
-:bitmap/geoo/abstract/pipes/central0:                    384       224
-:bitmap/geoo/abstract/pipes/central0:                    416       224
-:bitmap/geoo/abstract/pipes/central0:                    448       224
-:bitmap/geoo/abstract/pipes/central0:                    480       224
-:bitmap/geoo/abstract/pipes/endr0:                       512       224
-:bitmap/geoo/abstract/pipes/endr0:                       120       224     rr
+:geoo/abstract/pipes/central0:                    128       224
+:geoo/abstract/pipes/central0:                    160       224
+:geoo/abstract/pipes/central0:                    192       224
+:geoo/abstract/pipes/central0:                    224       224
+:geoo/abstract/pipes/central0:                    256       224
+:geoo/abstract/pipes/central0:                    288       224
+:geoo/abstract/pipes/central0:                    320       224
+:geoo/abstract/pipes/central0:                    352       224
+:geoo/abstract/pipes/central0:                    384       224
+:geoo/abstract/pipes/central0:                    416       224
+:geoo/abstract/pipes/central0:                    448       224
+:geoo/abstract/pipes/central0:                    480       224
+:geoo/abstract/pipes/endr0:                       512       224
+:geoo/abstract/pipes/endr0:                       120       224     rr

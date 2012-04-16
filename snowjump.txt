@@ -31,44 +31,44 @@ $ENGLISH                                                      Snowjump
 #MINER                                                               0
 #DIGGER                                                              1
 
-:bitmap/matt/05 - Winter/Hatch.H:                         72       168
+:matt/winter/Hatch.H:                         72       168
 
-:bitmap/matt/05 - Winter/Goal.G:                         522       240
+:matt/winter/Goal.G:                         522       240
 
-:bitmap/matt/05 - Winter/18:                             552       300
-:bitmap/matt/05 - Winter/17:                             402       320
-:bitmap/matt/05 - Winter/00:                             394       290
-:bitmap/matt/05 - Winter/10:                               6       290
-:bitmap/matt/05 - Winter/10:                               0       292
-:bitmap/matt/05 - Winter/14:                             288       352
-:bitmap/matt/05 - Winter/03:                             168       336
-:bitmap/matt/05 - Winter/00:                             232       344
-:bitmap/matt/05 - Winter/00:                             168       360
-:bitmap/matt/05 - Winter/11:                             128       328
-:bitmap/matt/05 - Winter/11:                             136       352
-:bitmap/matt/05 - Winter/17:                              24       296
-:bitmap/matt/05 - Winter/17:                              72       296
-:bitmap/matt/05 - Winter/16:                             -40       288
-:bitmap/matt/05 - Winter/16:                              -8       288
-:bitmap/matt/05 - Winter/13:                             104       288
-:bitmap/matt/05 - Winter/13:                              88       272
-:bitmap/matt/05 - Winter/13:                              64       272
-:bitmap/matt/05 - Winter/11:                              24       256
-:bitmap/matt/05 - Winter/00:                             -32       272
-:bitmap/matt/05 - Winter/00:                             -24       216
-:bitmap/matt/05 - Winter/00:                             -16       192
-:bitmap/matt/05 - Winter/06:                             268       352     rrr
-:bitmap/matt/05 - Winter/06:                             210       352     rrr
-:bitmap/matt/05 - Winter/06:                             162       352     rrr
-:bitmap/matt/05 - Winter/06:                             112       352     rrr
-:bitmap/matt/05 - Winter/06:                              56       352     rrr
-:bitmap/matt/05 - Winter/06:                               6       352     rrr
-:bitmap/matt/05 - Winter/06:                             -18       352     rrr
-:bitmap/matt/05 - Winter/06:                             268       336     rrrd
-:bitmap/matt/05 - Winter/03:                             198       310     rrd
-:bitmap/matt/05 - Winter/06:                             392       322
-:bitmap/matt/05 - Winter/06:                             392       346
-:bitmap/matt/05 - Winter/06:                             316       368
-:bitmap/matt/05 - Winter/16:                             422       284
-:bitmap/matt/05 - Winter/17:                             498       288
-:bitmap/matt/05 - Winter/16:                             534       290
+:matt/winter/18:                             552       300
+:matt/winter/17:                             402       320
+:matt/winter/00:                             394       290
+:matt/winter/10:                               6       290
+:matt/winter/10:                               0       292
+:matt/winter/14:                             288       352
+:matt/winter/03:                             168       336
+:matt/winter/00:                             232       344
+:matt/winter/00:                             168       360
+:matt/winter/11:                             128       328
+:matt/winter/11:                             136       352
+:matt/winter/17:                              24       296
+:matt/winter/17:                              72       296
+:matt/winter/16:                             -40       288
+:matt/winter/16:                              -8       288
+:matt/winter/13:                             104       288
+:matt/winter/13:                              88       272
+:matt/winter/13:                              64       272
+:matt/winter/11:                              24       256
+:matt/winter/00:                             -32       272
+:matt/winter/00:                             -24       216
+:matt/winter/00:                             -16       192
+:matt/winter/06:                             268       352     rrr
+:matt/winter/06:                             210       352     rrr
+:matt/winter/06:                             162       352     rrr
+:matt/winter/06:                             112       352     rrr
+:matt/winter/06:                              56       352     rrr
+:matt/winter/06:                               6       352     rrr
+:matt/winter/06:                             -18       352     rrr
+:matt/winter/06:                             268       336     rrrd
+:matt/winter/03:                             198       310     rrd
+:matt/winter/06:                             392       322
+:matt/winter/06:                             392       346
+:matt/winter/06:                             316       368
+:matt/winter/16:                             422       284
+:matt/winter/17:                             498       288
+:matt/winter/16:                             534       290

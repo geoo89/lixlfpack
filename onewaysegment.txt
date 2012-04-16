@@ -31,53 +31,53 @@ $ENGLISH                                               One Way Segment
 #NOTHING                                                             0
 #NOTHING                                                             0
 
-:bitmap/matt/02 - Gold Mine/GoalTop.D:                    48       208
+:matt/goldmine/GoalTop.D:                    48       208
 
-:bitmap/matt/02 - Gold Mine/Hatch.H:                     368        80
-:bitmap/matt/02 - Gold Mine/Hatch.H:                     440        80
-:bitmap/matt/02 - Gold Mine/Hatch.H:                     512        80
+:matt/goldmine/Hatch.H:                     368        80
+:matt/goldmine/Hatch.H:                     440        80
+:matt/goldmine/Hatch.H:                     512        80
 
-:bitmap/matt/02 - Gold Mine/Goal.G:                       48       256
+:matt/goldmine/Goal.G:                       48       256
 
-:bitmap/geoo/sandstone/torch.F:                           16       128
-:bitmap/geoo/sandstone/torch.F:                          112       128
+:geoo/sandstone/torch.F:                           16       128
+:geoo/sandstone/torch.F:                          112       128
 
-:bitmap/matt/02 - Gold Mine/01:                          192       208     rrr
-:bitmap/matt/02 - Gold Mine/06:                          208       150     rrr
-:bitmap/matt/02 - Gold Mine/plank support:               404       226
-:bitmap/matt/02 - Gold Mine/07:                          446       312
-:bitmap/matt/02 - Gold Mine/06:                          618       278
-:bitmap/matt/02 - Gold Mine/07:                          570       294
-:bitmap/matt/02 - Gold Mine/crate32:                     336        96
-:bitmap/matt/02 - Gold Mine/plank:                       336       128
-:bitmap/matt/02 - Gold Mine/06:                          524       316
-:bitmap/matt/02 - Gold Mine/00:                          438       350
-:bitmap/matt/02 - Gold Mine/06:                          572       382
-:bitmap/matt/02 - Gold Mine/plank support:               576       128
-:bitmap/matt/02 - Gold Mine/00:                          616       236
-:bitmap/matt/02 - Gold Mine/01:                          618       280
-:bitmap/matt/02 - Gold Mine/plank:                       452       128
-:bitmap/matt/02 - Gold Mine/01:                          282       342
-:bitmap/matt/02 - Gold Mine/00:                          326       314
-:bitmap/matt/02 - Gold Mine/crate64:                     576        64
-:bitmap/matt/02 - Gold Mine/07:                          176       276
-:bitmap/matt/02 - Gold Mine/00:                          314       348
-:bitmap/matt/02 - Gold Mine/07:                          126       338
-:bitmap/matt/02 - Gold Mine/01:                          218       260
-:bitmap/matt/02 - Gold Mine/00:                          176       224
-:bitmap/matt/02 - Gold Mine/01:                          144       256     frr
-:bitmap/matt/steel/64x64.S:                               48       304
-:bitmap/matt/02 - Gold Mine/07:                           64       272     frr
-:bitmap/matt/02 - Gold Mine/07:                          -96       288
-:bitmap/matt/02 - Gold Mine/07:                          -16       352
-:bitmap/matt/02 - Gold Mine/06:                           96       352
-:bitmap/matt/02 - Gold Mine/07:                           78       -34     rr
-:bitmap/matt/02 - Gold Mine/07:                          240       -48     frr
-:bitmap/matt/02 - Gold Mine/07:                          352       -48
-:bitmap/matt/02 - Gold Mine/06:                          544        -8
-:bitmap/matt/02 - Gold Mine/06:                          208       102     rrr
-:bitmap/matt/02 - Gold Mine/00:                          160        32
-:bitmap/matt/02 - Gold Mine/01:                          186        68     fr
-:bitmap/matt/02 - Gold Mine/07:                           16       -28     frr
-:bitmap/matt/02 - Gold Mine/07:                          -96       -48     frr
-:bitmap/matt/02 - Gold Mine/00:                          170        36
+:matt/goldmine/01:                          192       208     rrr
+:matt/goldmine/06:                          208       150     rrr
+:matt/goldmine/planksupport:               404       226
+:matt/goldmine/07:                          446       312
+:matt/goldmine/06:                          618       278
+:matt/goldmine/07:                          570       294
+:matt/goldmine/crate32:                     336        96
+:matt/goldmine/plank:                       336       128
+:matt/goldmine/06:                          524       316
+:matt/goldmine/00:                          438       350
+:matt/goldmine/06:                          572       382
+:matt/goldmine/planksupport:               576       128
+:matt/goldmine/00:                          616       236
+:matt/goldmine/01:                          618       280
+:matt/goldmine/plank:                       452       128
+:matt/goldmine/01:                          282       342
+:matt/goldmine/00:                          326       314
+:matt/goldmine/crate64:                     576        64
+:matt/goldmine/07:                          176       276
+:matt/goldmine/00:                          314       348
+:matt/goldmine/07:                          126       338
+:matt/goldmine/01:                          218       260
+:matt/goldmine/00:                          176       224
+:matt/goldmine/01:                          144       256     frr
+:matt/steel/64x64.S:                               48       304
+:matt/goldmine/07:                           64       272     frr
+:matt/goldmine/07:                          -96       288
+:matt/goldmine/07:                          -16       352
+:matt/goldmine/06:                           96       352
+:matt/goldmine/07:                           78       -34     rr
+:matt/goldmine/07:                          240       -48     frr
+:matt/goldmine/07:                          352       -48
+:matt/goldmine/06:                          544        -8
+:matt/goldmine/06:                          208       102     rrr
+:matt/goldmine/00:                          160        32
+:matt/goldmine/01:                          186        68     fr
+:matt/goldmine/07:                           16       -28     frr
+:matt/goldmine/07:                          -96       -48     frr
+:matt/goldmine/00:                          170        36

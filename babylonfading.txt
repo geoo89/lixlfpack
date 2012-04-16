@@ -32,83 +32,83 @@ $ENGLISH                                                Babylon Fading
 #NOTHING                                                             0
 #NOTHING                                                             0
 
-:bitmap/simon/hatch001.H:                                336         8
+:simon/hatch001.H:                                336         8
 
-:bitmap/simon/tapir/goal.G:                               16        80
+:simon/tapir/goal.G:                               16        80
 
-:bitmap/geoo/construction/squisher.T:                    560       272
+:geoo/construction/squisher.T:                    560       272
 
-:bitmap/simon/water.W:                                   272       128
-:bitmap/simon/water.W:                                   224       128
-:bitmap/geoo/sandstone/brazier.F:                        552       120
-:bitmap/geoo/sandstone/brazier.F:                        568       120
-:bitmap/geoo/sandstone/brazier.F:                        584       120
-:bitmap/geoo/sandstone/brazier.F:                        600       120
-:bitmap/geoo/sandstone/brazier.F:                        616       120
-:bitmap/geoo/sandstone/brazier.F:                        632       120
-:bitmap/geoo/sandstone/brazier.F:                        648       120
-:bitmap/geoo/sandstone/brazier.F:                        664       120
-:bitmap/simon/water.W:                                   136       224
-:bitmap/simon/water.W:                                   184       224
-:bitmap/simon/water.W:                                   232       224
-:bitmap/simon/water.W:                                   280       224
-:bitmap/simon/water.W:                                   568       200
-:bitmap/simon/water.W:                                   520       200
-:bitmap/simon/water.W:                                   616       200
-:bitmap/simon/water.W:                                   664       200
+:simon/water.W:                                   272       128
+:simon/water.W:                                   224       128
+:geoo/sandstone/brazier.F:                        552       120
+:geoo/sandstone/brazier.F:                        568       120
+:geoo/sandstone/brazier.F:                        584       120
+:geoo/sandstone/brazier.F:                        600       120
+:geoo/sandstone/brazier.F:                        616       120
+:geoo/sandstone/brazier.F:                        632       120
+:geoo/sandstone/brazier.F:                        648       120
+:geoo/sandstone/brazier.F:                        664       120
+:simon/water.W:                                   136       224
+:simon/water.W:                                   184       224
+:simon/water.W:                                   232       224
+:simon/water.W:                                   280       224
+:simon/water.W:                                   568       200
+:simon/water.W:                                   520       200
+:simon/water.W:                                   616       200
+:simon/water.W:                                   664       200
 
-:bitmap/simon/tapir/032v:                                400        80
-:bitmap/simon/tapir/032v:                                400       192
-:bitmap/simon/tapir/032v:                                400       256
-:bitmap/simon/tapir/032hd:                               432        80
-:bitmap/simon/tapir/032hc:                               496        80
-:bitmap/simon/tapir/128:                                 560         0
-:bitmap/simon/tapir/064h:                                384       336
-:bitmap/simon/tapir/064h:                                512       336
-:bitmap/simon/tapir/064h:                                128       336
-:bitmap/simon/tapir/064h:                                256       336
-:bitmap/simon/tapir/032v:                                320        80
-:bitmap/simon/tapir/032v:                                320       144
-:bitmap/simon/tapir/032h:                                256       176
-:bitmap/simon/tapir/032v:                                248         0
-:bitmap/simon/tapir/064:                                  16       192
-:bitmap/simon/tapir/064:                                  16       128
-:bitmap/simon/tapir/064:                                  16       256
-:bitmap/simon/tapir/064:                                 112         0
-:bitmap/simon/tapir/064:                                 112        64
-:bitmap/geoo/steel/64x32o.S:                             224       352
-:bitmap/geoo/steel/64x32o.S:                             480       352
-:bitmap/geoo/steel/32x64o.S:                              32       224
-:bitmap/geoo/steel/32x64o.S:                             128        32
-:bitmap/geoo/steel/32x64o.S:                             624        16
-:bitmap/geoo/construction/rod_steel/straight32.S:        224       144     rrr
-:bitmap/geoo/construction/rod_steel/straight32.S:        224       112     rrr
-:bitmap/geoo/construction/rod_steel/straight32.S:        224        80     rrr
-:bitmap/simon/tapir/032:                                 224       176
-:bitmap/geoo/construction/rod_steel/straight32.S:        128       240     rrr
-:bitmap/geoo/construction/rod_steel/straight32.S:        128       272
-:bitmap/geoo/construction/rod_steel/straight32.S:        160       272
-:bitmap/geoo/construction/rod_steel/straight32.S:        192       272
-:bitmap/geoo/construction/rod_steel/straight32.S:        224       272
-:bitmap/geoo/construction/rod_steel/straight32.S:        256       272
-:bitmap/geoo/construction/rod_steel/straight32.S:        288       272
-:bitmap/geoo/construction/rod_steel/straight32.S:        304       272
-:bitmap/geoo/construction/rod_steel/straight32.S:        328       240     rrr
-:bitmap/geoo/steel/32x16o.S:                             624         0
-:bitmap/geoo/steel/64x32o.S:                             512       240
-:bitmap/geoo/steel/64x32o.S:                             576       240
-:bitmap/geoo/construction/rod_steel/straight32.S:        512       208     rrr
-:bitmap/simon/tapir/016h:                                400       144
-:bitmap/simon/tapir/016h:                                400       160
-:bitmap/simon/tapir/016h:                                400       176
-:bitmap/geoo/construction/rod_steel/straight8.S:         328       232     rrr
-:bitmap/geoo/construction/rod_steel/straight8.S:         128       232     rrr
-:bitmap/geoo/construction/rod_steel/edge_ru.S:           128       272
-:bitmap/geoo/construction/rod_steel/edge_lu.S:           328       272
-:bitmap/geoo/construction/rod_steel/end_rect.S:          224        80     fr
-:bitmap/geoo/construction/rod_steel/end_rect.S:          128       232     fr
-:bitmap/geoo/construction/rod_steel/end_rect.S:          328       232     fr
-:bitmap/geoo/construction/rod_steel/end_rect.S:          512       208     fr
-:bitmap/geoo/steel/32x32o.S:                             640       240
-:bitmap/geoo/steel/16x32o.S:                             672       240
-:bitmap/geoo/steel/16x32o.S:                             672       208
+:simon/tapir/032v:                                400        80
+:simon/tapir/032v:                                400       192
+:simon/tapir/032v:                                400       256
+:simon/tapir/032hd:                               432        80
+:simon/tapir/032hc:                               496        80
+:simon/tapir/128:                                 560         0
+:simon/tapir/064h:                                384       336
+:simon/tapir/064h:                                512       336
+:simon/tapir/064h:                                128       336
+:simon/tapir/064h:                                256       336
+:simon/tapir/032v:                                320        80
+:simon/tapir/032v:                                320       144
+:simon/tapir/032h:                                256       176
+:simon/tapir/032v:                                248         0
+:simon/tapir/064:                                  16       192
+:simon/tapir/064:                                  16       128
+:simon/tapir/064:                                  16       256
+:simon/tapir/064:                                 112         0
+:simon/tapir/064:                                 112        64
+:geoo/steel/64x32o.S:                             224       352
+:geoo/steel/64x32o.S:                             480       352
+:geoo/steel/32x64o.S:                              32       224
+:geoo/steel/32x64o.S:                             128        32
+:geoo/steel/32x64o.S:                             624        16
+:geoo/construction/rod_steel/straight32.S:        224       144     rrr
+:geoo/construction/rod_steel/straight32.S:        224       112     rrr
+:geoo/construction/rod_steel/straight32.S:        224        80     rrr
+:simon/tapir/032:                                 224       176
+:geoo/construction/rod_steel/straight32.S:        128       240     rrr
+:geoo/construction/rod_steel/straight32.S:        128       272
+:geoo/construction/rod_steel/straight32.S:        160       272
+:geoo/construction/rod_steel/straight32.S:        192       272
+:geoo/construction/rod_steel/straight32.S:        224       272
+:geoo/construction/rod_steel/straight32.S:        256       272
+:geoo/construction/rod_steel/straight32.S:        288       272
+:geoo/construction/rod_steel/straight32.S:        304       272
+:geoo/construction/rod_steel/straight32.S:        328       240     rrr
+:geoo/steel/32x16o.S:                             624         0
+:geoo/steel/64x32o.S:                             512       240
+:geoo/steel/64x32o.S:                             576       240
+:geoo/construction/rod_steel/straight32.S:        512       208     rrr
+:simon/tapir/016h:                                400       144
+:simon/tapir/016h:                                400       160
+:simon/tapir/016h:                                400       176
+:geoo/construction/rod_steel/straight8.S:         328       232     rrr
+:geoo/construction/rod_steel/straight8.S:         128       232     rrr
+:geoo/construction/rod_steel/edge_ru.S:           128       272
+:geoo/construction/rod_steel/edge_lu.S:           328       272
+:geoo/construction/rod_steel/end_rect.S:          224        80     fr
+:geoo/construction/rod_steel/end_rect.S:          128       232     fr
+:geoo/construction/rod_steel/end_rect.S:          328       232     fr
+:geoo/construction/rod_steel/end_rect.S:          512       208     fr
+:geoo/steel/32x32o.S:                             640       240
+:geoo/steel/16x32o.S:                             672       240
+:geoo/steel/16x32o.S:                             672       208

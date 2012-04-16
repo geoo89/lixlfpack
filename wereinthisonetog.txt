@@ -31,105 +31,105 @@ $ENGLISH                                    We're In This One Together
 #NOTHING                                                             0
 #NOTHING                                                             0
 
-:bitmap/matt/05 - Winter/Hatch.H:                        608       -16
+:matt/winter/Hatch.H:                        608       -16
 
-:bitmap/matt/05 - Winter/Goal.G:                        1136       256
+:matt/winter/Goal.G:                        1136       256
 
-:bitmap/geoo/construction/squisher.T:                    384       192
-:bitmap/geoo/construction/squisher.T:                    736       304
+:geoo/construction/squisher.T:                    384       192
+:geoo/construction/squisher.T:                    736       304
 
-:bitmap/matt/05 - Winter/06:                             922       287     rr
-:bitmap/matt/05 - Winter/06:                             928       304
-:bitmap/matt/05 - Winter/05:                             672         0     f
-:bitmap/matt/05 - Winter/06:                             720       192     rr
-:bitmap/matt/05 - Winter/06:                             720       144     rr
-:bitmap/matt/05 - Winter/06:                             720        80     rr
-:bitmap/matt/05 - Winter/06:                             720        16     rr
-:bitmap/matt/05 - Winter/06:                             736        16     rr
-:bitmap/matt/05 - Winter/06:                             736        80     rr
-:bitmap/matt/05 - Winter/06:                             736       144     rr
-:bitmap/matt/05 - Winter/06:                             736       192     rr
-:bitmap/matt/05 - Winter/06:                             688       256     rrr
-:bitmap/matt/05 - Winter/17:                             592       336
-:bitmap/matt/05 - Winter/06:                             720       368     rrr
-:bitmap/matt/05 - Winter/02:                             632       336     rrr
-:bitmap/matt/05 - Winter/06:                             768       368     rrr
-:bitmap/matt/05 - Winter/06:                             752       256     rrr
-:bitmap/matt/05 - Winter/05:                             656      -128     f
-:bitmap/matt/05 - Winter/06:                             736         0     rr
-:bitmap/matt/05 - Winter/06:                             720         0     rr
-:bitmap/matt/05 - Winter/06:                             832       368     rrr
-:bitmap/matt/05 - Winter/15:                             704       224
-:bitmap/matt/05 - Winter/15:                             688       192
-:bitmap/matt/05 - Winter/15:                             736       224
-:bitmap/matt/05 - Winter/15:                             736       240
-:bitmap/matt/05 - Winter/15:                             704       208
-:bitmap/matt/05 - Winter/10:                             672       206
-:bitmap/matt/05 - Winter/15:                             688       208
-:bitmap/matt/05 - Winter/02:                             682       128     rr
-:bitmap/matt/05 - Winter/15:                             704       208
-:bitmap/matt/05 - Winter/06:                             864       368     rrr
-:bitmap/matt/05 - Winter/09a:                            912       352
-:bitmap/matt/05 - Winter/14:                             928       322     rr
-:bitmap/matt/05 - Winter/11:                             928       288
-:bitmap/matt/05 - Winter/01:                             928       336
-:bitmap/matt/05 - Winter/16:                             928       288
-:bitmap/matt/05 - Winter/06:                            1072       224
-:bitmap/matt/05 - Winter/10:                            1008       320
-:bitmap/matt/05 - Winter/10:                            1104       320
-:bitmap/matt/05 - Winter/10:                             992       272
-:bitmap/matt/05 - Winter/10:                            1152       304
-:bitmap/matt/05 - Winter/06:                            1072       176
-:bitmap/matt/05 - Winter/06:                            1072       160
-:bitmap/matt/05 - Winter/09b:                           1064       144
-:bitmap/matt/05 - Winter/17:                             352        96     rr
-:bitmap/matt/05 - Winter/17:                             384        16     rr
-:bitmap/matt/05 - Winter/17:                             352         0     rr
-:bitmap/matt/05 - Winter/17:                             320       -16     rr
-:bitmap/matt/05 - Winter/17:                             400       -32     rr
-:bitmap/matt/05 - Winter/17:                             352         0     rr
-:bitmap/matt/05 - Winter/17:                             352        16     rr
-:bitmap/matt/05 - Winter/06:                             292       250     rrr
-:bitmap/matt/05 - Winter/06:                             292       240     rrrd
-:bitmap/matt/05 - Winter/06:                             302       192
-:bitmap/matt/05 - Winter/06:                             302       144
-:bitmap/matt/05 - Winter/06:                             302       128
-:bitmap/matt/05 - Winter/09b:                            294       112
-:bitmap/matt/05 - Winter/11:                             256       256
-:bitmap/matt/05 - Winter/06:                             324       250     rrr
-:bitmap/matt/05 - Winter/06:                             340       250     rrr
-:bitmap/matt/05 - Winter/06:                             324       262     rrrd
-:bitmap/matt/05 - Winter/06:                             324       240     rrrd
-:bitmap/matt/05 - Winter/06:                             340       262     rrrd
-:bitmap/matt/05 - Winter/17:                             288       256
-:bitmap/matt/05 - Winter/16:                             208       288
-:bitmap/matt/05 - Winter/16:                             288       304
-:bitmap/matt/05 - Winter/00:                             208       304
-:bitmap/matt/05 - Winter/00:                             144       336
-:bitmap/matt/05 - Winter/00:                             112       368
-:bitmap/matt/05 - Winter/06:                             468       250     rrr
-:bitmap/matt/05 - Winter/06:                             468       240     rrrd
-:bitmap/matt/05 - Winter/06:                             468       262     rrrd
-:bitmap/matt/05 - Winter/02:                             530       218
-:bitmap/matt/05 - Winter/11:                             524       246     d
-:bitmap/matt/05 - Winter/15:                             525       238
-:bitmap/matt/05 - Winter/05:                             549       193     fr
-:bitmap/matt/05 - Winter/11:                             531       200
-:bitmap/matt/05 - Winter/11:                             528       274     d
-:bitmap/matt/05 - Winter/05:                             542       174     rrr
-:bitmap/matt/05 - Winter/13:                             747       188
-:bitmap/matt/05 - Winter/06:                             404       250     rrr
-:bitmap/matt/05 - Winter/06:                             404       262     rrrd
-:bitmap/matt/05 - Winter/06:                             404       240     rrrd
-:bitmap/matt/05 - Winter/06:                             340       240     rrrd
-:bitmap/matt/05 - Winter/18:                             553       260     d
-:bitmap/matt/05 - Winter/00:                             542       254     d
-:bitmap/matt/05 - Winter/00:                             556       253     d
-:bitmap/matt/05 - Winter/18:                             506       200     d
-:bitmap/matt/05 - Winter/18:                             635       253     d
-:bitmap/matt/05 - Winter/18:                             625       254     d
-:bitmap/matt/05 - Winter/18:                             615       255     d
-:bitmap/matt/05 - Winter/14:                             928       286     rr
-:bitmap/matt/05 - Winter/04:                             486        52     rrd
-:bitmap/matt/05 - Winter/06:                             912       287     rrd
-:bitmap/matt/05 - Winter/06:                             928       224     rrd
+:matt/winter/06:                             922       287     rr
+:matt/winter/06:                             928       304
+:matt/winter/05:                             672         0     f
+:matt/winter/06:                             720       192     rr
+:matt/winter/06:                             720       144     rr
+:matt/winter/06:                             720        80     rr
+:matt/winter/06:                             720        16     rr
+:matt/winter/06:                             736        16     rr
+:matt/winter/06:                             736        80     rr
+:matt/winter/06:                             736       144     rr
+:matt/winter/06:                             736       192     rr
+:matt/winter/06:                             688       256     rrr
+:matt/winter/17:                             592       336
+:matt/winter/06:                             720       368     rrr
+:matt/winter/02:                             632       336     rrr
+:matt/winter/06:                             768       368     rrr
+:matt/winter/06:                             752       256     rrr
+:matt/winter/05:                             656      -128     f
+:matt/winter/06:                             736         0     rr
+:matt/winter/06:                             720         0     rr
+:matt/winter/06:                             832       368     rrr
+:matt/winter/15:                             704       224
+:matt/winter/15:                             688       192
+:matt/winter/15:                             736       224
+:matt/winter/15:                             736       240
+:matt/winter/15:                             704       208
+:matt/winter/10:                             672       206
+:matt/winter/15:                             688       208
+:matt/winter/02:                             682       128     rr
+:matt/winter/15:                             704       208
+:matt/winter/06:                             864       368     rrr
+:matt/winter/09a:                            912       352
+:matt/winter/14:                             928       322     rr
+:matt/winter/11:                             928       288
+:matt/winter/01:                             928       336
+:matt/winter/16:                             928       288
+:matt/winter/06:                            1072       224
+:matt/winter/10:                            1008       320
+:matt/winter/10:                            1104       320
+:matt/winter/10:                             992       272
+:matt/winter/10:                            1152       304
+:matt/winter/06:                            1072       176
+:matt/winter/06:                            1072       160
+:matt/winter/09b:                           1064       144
+:matt/winter/17:                             352        96     rr
+:matt/winter/17:                             384        16     rr
+:matt/winter/17:                             352         0     rr
+:matt/winter/17:                             320       -16     rr
+:matt/winter/17:                             400       -32     rr
+:matt/winter/17:                             352         0     rr
+:matt/winter/17:                             352        16     rr
+:matt/winter/06:                             292       250     rrr
+:matt/winter/06:                             292       240     rrrd
+:matt/winter/06:                             302       192
+:matt/winter/06:                             302       144
+:matt/winter/06:                             302       128
+:matt/winter/09b:                            294       112
+:matt/winter/11:                             256       256
+:matt/winter/06:                             324       250     rrr
+:matt/winter/06:                             340       250     rrr
+:matt/winter/06:                             324       262     rrrd
+:matt/winter/06:                             324       240     rrrd
+:matt/winter/06:                             340       262     rrrd
+:matt/winter/17:                             288       256
+:matt/winter/16:                             208       288
+:matt/winter/16:                             288       304
+:matt/winter/00:                             208       304
+:matt/winter/00:                             144       336
+:matt/winter/00:                             112       368
+:matt/winter/06:                             468       250     rrr
+:matt/winter/06:                             468       240     rrrd
+:matt/winter/06:                             468       262     rrrd
+:matt/winter/02:                             530       218
+:matt/winter/11:                             524       246     d
+:matt/winter/15:                             525       238
+:matt/winter/05:                             549       193     fr
+:matt/winter/11:                             531       200
+:matt/winter/11:                             528       274     d
+:matt/winter/05:                             542       174     rrr
+:matt/winter/13:                             747       188
+:matt/winter/06:                             404       250     rrr
+:matt/winter/06:                             404       262     rrrd
+:matt/winter/06:                             404       240     rrrd
+:matt/winter/06:                             340       240     rrrd
+:matt/winter/18:                             553       260     d
+:matt/winter/00:                             542       254     d
+:matt/winter/00:                             556       253     d
+:matt/winter/18:                             506       200     d
+:matt/winter/18:                             635       253     d
+:matt/winter/18:                             625       254     d
+:matt/winter/18:                             615       255     d
+:matt/winter/14:                             928       286     rr
+:matt/winter/04:                             486        52     rrd
+:matt/winter/06:                             912       287     rrd
+:matt/winter/06:                             928       224     rrd

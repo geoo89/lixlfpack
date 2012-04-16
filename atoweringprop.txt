@@ -31,65 +31,65 @@ $ENGLISH                                        A Towering Proposition
 #NOTHING                                                             0
 #NOTHING                                                             0
 
-:bitmap/geoo/construction/Hatch.H:                        32       208
+:geoo/construction/Hatch.H:                        32       208
 
-:bitmap/geoo/construction/Goal2.G:                       544       208
+:geoo/construction/Goal2.G:                       544       208
 
-:bitmap/geoo/construction/wall/big_128x128:              128       144
-:bitmap/geoo/construction/wall/big_128x128:              128        80
-:bitmap/geoo/construction/rod_rust/straight32:           352       336
-:bitmap/geoo/construction/wall/big_128x64:               512       272
-:bitmap/geoo/construction/wall/big_128x64:               384       272
-:bitmap/geoo/construction/wall/big_128x128:              384       336
-:bitmap/geoo/construction/wall/big_128x128:              512       336
-:bitmap/geoo/construction/rod_rust/straight32:           320       336
-:bitmap/geoo/construction/rod_rust/straight32:           288       336
-:bitmap/geoo/construction/rod_rust/straight32:           256       336
-:bitmap/geoo/construction/rod_rust/straight32:           216       272     frr
-:bitmap/geoo/construction/rod_rust/straight32:           184       272
-:bitmap/geoo/construction/rod_rust/straight32:           152       272
-:bitmap/geoo/construction/rod_rust/straight32:           120       272
-:bitmap/geoo/construction/rod_rust/straight32:            88       272
-:bitmap/geoo/construction/rod_rust/straight32:            56       272
-:bitmap/geoo/construction/rod_rust/straight32:            24       272
-:bitmap/geoo/construction/rod_rust/straight32:            -8       272
-:bitmap/geoo/construction/rod_rust/edge_ld:              248       272
-:bitmap/geoo/construction/rod_rust/straight32:           248       280     fr
-:bitmap/geoo/construction/rod_rust/straight32:           248       312     fr
-:bitmap/geoo/construction/rod_rust/straight32:           248       344     fr
-:bitmap/geoo/construction/rod_rust/straight32:           248       376     fr
-:bitmap/geoo/construction/rod_rust/link:                 248       336     frr
-:bitmap/geoo/construction/wall/big_square:               128       112
-:bitmap/geoo/construction/wall/big_square:               128       176
-:bitmap/geoo/construction/wall/big_square:               128       240
-:bitmap/geoo/construction/wall/big_square:               224       240
-:bitmap/geoo/construction/wall/big_square:               224       176
-:bitmap/geoo/construction/wall/big_square:               224       112
-:bitmap/geoo/construction/wall/big_square:               384       304
-:bitmap/geoo/construction/wall/big_square:               384       368
-:bitmap/geoo/construction/pillar_top_shaded:             192       296
-:bitmap/geoo/construction/pillar_base:                   176       280
-:bitmap/geoo/construction/pillar_32:                     192       312
-:bitmap/geoo/construction/pillar_32:                     192       344
-:bitmap/geoo/construction/pillar_32:                     192       376
-:bitmap/geoo/construction/pillar_top_shaded:             128       296
-:bitmap/geoo/construction/pillar_base:                   112       280
-:bitmap/geoo/construction/pillar_32:                     128       312
-:bitmap/geoo/construction/pillar_32:                     128       344
-:bitmap/geoo/construction/pillar_32:                     128       376
-:bitmap/geoo/construction/pillar_top_shaded:              64       296
-:bitmap/geoo/construction/pillar_base:                    48       280
-:bitmap/geoo/construction/pillar_32:                      64       312
-:bitmap/geoo/construction/pillar_32:                      64       344
-:bitmap/geoo/construction/pillar_32:                      64       376
-:bitmap/geoo/construction/pillar_top_shaded:               0       296
-:bitmap/geoo/construction/pillar_base:                   -16       280
-:bitmap/geoo/construction/pillar_32:                       0       312
-:bitmap/geoo/construction/pillar_32:                       0       344
-:bitmap/geoo/construction/pillar_32:                       0       376
-:bitmap/geoo/construction/pillar_top_shaded:             336       360
-:bitmap/geoo/construction/pillar_base:                   320       344
-:bitmap/geoo/construction/pillar_32:                     336       376
-:bitmap/geoo/construction/pillar_top_shaded:             272       360
-:bitmap/geoo/construction/pillar_base:                   256       344
-:bitmap/geoo/construction/pillar_32:                     272       376
+:geoo/construction/wall/big_128x128:              128       144
+:geoo/construction/wall/big_128x128:              128        80
+:geoo/construction/rod_rust/straight32:           352       336
+:geoo/construction/wall/big_128x64:               512       272
+:geoo/construction/wall/big_128x64:               384       272
+:geoo/construction/wall/big_128x128:              384       336
+:geoo/construction/wall/big_128x128:              512       336
+:geoo/construction/rod_rust/straight32:           320       336
+:geoo/construction/rod_rust/straight32:           288       336
+:geoo/construction/rod_rust/straight32:           256       336
+:geoo/construction/rod_rust/straight32:           216       272     frr
+:geoo/construction/rod_rust/straight32:           184       272
+:geoo/construction/rod_rust/straight32:           152       272
+:geoo/construction/rod_rust/straight32:           120       272
+:geoo/construction/rod_rust/straight32:            88       272
+:geoo/construction/rod_rust/straight32:            56       272
+:geoo/construction/rod_rust/straight32:            24       272
+:geoo/construction/rod_rust/straight32:            -8       272
+:geoo/construction/rod_rust/edge_ld:              248       272
+:geoo/construction/rod_rust/straight32:           248       280     fr
+:geoo/construction/rod_rust/straight32:           248       312     fr
+:geoo/construction/rod_rust/straight32:           248       344     fr
+:geoo/construction/rod_rust/straight32:           248       376     fr
+:geoo/construction/rod_rust/link:                 248       336     frr
+:geoo/construction/wall/big_square:               128       112
+:geoo/construction/wall/big_square:               128       176
+:geoo/construction/wall/big_square:               128       240
+:geoo/construction/wall/big_square:               224       240
+:geoo/construction/wall/big_square:               224       176
+:geoo/construction/wall/big_square:               224       112
+:geoo/construction/wall/big_square:               384       304
+:geoo/construction/wall/big_square:               384       368
+:geoo/construction/pillar_top_shaded:             192       296
+:geoo/construction/pillar_base:                   176       280
+:geoo/construction/pillar_32:                     192       312
+:geoo/construction/pillar_32:                     192       344
+:geoo/construction/pillar_32:                     192       376
+:geoo/construction/pillar_top_shaded:             128       296
+:geoo/construction/pillar_base:                   112       280
+:geoo/construction/pillar_32:                     128       312
+:geoo/construction/pillar_32:                     128       344
+:geoo/construction/pillar_32:                     128       376
+:geoo/construction/pillar_top_shaded:              64       296
+:geoo/construction/pillar_base:                    48       280
+:geoo/construction/pillar_32:                      64       312
+:geoo/construction/pillar_32:                      64       344
+:geoo/construction/pillar_32:                      64       376
+:geoo/construction/pillar_top_shaded:               0       296
+:geoo/construction/pillar_base:                   -16       280
+:geoo/construction/pillar_32:                       0       312
+:geoo/construction/pillar_32:                       0       344
+:geoo/construction/pillar_32:                       0       376
+:geoo/construction/pillar_top_shaded:             336       360
+:geoo/construction/pillar_base:                   320       344
+:geoo/construction/pillar_32:                     336       376
+:geoo/construction/pillar_top_shaded:             272       360
+:geoo/construction/pillar_base:                   256       344
+:geoo/construction/pillar_32:                     272       376

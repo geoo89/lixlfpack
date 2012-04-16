@@ -32,83 +32,83 @@ $ENGLISH                                             Oh No, Not Again!
 #NOTHING                                                             0
 #NOTHING                                                             0
 
-:bitmap/matt/01 - Earth/Hatch.H:                         754       100
+:matt/earth/Hatch.H:                         754       100
 
-:bitmap/matt/01 - Earth/Goal.G:                          866       312
+:matt/earth/Goal.G:                          866       312
 
-:bitmap/geoo/steel/32x64o.S:                             992        80
-:bitmap/geoo/steel/32x64o.S:                             992       144
-:bitmap/geoo/steel/32x64o.S:                             992       208
-:bitmap/geoo/steel/32x64o.S:                             992       272
-:bitmap/geoo/steel/32x64o.S:                             992       336
-:bitmap/geoo/steel/32x64o.S:                               0        80
-:bitmap/geoo/steel/32x64o.S:                               0       144
-:bitmap/geoo/steel/32x64o.S:                               0       208
-:bitmap/geoo/steel/32x64o.S:                               0       272
-:bitmap/geoo/steel/32x64o.S:                               0       336
-:bitmap/geoo/steel/32x64o.S:                               0        16
-:bitmap/geoo/steel/32x64o.S:                             992        16
-:bitmap/matt/01 - Earth/03:                              204       142     frr
-:bitmap/matt/01 - Earth/03:                              232       176     frr
-:bitmap/matt/01 - Earth/05:                               64       136     r
-:bitmap/geoo/steel/32x64o.S:                              64        80
-:bitmap/geoo/steel/32x64o.S:                              64       144
-:bitmap/geoo/steel/32x64o.S:                              64       208
-:bitmap/geoo/steel/32x64o.S:                              64       272
-:bitmap/geoo/steel/32x64o.S:                              64       336
-:bitmap/matt/01 - Earth/10:                              704       144
-:bitmap/matt/01 - Earth/10:                              688       192     d
-:bitmap/matt/01 - Earth/01:                              800       216
-:bitmap/matt/01 - Earth/03:                              800       208
-:bitmap/matt/01 - Earth/03:                              832       180
-:bitmap/geoo/steel/32x64o.S:                             928        80
-:bitmap/matt/01 - Earth/09:                              870       268
-:bitmap/matt/01 - Earth/09:                              886       266
-:bitmap/geoo/steel/32x64o.S:                             928       272
-:bitmap/matt/01 - Earth/15:                              856       376
-:bitmap/geoo/steel/32x64o.S:                             928       336
-:bitmap/geoo/steel/32x64o.S:                             960       176     d
-:bitmap/matt/01 - Earth/03:                              624       148
-:bitmap/matt/01 - Earth/10:                              476       340
-:bitmap/matt/01 - Earth/03:                              468       338
-:bitmap/matt/01 - Earth/09:                              546       334
-:bitmap/matt/01 - Earth/03:                              590       340
-:bitmap/matt/01 - Earth/05:                              670       336     rr
-:bitmap/matt/01 - Earth/01:                              364       340
-:bitmap/matt/01 - Earth/02:                              354       342
-:bitmap/matt/01 - Earth/00:                              588       340
-:bitmap/matt/01 - Earth/09:                              594       334
-:bitmap/matt/01 - Earth/09:                              642       334
-:bitmap/matt/01 - Earth/09:                              690       334
-:bitmap/matt/01 - Earth/09:                              498       336
-:bitmap/matt/01 - Earth/09:                              354       334
-:bitmap/matt/01 - Earth/04:                              604       356
-:bitmap/matt/01 - Earth/17:                              432       136     fr
-:bitmap/matt/01 - Earth/05:                              256       136     fr
-:bitmap/matt/01 - Earth/05:                              296       152     fr
-:bitmap/matt/01 - Earth/00:                              512       144
-:bitmap/matt/01 - Earth/09:                              -16         8
-:bitmap/matt/01 - Earth/09:                              984         8
-:bitmap/matt/01 - Earth/05:                              512       136     r
-:bitmap/matt/01 - Earth/17:                              732       165     fr
-:bitmap/matt/01 - Earth/05:                              528       156     fr
-:bitmap/matt/01 - Earth/00:                              864       192
-:bitmap/geoo/steel/32x64o.S:                             928       144
-:bitmap/geoo/steel/32x64o.S:                             928       208
-:bitmap/matt/01 - Earth/23:                              256       320
-:bitmap/matt/01 - Earth/26:                              264       296
-:bitmap/matt/01 - Earth/01:                              248       288
-:bitmap/matt/01 - Earth/23:                              152       288
-:bitmap/matt/01 - Earth/26:                              160       264
-:bitmap/matt/01 - Earth/01:                              144       256
-:bitmap/matt/01 - Earth/03:                              356       338
-:bitmap/matt/01 - Earth/10:                              380       340
-:bitmap/matt/01 - Earth/09:                              402       334
-:bitmap/matt/01 - Earth/09:                              450       334
-:bitmap/matt/01 - Earth/15:                              704       272
-:bitmap/matt/01 - Earth/05:                              464       152     r
-:bitmap/geoo/steel/64x64.S:                              864       224
-:bitmap/matt/01 - Earth/03:                              702       201     frr
-:bitmap/geoo/steel/64x64.S:                              800       224
-:bitmap/geoo/steel/32x64o.S:                             960       336
-:bitmap/geoo/steel/32x64o.S:                              32       336
+:geoo/steel/32x64o.S:                             992        80
+:geoo/steel/32x64o.S:                             992       144
+:geoo/steel/32x64o.S:                             992       208
+:geoo/steel/32x64o.S:                             992       272
+:geoo/steel/32x64o.S:                             992       336
+:geoo/steel/32x64o.S:                               0        80
+:geoo/steel/32x64o.S:                               0       144
+:geoo/steel/32x64o.S:                               0       208
+:geoo/steel/32x64o.S:                               0       272
+:geoo/steel/32x64o.S:                               0       336
+:geoo/steel/32x64o.S:                               0        16
+:geoo/steel/32x64o.S:                             992        16
+:matt/earth/03:                              204       142     frr
+:matt/earth/03:                              232       176     frr
+:matt/earth/05:                               64       136     r
+:geoo/steel/32x64o.S:                              64        80
+:geoo/steel/32x64o.S:                              64       144
+:geoo/steel/32x64o.S:                              64       208
+:geoo/steel/32x64o.S:                              64       272
+:geoo/steel/32x64o.S:                              64       336
+:matt/earth/10:                              704       144
+:matt/earth/10:                              688       192     d
+:matt/earth/01:                              800       216
+:matt/earth/03:                              800       208
+:matt/earth/03:                              832       180
+:geoo/steel/32x64o.S:                             928        80
+:matt/earth/09:                              870       268
+:matt/earth/09:                              886       266
+:geoo/steel/32x64o.S:                             928       272
+:matt/earth/15:                              856       376
+:geoo/steel/32x64o.S:                             928       336
+:geoo/steel/32x64o.S:                             960       176     d
+:matt/earth/03:                              624       148
+:matt/earth/10:                              476       340
+:matt/earth/03:                              468       338
+:matt/earth/09:                              546       334
+:matt/earth/03:                              590       340
+:matt/earth/05:                              670       336     rr
+:matt/earth/01:                              364       340
+:matt/earth/02:                              354       342
+:matt/earth/00:                              588       340
+:matt/earth/09:                              594       334
+:matt/earth/09:                              642       334
+:matt/earth/09:                              690       334
+:matt/earth/09:                              498       336
+:matt/earth/09:                              354       334
+:matt/earth/04:                              604       356
+:matt/earth/17:                              432       136     fr
+:matt/earth/05:                              256       136     fr
+:matt/earth/05:                              296       152     fr
+:matt/earth/00:                              512       144
+:matt/earth/09:                              -16         8
+:matt/earth/09:                              984         8
+:matt/earth/05:                              512       136     r
+:matt/earth/17:                              732       165     fr
+:matt/earth/05:                              528       156     fr
+:matt/earth/00:                              864       192
+:geoo/steel/32x64o.S:                             928       144
+:geoo/steel/32x64o.S:                             928       208
+:matt/earth/23:                              256       320
+:matt/earth/26:                              264       296
+:matt/earth/01:                              248       288
+:matt/earth/23:                              152       288
+:matt/earth/26:                              160       264
+:matt/earth/01:                              144       256
+:matt/earth/03:                              356       338
+:matt/earth/10:                              380       340
+:matt/earth/09:                              402       334
+:matt/earth/09:                              450       334
+:matt/earth/15:                              704       272
+:matt/earth/05:                              464       152     r
+:geoo/steel/64x64.S:                              864       224
+:matt/earth/03:                              702       201     frr
+:geoo/steel/64x64.S:                              800       224
+:geoo/steel/32x64o.S:                             960       336
+:geoo/steel/32x64o.S:                              32       336

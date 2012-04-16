@@ -31,75 +31,75 @@ $ENGLISH                                               Diggin' The Air
 #NOTHING                                                             0
 #NOTHING                                                             0
 
-:bitmap/matt/09 - Marble/Hatch.H:                         96       110
-:bitmap/matt/09 - Marble/Hatch.H:                        304         6
+:matt/marble/Hatch.H:                         96       110
+:matt/marble/Hatch.H:                        304         6
 
-:bitmap/matt/09 - Marble/Goal.G:                         512       272
+:matt/marble/Goal.G:                         512       272
 
-:bitmap/matt/09 - Marble/08:                             448       106
-:bitmap/matt/09 - Marble/08:                             480        90
-:bitmap/matt/01 - Earth/04:                              160       -22     rr
-:bitmap/matt/09 - Marble/20:                             304       256
-:bitmap/matt/09 - Marble/20:                             208       256
-:bitmap/matt/01 - Earth/01:                               36        28     r
-:bitmap/matt/01 - Earth/02:                                2        26
-:bitmap/matt/01 - Earth/10:                               80       -54     rr
-:bitmap/matt/01 - Earth/10:                               -4       -66
-:bitmap/matt/09 - Marble/08:                              64       224
-:bitmap/matt/09 - Marble/08:                             128       224
-:bitmap/matt/09 - Marble/08:                             192       224
-:bitmap/matt/09 - Marble/08:                             256       224
-:bitmap/matt/09 - Marble/08:                             320       224
-:bitmap/matt/09 - Marble/08:                             384       224
-:bitmap/matt/09 - Marble/08:                             448       224
-:bitmap/matt/09 - Marble/08:                             512       224
-:bitmap/matt/09 - Marble/08:                             576       224
-:bitmap/matt/09 - Marble/06:                               0        58
-:bitmap/matt/09 - Marble/06:                               0        -6
-:bitmap/matt/09 - Marble/06:                               0       186
-:bitmap/matt/09 - Marble/06:                               0       122
-:bitmap/matt/09 - Marble/08:                             224        90
-:bitmap/matt/09 - Marble/08:                             352        90
-:bitmap/matt/09 - Marble/08:                             416        90
-:bitmap/matt/09 - Marble/08:                             544        90
-:bitmap/matt/09 - Marble/08:                             448       170
-:bitmap/geoo/construction/pillar_base:                   224        74
-:bitmap/geoo/construction/pillar_32:                     240        42
-:bitmap/geoo/construction/pillar_32:                     240        10
-:bitmap/geoo/construction/pillar_32:                     240       -22
-:bitmap/matt/09 - Marble/08:                             288        90
-:bitmap/geoo/steel/32x64o.S:                             608       112
-:bitmap/geoo/steel/32x64o.S:                             608        48
-:bitmap/geoo/steel/32x64o.S:                             608       -16
-:bitmap/matt/09 - Marble/06:                             608       176
-:bitmap/matt/09 - Marble/06:                             608       304
-:bitmap/matt/09 - Marble/06:                             608       240
-:bitmap/matt/01 - Earth/01:                              128        -2
-:bitmap/matt/09 - Marble/06:                             272        -6     d
-:bitmap/matt/09 - Marble/01:                             550       134
-:bitmap/matt/09 - Marble/01:                             550       152
-:bitmap/matt/09 - Marble/01:                             550       170
-:bitmap/matt/09 - Marble/01:                             550       188
-:bitmap/matt/09 - Marble/01:                             550       206
-:bitmap/matt/01 - Earth/10:                              126       306
-:bitmap/geoo/construction/pillar_base:                    64       256
-:bitmap/geoo/construction/pillar_32:                      80       336
-:bitmap/geoo/construction/pillar_32:                      80       304
-:bitmap/matt/01 - Earth/10:                              188       276
-:bitmap/geoo/construction/pillar_base:                   352       256
-:bitmap/geoo/construction/pillar_32:                     368       336
-:bitmap/geoo/construction/pillar_32:                     368       304
-:bitmap/geoo/construction/pillar_32:                     368       272
-:bitmap/matt/09 - Marble/08:                             480       320
-:bitmap/matt/09 - Marble/08:                             544       320
-:bitmap/matt/01 - Earth/16:                              402       290
-:bitmap/matt/09 - Marble/16:                             400       276
-:bitmap/matt/09 - Marble/16:                             432       308
-:bitmap/matt/09 - Marble/05:                             400       308
-:bitmap/matt/01 - Earth/17:                              386       304
-:bitmap/matt/01 - Earth/17:                              412       316
-:bitmap/matt/09 - Marble/08:                             448       138
-:bitmap/geoo/construction/pillar_top_shaded:              80       272
-:bitmap/geoo/construction/pillar_32:                      80       288
-:bitmap/geoo/construction/pillar_top_shaded:             368       272
-:bitmap/geoo/construction/pillar_bottom:                 240        58
+:matt/marble/08:                             448       106
+:matt/marble/08:                             480        90
+:matt/earth/04:                              160       -22     rr
+:matt/marble/20:                             304       256
+:matt/marble/20:                             208       256
+:matt/earth/01:                               36        28     r
+:matt/earth/02:                                2        26
+:matt/earth/10:                               80       -54     rr
+:matt/earth/10:                               -4       -66
+:matt/marble/08:                              64       224
+:matt/marble/08:                             128       224
+:matt/marble/08:                             192       224
+:matt/marble/08:                             256       224
+:matt/marble/08:                             320       224
+:matt/marble/08:                             384       224
+:matt/marble/08:                             448       224
+:matt/marble/08:                             512       224
+:matt/marble/08:                             576       224
+:matt/marble/06:                               0        58
+:matt/marble/06:                               0        -6
+:matt/marble/06:                               0       186
+:matt/marble/06:                               0       122
+:matt/marble/08:                             224        90
+:matt/marble/08:                             352        90
+:matt/marble/08:                             416        90
+:matt/marble/08:                             544        90
+:matt/marble/08:                             448       170
+:geoo/construction/pillar_base:                   224        74
+:geoo/construction/pillar_32:                     240        42
+:geoo/construction/pillar_32:                     240        10
+:geoo/construction/pillar_32:                     240       -22
+:matt/marble/08:                             288        90
+:geoo/steel/32x64o.S:                             608       112
+:geoo/steel/32x64o.S:                             608        48
+:geoo/steel/32x64o.S:                             608       -16
+:matt/marble/06:                             608       176
+:matt/marble/06:                             608       304
+:matt/marble/06:                             608       240
+:matt/earth/01:                              128        -2
+:matt/marble/06:                             272        -6     d
+:matt/marble/01:                             550       134
+:matt/marble/01:                             550       152
+:matt/marble/01:                             550       170
+:matt/marble/01:                             550       188
+:matt/marble/01:                             550       206
+:matt/earth/10:                              126       306
+:geoo/construction/pillar_base:                    64       256
+:geoo/construction/pillar_32:                      80       336
+:geoo/construction/pillar_32:                      80       304
+:matt/earth/10:                              188       276
+:geoo/construction/pillar_base:                   352       256
+:geoo/construction/pillar_32:                     368       336
+:geoo/construction/pillar_32:                     368       304
+:geoo/construction/pillar_32:                     368       272
+:matt/marble/08:                             480       320
+:matt/marble/08:                             544       320
+:matt/earth/16:                              402       290
+:matt/marble/16:                             400       276
+:matt/marble/16:                             432       308
+:matt/marble/05:                             400       308
+:matt/earth/17:                              386       304
+:matt/earth/17:                              412       316
+:matt/marble/08:                             448       138
+:geoo/construction/pillar_top_shaded:              80       272
+:geoo/construction/pillar_32:                      80       288
+:geoo/construction/pillar_top_shaded:             368       272
+:geoo/construction/pillar_bottom:                 240        58

@@ -31,81 +31,81 @@ $ENGLISH                                       A Matter of Perspective
 #MINER                                                               2
 #DIGGER                                                              0
 
-:bitmap/matt/08 - Bricks/Hatch.H:                        416        72
-:bitmap/matt/08 - Bricks/Hatch.H:                        112        48
+:matt/bricks/Hatch.H:                        416        72
+:matt/bricks/Hatch.H:                        112        48
 
-:bitmap/matt/09 - Marble/Goal.G:                         576        64
+:matt/marble/Goal.G:                         576        64
 
-:bitmap/matt/08 - Bricks/02:                             480       144
-:bitmap/matt/08 - Bricks/02:                             576       112
-:bitmap/matt/08 - Bricks/02:                             416       144
-:bitmap/matt/08 - Bricks/02:                             576       144
-:bitmap/matt/08 - Bricks/02:                             576       176
-:bitmap/matt/08 - Bricks/02:                             576       208
-:bitmap/matt/08 - Bricks/02:                             576       240
-:bitmap/matt/08 - Bricks/02:                             576       272
-:bitmap/matt/08 - Bricks/02:                             576       368
-:bitmap/matt/08 - Bricks/02:                             512       368
-:bitmap/matt/08 - Bricks/02:                             448       368
-:bitmap/matt/08 - Bricks/02:                             384       368
-:bitmap/matt/08 - Bricks/02:                             320       368
-:bitmap/matt/08 - Bricks/02:                             352       144
-:bitmap/matt/08 - Bricks/02:                             256       368
-:bitmap/matt/08 - Bricks/02:                             160       144
-:bitmap/matt/08 - Bricks/02:                             224       144
-:bitmap/matt/08 - Bricks/02:                             288       144
-:bitmap/matt/08 - Bricks/02:                             192       368
-:bitmap/matt/08 - Bricks/02:                             128       368
-:bitmap/matt/08 - Bricks/19:                             304       128
-:bitmap/matt/08 - Bricks/18:                             312        96
-:bitmap/matt/08 - Bricks/18:                             312        64
-:bitmap/matt/08 - Bricks/18:                             312        32
-:bitmap/matt/08 - Bricks/18:                             312         0
-:bitmap/matt/08 - Bricks/02:                              64       368
-:bitmap/matt/08 - Bricks/02:                              64       336
-:bitmap/matt/08 - Bricks/02:                              64       304
-:bitmap/matt/08 - Bricks/02:                              64       272
-:bitmap/matt/08 - Bricks/02:                              64       240
-:bitmap/matt/08 - Bricks/02:                              64       208
-:bitmap/matt/08 - Bricks/02:                              64       176
-:bitmap/matt/08 - Bricks/02:                              64       144
-:bitmap/matt/08 - Bricks/02:                              64       112
-:bitmap/matt/08 - Bricks/02:                             640       368
-:bitmap/matt/08 - Bricks/02:                             704       368
-:bitmap/matt/08 - Bricks/02:                             160       192
-:bitmap/matt/08 - Bricks/02:                             224       192
-:bitmap/matt/08 - Bricks/02:                             288       192
-:bitmap/matt/08 - Bricks/02:                             352       192
-:bitmap/matt/08 - Bricks/02:                             416       192
-:bitmap/matt/08 - Bricks/02:                             480       192
-:bitmap/matt/08 - Bricks/02:                             576       304
-:bitmap/matt/08 - Bricks/04:                             704       112
-:bitmap/matt/08 - Bricks/04:                             704       240
-:bitmap/matt/08 - Bricks/07:                             704       176
-:bitmap/matt/08 - Bricks/07:                             704       304
-:bitmap/geoo/abstract/cvblocks/000:                      312       280
-:bitmap/matt/08 - Bricks/02:                               0       112
-:bitmap/matt/08 - Bricks/02:                               0       336
-:bitmap/matt/08 - Bricks/02:                               0       304
-:bitmap/matt/08 - Bricks/02:                               0       272
-:bitmap/matt/08 - Bricks/02:                               0       240
-:bitmap/matt/08 - Bricks/02:                               0       208
-:bitmap/matt/08 - Bricks/02:                               0       176
-:bitmap/matt/08 - Bricks/02:                               0       144
-:bitmap/matt/08 - Bricks/02:                               0       368
-:bitmap/matt/08 - Bricks/02:                             768        80
-:bitmap/matt/08 - Bricks/02:                             768       112
-:bitmap/matt/08 - Bricks/02:                             768       144
-:bitmap/matt/08 - Bricks/02:                             768       176
-:bitmap/matt/08 - Bricks/02:                             768       208
-:bitmap/matt/08 - Bricks/02:                             768       240
-:bitmap/matt/08 - Bricks/02:                             768       272
-:bitmap/matt/08 - Bricks/02:                             768       304
-:bitmap/matt/08 - Bricks/02:                             768       336
-:bitmap/matt/08 - Bricks/02:                             768       368
-:bitmap/matt/08 - Bricks/02:                             640       112
-:bitmap/matt/08 - Bricks/02:                             640       144
-:bitmap/matt/08 - Bricks/12:                             672       208
-:bitmap/geoo/abstract/cvblocks/000:                      160       280
-:bitmap/geoo/abstract/cvblocks/000:                      168       280
-:bitmap/geoo/abstract/cvblocks/000:                      320       280
+:matt/bricks/02:                             480       144
+:matt/bricks/02:                             576       112
+:matt/bricks/02:                             416       144
+:matt/bricks/02:                             576       144
+:matt/bricks/02:                             576       176
+:matt/bricks/02:                             576       208
+:matt/bricks/02:                             576       240
+:matt/bricks/02:                             576       272
+:matt/bricks/02:                             576       368
+:matt/bricks/02:                             512       368
+:matt/bricks/02:                             448       368
+:matt/bricks/02:                             384       368
+:matt/bricks/02:                             320       368
+:matt/bricks/02:                             352       144
+:matt/bricks/02:                             256       368
+:matt/bricks/02:                             160       144
+:matt/bricks/02:                             224       144
+:matt/bricks/02:                             288       144
+:matt/bricks/02:                             192       368
+:matt/bricks/02:                             128       368
+:matt/bricks/19:                             304       128
+:matt/bricks/18:                             312        96
+:matt/bricks/18:                             312        64
+:matt/bricks/18:                             312        32
+:matt/bricks/18:                             312         0
+:matt/bricks/02:                              64       368
+:matt/bricks/02:                              64       336
+:matt/bricks/02:                              64       304
+:matt/bricks/02:                              64       272
+:matt/bricks/02:                              64       240
+:matt/bricks/02:                              64       208
+:matt/bricks/02:                              64       176
+:matt/bricks/02:                              64       144
+:matt/bricks/02:                              64       112
+:matt/bricks/02:                             640       368
+:matt/bricks/02:                             704       368
+:matt/bricks/02:                             160       192
+:matt/bricks/02:                             224       192
+:matt/bricks/02:                             288       192
+:matt/bricks/02:                             352       192
+:matt/bricks/02:                             416       192
+:matt/bricks/02:                             480       192
+:matt/bricks/02:                             576       304
+:matt/bricks/04:                             704       112
+:matt/bricks/04:                             704       240
+:matt/bricks/07:                             704       176
+:matt/bricks/07:                             704       304
+:geoo/abstract/cvblocks/000:                      312       280
+:matt/bricks/02:                               0       112
+:matt/bricks/02:                               0       336
+:matt/bricks/02:                               0       304
+:matt/bricks/02:                               0       272
+:matt/bricks/02:                               0       240
+:matt/bricks/02:                               0       208
+:matt/bricks/02:                               0       176
+:matt/bricks/02:                               0       144
+:matt/bricks/02:                               0       368
+:matt/bricks/02:                             768        80
+:matt/bricks/02:                             768       112
+:matt/bricks/02:                             768       144
+:matt/bricks/02:                             768       176
+:matt/bricks/02:                             768       208
+:matt/bricks/02:                             768       240
+:matt/bricks/02:                             768       272
+:matt/bricks/02:                             768       304
+:matt/bricks/02:                             768       336
+:matt/bricks/02:                             768       368
+:matt/bricks/02:                             640       112
+:matt/bricks/02:                             640       144
+:matt/bricks/12:                             672       208
+:geoo/abstract/cvblocks/000:                      160       280
+:geoo/abstract/cvblocks/000:                      168       280
+:geoo/abstract/cvblocks/000:                      320       280

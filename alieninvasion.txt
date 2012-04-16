@@ -31,84 +31,84 @@ $ENGLISH                                                Alien Invasion
 #NOTHING                                                             0
 #NOTHING                                                             0
 
-:bitmap/geoo/construction/Hatch.H:                       272       128     r
-:bitmap/geoo/construction/Hatch.H:                        80       128
-:bitmap/geoo/construction/Hatch.H:                       208       128
-:bitmap/geoo/construction/Hatch.H:                       144       128     r
-:bitmap/geoo/construction/Hatch.H:                       304       160
+:geoo/construction/Hatch.H:                       272       128     r
+:geoo/construction/Hatch.H:                        80       128
+:geoo/construction/Hatch.H:                       208       128
+:geoo/construction/Hatch.H:                       144       128     r
+:geoo/construction/Hatch.H:                       304       160
 
-:bitmap/matt/01 - Earth/Goal.G:                          496       188
+:matt/earth/Goal.G:                          496       188
 
-:bitmap/matt/water.W:                                    -16       368
-:bitmap/matt/water.W:                                     16       368
-:bitmap/matt/water.W:                                     48       368
-:bitmap/matt/water.W:                                     80       368
-:bitmap/geoo/sandstone/brazier.F:                        168        38
-:bitmap/geoo/sandstone/brazier.F:                        184        38
-:bitmap/geoo/sandstone/torch.F:                          168        40
-:bitmap/geoo/sandstone/torch.F:                          184        40
-:bitmap/geoo/sandstone/brazier.F:                        232        38
-:bitmap/geoo/sandstone/brazier.F:                        248        38
-:bitmap/geoo/sandstone/torch.F:                          232        40
-:bitmap/geoo/sandstone/torch.F:                          248        40
-:bitmap/geoo/sandstone/brazier.F:                        104        38
-:bitmap/geoo/sandstone/brazier.F:                        120        38
-:bitmap/geoo/sandstone/torch.F:                          104        40
-:bitmap/geoo/sandstone/torch.F:                          120        40
-:bitmap/matt/water.W:                                    112       368
-:bitmap/matt/water.W:                                    384       368
-:bitmap/matt/water.W:                                    416       368
+:matt/water.W:                                    -16       368
+:matt/water.W:                                     16       368
+:matt/water.W:                                     48       368
+:matt/water.W:                                     80       368
+:geoo/sandstone/brazier.F:                        168        38
+:geoo/sandstone/brazier.F:                        184        38
+:geoo/sandstone/torch.F:                          168        40
+:geoo/sandstone/torch.F:                          184        40
+:geoo/sandstone/brazier.F:                        232        38
+:geoo/sandstone/brazier.F:                        248        38
+:geoo/sandstone/torch.F:                          232        40
+:geoo/sandstone/torch.F:                          248        40
+:geoo/sandstone/brazier.F:                        104        38
+:geoo/sandstone/brazier.F:                        120        38
+:geoo/sandstone/torch.F:                          104        40
+:geoo/sandstone/torch.F:                          120        40
+:matt/water.W:                                    112       368
+:matt/water.W:                                    384       368
+:matt/water.W:                                    416       368
 
-:bitmap/matt/01 - Earth/18:                              338       360
-:bitmap/matt/01 - Earth/10:                              426       308
-:bitmap/matt/01 - Earth/02:                              409       272
-:bitmap/matt/01 - Earth/01:                              328       372
-:bitmap/matt/01 - Earth/02:                              222       390
-:bitmap/matt/01 - Earth/04:                              234       360     fr
-:bitmap/matt/01 - Earth/05:                              326       326
-:bitmap/matt/01 - Earth/06:                              438       252
-:bitmap/matt/01 - Earth/05:                              405       252     fr
-:bitmap/matt/01 - Earth/10:                              436       270
-:bitmap/matt/01 - Earth/16:                              512       298
-:bitmap/matt/01 - Earth/16:                              108       328
-:bitmap/matt/01 - Earth/16:                              612       -96
-:bitmap/matt/01 - Earth/10:                              448       -38
-:bitmap/matt/01 - Earth/03:                              382        20     fr
-:bitmap/matt/01 - Earth/02:                              392       122
-:bitmap/matt/01 - Earth/16:                              390       -56
-:bitmap/matt/01 - Earth/27:                              496       112
-:bitmap/matt/01 - Earth/28:                              466       126
-:bitmap/matt/01 - Earth/29:                              574       106
-:bitmap/matt/01 - Earth/29:                              446       130
-:bitmap/matt/01 - Earth/10:                              384        26
-:bitmap/matt/01 - Earth/17:                              592       298
-:bitmap/matt/01 - Earth/17:                              592       202
-:bitmap/matt/01 - Earth/05:                              592        26
-:bitmap/matt/01 - Earth/04:                              512       -22
-:bitmap/matt/01 - Earth/09:                              498       252
-:bitmap/matt/01 - Earth/09:                              474       250
-:bitmap/matt/01 - Earth/09:                              410       262     frr
-:bitmap/matt/01 - Earth/09:                              536       248     rr
-:bitmap/matt/03 - Carnival/54:                           160       192
-:bitmap/geoo/steel/64x32o.S:                              32       192
-:bitmap/geoo/steel/64x32o.S:                              96       192
-:bitmap/geoo/steel/64x32o.S:                             224       192
-:bitmap/geoo/steel/64x32o.S:                             288       192
-:bitmap/matt/03 - Carnival/25:                           288       128
-:bitmap/matt/03 - Carnival/25:                            32       128
-:bitmap/matt/03 - Carnival/46:                           320        96
-:bitmap/matt/03 - Carnival/46:                           288        64
-:bitmap/matt/03 - Carnival/45:                            32        96
-:bitmap/matt/03 - Carnival/45:                            64        64
-:bitmap/matt/03 - Carnival/08:                            64        96
-:bitmap/matt/03 - Carnival/09:                           288        96
-:bitmap/matt/03 - Carnival/43:                            96        96
-:bitmap/matt/03 - Carnival/44:                           256        96
-:bitmap/matt/03 - Carnival/51:                            96        64
-:bitmap/matt/03 - Carnival/51:                           160        64
-:bitmap/matt/03 - Carnival/51:                           224        64
-:bitmap/matt/03 - Carnival/29:                           160        48
-:bitmap/matt/03 - Carnival/29:                           224        48
-:bitmap/matt/03 - Carnival/29:                            96        48
-:bitmap/matt/01 - Earth/15:                              152       264
-:bitmap/matt/01 - Earth/04:                              140       348     frr
+:matt/earth/18:                              338       360
+:matt/earth/10:                              426       308
+:matt/earth/02:                              409       272
+:matt/earth/01:                              328       372
+:matt/earth/02:                              222       390
+:matt/earth/04:                              234       360     fr
+:matt/earth/05:                              326       326
+:matt/earth/06:                              438       252
+:matt/earth/05:                              405       252     fr
+:matt/earth/10:                              436       270
+:matt/earth/16:                              512       298
+:matt/earth/16:                              108       328
+:matt/earth/16:                              612       -96
+:matt/earth/10:                              448       -38
+:matt/earth/03:                              382        20     fr
+:matt/earth/02:                              392       122
+:matt/earth/16:                              390       -56
+:matt/earth/27:                              496       112
+:matt/earth/28:                              466       126
+:matt/earth/29:                              574       106
+:matt/earth/29:                              446       130
+:matt/earth/10:                              384        26
+:matt/earth/17:                              592       298
+:matt/earth/17:                              592       202
+:matt/earth/05:                              592        26
+:matt/earth/04:                              512       -22
+:matt/earth/09:                              498       252
+:matt/earth/09:                              474       250
+:matt/earth/09:                              410       262     frr
+:matt/earth/09:                              536       248     rr
+:matt/carnival/54:                           160       192
+:geoo/steel/64x32o.S:                              32       192
+:geoo/steel/64x32o.S:                              96       192
+:geoo/steel/64x32o.S:                             224       192
+:geoo/steel/64x32o.S:                             288       192
+:matt/carnival/25:                           288       128
+:matt/carnival/25:                            32       128
+:matt/carnival/46:                           320        96
+:matt/carnival/46:                           288        64
+:matt/carnival/45:                            32        96
+:matt/carnival/45:                            64        64
+:matt/carnival/08:                            64        96
+:matt/carnival/09:                           288        96
+:matt/carnival/43:                            96        96
+:matt/carnival/44:                           256        96
+:matt/carnival/51:                            96        64
+:matt/carnival/51:                           160        64
+:matt/carnival/51:                           224        64
+:matt/carnival/29:                           160        48
+:matt/carnival/29:                           224        48
+:matt/carnival/29:                            96        48
+:matt/earth/15:                              152       264
+:matt/earth/04:                              140       348     frr

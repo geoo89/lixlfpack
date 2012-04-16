@@ -31,44 +31,44 @@ $ENGLISH                                                     Conundrum
 #NOTHING                                                             0
 #NOTHING                                                             0
 
-:bitmap/matt/07 - Underworld/Hatch.H:                     96       272
+:matt/underworld/Hatch.H:                     96       272
 
-:bitmap/matt/07 - Underworld/Goal.G:                    1152       288
+:matt/underworld/Goal.G:                    1152       288
 
-:bitmap/matt/07 - Underworld/Lava.W:                     816       352
-:bitmap/matt/07 - Underworld/Lava.W:                     864       352
-:bitmap/geoo/sandstone/torch.F:                           30       352
-:bitmap/geoo/sandstone/torch.F:                         1202       352
+:matt/underworld/Lava.W:                     816       352
+:matt/underworld/Lava.W:                     864       352
+:geoo/sandstone/torch.F:                           30       352
+:geoo/sandstone/torch.F:                         1202       352
 
-:bitmap/matt/07 - Underworld/01:                          48       352
-:bitmap/matt/07 - Underworld/01:                         112       352
-:bitmap/matt/07 - Underworld/01:                         176       352
-:bitmap/matt/07 - Underworld/01:                         240       352
-:bitmap/matt/07 - Underworld/02:                         336       304
-:bitmap/matt/07 - Underworld/02:                         336       208
-:bitmap/matt/07 - Underworld/02:                         400       304
-:bitmap/matt/07 - Underworld/02:                         464       304
-:bitmap/matt/07 - Underworld/02:                         528       304
-:bitmap/matt/07 - Underworld/02:                         336       112
-:bitmap/matt/07 - Underworld/02:                         344       112     d
-:bitmap/matt/07 - Underworld/01:                         560       352
-:bitmap/matt/07 - Underworld/01:                         624       352
-:bitmap/matt/07 - Underworld/01:                         688       352
-:bitmap/matt/07 - Underworld/01:                         752       352
-:bitmap/matt/07 - Underworld/01:                         896       352
-:bitmap/matt/07 - Underworld/01:                         960       352
-:bitmap/matt/07 - Underworld/01:                        1024       352
-:bitmap/matt/07 - Underworld/01:                         752       384
-:bitmap/matt/07 - Underworld/01:                         896       384
-:bitmap/matt/07 - Underworld/01:                        1088       352
-:bitmap/matt/07 - Underworld/01:                        1152       352
-:bitmap/matt/07 - Underworld/01:                         336       384     d
-:bitmap/matt/07 - Underworld/01:                         400       384     d
-:bitmap/matt/07 - Underworld/01:                         464       384     d
-:bitmap/matt/07 - Underworld/01:                         528       384     d
-:bitmap/matt/07 - Underworld/02:                         464       208
-:bitmap/matt/07 - Underworld/02:                         472       208     d
-:bitmap/matt/07 - Underworld/02:                         448       136     d
-:bitmap/matt/07 - Underworld/02:                         520       208
-:bitmap/matt/07 - Underworld/02:                         528       208     d
-:bitmap/matt/07 - Underworld/01:                         304       352
+:matt/underworld/01:                          48       352
+:matt/underworld/01:                         112       352
+:matt/underworld/01:                         176       352
+:matt/underworld/01:                         240       352
+:matt/underworld/02:                         336       304
+:matt/underworld/02:                         336       208
+:matt/underworld/02:                         400       304
+:matt/underworld/02:                         464       304
+:matt/underworld/02:                         528       304
+:matt/underworld/02:                         336       112
+:matt/underworld/02:                         344       112     d
+:matt/underworld/01:                         560       352
+:matt/underworld/01:                         624       352
+:matt/underworld/01:                         688       352
+:matt/underworld/01:                         752       352
+:matt/underworld/01:                         896       352
+:matt/underworld/01:                         960       352
+:matt/underworld/01:                        1024       352
+:matt/underworld/01:                         752       384
+:matt/underworld/01:                         896       384
+:matt/underworld/01:                        1088       352
+:matt/underworld/01:                        1152       352
+:matt/underworld/01:                         336       384     d
+:matt/underworld/01:                         400       384     d
+:matt/underworld/01:                         464       384     d
+:matt/underworld/01:                         528       384     d
+:matt/underworld/02:                         464       208
+:matt/underworld/02:                         472       208     d
+:matt/underworld/02:                         448       136     d
+:matt/underworld/02:                         520       208
+:matt/underworld/02:                         528       208     d
+:matt/underworld/01:                         304       352

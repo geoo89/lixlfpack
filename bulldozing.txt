@@ -31,36 +31,36 @@ $ENGLISH                                                     Bulldozer
 #NOTHING                                                             0
 #NOTHING                                                             0
 
-:bitmap/geoo/construction/Hatch.H:                       368       112
-:bitmap/geoo/construction/Hatch.H:                       560       192     r
+:geoo/construction/Hatch.H:                       368       112
+:geoo/construction/Hatch.H:                       560       192     r
 
-:bitmap/geoo/construction/Goal2.G:                        32       112
+:geoo/construction/Goal2.G:                        32       112
 
-:bitmap/geoo/construction/wall/big_128x128:              352       176
-:bitmap/geoo/construction/wall/big_128x128:              384       272
-:bitmap/geoo/construction/wall/big_128x128:              512       272
-:bitmap/geoo/construction/wall/big_128x128:              256       272
-:bitmap/geoo/construction/wall/big_128x128:              128       272
-:bitmap/geoo/construction/wall/big_128x128:                0       272
-:bitmap/geoo/construction/wall/big_128x128:              224       176
-:bitmap/geoo/construction/wall/big_128x128:               96       176
-:bitmap/geoo/construction/wall/big_128x128:              -32       176
-:bitmap/geoo/construction/pillar_bottom:                 608       256
-:bitmap/geoo/construction/pillar_32:                     608       224
-:bitmap/geoo/construction/pillar_32:                     608       192
-:bitmap/geoo/construction/pillar_32:                     608       160
-:bitmap/geoo/construction/pillar_32:                     608       128
-:bitmap/geoo/construction/pillar_32:                     608       112
-:bitmap/geoo/construction/pillar_top_shaded:             608        64
-:bitmap/geoo/construction/wall/big_128x128:              512       -64
-:bitmap/geoo/construction/wall/big_128x128:              384       -64
-:bitmap/geoo/construction/wall/big_128x128:              256       -64
-:bitmap/geoo/construction/wall/big_128x128:              128       -64
-:bitmap/geoo/construction/pillar_32:                     608        80
-:bitmap/geoo/construction/wall/big_128x128:                0       -64
-:bitmap/geoo/construction/pillar_bottom:                   0       160
-:bitmap/geoo/construction/pillar_top_shaded:               0        64
-:bitmap/geoo/construction/pillar_32:                       0       128
-:bitmap/geoo/construction/pillar_32:                       0       112
-:bitmap/geoo/construction/pillar_32:                       0        80
-:bitmap/geoo/construction/wall/big_square:               448       208
+:geoo/construction/wall/big_128x128:              352       176
+:geoo/construction/wall/big_128x128:              384       272
+:geoo/construction/wall/big_128x128:              512       272
+:geoo/construction/wall/big_128x128:              256       272
+:geoo/construction/wall/big_128x128:              128       272
+:geoo/construction/wall/big_128x128:                0       272
+:geoo/construction/wall/big_128x128:              224       176
+:geoo/construction/wall/big_128x128:               96       176
+:geoo/construction/wall/big_128x128:              -32       176
+:geoo/construction/pillar_bottom:                 608       256
+:geoo/construction/pillar_32:                     608       224
+:geoo/construction/pillar_32:                     608       192
+:geoo/construction/pillar_32:                     608       160
+:geoo/construction/pillar_32:                     608       128
+:geoo/construction/pillar_32:                     608       112
+:geoo/construction/pillar_top_shaded:             608        64
+:geoo/construction/wall/big_128x128:              512       -64
+:geoo/construction/wall/big_128x128:              384       -64
+:geoo/construction/wall/big_128x128:              256       -64
+:geoo/construction/wall/big_128x128:              128       -64
+:geoo/construction/pillar_32:                     608        80
+:geoo/construction/wall/big_128x128:                0       -64
+:geoo/construction/pillar_bottom:                   0       160
+:geoo/construction/pillar_top_shaded:               0        64
+:geoo/construction/pillar_32:                       0       128
+:geoo/construction/pillar_32:                       0       112
+:geoo/construction/pillar_32:                       0        80
+:geoo/construction/wall/big_square:               448       208
