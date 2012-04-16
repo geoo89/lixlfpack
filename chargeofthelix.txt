@@ -1,4 +1,4 @@
-$BUILT                                             2012-02-20 23:19:57
+$BUILT                                             2012-04-08 12:08:12
 $AUTHOR                                                        Michael
 $GERMAN                                                               
 $ENGLISH                                     Charge of the Lix Brigade
@@ -15,8 +15,9 @@ $ENGLISH                                     Charge of the Lix Brigade
 
 #SECONDS                                                             0
 #INITIAL                                                           600
-#REQUIRED                                                          320
+#REQUIRED                                                          450
 #SPAWN_INTERVAL                                                      1
+#SPAWN_INTERVAL_FAST                                                 1
 
 #RUNNER                                                              5
 #FLOATER                                                             5
