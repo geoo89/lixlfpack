@@ -1,0 +1,125 @@
+$BUILT 2012-06-03 11:44:07
+$AUTHOR geoo
+$GERMAN 
+$ENGLISH Don't Catch Me if You Can
+
+#SIZE_X 640
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 0
+#INITIAL 2
+#REQUIRED 2
+#SPAWN_INTERVAL 64
+#SPAWN_INTERVAL_FAST 64
+
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#BUILDER 8
+#BASHER 1
+#MINER 1
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+
+:geoo/construction/Hatch.H: 20 224
+
+:geoo/abstract/goal.G: 588 96
+
+:matt/water.W: 416 368
+:matt/water.W: 448 368
+:matt/water.W: 480 368
+:matt/water.W: 512 368
+:matt/water.W: 544 368
+:matt/water.W: 400 368
+
+:geoo/shadow/wall/center: 36 336
+:geoo/shadow/wall/center: 68 336
+:geoo/shadow/wall/center: 100 336
+:geoo/shadow/wall/center: 132 336
+:geoo/shadow/wall/center: 164 336
+:geoo/shadow/wall/center: 196 336
+:geoo/shadow/wall/center: 4 272
+:geoo/shadow/wall/center: 4 304
+:geoo/shadow/wall/center: 4 336
+:geoo/shadow/wall/center: 308 272
+:geoo/shadow/wall/center: 308 304
+:geoo/shadow/wall/center: 308 240
+:geoo/shadow/wall/center: 308 336
+:geoo/shadow/wall/center: 276 336
+:geoo/shadow/wall/center: 36 368
+:geoo/shadow/wall/center: 68 368
+:geoo/shadow/wall/center: 100 368
+:geoo/shadow/wall/center: 132 368
+:geoo/shadow/wall/center: 164 368
+:geoo/shadow/wall/center: 196 368
+:geoo/shadow/wall/center: 4 368
+:geoo/shadow/wall/center: 308 368
+:geoo/shadow/wall/center: 276 368
+:geoo/shadow/wall/center: 604 144
+:geoo/shadow/wall/center: 604 176
+:geoo/shadow/wall/center: 604 208
+:geoo/shadow/wall/center: 604 240
+:geoo/shadow/wall/center: 604 272
+:geoo/shadow/wall/center: 604 304
+:geoo/shadow/wall/center: 604 336
+:geoo/shadow/wall/center: 604 368
+:geoo/shadow/wall/center: 340 272
+:geoo/shadow/wall/center: 340 304
+:geoo/shadow/wall/center: 340 336
+:geoo/shadow/wall/center: 340 368
+:geoo/shadow/wall/center: 228 336
+:geoo/shadow/wall/center: 260 336
+:geoo/shadow/wall/center: 228 368
+:geoo/shadow/wall/center: 260 368
+:geoo/shadow/wall/right: 372 272
+:geoo/shadow/wall/right: 372 304
+:geoo/shadow/wall/right: 372 336
+:geoo/shadow/wall/right: 372 368
+:geoo/shadow/wall/right: 308 208
+:geoo/shadow/wall/left: 276 208
+:geoo/shadow/wall/left: 276 240
+:geoo/shadow/wall/left: 276 272
+:geoo/shadow/wall/left: 276 304
+:geoo/shadow/wall/right: 36 272
+:geoo/shadow/wall/right: 36 304
+:geoo/shadow/wall/left: 572 144
+:geoo/shadow/wall/left: 572 176
+:geoo/shadow/wall/left: 572 208
+:geoo/shadow/wall/left: 572 240
+:geoo/shadow/wall/left: 572 272
+:geoo/shadow/wall/left: 572 304
+:geoo/shadow/wall/left: 572 336
+:geoo/shadow/wall/left: 572 368
+:geoo/shadow/wall/left: 276 176
+:geoo/shadow/wall/right: 308 176
+:geoo/shadow/wall/center: -28 272
+:geoo/shadow/wall/center: -28 304
+:geoo/shadow/wall/center: -28 336
+:geoo/shadow/wall/center: -28 368
+:geoo/shadow/wall/center: 636 144
+:geoo/shadow/wall/center: 636 176
+:geoo/shadow/wall/center: 636 208
+:geoo/shadow/wall/center: 636 240
+:geoo/shadow/wall/center: 636 272
+:geoo/shadow/wall/center: 636 304
+:geoo/shadow/wall/center: 636 336
+:geoo/shadow/wall/center: 636 368
+:geoo/shadow/wall/left: 340 226
+:geoo/shadow/wall/right: 340 238 d
+:geoo/shadow/wall/left: 340 224 n
+:geoo/shadow/wall/right: 340 202 d
+:geoo/shadow/wall/right: 372 226
+:geoo/shadow/wall/right: 372 238 d
+:geoo/shadow/wall/right: 372 224 n
+:geoo/shadow/wall/right: 372 202 d
+:geoo/shadow/wall/center: 340 240
+:geoo/shadow/wall/right: 372 240

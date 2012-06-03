@@ -1,0 +1,87 @@
+$BUILT                                             2012-04-02 19:04:45
+$AUTHOR                                                   Insane Steve
+$GERMAN                                                               
+$ENGLISH                                        Just Stop the Bleeding
+
+#SIZE_X                                                            640
+#SIZE_Y                                                            400
+#TORUS_X                                                             0
+#TORUS_Y                                                             0
+#START_X                                                             0
+#START_Y                                                             0
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                    0
+#BACKGROUND_BLUE                                                     0
+
+#SECONDS                                                             0
+#INITIAL                                                            50
+#REQUIRED                                                           50
+#SPAWN_INTERVAL                                                      1
+#SPAWN_INTERVAL_FAST                                                 1
+
+#WALKER                                                              1
+#JUMPER                                                              1
+#CLIMBER                                                             1
+#FLOATER                                                             1
+#EXPLODER2                                                           1
+#CUBER                                                               1
+#RUNNER                                                              1
+#BUILDER                                                             1
+#PLATFORMER                                                          1
+#BASHER                                                              1
+#MINER                                                               1
+#DIGGER                                                              1
+
+:matt/marble/Hatch.H:                        246        48
+:matt/marble/Hatch.H:                        246        48     r
+
+:matt/marble/Goal.G:                          16       320
+
+:matt/bricks/02:                               0       368
+:matt/bricks/02:                              64       368
+:matt/bricks/02:                             128       368
+:matt/bricks/03:                             158       112
+:matt/bricks/02:                             222       112
+:matt/bricks/02:                             350       144
+:matt/bricks/02:                             414       208
+:matt/bricks/02:                             350       208
+:matt/bricks/03:                             478       176
+:matt/bricks/02:                             192       368
+:matt/bricks/02:                             256       368
+:matt/bricks/02:                             320       368
+:matt/bricks/02:                             384       368
+:matt/bricks/02:                             448       368
+:matt/bricks/02:                             512       368
+:matt/bricks/02:                             576       368
+:matt/bricks/12:                             608       336
+:matt/bricks/12:                             608       304
+:matt/bricks/12:                             608       272
+:matt/bricks/09:                             576       272
+:matt/bricks/12:                             608       240
+:matt/bricks/12:                             608       208
+:matt/bricks/12:                             608       176
+:matt/bricks/09:                             576       176
+:matt/bricks/08:                             542       176
+:matt/bricks/10:                             126       112
+:matt/bricks/12:                             126       144
+:matt/bricks/12:                             126       176
+:matt/bricks/12:                             126       208
+:matt/bricks/12:                             126       240
+:matt/bricks/12:                             126       272
+:matt/bricks/02:                             286       112
+:matt/bricks/12:                             350       112
+:matt/bricks/08:                             382       112
+:matt/bricks/02:                             254       208
+:matt/bricks/12:                             222       240
+:matt/bricks/10:                             222       208
+:matt/bricks/10:                             190       272
+:matt/bricks/12:                             222       272
+:matt/bricks/11:                             254       240
+:matt/bricks/11:                             222       144
+:matt/bricks/09:                             318       144
+:matt/bricks/02:                             350       272
+:matt/bricks/02:                             414       272
+:matt/bricks/02:                             478       272
+:matt/bricks/11:                             158       176
+:matt/bricks/10:                              94       304
+:matt/bricks/12:                             126       304

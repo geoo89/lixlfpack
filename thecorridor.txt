@@ -1,0 +1,129 @@
+$BUILT 2012-05-12 23:45:52
+$AUTHOR Michael
+$GERMAN 
+$ENGLISH The Corridor of Death
+
+#SIZE_X 1200
+#SIZE_Y 512
+#TORUS_X 0
+#TORUS_Y 0
+#START_X 0
+#START_Y 110
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 0
+#INITIAL 50
+#REQUIRED 50
+#SPAWN_INTERVAL 50
+#SPAWN_INTERVAL_FAST 4
+
+#NOTHING 0
+#FLOATER 1
+#EXPLODER 1
+#BLOCKER 1
+#BUILDER 5
+#BASHER 1
+#MINER 1
+#DIGGER 1
+#WALKER 1
+#JUMPER 1
+#NOTHING 0
+#NOTHING 0
+
+:matt/earth/Hatch.H: 136 240
+
+:matt/earth/Goal.G: 416 48
+
+:matt/10tons.T: 448 360
+:matt/10tons.T: 712 392
+:matt/10tons.T: 464 216
+:matt/10tons.T: 704 192
+
+:simon/water.W: 96 464
+:simon/water.W: 144 464
+:simon/water.W: 192 464
+:simon/water.W: 240 464
+:simon/water.W: 1152 480
+:simon/water.W: 1104 480
+:simon/water.W: 48 464
+:simon/water.W: 0 464
+
+:matt/earth/02: 120 352
+:matt/earth/00: 72 336
+:matt/earth/02: 152 320
+:matt/earth/01: 120 320
+:matt/earth/00: 184 320 frr
+:matt/earth/09: 136 312
+:matt/earth/09: 184 320
+:matt/earth/09: 96 328
+:matt/earth/16: 304 304
+:matt/earth/04: 320 400
+:matt/earth/17: 320 400
+:matt/earth/10: 336 384
+:matt/earth/17: 480 416
+:matt/earth/10: 352 448
+:matt/earth/09: 392 376
+:matt/earth/26: 104 280 rr
+:matt/earth/10: 480 456
+:matt/earth/09: 536 448
+:matt/earth/10: 624 432 frr
+:matt/earth/16: 760 352
+:matt/earth/16: 832 304
+:matt/earth/16: 864 400
+:matt/earth/10: 800 416
+:matt/earth/10: 944 464
+:matt/earth/09: 992 456
+:matt/earth/08: 1040 456
+:matt/earth/26: 456 312
+:matt/earth/10: 512 208 frr
+:matt/earth/10: 656 240
+:matt/earth/26: 720 344
+:matt/earth/10: 384 120
+:matt/earth/05: 344 176 frrr
+:matt/earth/04: 320 96 frr
+:matt/earth/09: 432 112
+:matt/earth/06: 400 112
+:matt/earth/05: 400 248 rrr
+:matt/earth/10: 504 248 frr
+:matt/earth/09: 712 232
+:matt/earth/10: 264 -48
+:matt/earth/10: 440 -64 frr
+:matt/earth/10: 568 -16 frr
+:matt/earth/17: 736 -16 f
+:matt/earth/17: 688 32 rr
+:matt/earth/17: 672 -16 rr
+:matt/earth/26: 712 144
+:matt/earth/27: 296 56
+:matt/earth/28: 344 48
+:matt/earth/29: 384 40
+:matt/earth/28: 392 32
+:matt/earth/27: 464 24
+:matt/earth/28: 528 24
+:matt/earth/29: 552 32
+:matt/earth/28: 576 56
+:matt/earth/28: 592 72
+:matt/earth/27: 616 72
+:matt/earth/28: 672 80
+:matt/earth/17: 224 48 rr
+:matt/earth/17: 208 -16 rr
+:matt/earth/10: 992 -64 f
+:matt/earth/10: 864 -48 rr
+:matt/earth/02: 928 0
+:matt/earth/04: 1120 224
+:matt/earth/10: 1040 256 frr
+:matt/earth/24: 1064 336
+:matt/earth/19: 1104 112 rrr
+:matt/earth/11: 1096 96
+:matt/earth/11: 1080 96
+:matt/earth/11: 1064 144
+:matt/earth/11: 1112 144
+:matt/earth/17: 296 392
+:matt/earth/16: 272 400
+:matt/earth/26: 1096 344
+:matt/earth/24: 1152 352 frr
+:matt/earth/26: 1120 352 frr
+:matt/earth/09: 1048 40 rr
+:matt/earth/09: 968 56 rr
+:matt/earth/06: 1008 24 rr

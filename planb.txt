@@ -1,0 +1,129 @@
+$BUILT                                             2012-04-08 11:50:33
+$AUTHOR                                                             TM
+$GERMAN                                                               
+$ENGLISH                                                        Plan B
+
+#SIZE_X                                                            960
+#SIZE_Y                                                            400
+#TORUS_X                                                             0
+#TORUS_Y                                                             0
+#START_X                                                           320
+#START_Y                                                             0
+#BACKGROUND_RED                                                      0
+#BACKGROUND_GREEN                                                    0
+#BACKGROUND_BLUE                                                     0
+
+#SECONDS                                                             0
+#INITIAL                                                            20
+#REQUIRED                                                           20
+#SPAWN_INTERVAL                                                     30
+#SPAWN_INTERVAL_FAST                                                 4
+
+#CLIMBER                                                            10
+#NOTHING                                                             0
+#NOTHING                                                             0
+#BUILDER                                                             2
+#BASHER                                                              1
+#MINER                                                               1
+#DIGGER                                                              1
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+#NOTHING                                                             0
+
+:matt/earth/Hatch.H:                         544       256
+:matt/earth/Hatch.H:                         816       256     r
+
+:matt/earth/Goal.G:                          204       230
+
+:simon/water_thin.W:                               88       368
+:simon/water_thin.W:                              136       368
+:simon/water_thin.W:                              184       368
+:simon/water_thin.W:                              232       368
+:simon/water_thin.W:                              280       368
+:simon/water_thin.W:                              328       368
+
+:matt/earth/28:                              112        80
+:matt/earth/28:                              376        40
+:matt/earth/24:                              240        56
+:matt/earth/16:                              656       248
+:matt/earth/23:                              120        72
+:matt/earth/26:                              160        56
+:matt/earth/25:                              320        48
+:matt/earth/24:                              496        24
+:matt/earth/19:                              408       -56     rrr
+:matt/earth/05:                              672       200
+:matt/earth/01:                              360       360
+:matt/earth/01:                              384       360
+:matt/earth/01:                              408       360
+:matt/earth/01:                              432       360
+:matt/earth/01:                              456       360
+:matt/earth/01:                              480       360
+:matt/earth/01:                              480       360
+:matt/earth/01:                              504       360
+:matt/earth/01:                              528       360
+:matt/earth/01:                              552       360
+:matt/earth/01:                              576       360
+:matt/earth/01:                              600       360
+:matt/earth/01:                              624       360
+:matt/earth/01:                              648       360
+:matt/earth/01:                              696       360
+:matt/earth/01:                              720       360
+:matt/earth/01:                              744       360
+:matt/earth/01:                              768       360
+:matt/earth/01:                              792       360
+:matt/earth/01:                              816       360
+:matt/earth/01:                              840       360
+:matt/earth/01:                              864       368
+:matt/earth/05:                               96       288     r
+:matt/earth/05:                               40       184
+:matt/earth/05:                              -72       256
+:matt/earth/04:                              -40       288
+:matt/earth/04:                              -48       200
+:matt/earth/04:                              -16       160
+:matt/earth/04:                              -56       136
+:matt/earth/10:                                8        24     r
+:matt/earth/10:                               40       -24
+:matt/earth/10:                              -88       -32
+:matt/earth/10:                             -136        80
+:matt/earth/10:                             -144        24
+:matt/earth/28:                              280       304
+:matt/earth/09:                              264       300
+:matt/earth/09:                              176       288
+:matt/earth/27:                              208       300
+:matt/earth/09:                              226       294
+:matt/earth/09:                              144       288
+:matt/earth/09:                              374       354
+:matt/earth/09:                              418       354
+:matt/earth/09:                              466       356
+:matt/earth/09:                              510       356
+:matt/earth/09:                              556       354
+:matt/earth/09:                              602       356
+:matt/earth/09:                              648       356
+:matt/earth/09:                              694       356
+:geoo/steel/dark_32x64o.S:                        736       304     d
+:geoo/steel/dark_32x64o.S:                        736       240     d
+:matt/earth/05:                              696       264
+:matt/earth/09:                              716       356
+:matt/earth/09:                              802       356
+:matt/earth/09:                              756       356
+:matt/earth/09:                              842       358
+:geoo/steel/dark_32x64o.S:                        704       296
+:geoo/steel/dark_32x64o.S:                        704       232
+:geoo/steel/dark_32x64o.S:                        704       168
+:matt/earth/10:                              184       -40
+:matt/earth/10:                              312       -56
+:matt/earth/23:                              648         0
+:matt/earth/10:                              496       -80
+:matt/earth/07:                              496         0
+:matt/earth/28:                               96         0
+:matt/earth/09:                              104       280
+:matt/earth/09:                              124       284
+:matt/earth/09:                              204       292
+:matt/earth/01:                              672       360
+:matt/earth/09:                              664       356
+:matt/earth/01:                              744       360
+:matt/earth/09:                              740       356
+:matt/earth/29:                              720       296
+:matt/earth/29:                              712       168

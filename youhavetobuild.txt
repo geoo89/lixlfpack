@@ -1,4 +1,4 @@
-$BUILT                                             2012-03-11 14:41:23
+$BUILT                                             2012-04-04 22:05:06
 $AUTHOR                                                   TM / Michael
 $GERMAN                                                               
 $ENGLISH                                    You Have to Build a Bridge
@@ -168,10 +168,10 @@ $ENGLISH                                    You Have to Build a Bridge
 :geoo/sandstone/64x16:                            440       384
 :geoo/sandstone/64x16:                            232       384
 :geoo/sandstone/64x16:                            912       384
-:geoo/sandstone/64x32:                            992       176
+:geoo/sandstone/64x32:                            992       184
 :geoo/steel/dark_32x32o.S:                       1144       232
 :geoo/steel/dark_32x32o.S:                       1048       368
 :geoo/sandstone/pillar_top_ext:                   984       112
 :geoo/sandstone/pillar_top_shaded:               1000       128
 :geoo/steel/dark_16x16o.S:                        992       200
-:geoo/steel/dark_16x32o.S:                       1048       184
+:geoo/steel/dark_16x16o.S:                       1040       200

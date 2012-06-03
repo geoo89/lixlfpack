@@ -1,0 +1,95 @@
+$BUILT 2012-05-23 17:47:56
+$AUTHOR TM
+$GERMAN 
+$ENGLISH Exit, stage right
+
+#SIZE_X 640
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 0
+#INITIAL 40
+#REQUIRED 37
+#SPAWN_INTERVAL 8
+#SPAWN_INTERVAL_FAST 4
+
+#FLOATER 2
+#BLOCKER 1
+#JUMPER 1
+#WALKER 2
+#PLATFORMER 1
+#BASHER 1
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+
+:matt/carnival/Hatch.H: 248 32
+
+:matt/carnival/Goal.G: 528 272
+
+:simon/crystal.W: 344 352
+:simon/crystal.W: 48 352
+:simon/crystal.W: 0 352
+:geoo/construction/Laser_hz_64.F: 264 152
+:geoo/construction/Laser_hz_64.F: 328 152
+:geoo/construction/Laser_hz_64.F: 360 152
+:geoo/construction/Laseremit_hzr_16.F: 420 152
+:geoo/construction/Laseremit_hzl_16.F: 252 152
+:geoo/construction/Laser_hz_64.F: 184 208
+:geoo/construction/Laser_hz_64.F: 248 208
+:geoo/construction/Laser_hz_64.F: 280 208
+:geoo/construction/Laseremit_hzr_16.F: 340 208
+:geoo/construction/Laseremit_hzl_16.F: 172 208
+
+:matt/carnival/25: 96 336
+:matt/carnival/25: 160 336
+:matt/carnival/25: 0 208
+:matt/carnival/25: 0 144
+:matt/carnival/25: 0 80
+:matt/carnival/25: 0 16
+:matt/carnival/25: 392 336
+:matt/carnival/25: 456 336
+:matt/carnival/25: 520 336
+:matt/carnival/25: 288 336
+:matt/carnival/18: 376 144
+:matt/carnival/18: 312 144
+:matt/carnival/18: 248 144
+:matt/carnival/18: 296 200
+:matt/carnival/18: 232 200
+:matt/carnival/18: 168 200
+:matt/carnival/12: 64 256
+:matt/carnival/12: 80 256
+:matt/carnival/12: 96 256
+:matt/carnival/12: 112 256
+:matt/carnival/12: 128 256
+:matt/carnival/12: 144 256
+:matt/carnival/12: 160 256
+:matt/carnival/25: 224 336
+:matt/carnival/12: 96 320
+:matt/carnival/12: 112 320
+:matt/carnival/12: 128 320
+:matt/carnival/12: 144 320
+:matt/carnival/12: 160 320
+:matt/carnival/12: 176 320
+:matt/carnival/12: 192 320
+:matt/carnival/12: 208 320
+:matt/carnival/12: 224 320
+:matt/carnival/21: 272 288
+:matt/carnival/21: 272 256 f
+:matt/carnival/21: 240 256 f
+:matt/carnival/21: 240 288
+:matt/carnival/25: 64 192
+:matt/carnival/25: 64 128
+:matt/carnival/25: 64 64
+:matt/carnival/25: 64 0
+:matt/carnival/25: 584 336
+:geoo/steel/32x32o.S: 264 272 d
+:geoo/steel/32x32o.S: 264 288 d
+:matt/carnival/25: 0 -48

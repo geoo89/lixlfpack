@@ -1,0 +1,74 @@
+$BUILT 2012-05-05 12:53:51
+$AUTHOR TM
+$GERMAN 
+$ENGLISH Play Ball!
+
+#SIZE_X 800
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 0
+#INITIAL 20
+#REQUIRED 20
+#SPAWN_INTERVAL 30
+#SPAWN_INTERVAL_FAST 4
+
+#CUBER 1
+#WALKER 1
+#BATTER 1
+#RUNNER 1
+#JUMPER 1
+#PLATFORMER 1
+#BASHER 2
+#DIGGER 1
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+
+:geoo/construction/Hatch.H: 16 160
+
+:geoo/construction/Goal2.G: 696 160
+
+:geoo/construction/spring.T: 64 224
+:geoo/construction/steam_down.T: 264 256
+:geoo/construction/steam_down.T: 144 256
+:geoo/construction/steam_down.T: 8 256
+:geoo/construction/steam_down.T: 376 256
+:geoo/construction/steam_down.T: 592 256
+:geoo/construction/steam_down.T: 720 256
+
+:geoo/construction/wall/big_brick1: 0 224
+:geoo/construction/wall/big_brick1: 48 256
+:geoo/construction/wall/big_brick1: 96 224
+:geoo/construction/wall/big_brick1: 160 224
+:geoo/construction/wall/big_brick1: 224 224
+:geoo/construction/wall/big_brick1: 344 224
+:geoo/construction/wall/big_brick1: 472 224
+:geoo/construction/wall/big_brick1: 536 224
+:geoo/construction/wall/big_brick1: 728 224
+:geoo/construction/wall/big_brick1: 664 224
+:geoo/construction/wall/big_brick1: 192 256
+:geoo/construction/wall/big_brick1: 408 224
+:geoo/construction/wall/small_brickdiag_td: 96 48 r
+:geoo/construction/wall/small_brick3: 96 16 r
+:geoo/construction/wall/small_brickdiag_td: 208 16 r
+:geoo/construction/wall/small_brick3: 208 -16 r
+:geoo/construction/wall/small_brick3: 96 -16 r
+:geoo/construction/wall/small_brickdiag_td: 464 8 r
+:geoo/construction/wall/small_brick3: 464 -24 r
+:geoo/construction/wall/small_brickdiag_bu: 32 0 r
+:geoo/construction/wall/small_brick3: 576 8 r
+:geoo/construction/wall/small_brick3: 576 -24 r
+:geoo/construction/wall/small_brick3: 576 40 r
+:geoo/construction/wall/small_brickdiag_bu: 576 72 r
+:geoo/construction/wall/small_brick3: 744 -8 r
+:geoo/construction/wall/small_brickdiag_bu: 744 24 r
+:geoo/construction/wall/small_brick3: 344 -8 r
+:geoo/construction/wall/small_brick3: 344 24 r
+:geoo/construction/wall/small_brickdiag_bu: 344 56 r
+:geoo/construction/wall/big_square: 600 224

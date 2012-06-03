@@ -1,4 +1,4 @@
-$BUILT                                             2012-03-21 03:09:28
+$BUILT                                             2012-03-31 01:09:17
 $AUTHOR                                                   Insane Steve
 $GERMAN                                                               
 $ENGLISH                                                      Endeavor
@@ -20,13 +20,13 @@ $ENGLISH                                                      Endeavor
 #SPAWN_INTERVAL_FAST                                                 4
 
 #WALKER                                                              1
-#JUMPER                                                              4
+#JUMPER                                                              1
 #CLIMBER                                                             0
 #FLOATER                                                             4
 #EXPLODER2                                                           0
 #BLOCKER                                                             0
 #BATTER                                                              0
-#BUILDER                                                             5
+#BUILDER                                                             6
 #PLATFORMER                                                          0
 #BASHER                                                              0
 #MINER                                                               2
@@ -109,20 +109,9 @@ $ENGLISH                                                      Endeavor
 :geoo/sandstone/pillar_top:                       512       280
 :geoo/sandstone/pillar_top_ext:                   496       264
 :geoo/sandstone/pillar_top_ext:                   560       264
-:geoo/sandstone/pillar_top:                       544       280
 :geoo/sandstone/pillar_top:                       576       280
 :geoo/sandstone/pillar_top:                       512       280
-:geoo/sandstone/pillar_top:                       544       280
 :geoo/sandstone/pillar_top:                       576       280
-:geoo/sandstone/pillar_top:                       512       312
-:geoo/sandstone/pillar_top:                       544       312
-:geoo/sandstone/pillar_top:                       576       312
-:geoo/sandstone/pillar_top:                       512       344
-:geoo/sandstone/pillar_top:                       544       344
-:geoo/sandstone/pillar_top:                       576       344
-:geoo/sandstone/pillar_top:                       512       368
-:geoo/sandstone/pillar_top:                       544       368
-:geoo/sandstone/pillar_top:                       576       368
 :geoo/steel/32x32o.S:                              32       368
 :geoo/steel/32x32o.S:                              64       368
 :geoo/sandstone/arc_big:                          160       324
@@ -145,3 +134,13 @@ $ENGLISH                                                      Endeavor
 :geoo/sandstone/32x32:                            768       272
 :geoo/sandstone/32x32:                            768       304
 :geoo/sandstone/32x16:                             96        64
+:geoo/sandstone/pillar_32:                        512       312
+:geoo/sandstone/pillar_32:                        512       344
+:geoo/sandstone/pillar_32:                        512       376
+:geoo/sandstone/pillar_32:                        576       312
+:geoo/sandstone/pillar_32:                        576       344
+:geoo/sandstone/pillar_32:                        576       376
+:geoo/sandstone/pillar_32:                        544       296
+:geoo/sandstone/pillar_32:                        544       328
+:geoo/sandstone/pillar_32:                        544       360
+:geoo/sandstone/pillar_32:                        544       392

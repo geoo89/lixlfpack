@@ -1,4 +1,4 @@
-$BUILT                                             2012-02-20 00:24:43
+$BUILT                                             2012-04-13 13:45:30
 $AUTHOR                                                          Pieuw
 $GERMAN                                                               
 $ENGLISH                                           Bibbidi-Bobbidi-Boo
@@ -17,6 +17,7 @@ $ENGLISH                                           Bibbidi-Bobbidi-Boo
 #INITIAL                                                             5
 #REQUIRED                                                            3
 #SPAWN_INTERVAL                                                     50
+#SPAWN_INTERVAL_FAST                                                 4
 
 #CLIMBER                                                             0
 #FLOATER                                                             0
@@ -37,7 +38,8 @@ $ENGLISH                                           Bibbidi-Bobbidi-Boo
 
 :geoo/construction/squisher.T:                    856       112
 
-:matt/goldmine/06:                          432       168     rr
+:matt/goldmine/07:                          808       160     rr
+:matt/goldmine/00:                          272       176
 :matt/goldmine/crate32:                     648        24
 :matt/goldmine/00:                          376       188
 :matt/goldmine/crate32:                     272        80
@@ -46,14 +48,8 @@ $ENGLISH                                           Bibbidi-Bobbidi-Boo
 :matt/goldmine/plank:                       224       272
 :matt/goldmine/crate32:                     872        88     f
 :matt/goldmine/06:                          808       176
-:matt/goldmine/03:                          720       168     rr
-:matt/goldmine/07:                          808       160     rr
-:matt/goldmine/06:                          360       168
 :matt/goldmine/crate32:                     640       248
 :matt/goldmine/explosivecrate:              224       280
-:matt/goldmine/07:                          176       160     rr
-:matt/goldmine/06:                          208       168
-:matt/goldmine/03:                           96       168
 :matt/goldmine/explosivecrate:              360       304
 :matt/goldmine/crate32:                     552       280
 :matt/goldmine/crate32:                     552       312
@@ -160,3 +156,9 @@ $ENGLISH                                           Bibbidi-Bobbidi-Boo
 :matt/goldmine/crate32:                     680        88
 :matt/goldmine/crate32:                     712        88     f
 :matt/goldmine/crate32:                     520       176
+:matt/goldmine/crate32:                     960       144     d
+:matt/goldmine/crate32:                     896       144     d
+:matt/goldmine/crate32:                     928       144     fd
+:matt/goldmine/crate32:                     984       144     fd
+:matt/goldmine/05:                          448        80
+:matt/goldmine/07:                          464       336

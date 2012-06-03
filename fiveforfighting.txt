@@ -1,4 +1,4 @@
-$BUILT                                             2012-03-20 20:40:10
+$BUILT                                             2012-04-15 11:32:51
 $AUTHOR                                                             TM
 $GERMAN                                           funf fur das Kampfen
 $ENGLISH                                             Five for Fighting
@@ -31,6 +31,8 @@ $ENGLISH                                             Five for Fighting
 #NOTHING                                                             0
 #NOTHING                                                             0
 #NOTHING                                                             0
+
+:matt/goldmine/GoalTop.D:                  1232       240
 
 :matt/goldmine/Hatch.H:                     320        48
 

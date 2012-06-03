@@ -1,0 +1,108 @@
+$BUILT 2012-05-23 18:49:53
+$AUTHOR TM
+$GERMAN 
+$ENGLISH A Fearful Symmetry
+
+#SIZE_X 1440
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 0
+#INITIAL 20
+#REQUIRED 18
+#SPAWN_INTERVAL 48
+#SPAWN_INTERVAL_FAST 4
+
+#EXPLODER2 1
+#BLOCKER 2
+#BUILDER 7
+#DIGGER 1
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+
+:matt/winter/Hatch.H: 640 12 r
+:matt/winter/Hatch.H: 640 12
+
+:matt/winter/Goal.G: 936 40
+
+:simon/water_thin.W: 784 368
+:simon/water_thin.W: 832 368
+:simon/water_thin.W: 880 368
+:simon/water_thin.W: 1326 370
+:simon/water_thin.W: 1374 370
+:simon/water_thin.W: 1422 370
+
+:geoo/construction/spring_fast.T: 306 218
+
+:matt/winter/14: 1114 202 frr
+:matt/winter/06: 832 62
+:matt/winter/06: 832 -2
+:matt/winter/17: 32 248
+:matt/winter/03: 466 194
+:matt/winter/03: 402 210
+:matt/winter/03: 176 384
+:matt/winter/15: 304 384
+:matt/winter/15: 368 384
+:matt/winter/15: 176 384
+:matt/winter/15: 256 384
+:matt/winter/15: 112 384
+:matt/winter/03: 496 384
+:matt/winter/15: 624 384
+:matt/winter/15: 800 304
+:matt/winter/15: 496 384
+:matt/winter/15: 576 384
+:matt/winter/15: 432 384
+:matt/winter/16: 440 304
+:matt/winter/16: 472 320 frr
+:matt/winter/10: 640 352
+:matt/winter/10: 884 352
+:matt/winter/03: 354 226
+:matt/winter/03: 290 242
+:matt/winter/15: 290 258
+:matt/winter/17: 48 296
+:matt/winter/17: 16 304
+:matt/winter/10: 546 146 rr
+:matt/winter/10: 594 186 rrd
+:matt/winter/06: 800 0
+:matt/winter/06: 800 64
+:matt/winter/06: 816 0
+:matt/winter/06: 816 64
+:matt/winter/15: 492 228 d
+:matt/winter/07: 856 128 f
+:matt/winter/07: 912 120 rr
+:matt/winter/07: 968 136 rr
+:matt/winter/05: 792 82 r
+:matt/winter/05: 838 98 fr
+:matt/winter/15: 474 234 frrd
+:matt/winter/15: 454 240 frrd
+:matt/winter/15: 404 254 frrd
+:matt/winter/15: 392 262 frrd
+:matt/winter/15: 422 182 frrd
+:matt/winter/15: 362 196 frrd
+:matt/winter/15: 332 202 frrd
+:matt/winter/15: 470 176 frrd
+:matt/winter/14: 1042 100 frr
+:matt/winter/16: 1042 126 frr
+:matt/winter/16: 978 118 f
+:matt/winter/10: 964 312
+:matt/winter/10: 1054 326
+:matt/winter/10: 1152 340
+:matt/winter/10: 1040 288
+:matt/winter/15: 1108 244 frrd
+:matt/winter/12: 828 126
+:matt/winter/14: 776 108
+:matt/winter/14: 780 86
+:matt/winter/14: 776 124 f
+:matt/winter/14: 794 136 f
+:matt/winter/14: 818 136 rr
+:matt/winter/11: 794 360 d
