@@ -1,5 +1,5 @@
-$BUILT 2012-05-05 12:53:51
-$AUTHOR TM
+$BUILT 2012-08-18 14:32:40
+$AUTHOR mobius
 $GERMAN 
 $ENGLISH Play Ball!
 
@@ -53,6 +53,8 @@ $ENGLISH Play Ball!
 :geoo/construction/wall/big_brick1: 728 224
 :geoo/construction/wall/big_brick1: 664 224
 :geoo/construction/wall/big_brick1: 192 256
+:geoo/construction/wall/big_brick1: 600 224
+:geoo/construction/wall/big_brick1: 632 208 rrrd
 :geoo/construction/wall/big_brick1: 408 224
 :geoo/construction/wall/small_brickdiag_td: 96 48 r
 :geoo/construction/wall/small_brick3: 96 16 r
@@ -71,4 +73,3 @@ $ENGLISH Play Ball!
 :geoo/construction/wall/small_brick3: 344 -8 r
 :geoo/construction/wall/small_brick3: 344 24 r
 :geoo/construction/wall/small_brickdiag_bu: 344 56 r
-:geoo/construction/wall/big_square: 600 224
