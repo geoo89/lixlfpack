@@ -1,0 +1,138 @@
+$BUILT 2013-06-21 21:18:41
+$AUTHOR geoo
+$GERMAN 
+$ENGLISH Cuber Replacement (Part 1)
+
+#SIZE_X 640
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#START_X 0
+#START_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 0
+#INITIAL 80
+#REQUIRED 80
+#SPAWN_INTERVAL 10
+#SPAWN_INTERVAL_FAST 4
+
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#BUILDER 3
+#NOTHING 0
+#PLATFORMER 7
+#NOTHING 0
+#CUBER 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+
+:geoo/abstract/hatch.H: 32 64
+:geoo/abstract/hatch.H: 32 224
+:geoo/abstract/hatch.H: 560 64 r
+
+:geoo/abstract/goal.G: 576 208
+
+:geoo/sandstone/brazier.F: 0 64
+:geoo/sandstone/brazier.F: 0 224
+:geoo/sandstone/brazier.F: 560 112
+:geoo/sandstone/brazier.F: 608 64
+:geoo/sandstone/brazier.F: 608 224
+
+:geoo/shadow/wall/center: 384 256
+:geoo/shadow/wall/center: 416 256
+:geoo/shadow/wall/center: 448 256
+:geoo/shadow/wall/center: 576 288
+:geoo/shadow/wall/center: 608 288
+:geoo/shadow/wall/center: 576 256
+:geoo/shadow/wall/center: 608 256
+:geoo/shadow/wall/center: 480 256
+:geoo/shadow/wall/center: 512 256
+:geoo/shadow/wall/center: 544 256
+:geoo/shadow/wall/center: 384 288
+:geoo/shadow/wall/center: 416 288
+:geoo/shadow/wall/center: 448 288
+:geoo/shadow/wall/center: 480 288
+:geoo/shadow/wall/center: 512 288
+:geoo/shadow/wall/center: 544 288
+:geoo/shadow/wall/center: 0 288
+:geoo/shadow/wall/center: 32 288
+:geoo/shadow/wall/center: 64 288
+:geoo/shadow/wall/center: 0 256
+:geoo/shadow/wall/center: 32 256
+:geoo/shadow/wall/center: 64 256
+:geoo/shadow/wall/center: 192 288
+:geoo/shadow/wall/center: 224 288
+:geoo/shadow/wall/center: 256 288
+:geoo/shadow/wall/center: 192 256
+:geoo/shadow/wall/center: 224 256
+:geoo/shadow/wall/center: 256 256
+:geoo/shadow/wall/center: 288 256
+:geoo/shadow/wall/center: 288 288
+:geoo/shadow/wall/center: 96 256
+:geoo/shadow/wall/center: 96 288
+:geoo/shadow/wall/center: 128 288
+:geoo/shadow/wall/center: 160 288
+:geoo/shadow/wall/center: 128 256
+:geoo/shadow/wall/center: 160 256
+:geoo/shadow/wall/center: 320 288
+:geoo/shadow/wall/center: 352 288
+:geoo/shadow/wall/center: 320 256
+:geoo/shadow/wall/center: 352 256
+:geoo/shadow/wall/deco_crags2: 288 304
+:geoo/shadow/wall/deco_dark: 592 272
+:geoo/shadow/wall/deco_dark: 512 288
+:geoo/shadow/wall/deco_dark: 16 272
+:geoo/shadow/wall/center: 384 96
+:geoo/shadow/wall/center: 416 96
+:geoo/shadow/wall/center: 448 96
+:geoo/shadow/wall/center: 480 96
+:geoo/shadow/wall/center: 512 96
+:geoo/shadow/wall/center: 608 96
+:geoo/shadow/wall/center: 384 128
+:geoo/shadow/wall/center: 416 128
+:geoo/shadow/wall/center: 448 128
+:geoo/shadow/wall/center: 480 128
+:geoo/shadow/wall/center: 512 128
+:geoo/shadow/wall/center: 608 128
+:geoo/shadow/wall/center: 0 128
+:geoo/shadow/wall/center: 32 128
+:geoo/shadow/wall/center: 64 128
+:geoo/shadow/wall/center: 0 96
+:geoo/shadow/wall/center: 32 96
+:geoo/shadow/wall/center: 64 96
+:geoo/shadow/wall/center: 192 128
+:geoo/shadow/wall/center: 224 128
+:geoo/shadow/wall/center: 256 128
+:geoo/shadow/wall/center: 192 96
+:geoo/shadow/wall/center: 224 96
+:geoo/shadow/wall/center: 256 96
+:geoo/shadow/wall/center: 288 96
+:geoo/shadow/wall/center: 288 128
+:geoo/shadow/wall/center: 96 96
+:geoo/shadow/wall/center: 96 128
+:geoo/shadow/wall/center: 128 128
+:geoo/shadow/wall/center: 160 128
+:geoo/shadow/wall/center: 128 96
+:geoo/shadow/wall/center: 160 96
+:geoo/shadow/wall/center: 320 128
+:geoo/shadow/wall/center: 352 128
+:geoo/shadow/wall/center: 320 96
+:geoo/shadow/wall/center: 352 96
+:geoo/shadow/wall/deco_dark: 512 128
+:geoo/shadow/wall/deco_dark: 16 112
+:geoo/shadow/wall/right: 512 96
+:geoo/shadow/wall/right: 512 128
+:geoo/shadow/wall/left: 608 96
+:geoo/shadow/wall/left: 608 128
+:matt/underworld/thinplatform16: 544 96
+:matt/underworld/thinplatform16: 592 158
+:matt/underworld/thinplatform16: 560 96
+:matt/underworld/thinplatform16: 576 158
+:matt/underworld/thinplatform16: 576 96
+:matt/underworld/thinplatform16: 560 158
