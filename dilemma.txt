@@ -1,6 +1,6 @@
-$BUILT 2013-06-16 19:30:32
+$BUILT 2013-07-21 22:51:57
 $AUTHOR mobius
-$GERMAN Pickelhaub
+$GERMAN Pickelhaube
 $ENGLISH Dilemma
 
 #SIZE_X 1376

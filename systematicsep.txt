@@ -1,7 +1,7 @@
 $BUILT                                             2012-02-29 07:09:55
 $AUTHOR                                                          Rubix
 $GERMAN                                                               
-$ENGLISH                            Systematic Seperation singlescreen
+$ENGLISH                                         Systematic Seperation
 
 #SIZE_X                                                            640
 #SIZE_Y                                                            400

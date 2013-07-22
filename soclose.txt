@@ -1,0 +1,145 @@
+$BUILT 2012-06-08 20:36:06
+$AUTHOR TM
+$GERMAN 
+$ENGLISH So Close Yet So Far Away
+
+#SIZE_X 640
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 0
+#INITIAL 30
+#REQUIRED 28
+#SPAWN_INTERVAL 12
+#SPAWN_INTERVAL_FAST 4
+
+#CLIMBER 1
+#FLOATER 1
+#EXPLODER 1
+#BLOCKER 1
+#BUILDER 2
+#BASHER 1
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+
+:geoo/construction/Hatch.H: 400 248
+
+:geoo/abstract/goal.G: 56 336
+
+:simon/acid.W: 128 96
+:simon/acid.W: 176 96
+:simon/acid.W: 224 96
+:simon/acid.W: 272 96
+:simon/acid.W: 320 96
+:simon/acid.W: 368 96
+:simon/acid.W: 416 96
+:simon/acid.W: 464 96
+:geoo/construction/sawblade_small.F: 176 368
+
+:geoo/construction/rod_steel/straight_diagu32.S: 88 80 frr
+:geoo/construction/rod_steel/straight_diagu32.S: 56 48 frr
+:geoo/construction/rod_steel/straight_diagu32.S: 24 16 frr
+:geoo/construction/rod_steel/straight_diagu32.S: -8 -16 frr
+:geoo/construction/rod_steel/straight_diagu32.S: 512 80
+:geoo/abstract/cvblocks/005: 304 320
+:geoo/abstract/pipes/central5: 40 384
+:geoo/abstract/pipes/central5: 72 384
+:geoo/abstract/pipes/central5: 104 384
+:geoo/abstract/pipes/central5: 136 384
+:geoo/abstract/pipes/central5: 168 384
+:geoo/abstract/pipes/central5: 200 384
+:geoo/abstract/pipes/central5: 232 384
+:geoo/abstract/pipes/central5: 216 328
+:geoo/abstract/pipes/central5: 248 328
+:geoo/abstract/pipes/central5: 280 328
+:geoo/abstract/pipes/central5: 288 328
+:geoo/abstract/pipes/central5: 320 328
+:geoo/abstract/pipes/central5: 352 328
+:geoo/abstract/pipes/central5: 384 328
+:geoo/abstract/pipes/central5: 416 328
+:geoo/abstract/pipes/central5: 448 328
+:geoo/abstract/pipes/central5: 480 328
+:geoo/abstract/pipes/central5: 512 328
+:geoo/abstract/pipes/central5: 536 328
+:geoo/abstract/cvblocks/046: 312 336
+:geoo/abstract/cvblocks/046: 440 336
+:geoo/abstract/cvblocks/005: 304 312
+:geoo/abstract/cvblocks/005: 304 304
+:geoo/abstract/cvblocks/020: 240 312
+:geoo/abstract/cvblocks/020: 240 296
+:geoo/abstract/cvblocks/020: 240 280
+:geoo/abstract/cvblocks/020: 240 264
+:geoo/construction/rod_steel/straight32.S: 128 144
+:geoo/construction/rod_steel/straight32.S: 160 144
+:geoo/construction/rod_steel/straight32.S: 192 144
+:geoo/construction/rod_steel/straight32.S: 320 144
+:geoo/construction/rod_steel/straight32.S: 352 144
+:geoo/construction/rod_steel/straight32.S: 384 144
+:geoo/construction/rod_steel/straight32.S: 224 144
+:geoo/construction/rod_steel/straight32.S: 256 144
+:geoo/construction/rod_steel/straight32.S: 288 144
+:geoo/construction/rod_steel/straight32.S: 416 144
+:geoo/construction/rod_steel/straight32.S: 448 144
+:geoo/construction/rod_steel/straight32.S: 480 144
+:geoo/construction/rod_steel/edge_lu.S: 512 144
+:geoo/construction/rod_steel/edge_ru.S: 120 144
+:geoo/construction/rod_steel/straight32.S: 512 112 rrr
+:geoo/construction/rod_steel/straight32.S: 512 96 rrr
+:geoo/construction/rod_steel/straight32.S: 120 112 rrr
+:geoo/construction/rod_steel/straight32.S: 120 96 rrr
+:geoo/construction/rod_steel/end_rect.S: 120 96 fr
+:geoo/construction/rod_steel/end_rect.S: 512 96 fr
+:geoo/abstract/cvblocks/005: 304 296
+:geoo/abstract/cvblocks/005: 192 320
+:geoo/abstract/cvblocks/005: 192 312
+:geoo/abstract/cvblocks/005: 192 304
+:geoo/abstract/cvblocks/005: 192 296
+:geoo/abstract/pipes/central5: 216 328
+:geoo/abstract/pipes/central5: 192 328
+:geoo/abstract/pipes/central5: 176 328
+:geoo/abstract/cvblocks/005: 192 288
+:geoo/abstract/cvblocks/020: 240 248
+:geoo/abstract/cvblocks/005: 176 320
+:geoo/abstract/cvblocks/005: 176 312
+:geoo/abstract/cvblocks/005: 176 304
+:geoo/abstract/cvblocks/005: 176 296
+:geoo/abstract/cvblocks/005: 176 288
+:geoo/construction/rod_steel/straight32.S: 520 128
+:geoo/construction/rod_steel/straight32.S: 552 128
+:geoo/construction/rod_steel/straight32.S: 584 128
+:geoo/construction/rod_steel/straight32.S: 616 128
+:geoo/construction/rod_steel/straight32.S: -8 128
+:geoo/construction/rod_steel/straight32.S: 24 128
+:geoo/construction/rod_steel/straight32.S: 56 128
+:geoo/construction/rod_steel/straight32.S: 88 128
+:geoo/construction/rod_steel/straight_diagu32.S: 544 48
+:geoo/construction/rod_steel/straight_diagu32.S: 576 16
+:geoo/construction/rod_steel/straight_diagu32.S: 608 -16
+:geoo/abstract/pipes/ends5: 176 328
+:geoo/abstract/pipes/ends5: 560 328 frr
+:geoo/abstract/pipes/ends5: 256 384 frr
+:geoo/abstract/pipes/ends5: 40 384
+:geoo/abstract/cvblocks/005: 192 280
+:geoo/abstract/cvblocks/005: 192 272
+:geoo/abstract/cvblocks/005: 192 264
+:geoo/abstract/cvblocks/005: 176 280
+:geoo/abstract/cvblocks/005: 176 272
+:geoo/abstract/cvblocks/005: 176 264
+:geoo/abstract/cvblocks/005: 304 288
+:geoo/abstract/cvblocks/005: 304 280
+:geoo/abstract/cvblocks/005: 304 272
+:geoo/abstract/cvblocks/005: 320 320
+:geoo/abstract/cvblocks/005: 320 312
+:geoo/abstract/cvblocks/005: 320 304
+:geoo/abstract/cvblocks/005: 320 296
+:geoo/abstract/cvblocks/005: 320 288
+:geoo/abstract/cvblocks/005: 320 280
+:geoo/abstract/cvblocks/005: 320 272
