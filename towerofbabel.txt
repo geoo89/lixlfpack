@@ -1,0 +1,79 @@
+$BUILT 2012-06-13 15:46:36
+$AUTHOR TM
+$GERMAN 
+$ENGLISH Tower of Babel
+
+#SIZE_X 640
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 0
+#INITIAL 40
+#REQUIRED 30
+#SPAWN_INTERVAL 35
+#SPAWN_INTERVAL_FAST 4
+
+#CLIMBER 10
+#CUBER 10
+#EXPLODER 5
+#BLOCKER 5
+#PLATFORMER 5
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+
+:matt/carnival/Hatch.H: 48 48
+:matt/carnival/Hatch.H: 480 224 r
+
+:matt/carnival/Goal.G: 24 272
+
+:proxima/flame.F: 184 352
+:proxima/flame.F: 216 352
+:proxima/flame.F: 248 352
+:proxima/flame.F: 280 352
+:proxima/flame.F: 312 352
+
+:matt/carnival/06: 608 0
+:matt/carnival/06: 0 0
+:matt/carnival/26: 320 336
+:matt/carnival/26: 384 336
+:matt/carnival/26: 448 336
+:matt/carnival/26: 512 336
+:matt/carnival/26: 576 336
+:matt/carnival/26: 0 336
+:matt/carnival/26: 64 336
+:matt/carnival/26: 128 336
+:geoo/steel/dark_64x64o.S: -32 128
+:geoo/steel/dark_64x64o.S: 32 128
+:geoo/steel/dark_64x64o.S: 96 128
+:matt/carnival/37: 544 32
+:matt/carnival/06: 32 0 r
+:matt/carnival/06: 96 0 r
+:matt/carnival/06: 160 0 r
+:matt/carnival/06: 224 0 r
+:matt/carnival/06: 288 0 r
+:matt/carnival/06: 352 0 r
+:matt/carnival/06: 416 0 r
+:matt/carnival/06: 480 0 r
+:matt/carnival/06: 544 0 r
+:matt/carnival/06: 0 64
+:matt/carnival/06: 608 256
+:matt/carnival/06: 608 192
+:matt/carnival/06: 608 128
+:geoo/steel/dark_64x64o.S: 160 128
+:matt/carnival/06: 608 64
+:matt/carnival/14: 608 320
+:matt/carnival/14: 624 320
+:matt/carnival/37: 160 32
+:matt/carnival/37: 352 32
+:matt/carnival/37: 416 32 frr
+:matt/carnival/37: 224 32 frr
+:matt/carnival/37: 32 32 frr
