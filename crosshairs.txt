@@ -1,0 +1,153 @@
+$BUILT 2012-06-06 06:42:24
+$AUTHOR minimac
+$GERMAN Fadenkreuz
+$ENGLISH Cross hairs
+
+#SIZE_X 640
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#BACKGROUND_RED 128
+#BACKGROUND_GREEN 60
+#BACKGROUND_BLUE 64
+
+#SECONDS 0
+#INITIAL 50
+#REQUIRED 45
+#SPAWN_INTERVAL 32
+#SPAWN_INTERVAL_FAST 4
+
+#NOTHING 0
+#NOTHING 0
+#WALKER 8
+#FLOATER 4
+#EXPLODER2 1
+#CUBER 4
+#CLIMBER 4
+#JUMPER 4
+#BASHER 1
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+
+:matt/marble/Hatch.H: 200 88
+:matt/marble/Hatch.H: 384 88 r
+
+:matt/marble/Goal.G: 200 280
+
+:matt/marble/00e_1: 312 176
+:matt/marble/00c: 328 176
+:matt/marble/00a: 328 192
+:matt/marble/00: 312 192
+:matt/marble/01d: 296 176
+:matt/marble/01d: 296 192
+:matt/marble/01d: 336 176
+:matt/marble/01d: 336 192
+:matt/marble/01d: 352 192
+:matt/marble/01d: 352 176
+:matt/marble/01d: 280 176
+:matt/marble/01d: 280 192
+:matt/marble/001b: 312 160
+:matt/marble/001b: 312 144
+:matt/marble/001b: 312 200
+:matt/marble/001b: 312 216
+:matt/marble/001b: 328 200
+:matt/marble/001b: 328 216
+:matt/marble/001b: 328 160
+:matt/marble/001b: 328 144
+:matt/marble/03a: 304 232
+:matt/marble/03a: 328 264
+:matt/marble/03a: 304 296
+:matt/marble/04e_2: 328 232 fr
+:matt/marble/04e_2: 304 264 fr
+:matt/marble/04e_2: 328 296 fr
+:matt/marble/03a: 304 48
+:matt/marble/03a: 328 80
+:matt/marble/03a: 304 112
+:matt/marble/04e_2: 328 48 fr
+:matt/marble/04e_2: 304 80 fr
+:matt/marble/04e_2: 328 112 fr
+:matt/marble/04c: 368 168
+:matt/marble/04c: 400 192
+:matt/marble/04c: 432 168
+:matt/marble/04c: 248 168
+:matt/marble/04c: 216 192
+:matt/marble/04c: 184 168
+:matt/marble/04: 400 168
+:matt/marble/04: 432 192
+:matt/marble/04: 368 192
+:matt/marble/04: 248 192
+:matt/marble/04: 184 192
+:matt/marble/04: 216 168
+:matt/marble/02a: 464 168
+:matt/marble/02a: 464 328
+:matt/marble/02a: 168 328
+:matt/marble/02a: 168 168
+:matt/marble/03d: 464 136
+:matt/marble/03d: 464 40
+:matt/marble/03d: 464 296
+:matt/marble/03d: 464 200
+:matt/marble/03d: 168 296
+:matt/marble/03d: 168 200
+:matt/marble/03d: 168 136
+:matt/marble/03d: 168 40
+:matt/marble/00: 192 40
+:matt/marble/00b: 200 40
+:matt/marble/00c: 208 40
+:matt/marble/00d: 216 40
+:matt/marble/00e_1: 224 40
+:matt/marble/00a: 184 40
+:matt/marble/00: 240 40
+:matt/marble/00b: 248 40
+:matt/marble/00c: 256 40
+:matt/marble/00d: 264 40
+:matt/marble/00e_1: 272 40
+:matt/marble/00a: 232 40
+:matt/marble/00: 288 40
+:matt/marble/00b: 296 40
+:matt/marble/00c: 304 40
+:matt/marble/00d: 312 40
+:matt/marble/00e_1: 328 40
+:matt/marble/00a: 280 40
+:matt/marble/00: 336 40
+:matt/marble/00b: 344 40
+:matt/marble/00c: 352 40
+:matt/marble/00d: 360 40
+:matt/marble/00e_1: 368 40
+:matt/marble/00: 384 40
+:matt/marble/00b: 392 40
+:matt/marble/00c: 400 40
+:matt/marble/00d: 408 40
+:matt/marble/00e_1: 416 40
+:matt/marble/00a: 376 40
+:matt/marble/00: 432 40
+:matt/marble/00b: 440 40
+:matt/marble/00d: 448 40
+:matt/marble/00a: 424 40
+:matt/marble/01b: 464 192
+:matt/marble/01b: 168 192
+:matt/marble/04e_2: 432 328
+:matt/marble/04e_2: 368 328
+:matt/marble/04e_2: 248 328
+:matt/marble/04e_2: 184 328
+:matt/marble/04c: 216 328
+:matt/marble/04c: 280 328
+:matt/marble/04c: 336 328
+:matt/marble/04c: 400 328
+:matt/beach/nighttime/04: 456 352
+:matt/beach/nighttime/04: 352 368 rrr
+:matt/beach/nighttime/04: 224 380 rrr
+:matt/beach/nighttime/04: 120 376 r
+:matt/beach/nighttime/01: 112 360 rr
+:matt/beach/nighttime/04: 40 318
+:matt/marble/03: 464 232
+:matt/marble/03a: 464 264
+:matt/marble/03: 168 264
+:matt/marble/03a: 168 232
+:matt/marble/03: 168 72
+:matt/marble/03a: 168 104
+:matt/marble/03: 464 104
+:matt/marble/03a: 464 72
+:matt/marble/001e: 312 328
+:matt/marble/001b: 328 328
+:matt/beach/nighttime/15: 294 368

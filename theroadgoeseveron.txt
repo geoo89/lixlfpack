@@ -1,18 +1,13 @@
-$BUILT 2013-07-26 11:57:51
-$AUTHOR Insane Steve
+$BUILT 2013-07-26 12:01:41
+$AUTHOR IS / Michael
 $GERMAN 
-$ENGLISH Any Way You Want
-
-$HINT_ENGLISH You can do this with one blocker, builder, <br>basher, miner, or digger, in some way. 
-$HINT_ENGLISH Or just floaters or climbers. 
-$HINT_ENGLISH Or even bombers, but that's the hard way. <br>If your first inclination was to use bombers, <br>I'd recommend psychiatric help. 
-$HINT_ENGLISH If you're still stuck, I can't really tell <br>you anything else but to go back to the tutorials <br>and study how each task works. <br>They don't get easier than this >_<
+$ENGLISH The Road Goes Ever On
 
 #SIZE_X 3200
 #SIZE_Y 400
 #TORUS_X 0
 #TORUS_Y 0
-#START_X 1264
+#START_X 0
 #START_Y 0
 #BACKGROUND_RED 0
 #BACKGROUND_GREEN 0
@@ -31,15 +26,15 @@ $HINT_ENGLISH If you're still stuck, I can't really tell <br>you anything else b
 #EXPLODER 20
 #BLOCKER 20
 #CUBER 20
-#BUILDER 20
-#PLATFORMER 20
+#BUILDER 50
+#PLATFORMER 50
 #BASHER 20
 #MINER 20
 #DIGGER 20
 
-:matt/marble/Hatch.H: 1520 48
+:matt/marble/Hatch.H: 256 16
 
-:matt/marble/Goal.G: 1280 320
+:matt/marble/Goal.G: 2920 72
 
 :geoo/construction/squisher.T: 1144 272
 :geoo/construction/squisher.T: 1096 272

@@ -1,4 +1,4 @@
-$BUILT 2012-05-18 00:05:13
+$BUILT 2014-01-26 15:42:18
 $AUTHOR Michael
 $GERMAN 
 $ENGLISH Rhapsody in Blue
@@ -13,7 +13,7 @@ $ENGLISH Rhapsody in Blue
 #BACKGROUND_GREEN 0
 #BACKGROUND_BLUE 0
 
-#SECONDS 270
+#SECONDS 0
 #INITIAL 80
 #REQUIRED 78
 #SPAWN_INTERVAL 18
@@ -52,9 +52,6 @@ $ENGLISH Rhapsody in Blue
 :geoo/construction/sawblade_small.F: 1200 32
 :geoo/construction/sawblade_small.F: 1200 224
 
-:proxima/tile/64.S: 96 336
-:proxima/tile/64.S: 96 272
-:proxima/tile/32.S: 96 240
 :proxima/tile/cyan2: 128 240
 :proxima/tile/cyan2: 192 240
 :proxima/tile/cyan2: 256 240
@@ -211,3 +208,6 @@ $ENGLISH Rhapsody in Blue
 :proxima/tile/blue2b: 1120 336
 :proxima/tile/blue2: 1184 336
 :proxima/tile/blue1: 608 336
+:proxima/tile/blue1s: 96 240
+:proxima/tile/blue1: 96 272
+:proxima/tile/blue1: 96 336

@@ -1,10 +1,10 @@
-$BUILT 2012-06-13 15:46:36
-$AUTHOR TM
+$BUILT 2014-03-22 20:27:50
+$AUTHOR mobius
 $GERMAN 
 $ENGLISH Tower of Babel
 
 #SIZE_X 640
-#SIZE_Y 400
+#SIZE_Y 560
 #TORUS_X 0
 #TORUS_Y 0
 #BACKGROUND_RED 0
@@ -12,68 +12,78 @@ $ENGLISH Tower of Babel
 #BACKGROUND_BLUE 0
 
 #SECONDS 0
-#INITIAL 40
-#REQUIRED 30
-#SPAWN_INTERVAL 35
+#INITIAL 200
+#REQUIRED 150
+#SPAWN_INTERVAL 20
 #SPAWN_INTERVAL_FAST 4
 
-#CLIMBER 10
-#CUBER 10
-#EXPLODER 5
-#BLOCKER 5
-#PLATFORMER 5
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
+#CLIMBER 60
+#WALKER 10
+#EXPLODER2 10
+#BLOCKER 10
+#CUBER 50
+#BASHER 0
+#MINER 0
+#DIGGER 20
 #NOTHING 0
 #NOTHING 0
 #NOTHING 0
 #NOTHING 0
 
-:matt/carnival/Hatch.H: 48 48
-:matt/carnival/Hatch.H: 480 224 r
+:simon/hatch001.H: 48 384
+:simon/hatch001.H: 48 128
 
-:matt/carnival/Goal.G: 24 272
+:simon/tapir/goal.G: 528 448
 
-:proxima/flame.F: 184 352
-:proxima/flame.F: 216 352
-:proxima/flame.F: 248 352
-:proxima/flame.F: 280 352
-:proxima/flame.F: 312 352
+:simon/acid.W: 240 512
+:simon/acid.W: 288 512
+:simon/acid.W: 336 512
 
-:matt/carnival/06: 608 0
-:matt/carnival/06: 0 0
-:matt/carnival/26: 320 336
-:matt/carnival/26: 384 336
-:matt/carnival/26: 448 336
-:matt/carnival/26: 512 336
-:matt/carnival/26: 576 336
-:matt/carnival/26: 0 336
-:matt/carnival/26: 64 336
-:matt/carnival/26: 128 336
-:geoo/steel/dark_64x64o.S: -32 128
-:geoo/steel/dark_64x64o.S: 32 128
-:geoo/steel/dark_64x64o.S: 96 128
-:matt/carnival/37: 544 32
-:matt/carnival/06: 32 0 r
-:matt/carnival/06: 96 0 r
-:matt/carnival/06: 160 0 r
-:matt/carnival/06: 224 0 r
-:matt/carnival/06: 288 0 r
-:matt/carnival/06: 352 0 r
-:matt/carnival/06: 416 0 r
-:matt/carnival/06: 480 0 r
-:matt/carnival/06: 544 0 r
-:matt/carnival/06: 0 64
-:matt/carnival/06: 608 256
-:matt/carnival/06: 608 192
-:matt/carnival/06: 608 128
-:geoo/steel/dark_64x64o.S: 160 128
-:matt/carnival/06: 608 64
-:matt/carnival/14: 608 320
-:matt/carnival/14: 624 320
-:matt/carnival/37: 160 32
-:matt/carnival/37: 352 32
-:matt/carnival/37: 416 32 frr
-:matt/carnival/37: 224 32 frr
-:matt/carnival/37: 32 32 frr
+:simon/tapir/064h: 0 496
+:simon/tapir/064h: 128 496
+:simon/tapir/064h: 384 496
+:simon/tapir/064h: 512 496
+:simon/tapir/032v: 0 432
+:simon/tapir/032v: 0 368
+:simon/tapir/032v: 0 304
+:simon/tapir/032v: 0 240
+:simon/tapir/032v: 608 432
+:simon/tapir/032v: 608 368
+:simon/tapir/032v: 608 304
+:simon/tapir/032v: 608 240
+:simon/tapir/032v: 608 176
+:simon/tapir/032v: 608 112
+:simon/tapir/032v: 608 48
+:simon/tapir/032v: 608 -16
+:simon/tapir/032v: 0 176
+:simon/tapir/032v: 0 112
+:simon/tapir/032v: 0 48
+:simon/tapir/032v: 0 -16
+:geoo/steel/32x16o.S: 256 496
+:geoo/steel/32x16o.S: 288 496
+:geoo/steel/32x16o.S: 320 496
+:geoo/steel/32x16o.S: 352 496
+:simon/tapir/064h: 32 240
+:simon/tapir/064h: 0 0
+:simon/tapir/064h: 128 0
+:simon/tapir/064h: 256 0
+:simon/tapir/064h: 384 0
+:simon/tapir/064h: 512 0
+:simon/tapir/032hd: 224 240
+:simon/tapir/032hd: 160 272
+:simon/tapir/032h: 160 240
+:geoo/steel/64x32o.S: 0 272
+:geoo/steel/64x32o.S: 64 272
+:geoo/steel/64x32o.S: 288 64
+:geoo/steel/64x64o.S: 256 0
+:geoo/steel/64x64o.S: 320 0
+:geoo/steel/64x64o.S: 320 96
+:geoo/steel/64x64o.S: 544 64
+:geoo/steel/64x64o.S: 480 96
+:geoo/steel/32x16o.S: 128 272
+:geoo/steel/16x16o.S: 160 280
+:geoo/steel/16x16o.S: 176 264
+:geoo/steel/16x16o.S: 192 256
+:geoo/steel/16x16o.S: 208 256
+:geoo/steel/16x16o.S: 224 248
+:geoo/steel/32x32o.S: 488 160

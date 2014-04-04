@@ -1,0 +1,74 @@
+$BUILT 2012-06-07 07:14:22
+$AUTHOR minimac
+$GERMAN Graben Sie den Boden
+$ENGLISH Ground Digging
+
+#SIZE_X 928
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 52
+#BACKGROUND_BLUE 0
+
+#SECONDS 180
+#INITIAL 50
+#REQUIRED 49
+#SPAWN_INTERVAL 30
+#SPAWN_INTERVAL_FAST 4
+
+#NOTHING 0
+#NOTHING 0
+#BLOCKER 1
+#BASHER 1
+#MINER 4
+#BUILDER 2
+#FLOATER 1
+#DIGGER 2
+#JUMPER 3
+#CLIMBER 1
+#NOTHING 0
+#NOTHING 0
+
+:matt/earth/Hatch.H: 822 220 r
+
+:matt/earth/Goal.G: 12 316
+
+:matt/earth/17: 864 270
+:matt/earth/02: 390 306
+:matt/earth/10: 734 328 frr
+:matt/earth/00: 802 282
+:matt/earth/03: 774 264
+:matt/earth/04: 722 270
+:matt/earth/10: 646 252
+:matt/earth/10: 584 334
+:matt/earth/10: 544 244
+:matt/earth/10: 490 312
+:matt/earth/17: 448 318
+:matt/earth/02: 498 296
+:matt/earth/16: 464 248
+:matt/earth/05: 6 364 fr
+:matt/earth/10: 394 250 frr
+:matt/earth/17: 380 322 frr
+:geoo/steel/dark_64x64o.S: 576 336
+:geoo/steel/dark_64x64o.S: 640 336
+:geoo/steel/dark_64x64o.S: 704 336
+:geoo/steel/dark_64x64o.S: 576 252
+:geoo/steel/dark_64x64o.S: 640 252
+:geoo/steel/dark_64x64o.S: 704 252
+:geoo/steel/dark_64x64o.S: 704 188
+:geoo/steel/dark_64x64o.S: 704 124
+:geoo/steel/dark_64x64o.S: 704 60
+:matt/carnival/balloons: 608 130
+:geoo/steel/dark_32x16o.S: 524 318
+:geoo/steel/dark_32x32o.S: 524 286
+:geoo/steel/dark_32x32o.S: 524 334
+:matt/earth/10: 310 252 fr
+:matt/earth/10: 146 210 frr
+:matt/earth/01: 392 246
+:matt/earth/04: 82 266
+:matt/earth/04: 216 268
+:matt/earth/17: 162 270 frr
+:geoo/steel/dark_32x64o.S: 250 336
+:geoo/steel/dark_32x64o.S: 250 272
+:geoo/steel/dark_32x32o.S: 250 240

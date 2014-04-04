@@ -1,4 +1,4 @@
-$BUILT 2012-05-26 17:12:00
+$BUILT 2014-04-03 23:51:12
 $AUTHOR Michael
 $GERMAN 
 $ENGLISH Put your lix on ice
@@ -21,7 +21,7 @@ $ENGLISH Put your lix on ice
 #FLOATER 1
 #EXPLODER2 1
 #BLOCKER 1
-#BUILDER 5
+#PLATFORMER 5
 #MINER 5
 #JUMPER 5
 #BATTER 5
@@ -37,6 +37,7 @@ $ENGLISH Put your lix on ice
 :simon/crystal.W: 640 352
 :simon/crystal.W: 688 352
 
+:matt/winter/15: 81 188
 :matt/winter/17: 64 80
 :matt/winter/04: 64 176
 :matt/winter/17: 32 160 frr
