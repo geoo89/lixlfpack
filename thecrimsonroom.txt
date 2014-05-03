@@ -1,7 +1,7 @@
 $BUILT 2014-02-13 17:22:11
 $AUTHOR Michael
 $GERMAN 
-$ENGLISH The Crimson Room (B)
+$ENGLISH The Crimson Room
 
 #SIZE_X 640
 #SIZE_Y 512
