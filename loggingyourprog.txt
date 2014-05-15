@@ -1,7 +1,7 @@
 $BUILT                                             2012-03-07 03:53:53
 $AUTHOR                                                          Simon
 $GERMAN                                                               
-$ENGLISH                                Logging Your Progress (Part 1)
+$ENGLISH                                         Logging Your Progress
 
 #SIZE_X                                                            640
 #SIZE_Y                                                            400

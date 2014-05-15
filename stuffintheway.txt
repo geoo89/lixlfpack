@@ -1,131 +1,174 @@
-$BUILT                                             2012-03-23 11:52:04
-$AUTHOR                                                          Tseug
-$GERMAN                                                               
-$ENGLISH                                              Stuff In The Way
+$BUILT 2014-05-15 01:42:20
+$AUTHOR Tseug
+$GERMAN 
+$ENGLISH Stuff In The Way
 
-#SIZE_X                                                           1072
-#SIZE_Y                                                            400
-#TORUS_X                                                             0
-#TORUS_Y                                                             0
-#START_X                                                           -48
-#START_Y                                                           -20
-#BACKGROUND_RED                                                      0
-#BACKGROUND_GREEN                                                    0
-#BACKGROUND_BLUE                                                     0
+#SIZE_X 1048
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#START_X -64
+#START_Y -20
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
 
-#SECONDS                                                           120
-#INITIAL                                                           100
-#REQUIRED                                                          100
-#SPAWN_INTERVAL                                                     25
-#SPAWN_INTERVAL_FAST                                                 4
+#SECONDS 120
+#INITIAL 100
+#REQUIRED 100
+#SPAWN_INTERVAL 25
+#SPAWN_INTERVAL_FAST 4
 
-#CLIMBER                                                             1
-#FLOATER                                                             1
-#EXPLODER                                                            1
-#BLOCKER                                                             0
-#BUILDER                                                             6
-#BASHER                                                              2
-#MINER                                                               1
-#DIGGER                                                              1
-#NOTHING                                                             0
-#NOTHING                                                             0
-#NOTHING                                                             0
-#NOTHING                                                             0
+#CLIMBER 1
+#FLOATER 1
+#EXPLODER 1
+#BLOCKER 0
+#BUILDER 6
+#BASHER 2
+#MINER 1
+#DIGGER 1
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
 
-:matt/marble/Hatch.H:                        152       256
+:matt/marble/Hatch.H: 136 272
 
-:matt/marble/Goal.G:                         878       278
+:matt/marble/Goal.G: 846 294
 
-:matt/marble/thinplatform128p:               872       326
-:matt/marble/thinplatform128p:               872       328
-:matt/marble/thinplatform128p:                64         0
-:matt/marble/23:                              16         0
-:matt/marble/23:                              48         0
-:matt/marble/23:                              16        32
-:matt/marble/23:                              48        32
-:matt/marble/23:                              24        64
-:matt/marble/23:                              56        64
-:matt/marble/23:                              24        96
-:matt/marble/23:                              56        96
-:matt/marble/23:                              32       128
-:matt/marble/23:                              64       128
-:matt/marble/23:                              32       160
-:matt/marble/23:                              64       160
-:matt/marble/23:                              40       192
-:matt/marble/23:                              72       192
-:matt/marble/23:                              40       224
-:matt/marble/23:                              72       224
-:matt/marble/23:                              48       256
-:matt/marble/23:                              80       256
-:matt/marble/23:                              48       288
-:matt/marble/23:                              80       288
-:matt/marble/23:                              56       320
-:matt/marble/23:                              88       320
-:matt/marble/23:                              56       352
-:matt/marble/23:                              88       352
-:matt/marble/23:                              56       384
-:matt/marble/23:                              88       384
-:matt/marble/23:                            1040         0     frr
-:matt/marble/23:                            1008         0     frr
-:matt/marble/23:                            1040        32     frr
-:matt/marble/23:                            1008        32     frr
-:matt/marble/23:                            1032        64     frr
-:matt/marble/23:                            1000        64     frr
-:matt/marble/23:                            1032        96     frr
-:matt/marble/23:                            1000        96     frr
-:matt/marble/23:                            1024       128     frr
-:matt/marble/23:                             992       128     frr
-:matt/marble/23:                            1024       160     frr
-:matt/marble/23:                             992       160     frr
-:matt/marble/23:                            1016       192     frr
-:matt/marble/23:                             984       192     frr
-:matt/marble/23:                             984       224     frr
-:matt/marble/23:                            1008       256     frr
-:matt/marble/23:                             976       256     frr
-:matt/marble/23:                            1008       288     frr
-:matt/marble/23:                             976       288     frr
-:matt/marble/23:                            1000       320     frr
-:matt/marble/23:                             968       320     frr
-:matt/marble/23:                            1000       352     frr
-:matt/marble/23:                             968       352     frr
-:matt/marble/23:                            1000       384     frr
-:matt/marble/23:                             968       384     frr
-:matt/marble/07a:                            120       352
-:matt/marble/07a:                            168       352
-:matt/marble/07a:                            216       352
-:matt/marble/07a:                            264       352
-:matt/marble/07a:                            312       352
-:matt/marble/07a:                            360       352
-:matt/marble/07a:                            408       352
-:matt/marble/07a:                            456       352
-:matt/marble/07a:                            776       352
-:matt/marble/07a:                            824       352
-:matt/marble/07a:                            872       352
-:matt/marble/07a:                            920       352
-:matt/marble/07a:                            632       352
-:matt/marble/07a:                            680       352
-:matt/marble/thinplatform128p:               192         0
-:matt/marble/thinplatform128p:               320         0
-:matt/marble/thinplatform128p:               448         0
-:matt/marble/thinplatform128p:               576         0
-:matt/marble/thinplatform128p:               664         0
-:matt/marble/thinplatform128p:               136        48
-:matt/marble/thinplatform128p:               264        48
-:matt/marble/thinplatform128p:               392        48
-:matt/marble/thinplatform128p:               520        48
-:matt/marble/thinplatform128p:               576        48
-:matt/marble/thinplatform128p:               192        96
-:matt/marble/thinplatform128p:               320        96
-:matt/marble/thinplatform128p:               448        96
-:matt/marble/thinplatform128p:               520        96
-:geoo/steel/64x64o.S:                             632       266
-:geoo/steel/64x64o.S:                             632       202
-:matt/marble/20:                             280       288
-:matt/marble/20:                             328       288
-:matt/marble/20:                             408       288
-:matt/marble/thinplatform128p:               760       328
-:matt/marble/07a:                            728       352
-:matt/marble/thinplatform128p:               760       326
-:matt/marble/23:                            1016       224     frr
-:matt/marble/03:                             806       294
-:matt/marble/03:                             806       262
+:matt/marble/23: 920 312 frr
+:matt/marble/thinplatform128p: 48 0
+:matt/marble/23: 0 0
+:matt/marble/23: 32 0
+:matt/marble/23: 0 32
+:matt/marble/23: 32 32
+:matt/marble/23: 0 64
+:matt/marble/23: 32 64
+:matt/marble/23: 0 96
+:matt/marble/23: 32 96
+:matt/marble/23: 0 128
+:matt/marble/23: 32 128
+:matt/marble/23: 0 160
+:matt/marble/23: 32 160
+:matt/marble/23: 0 256
+:matt/marble/23: 32 256
+:matt/marble/23: 0 288
+:matt/marble/23: 32 288
+:matt/marble/23: 32 320
+:matt/marble/23: 64 320
+:matt/marble/23: 32 352
+:matt/marble/23: 64 352
+:matt/marble/23: 32 384
+:matt/marble/23: 64 384
+:matt/marble/23: 1016 -8 frr
+:matt/marble/23: 984 -8 frr
+:matt/marble/23: 1016 24 frr
+:matt/marble/23: 984 24 frr
+:matt/marble/23: 1016 56 frr
+:matt/marble/23: 984 56 frr
+:matt/marble/23: 1016 88 frr
+:matt/marble/23: 984 88 frr
+:matt/marble/thinplatform128p: 176 0
+:matt/marble/thinplatform128p: 304 0
+:matt/marble/thinplatform128p: 432 0
+:matt/marble/thinplatform128p: 560 0
+:matt/marble/thinplatform128p: 648 0
+:matt/marble/thinplatform128p: 118 48
+:matt/marble/thinplatform128p: 246 48
+:matt/marble/thinplatform128p: 374 48
+:matt/marble/thinplatform128p: 502 48
+:matt/marble/thinplatform128p: 558 48
+:matt/marble/thinplatform128p: 176 96
+:matt/marble/thinplatform128p: 304 96
+:matt/marble/thinplatform128p: 432 96
+:matt/marble/thinplatform128p: 504 96
+:geoo/steel/64x64o.S: 616 282
+:geoo/steel/64x64o.S: 616 218
+:matt/marble/20: 264 304
+:matt/marble/20: 312 304
+:matt/marble/20: 392 304
+:matt/marble/thinplatform128p: 744 344
+:matt/marble/thinplatform128p: 744 342
+:matt/marble/03: 790 310
+:matt/marble/03: 790 278
+:matt/marble/23: 96 352
+:matt/marble/23: 96 384
+:matt/marble/08a: 104 368
+:matt/marble/08a: 168 368
+:matt/marble/08a: 232 368
+:matt/marble/08a: 296 368
+:matt/marble/08a: 360 368
+:matt/marble/08a: 424 368
+:matt/marble/08a: 680 368
+:matt/marble/08a: 744 368
+:matt/marble/08a: 808 368
+:matt/marble/23: 920 344 frr
+:matt/marble/08a: 872 368
+:matt/marble/08a: 616 368
+:matt/marble/23: 64 64
+:matt/marble/23: 64 96
+:matt/marble/08: 72 64 rrrd
+:matt/marble/23: 0 192
+:matt/marble/23: 32 192
+:matt/marble/23: 0 224
+:matt/marble/23: 32 224
+:matt/marble/23: 64 128
+:matt/marble/23: 64 160
+:matt/marble/23: 64 192
+:matt/marble/23: 64 224
+:matt/marble/23: 64 256
+:matt/marble/23: 64 288
+:matt/marble/23: 0 320
+:matt/marble/23: 0 352
+:matt/marble/23: 0 384
+:matt/marble/23: 96 320
+:matt/marble/08: 80 128 rrrd
+:matt/marble/08: 88 192 rrrd
+:matt/marble/08: 104 304 rrrd
+:matt/marble/new/20_top: 264 304
+:matt/marble/new/20_top: 312 304
+:matt/marble/new/20_top: 392 304
+:matt/marble/new/20_btm: 264 360
+:matt/marble/new/20_btm: 312 360
+:matt/marble/new/20_btm: 392 360
+:matt/marble/23: 952 -8 frr
+:matt/marble/23: 952 24 frr
+:matt/marble/08: 944 -8 rrrd
+:matt/marble/23: 952 56 frr
+:matt/marble/23: 952 88 frr
+:matt/marble/23: 1016 120 frr
+:matt/marble/23: 984 120 frr
+:matt/marble/23: 1016 152 frr
+:matt/marble/23: 984 152 frr
+:matt/marble/23: 952 120 frr
+:matt/marble/23: 952 152 frr
+:matt/marble/23: 1016 184 frr
+:matt/marble/23: 984 184 frr
+:matt/marble/23: 1016 216 frr
+:matt/marble/23: 984 216 frr
+:matt/marble/23: 952 184 frr
+:matt/marble/23: 952 216 frr
+:matt/marble/23: 1016 248 frr
+:matt/marble/23: 984 248 frr
+:matt/marble/23: 1016 280 frr
+:matt/marble/23: 984 280 frr
+:matt/marble/23: 952 248 frr
+:matt/marble/23: 952 280 frr
+:matt/marble/08: 936 56 rrrd
+:matt/marble/08: 928 120 rrrd
+:matt/marble/23: 920 248 frr
+:matt/marble/23: 920 280 frr
+:matt/marble/08: 912 248 rrrd
+:matt/marble/23: 1016 312 frr
+:matt/marble/23: 984 312 frr
+:matt/marble/23: 1016 344 frr
+:matt/marble/23: 984 344 frr
+:matt/marble/23: 952 312 frr
+:matt/marble/23: 952 344 frr
+:matt/marble/08: 904 304 rrrd
+:matt/marble/thinplatform128p: 808 344
+:matt/marble/thinplatform128p: 808 342
+:matt/marble/23: 936 376 frr
+:matt/marble/23: 1032 376 frr
+:matt/marble/23: 1000 376 frr
+:matt/marble/23: 968 376 frr

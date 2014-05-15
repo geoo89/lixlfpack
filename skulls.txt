@@ -1,7 +1,7 @@
-$BUILT 2014-03-26 00:49:05
+$BUILT 2014-04-26 15:20:58
 $AUTHOR Amanda
-$GERMAN Vernunftgrenze
-$ENGLISH Sanity Threshold
+$GERMAN Schädel, Schlamm und Stahl
+$ENGLISH Skulls, Sludge, and Steel
 
 #SIZE_X 960
 #SIZE_Y 400
@@ -35,6 +35,8 @@ $ENGLISH Sanity Threshold
 :amanda/occult/occult_goal_skull.G: 805 212
 
 :amanda/steel/steel32x32.S: 288 144
+:amanda/occult/occult_skulls32x32: 318 213
+:amanda/occult/occult_skulls32x32: 282 207
 :amanda/occult/occult_wax32x16: 292 268
 :amanda/occult/occult_wax32x16_cap_right: 304 272
 :amanda/steel/steel16x16.S: 320 272
@@ -44,11 +46,8 @@ $ENGLISH Sanity Threshold
 :amanda/occult/occult_wax64x48: 256 320
 :amanda/occult/occult_wax16x16: 304 304
 :amanda/occult/occult_wax32x16_b: 304 288
-:amanda/occult/occult_skulls32x32: 300 170
-:amanda/occult/occult_skulls32x32: 327 212
-:amanda/steel/steel32x32.S: 304 208
 :amanda/steel/steel32x32.S: 288 240
-:amanda/occult/occult_skulls32x32: 348 214 rrr
+:amanda/occult/occult_skulls32x32: 349 214 rrr
 :amanda/occult/occult_skulls32x32: 426 275 frr
 :amanda/occult/occult_skulls32x32: 390 256
 :amanda/occult/occult_skulls32x32: 336 240
@@ -82,7 +81,6 @@ $ENGLISH Sanity Threshold
 :amanda/occult/occult_wax32x16_b: 112 272
 :amanda/occult/occult_wax_details_sunken_lix: 226 263
 :amanda/steel/steel32x32.S: 288 176
-:amanda/occult/occult_skulls32x32: 320 192
 :amanda/steel/steel32x32.S: 320 240
 :amanda/occult/overlays/occult_steel_overlay32x32_d.S: 320 240
 :amanda/occult/occult_wax32x16_cap_right: 336 288
@@ -125,15 +123,14 @@ $ENGLISH Sanity Threshold
 :amanda/occult/occult_wax32x16_cap_left: 656 304
 :amanda/occult/occult_wax16x16: 688 304
 :amanda/occult/occult_wax64x64: 640 240
-:amanda/steel/steel24x8.S: 589 267
-:amanda/occult/occult_wax_details_lump: 605 258 fr
+:amanda/occult/occult_wax_details_lump: 608 253 rrr
 :amanda/occult/occult_wax32x48_cap_left_sheer: 608 256
-:amanda/occult/occult_wax32x16_cap_left: 608 240
 :amanda/occult/occult_wax32x16: 736 304 frr
 :amanda/occult/occult_wax32x48_cap_left_soft: 736 304
 :amanda/occult/occult_wax32x16_b: 736 288
 :amanda/occult/occult_wax32x16: 736 272
 :amanda/occult/occult_wax32x48: 704 272
+:amanda/steel/steel24x8.S: 655 239
 :amanda/occult/occult_wax32x16_cap_left: 672 224
 :amanda/occult/occult_wax64x48: 832 288
 :amanda/occult/occult_wax32x16: 784 288
@@ -169,14 +166,19 @@ $ENGLISH Sanity Threshold
 :amanda/occult/occult_wax16x16: 176 -16
 :amanda/occult/occult_wax32x16: 160 32
 :amanda/occult/occult_wax32x16_b: 192 32
-:amanda/occult/occult_wax_details_bump: 406 123
-:amanda/occult/occult_wax_details_bump: 426 113 rrr
+:amanda/occult/occult_wax_details_bump: 408 123
+:amanda/occult/occult_wax_details_bump: 428 113 rrr
 :amanda/steel/steel32x32.S: 416 128
 :amanda/steel/steel32x32.S: 416 192
 :amanda/steel/steel32x32.S: 448 192
 :amanda/steel/steel32x32.S: 432 176
-:amanda/steel/steel32x32.S: 432 208
-:amanda/occult/occult_wax32x16: 480 112
+:amanda/steel/steel32x32.S: 432 224
+:amanda/occult/occult_wax32x16: 482 112
+:amanda/occult/occult_overlay32x32_c: 480 196
+:amanda/occult/occult_wax32x16_b: 480 176
+:amanda/occult/occult_wax_details_lump: 512 200 rrr
+:amanda/occult/occult_wax32x48_cap_left_sheer: 512 174
+:amanda/occult/occult_wax32x16: 512 176
 :amanda/occult/occult_wax64x64: 464 112
 :amanda/steel/steel32x32.S: 448 128
 :amanda/steel/steel32x32.S: 432 144
@@ -196,6 +198,8 @@ $ENGLISH Sanity Threshold
 :amanda/steel/steel24x16.S: 392 128
 :amanda/occult/occult_wax32x16: 464 96
 :amanda/occult/occult_wax_details_sunken_cube: 395 108
+:amanda/occult/occult_wax_details_drip_b: 339 75
+:amanda/occult/occult_wax_details_drip_b: 346 70 frr
 :amanda/occult/occult_wax32x48: 352 32
 :amanda/occult/occult_wax64x48: 320 -16
 :amanda/occult/occult_wax32x16_cap_right: 384 32
@@ -209,8 +213,16 @@ $ENGLISH Sanity Threshold
 :amanda/occult/occult_wax64x64: 544 -32
 :amanda/occult/occult_wax64x48: 608 -16
 :amanda/occult/occult_wax32x16_cap_right: 496 96
+:amanda/occult/occult_wax64x48: 544 176
 :amanda/occult/occult_wax64x48: 528 128
 :amanda/occult/occult_wax32x16_cap_right: 528 112
+:amanda/occult/occult_wax_details_bump: 608 222 rr
+:amanda/occult/occult_wax_details_bump: 625 221 r
+:amanda/occult/occult_wax16x16: 613 226
+:amanda/occult/occult_wax_details_drip_b: 597 224 frr
+:amanda/occult/occult_wax32x48_cap_right_sheer: 608 176
+:amanda/steel/steel_flange_left24x16.S: 631 229
+:amanda/occult/occult_wax32x16_cap_left: 608 240
 :amanda/occult/occult_wax32x48_cap_right_soft: 592 128
 :amanda/occult/occult_wax32x16_cap_left: 704 32
 :amanda/occult/occult_wax64x48: 672 -16
@@ -226,14 +238,13 @@ $ENGLISH Sanity Threshold
 :amanda/occult/occult_wax_details_drip: 154 128
 :amanda/occult/occult_wax_details_drip_b: 224 143
 :amanda/occult/occult_wax32x16: 768 272
-:amanda/occult/occult_wax32x48: 704 224
 :amanda/steel/steel32x32.S: 656 336
 :amanda/steel/steel32x32.S: 672 368
 :amanda/steel/steel32x32.S: 688 336
 :amanda/steel/steel32x32.S: 704 368
 :amanda/occult/occult_skulls32x32: 582 362 rrr
 :amanda/occult/overlays/occult_steel_overlay32x32_c.S: 704 368
-:amanda/occult/occult_wax32x48_cap_right_sheer: 736 224
+:amanda/occult/occult_wax32x48_cap_right_sheer: 704 224
 :amanda/occult/occult_wax64x64: 736 -16
 :amanda/occult/occult_wax32x16_cap_right: 800 32
 :amanda/occult/occult_wax64x48: 800 -16
@@ -255,7 +266,9 @@ $ENGLISH Sanity Threshold
 :amanda/steel/steel8x16.S: 336 128
 :amanda/steel/steel16x16.S: 304 272
 :amanda/steel/steel8x16.S: 320 144
-:amanda/occult/occult_wax_details_drip: 501 182
 :amanda/occult/occult_wax32x16_cap_left: 432 96
 :amanda/occult/overlays/occult_steel_overlay32x32_d.S: 432 157
-:amanda/occult/occult_wax_details_drip: 432 187
+:amanda/occult/occult_wax_details_drip: 434 187
+:amanda/occult/occult_wax_details_drip: 566 235
+:amanda/steel/steel24x16.S: 304 208 fr
+:amanda/steel/steel8x16.S: 304 232 fr

@@ -1,4 +1,4 @@
-$BUILT 2013-07-16 23:35:04
+$BUILT 2013-07-16 23:35:14
 $AUTHOR geoo
 $GERMAN 
 $ENGLISH Backslash
@@ -20,7 +20,7 @@ $ENGLISH Backslash
 #NOTHING 0
 #NOTHING 0
 #WALKER 1
-#BUILDER 1
+#BUILDER 2
 #BLOCKER 4
 #MINER 1
 #NOTHING 0
@@ -36,8 +36,6 @@ $ENGLISH Backslash
 :matt/underworld/Goal.G: 224 334
 :matt/underworld/Goal.G: 352 334
 
-:matt/underworld/thinplatform128: 0 192
-:matt/underworld/thinplatform128: 128 192
 :matt/underworld/thinplatform128: 256 192
 :matt/underworld/thinplatform128: 384 192
 :matt/underworld/thinplatform128: 512 192
@@ -56,3 +54,23 @@ $ENGLISH Backslash
 :matt/underworld/thinplatform16: 288 232
 :matt/underworld/thinplatform128: 336 232
 :matt/underworld/thinplatform128: 176 232
+:geoo/construction/platform.S: 272 192
+:geoo/construction/platform.S: 240 192
+:geoo/construction/platform.S: 32 192
+:geoo/construction/platform.S: 0 192
+:geoo/construction/platform.S: 96 192
+:geoo/construction/platform.S: 64 192
+:geoo/construction/platform.S: 144 192
+:geoo/construction/platform.S: 112 192
+:geoo/construction/platform.S: 208 192
+:geoo/construction/platform.S: 176 192
+:geoo/construction/platform.S: 368 192
+:geoo/construction/platform.S: 336 192
+:geoo/construction/platform.S: 432 192
+:geoo/construction/platform.S: 400 192
+:geoo/construction/platform.S: 496 192
+:geoo/construction/platform.S: 464 192
+:geoo/construction/platform.S: 560 192
+:geoo/construction/platform.S: 528 192
+:geoo/construction/platform.S: 624 192
+:geoo/construction/platform.S: 592 192

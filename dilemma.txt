@@ -1,4 +1,4 @@
-$BUILT 2013-07-21 22:51:57
+$BUILT 2014-05-15 18:15:20
 $AUTHOR mobius
 $GERMAN Pickelhaube
 $ENGLISH Dilemma
@@ -43,7 +43,7 @@ $ENGLISH Dilemma
 :matt/earth/10: 1126 168
 :matt/earth/10: 1110 216
 :matt/earth/10: 1118 264
-:matt/earth/10: 1078 312
+:matt/earth/10: 1118 312
 :matt/earth/17: 1078 248
 :matt/earth/17: 1078 160
 :matt/earth/17: 1246 168
@@ -124,7 +124,6 @@ $ENGLISH Dilemma
 :matt/earth/08: 580 126
 :matt/earth/09: 894 228
 :matt/earth/09: 854 228
-:matt/earth/09: 824 230
 :matt/earth/00: 698 112
 :matt/earth/17: 652 118 fr
 :matt/earth/08: 648 116 frr
@@ -163,3 +162,15 @@ $ENGLISH Dilemma
 :matt/earth/10: 368 304
 :matt/earth/00: 304 304
 :matt/earth/07b: 654 114 frrrd
+:matt/earth/07b: 896 224
+:geoo/steel/dark_64x64o.S: 879 168 d
+:matt/earth/09: 823 225
+:matt/earth/09: 855 227
+:geoo/steel/dark_64x64o.S: 888 167 d
+:geoo/steel/dark_64x64o.S: 929 169 d
+:geoo/steel/dark_64x64o.S: 940 170 d
+:matt/earth/07b: 821 226
+:geoo/steel/dark_64x32o.S: 867 197 d
+:geoo/steel/dark_64x32o.S: 850 196 d
+:geoo/steel/dark_64x32o.S: 835 195 d
+:matt/earth/07b: 826 226
