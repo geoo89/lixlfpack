@@ -1,4 +1,4 @@
-$BUILT 2012-05-12 23:40:45
+$BUILT 2014-05-18 22:04:27
 $AUTHOR Michael
 $GERMAN 
 $ENGLISH Goblin City
@@ -161,13 +161,13 @@ $ENGLISH Goblin City
 :geoo/abstract/pipes/central3: 528 112 rrr
 :geoo/abstract/pipes/central3: 528 80 rrr
 :geoo/abstract/pipes/central3: 528 48 rrr
-:geoo/abstract/pipes/central0: 536 336 rrr
-:geoo/abstract/pipes/central0: 536 304 rrr
-:geoo/abstract/pipes/central0: 536 272 rrr
-:geoo/abstract/pipes/central0: 536 240 rrr
+:geoo/abstract/pipes/central7: 536 336 rrr
 :geoo/abstract/pipes/central0: 532 336 rrrd
+:geoo/abstract/pipes/central7: 536 304 rrr
 :geoo/abstract/pipes/central0: 532 304 rrrd
+:geoo/abstract/pipes/central7: 536 272 rrr
 :geoo/abstract/pipes/central0: 532 272 rrrd
+:geoo/abstract/pipes/central7: 536 240 rrr
 :geoo/abstract/pipes/central0: 532 240 rrrd
 :geoo/sandstone/32x64: 656 464
 :geoo/sandstone/32x64: 656 528

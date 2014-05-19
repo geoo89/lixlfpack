@@ -1,147 +1,128 @@
-$BUILT 2012-08-18 14:32:13
+$BUILT 2014-05-19 18:35:57
 $AUTHOR mobius
 $GERMAN 
-$ENGLISH It Takes Time to Build
+$ENGLISH It Takes Time to Build...
 
-#SIZE_X 1120
+#SIZE_X 1152
 #SIZE_Y 400
 #TORUS_X 0
 #TORUS_Y 0
-#START_X 460
-#START_Y -20
+#START_X 64
+#START_Y 0
 #BACKGROUND_RED 0
 #BACKGROUND_GREEN 0
 #BACKGROUND_BLUE 0
 
-#SECONDS 240
+#SECONDS 0
 #INITIAL 80
-#REQUIRED 76
-#SPAWN_INTERVAL 35
+#REQUIRED 77
+#SPAWN_INTERVAL 24
 #SPAWN_INTERVAL_FAST 4
 
 #NOTHING 0
-#FLOATER 1
 #NOTHING 0
-#BUILDER 1
-#PLATFORMER 4
+#WALKER 1
+#BASHER 5
+#DIGGER 5
+#PLATFORMER 5
 #NOTHING 0
-#BASHER 10
-#DIGGER 10
+#NOTHING 0
 #NOTHING 0
 #NOTHING 0
 #NOTHING 0
 #NOTHING 0
 
-:matt/underworld/Hatch.H: 244 18
-:matt/underworld/Hatch.H: 728 256
+:matt/underworld/Hatch.H: 176 16
+:matt/underworld/Hatch.H: 728 240
 
-:matt/underworld/Goal.G: 884 224
+:matt/underworld/Goal.G: 904 248
 
-:matt/underworld/Lava.W: 848 368
-:matt/underworld/Lava.W: 896 368
-:matt/underworld/Lava.W: 944 368
-:geoo/sandstone/brazier.F: 744 24
-:geoo/sandstone/brazier.F: 744 40
-:geoo/sandstone/brazier.F: 744 72
-:geoo/sandstone/brazier.F: 744 56
-:geoo/sandstone/brazier.F: 744 88
-:geoo/sandstone/brazier.F: 744 104
-:geoo/sandstone/brazier.F: 744 136
-:geoo/sandstone/brazier.F: 744 120
-:geoo/sandstone/brazier.F: 560 38
-:geoo/sandstone/brazier.F: 592 38
-:geoo/sandstone/brazier.F: 528 38
-:matt/underworld/Lava.W: 368 368
-:matt/underworld/Lava.W: 416 368
-:matt/underworld/Lava.W: 464 368
-:matt/underworld/Lava.W: 512 368
-:geoo/sandstone/brazier.F: 744 8
-:matt/underworld/Lava.W: 560 368
-:matt/underworld/Lava.W: 608 368
-:geoo/sandstone/brazier.F: 624 38
-:matt/underworld/Lava.W: 32 368
-:matt/underworld/Lava.W: 80 368
-:matt/underworld/Lava.W: 128 368
-:matt/underworld/Lava.W: 176 368
-:matt/underworld/Lava.W: 224 368
-:matt/underworld/Lava.W: 272 368
-:matt/underworld/Lava.W: 320 368
-:matt/underworld/Lava.W: -16 368
-:geoo/sandstone/brazier.F: 744 -8
-:matt/underworld/Lava.W: 1088 368
+:matt/underworld/Lava.W: 880 368
+:matt/underworld/Lava.W: 928 368
+:matt/underworld/Lava.W: 976 368
+:geoo/sandstone/brazier.F: 792 136
+:matt/underworld/Lava.W: 400 368
+:matt/underworld/Lava.W: 448 368
+:matt/underworld/Lava.W: 496 368
+:matt/underworld/Lava.W: 544 368
+:matt/underworld/Lava.W: 592 368
+:matt/underworld/Lava.W: 640 368
+:matt/underworld/Lava.W: 64 368
+:matt/underworld/Lava.W: 112 368
+:matt/underworld/Lava.W: 160 368
+:matt/underworld/Lava.W: 208 368
+:matt/underworld/Lava.W: 256 368
+:matt/underworld/Lava.W: 304 368
+:matt/underworld/Lava.W: 352 368
+:matt/underworld/Lava.W: 1120 368
+:matt/underworld/Lava.W: 320 -16
+:matt/underworld/Lava.W: 416 -16
+:matt/underworld/Lava.W: 464 -16
+:matt/underworld/Lava.W: 512 -16
+:matt/underworld/Lava.W: 560 -16
+:matt/underworld/Lava.W: 608 -16
+:matt/underworld/Lava.W: 656 -16
+:matt/underworld/Lava.W: 704 -16
+:matt/underworld/Lava.W: 752 -16
+:matt/underworld/Lava.W: 800 -16
+:matt/underworld/Lava.W: 1024 -16
+:matt/underworld/Lava.W: 1072 -16
+:matt/underworld/Lava.W: 1120 -16
+:matt/underworld/Lava.W: 16 368
+:matt/underworld/Lava.W: -32 368
+:matt/underworld/Lava.W: 368 -16
+:matt/underworld/Lava.W: 272 -16
 
-:geoo/construction/fence_rust_64x64: 768 30
-:matt/underworld/00: 816 158
-:geoo/construction/fence_rust_64x64: 768 94
-:geoo/shadow/wall/center: 884 288
-:geoo/shadow/wall/center: 916 288
-:geoo/steel/64x64o.S: 784 352
-:geoo/steel/64x64o.S: 976 352
-:matt/underworld/02: 128 80
-:matt/underworld/02: 192 80
-:matt/underworld/02: 256 80
-:matt/underworld/02: 128 176
-:matt/underworld/02: 192 176
-:matt/underworld/02: 256 176
-:matt/underworld/02: 320 80
-:matt/underworld/02: 320 176
-:matt/bricks/19: 1002 308
-:matt/bricks/18: 1010 276
-:matt/bricks/18: 1010 246
-:matt/bricks/18: 344 0
-:matt/underworld/05: 114 -28
-:matt/underworld/07: 276 -64
-:matt/underworld/09a: 216 8
-:matt/underworld/09c: 280 8
-:matt/underworld/09b: 350 0
-:matt/underworld/09c: 130 0
-:matt/underworld/09a: 156 10
-:matt/underworld/04: 132 -30
-:matt/underworld/07: 722 320
-:matt/underworld/08: 674 336
-:geoo/shadow/wall/center: 560 0
-:geoo/shadow/wall/center: 592 0
-:geoo/shadow/wall/center: 528 0
-:matt/underworld/06: 994 320
-:geoo/shadow/wall/left: 852 288
-:matt/underworld/05: 762 304
-:geoo/shadow/wall/right: 948 288
-:matt/underworld/05: 882 304
-:matt/underworld/04: 640 368
-:matt/bricks/18: 1010 214
-:matt/bricks/18: 1008 166
-:matt/underworld/07: 816 102
-:matt/underworld/07: 880 102
-:matt/underworld/07: 944 86
-:matt/underworld/07: 800 30
-:matt/underworld/07: 864 30
-:matt/underworld/07: 928 14
-:matt/underworld/07: 960 118
-:matt/underworld/07: 800 -32
-:matt/underworld/07: 768 -42
-:matt/underworld/07: 864 -18
-:matt/underworld/00: 752 158
-:matt/underworld/09c: 828 174
-:matt/underworld/09a: 854 190
-:matt/underworld/04: 834 148
-:matt/underworld/09a: 914 186
-:matt/underworld/09c: 976 188
-:matt/underworld/04: 946 304
-:matt/underworld/09a: 296 24
-:matt/underworld/04: 656 336 rrr
-:matt/underworld/04: 640 352 rr
-:geoo/shadow/wall/center: 624 0
-:matt/underworld/04: 852 308
-:matt/underworld/03: 86 -24 d
-:geoo/construction/concrete/064h: 128 256 d
-:geoo/construction/concrete/064h: 256 256 d
-:geoo/shadow/wall/center: 624 64
-:geoo/shadow/wall/center: 560 64
-:geoo/shadow/wall/center: 592 64
-:geoo/shadow/wall/left: 496 64
-:geoo/shadow/wall/center: 528 64
-:geoo/shadow/wall/right: 656 0
-:geoo/shadow/wall/right: 656 64
-:geoo/shadow/wall/left: 496 0
-:geoo/shadow/wall/side: 496 32
-:geoo/shadow/wall/side: 656 32
+:geoo/construction/fence_rust_64x64: 824 32
+:matt/underworld/00: 848 158
+:geoo/construction/fence_rust_64x64: 824 96
+:geoo/steel/64x64o.S: 816 352
+:geoo/steel/64x64o.S: 1008 344
+:matt/underworld/02: 80 80
+:matt/underworld/02: 144 80
+:matt/underworld/02: 208 80
+:matt/underworld/02: 80 176
+:matt/underworld/02: 144 176
+:matt/underworld/02: 208 176
+:matt/underworld/02: 272 80
+:matt/underworld/02: 272 176
+:matt/bricks/18: 288 0
+:matt/underworld/05: 58 -28
+:matt/underworld/07: 220 -64
+:matt/underworld/09a: 160 8
+:matt/underworld/09c: 224 8
+:matt/underworld/09b: 294 0
+:matt/underworld/09c: 74 0
+:matt/underworld/09a: 100 10
+:matt/underworld/04: 76 -30
+:matt/underworld/07: 754 320
+:matt/underworld/08: 706 336
+:matt/underworld/06: 1026 320
+:matt/underworld/01: 904 312
+:matt/underworld/05: 794 304
+:matt/underworld/05: 914 304
+:matt/underworld/04: 672 368
+:matt/bricks/18: 1040 166
+:matt/underworld/07: 848 102
+:matt/underworld/07: 912 102
+:matt/underworld/07: 976 86
+:matt/underworld/07: 832 30
+:matt/underworld/07: 896 30
+:matt/underworld/07: 960 14
+:matt/underworld/07: 992 118
+:matt/underworld/07: 832 -32
+:matt/underworld/07: 800 -42
+:matt/underworld/07: 896 -18
+:matt/underworld/00: 784 158
+:matt/underworld/09c: 864 184
+:matt/underworld/09a: 886 190
+:matt/underworld/04: 866 148
+:matt/underworld/09a: 944 192
+:matt/underworld/09c: 1008 192
+:matt/underworld/04: 978 304
+:matt/underworld/09a: 240 24
+:matt/underworld/04: 688 336 rrr
+:matt/underworld/04: 672 352 rr
+:matt/underworld/04: 884 308
+:matt/underworld/07: 960 -48
+:matt/underworld/07: -16 -72
