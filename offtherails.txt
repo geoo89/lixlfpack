@@ -1,4 +1,4 @@
-$BUILT 2012-05-24 01:33:32
+$BUILT 2014-05-20 21:14:54
 $AUTHOR Insane Steve
 $GERMAN 
 $ENGLISH Off the Rails
@@ -95,3 +95,4 @@ $ENGLISH Off the Rails
 :matt/goldmine/plankdiag: 0 240
 :matt/goldmine/crate16: 268 176
 :matt/goldmine/crate16: 148 192
+:geoo/steel/32x32o.S: 308 112

@@ -1,4 +1,4 @@
-$BUILT 2014-05-19 18:55:52
+$BUILT 2014-05-20 21:14:40
 $AUTHOR Insane Steve/geoo
 $GERMAN 
 $ENGLISH Derailed Level
@@ -98,3 +98,4 @@ $ENGLISH Derailed Level
 :matt/goldmine/crate32: 468 176
 :matt/goldmine/crate32: 460 144
 :matt/goldmine/crate16: 480 128
+:geoo/steel/32x32o.S: 308 112

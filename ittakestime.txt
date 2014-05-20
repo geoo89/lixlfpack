@@ -1,4 +1,4 @@
-$BUILT 2014-05-19 18:35:57
+$BUILT 2014-05-20 21:08:01
 $AUTHOR mobius
 $GERMAN 
 $ENGLISH It Takes Time to Build...
@@ -21,7 +21,7 @@ $ENGLISH It Takes Time to Build...
 
 #NOTHING 0
 #NOTHING 0
-#WALKER 1
+#BUILDER 1
 #BASHER 5
 #DIGGER 5
 #PLATFORMER 5
@@ -35,7 +35,7 @@ $ENGLISH It Takes Time to Build...
 :matt/underworld/Hatch.H: 176 16
 :matt/underworld/Hatch.H: 728 240
 
-:matt/underworld/Goal.G: 904 248
+:matt/underworld/Goal.G: 912 224
 
 :matt/underworld/Lava.W: 880 368
 :matt/underworld/Lava.W: 928 368
@@ -99,6 +99,8 @@ $ENGLISH It Takes Time to Build...
 :matt/underworld/08: 706 336
 :matt/underworld/06: 1026 320
 :matt/underworld/01: 904 312
+:matt/underworld/01: 932 304
+:matt/underworld/01: 892 288
 :matt/underworld/05: 794 304
 :matt/underworld/05: 914 304
 :matt/underworld/04: 672 368
@@ -126,3 +128,5 @@ $ENGLISH It Takes Time to Build...
 :matt/underworld/04: 884 308
 :matt/underworld/07: 960 -48
 :matt/underworld/07: -16 -72
+:matt/underworld/01: 932 272
+:matt/underworld/01: 932 256 d

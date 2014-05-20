@@ -1,4 +1,4 @@
-$BUILT 2014-05-15 19:02:08
+$BUILT 2014-05-20 23:14:13
 $AUTHOR Insane Steve
 $GERMAN 
 $ENGLISH No More Heroes
@@ -40,12 +40,19 @@ $ENGLISH No More Heroes
 :geoo/sandstone/chopper.T: 528 176
 
 :simon/tapir/016h: 32 176
+:simon/tapir/016h: 32 182 d
 :simon/tapir/016h: 64 176
+:simon/tapir/016h: 64 182 d
 :simon/tapir/016h: 96 176
+:simon/tapir/016h: 96 182 d
 :simon/tapir/016h: 128 176
+:simon/tapir/016h: 128 182 d
 :simon/tapir/016h: 160 176
+:simon/tapir/016h: 160 182 d
 :simon/tapir/016h: 192 176
+:simon/tapir/016h: 192 182 d
 :simon/tapir/016h: 224 176
+:simon/tapir/016h: 224 182 d
 :simon/tapir/016h: 192 272
 :simon/tapir/016h: 160 272
 :simon/tapir/016h: 128 272
@@ -57,7 +64,9 @@ $ENGLISH No More Heroes
 :simon/tapir/016h: 192 384
 :simon/tapir/016h: 224 384
 :simon/tapir/016h: 256 176
+:simon/tapir/016h: 256 182 d
 :simon/tapir/016h: 288 176
+:simon/tapir/016h: 288 182 d
 :simon/tapir/016h: 256 384
 :simon/tapir/016h: 288 384
 :simon/tapir/016h: 224 272
@@ -152,3 +161,21 @@ $ENGLISH No More Heroes
 :simon/tapir/032hc: 752 352
 :simon/tapir/016h: 832 384
 :geoo/steel/32x32o.S: 352 128
+:simon/tapir/016h: 32 172 n
+:simon/tapir/016h: 64 172 n
+:simon/tapir/016h: 96 172 n
+:simon/tapir/016h: 128 172 n
+:simon/tapir/016h: 160 172 n
+:simon/tapir/016h: 192 172 n
+:simon/tapir/016h: 224 172 n
+:simon/tapir/016h: 256 172 n
+:simon/tapir/016h: 288 172 n
+:simon/tapir/016h: 32 160 d
+:simon/tapir/016h: 64 160 d
+:simon/tapir/016h: 96 160 d
+:simon/tapir/016h: 128 160 d
+:simon/tapir/016h: 160 160 d
+:simon/tapir/016h: 192 160 d
+:simon/tapir/016h: 224 160 d
+:simon/tapir/016h: 256 160 d
+:simon/tapir/016h: 288 160 d

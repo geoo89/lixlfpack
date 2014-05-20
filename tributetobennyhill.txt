@@ -13,7 +13,7 @@ $ENGLISH                                         Tribute to Benny Hill
 #BACKGROUND_GREEN                                                    0
 #BACKGROUND_BLUE                                                     0
 
-#SECONDS                                                          1800
+#SECONDS                                                          3600
 #INITIAL                                                             5
 #REQUIRED                                                            4
 #SPAWN_INTERVAL                                                      1
