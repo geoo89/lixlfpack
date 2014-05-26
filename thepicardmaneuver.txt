@@ -1,5 +1,5 @@
 $BUILT                                             2012-03-20 19:55:50
-$AUTHOR                                                 TM/InsaneSteve
+$AUTHOR                                                 mobius/InsaneSteve
 $GERMAN                                             Der Picard Manover
 $ENGLISH                                           The Picard Maneuver
 

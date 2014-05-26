@@ -1,5 +1,5 @@
 $BUILT                                             2012-02-10 14:27:57
-$AUTHOR                                                             TM
+$AUTHOR                                                             mobius
 $GERMAN                                             Entkommen das Loch
 $ENGLISH                                                Escape the Pit
 

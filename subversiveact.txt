@@ -1,5 +1,5 @@
 $BUILT                                             2012-02-01 14:45:31
-$AUTHOR                                                  TM/Nortaneous
+$AUTHOR                                                  mobius/Nortaneous
 $GERMAN                                                               
 $ENGLISH                                         Subversive Activities
 

@@ -1,5 +1,5 @@
 $BUILT                                             2012-02-20 18:43:58
-$AUTHOR                                                       Pieuw/TM
+$AUTHOR                                                       Pieuw/mobius
 $GERMAN                                              Das Letzte Lachen
 $ENGLISH                                                The Last Laugh
 

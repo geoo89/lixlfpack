@@ -1,5 +1,5 @@
 $BUILT                                             2012-02-20 00:51:11
-$AUTHOR                                                             TM
+$AUTHOR                                                             mobius
 $GERMAN                                               Zu Weit Zu Gehen
 $ENGLISH                                               Too Far to Walk
 

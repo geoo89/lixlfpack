@@ -1,5 +1,5 @@
 $BUILT                                             2012-02-10 16:36:17
-$AUTHOR                                                             TM
+$AUTHOR                                                             mobius
 $GERMAN                                               Die Letzte Meile
 $ENGLISH                                                 The Last Mile
 

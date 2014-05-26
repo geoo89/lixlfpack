@@ -1,5 +1,5 @@
 $BUILT                                             2012-02-05 01:08:28
-$AUTHOR                                                             TM
+$AUTHOR                                                             mobius
 $GERMAN                                                               
 $ENGLISH                                      Three Days of the Condor
 
