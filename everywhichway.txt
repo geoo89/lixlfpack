@@ -1,7 +1,7 @@
-$BUILT 2012-08-17 14:33:10
+$BUILT 2014-05-25 03:14:28
 $AUTHOR mobius
-$GERMAN Stillleben
-$ENGLISH Still Life
+$GERMAN 
+$ENGLISH Every Which Way But Loose
 
 #SIZE_X 1056
 #SIZE_Y 400
@@ -13,7 +13,7 @@ $ENGLISH Still Life
 #BACKGROUND_GREEN 0
 #BACKGROUND_BLUE 0
 
-#SECONDS 140
+#SECONDS 0
 #INITIAL 20
 #REQUIRED 20
 #SPAWN_INTERVAL 30
@@ -35,6 +35,8 @@ $ENGLISH Still Life
 :matt/marble/Hatch.H: 352 24
 
 :matt/marble/Goal.G: 928 224
+
+:geoo/construction/sawblade_small.F: 592 160
 
 :matt/marble/001c: 480 24
 :geoo/steel/64x32o.S: 240 224
@@ -126,11 +128,9 @@ $ENGLISH Still Life
 :matt/marble/06c: 176 192
 :matt/marble/14c: 80 336
 :matt/marble/05c: 80 368
-:matt/marble/06c: 720 -16 rr
-:matt/marble/14c: 784 0 rr
-:matt/marble/06c: 720 48 rr
-:matt/marble/14c: 752 32 rr
-:matt/marble/05c: 752 0 rr
+:matt/marble/06c: 720 -16
+:matt/marble/06c: 720 48
+:matt/marble/05c: 752 0
 :matt/marble/06c: 24 48
 :matt/marble/06c: 24 -16
 :matt/marble/06c: 24 112
@@ -168,3 +168,5 @@ $ENGLISH Still Life
 :matt/marble/08c: 992 48
 :geoo/steel/32x32o.S: 560 224
 :geoo/steel/32x32o.S: 608 140
+:matt/marble/15c: 784 0
+:matt/marble/15c: 752 32

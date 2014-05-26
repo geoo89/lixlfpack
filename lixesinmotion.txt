@@ -1,7 +1,7 @@
-$BUILT 2012-05-17 10:22:54
+$BUILT 2014-05-26 13:32:52
 $AUTHOR mobius
 $GERMAN 
-$ENGLISH Lixes in Motion (Part 1)
+$ENGLISH Lixes in Motion
 
 #SIZE_X 832
 #SIZE_Y 400
@@ -13,7 +13,7 @@ $ENGLISH Lixes in Motion (Part 1)
 
 #SECONDS 0
 #INITIAL 20
-#REQUIRED 20
+#REQUIRED 19
 #SPAWN_INTERVAL 15
 #SPAWN_INTERVAL_FAST 4
 
@@ -43,6 +43,8 @@ $ENGLISH Lixes in Motion (Part 1)
 :simon/acid.W: 0 352
 :simon/acid.W: 792 352
 
+:matt/bricks/17: 440 168 frr
+:matt/bricks/17: 440 152 frr
 :matt/bricks/17: 440 136 frr
 :matt/bricks/03a: 736 272
 :matt/bricks/03a: 672 272
@@ -96,3 +98,6 @@ $ENGLISH Lixes in Motion (Part 1)
 :matt/bricks/03a: 416 336
 :matt/bricks/03a: 352 336
 :matt/bricks/03a: 288 336
+:geoo/steel/dark_16x32o.S: 432 128
+:geoo/steel/dark_16x32o.S: 432 160
+:geoo/steel/dark_16x32o.S: 432 192

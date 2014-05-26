@@ -1,4 +1,4 @@
-$BUILT 2012-08-27 17:10:05
+$BUILT 2014-05-26 12:47:11
 $AUTHOR mobius/Clam Spammer
 $GERMAN funf fur das Kampfen
 $ENGLISH Five for Fighting
@@ -13,7 +13,7 @@ $ENGLISH Five for Fighting
 #BACKGROUND_GREEN 0
 #BACKGROUND_BLUE 0
 
-#SECONDS 120
+#SECONDS 0
 #INITIAL 5
 #REQUIRED 5
 #SPAWN_INTERVAL 90
@@ -34,7 +34,7 @@ $ENGLISH Five for Fighting
 
 :matt/goldmine/GoalTop.D: 1232 240
 
-:matt/goldmine/Hatch.H: 320 48
+:matt/goldmine/Hatch.H: 314 46
 
 :matt/goldmine/Goal.G: 1232 288
 
@@ -58,13 +58,13 @@ $ENGLISH Five for Fighting
 :matt/goldmine/08: 896 152
 :matt/goldmine/08: 848 128
 :matt/goldmine/crate64: 64 0
-:matt/goldmine/crate32: 304 184
-:matt/goldmine/crate32: 336 184
-:matt/goldmine/crate32: 368 184
-:matt/goldmine/crate32: 400 184
-:matt/goldmine/crate32: 432 184
-:matt/goldmine/crate32: 464 184
-:matt/goldmine/crate32: 496 184
+:matt/goldmine/crate32: 298 184
+:matt/goldmine/crate32: 330 184
+:matt/goldmine/crate32: 362 184
+:matt/goldmine/crate32: 394 184
+:matt/goldmine/crate32: 426 184
+:matt/goldmine/crate32: 458 184
+:matt/goldmine/crate32: 490 184
 :matt/goldmine/crate64: 80 32
 :matt/goldmine/crate64: 96 0
 :matt/goldmine/07: 400 -64
@@ -129,16 +129,14 @@ $ENGLISH Five for Fighting
 :matt/goldmine/crate16: 632 384
 :matt/goldmine/explosivecrate: 648 352
 :matt/goldmine/07: 656 360
-:matt/goldmine/crate32: 176 280
-:matt/goldmine/crate32: 208 280
-:matt/goldmine/crate32: 240 280
-:matt/goldmine/crate32: 272 280
-:matt/goldmine/crate32: 176 248 rrr
-:matt/goldmine/crate32: 176 216 rrr
-:matt/goldmine/crate32: 272 248 rrr
-:matt/goldmine/crate32: 272 216 rrr
-:matt/goldmine/crate32: 272 184
-:matt/goldmine/explosivecrate: 496 344
+:matt/goldmine/crate32: 202 280
+:matt/goldmine/crate32: 234 280
+:matt/goldmine/crate32: 170 248 rrr
+:matt/goldmine/crate32: 170 216 rrr
+:matt/goldmine/crate32: 266 248 rrr
+:matt/goldmine/crate32: 266 216 rrr
+:matt/goldmine/crate32: 266 184
+:matt/goldmine/explosivecrate: 496 352
 :geoo/steel/64x64o.S: 960 336
 :geoo/steel/32x32o.S: 976 304
 :geoo/steel/32x16o.S: 992 288
@@ -153,3 +151,5 @@ $ENGLISH Five for Fighting
 :matt/goldmine/00: 1312 0
 :matt/goldmine/00: 1328 -40
 :matt/goldmine/00: 1144 -56
+:matt/goldmine/crate32: 170 280 rrr
+:matt/goldmine/crate32: 266 280 rrr
