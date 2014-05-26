@@ -1,6 +1,6 @@
 $BUILT 2012-06-05 06:11:19
 $AUTHOR minimac
-$GERMAN Ein groﬂer Pilz
+$GERMAN
 $ENGLISH The Giant Mushroom
 
 #SIZE_X 1104

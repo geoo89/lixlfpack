@@ -3,11 +3,6 @@ $AUTHOR Insane Steve
 $GERMAN 
 $ENGLISH Just Stop the Bleeding
 
-$HINT_ENGLISH You can do this with one blocker, builder, <br>basher, miner, or digger, in some way. 
-$HINT_ENGLISH Or just floaters or climbers. 
-$HINT_ENGLISH Or even bombers, but that's the hard way. <br>If your first inclination was to use bombers, <br>I'd recommend psychiatric help. 
-$HINT_ENGLISH If you're still stuck, I can't really tell <br>you anything else but to go back to the tutorials <br>and study how each task works. <br>They don't get easier than this >_<
-
 #SIZE_X 3200
 #SIZE_Y 400
 #TORUS_X 0

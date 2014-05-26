@@ -1,6 +1,6 @@
 $BUILT 2012-05-05 13:38:01
 $AUTHOR Pieuw
-$GERMAN Erbalunga
+$GERMAN
 $ENGLISH Erbalunga
 
 #SIZE_X 1312

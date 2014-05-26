@@ -1,6 +1,6 @@
 $BUILT 2012-06-07 07:14:22
 $AUTHOR minimac
-$GERMAN Graben Sie den Boden
+$GERMAN
 $ENGLISH Ground Digging
 
 #SIZE_X 928

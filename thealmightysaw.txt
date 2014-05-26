@@ -1,6 +1,6 @@
 $BUILT 2012-06-16 20:36:31
 $AUTHOR minimac
-$GERMAN Das Sageblatt
+$GERMAN
 $ENGLISH The Almighty Sawblade
 
 #SIZE_X 952

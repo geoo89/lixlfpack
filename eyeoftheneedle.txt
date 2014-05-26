@@ -1,6 +1,6 @@
 $BUILT 2012-06-06 10:18:12
 $AUTHOR mobius
-$GERMAN Nadelohr
+$GERMAN
 $ENGLISH Eye of the Needle
 
 #SIZE_X 1200

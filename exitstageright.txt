@@ -1,6 +1,6 @@
 $BUILT 2012-08-13 17:50:40
 $AUTHOR mobius
-$GERMAN Ausfahrt rechts von der Buhne
+$GERMAN
 $ENGLISH Exit, stage right
 
 #SIZE_X 640

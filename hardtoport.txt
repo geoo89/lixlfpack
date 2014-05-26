@@ -1,9 +1,7 @@
 $BUILT 2014-05-23 14:33:05
 $AUTHOR mobius
-$GERMAN I got the hippy-hippy shake
+$GERMAN
 $ENGLISH Hard to Port!
-
-$HINT_ENGLISH this level was taken from BulletRide's third Lemmix pack.
 
 #SIZE_X 640
 #SIZE_Y 400

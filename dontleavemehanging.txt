@@ -1,9 +1,7 @@
 $BUILT 2014-05-25 03:12:22
 $AUTHOR BulletRide
-$GERMAN I got the hippy-hippy shake
+$GERMAN 
 $ENGLISH Don't Leave me Hanging!
-
-$HINT_ENGLISH this level was taken from BulletRide's third Lemmix pack.
 
 #SIZE_X 640
 #SIZE_Y 400

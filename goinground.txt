@@ -1,6 +1,6 @@
 $BUILT 2012-06-06 13:51:59
 $AUTHOR minimac
-$GERMAN Sich im Kreis
+$GERMAN
 $ENGLISH Going round in circles
 
 #SIZE_X 832

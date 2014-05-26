@@ -1,6 +1,6 @@
 $BUILT 2012-06-07 11:00:04
 $AUTHOR minimac
-$GERMAN Himmlischer Himmel
+$GERMAN
 $ENGLISH Heavenly skies
 
 #SIZE_X 1008

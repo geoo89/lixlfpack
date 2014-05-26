@@ -1,6 +1,6 @@
 $BUILT 2013-07-31 01:34:38
 $AUTHOR Akseli
-$GERMAN Spueren Sie den Druck
+$GERMAN
 $ENGLISH Feel the Pressure
 
 #SIZE_X 640

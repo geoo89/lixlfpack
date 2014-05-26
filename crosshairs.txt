@@ -1,6 +1,6 @@
 $BUILT 2012-06-06 06:42:24
 $AUTHOR minimac
-$GERMAN Fadenkreuz
+$GERMAN
 $ENGLISH Cross hairs
 
 #SIZE_X 640

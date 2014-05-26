@@ -1,6 +1,6 @@
 $BUILT 2013-07-21 23:00:56
 $AUTHOR mobius
-$GERMAN furchtbare Symmetrie
+$GERMAN
 $ENGLISH A fearful Symmetry
 
 #SIZE_X 1440

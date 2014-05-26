@@ -1,6 +1,6 @@
 $BUILT 2014-04-26 15:20:58
 $AUTHOR Amanda
-$GERMAN Schädel, Schlamm und Stahl
+$GERMAN
 $ENGLISH Skulls, Sludge, and Steel
 
 #SIZE_X 960

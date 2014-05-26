@@ -1,6 +1,6 @@
 $BUILT 2012-08-17 15:03:35
 $AUTHOR mobius
-$GERMAN Die Lix auf dem Rand!
+$GERMAN
 $ENGLISH A Lix on the Edge!
 
 #SIZE_X 1408

@@ -1,6 +1,6 @@
 $BUILT 2014-05-26 12:47:11
 $AUTHOR mobius/Clam Spammer
-$GERMAN funf fur das Kampfen
+$GERMAN
 $ENGLISH Five for Fighting
 
 #SIZE_X 1440

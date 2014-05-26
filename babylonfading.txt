@@ -1,6 +1,6 @@
 $BUILT 2012-08-18 14:31:20
 $AUTHOR mobius
-$GERMAN Babylon Verblassen
+$GERMAN
 $ENGLISH Babylon Fading
 
 #SIZE_X 688

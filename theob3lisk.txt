@@ -1,6 +1,6 @@
 $BUILT 2014-02-27 09:45:58
 $AUTHOR geoo
-$GERMAN Der Ob3lisk
+$GERMAN
 $ENGLISH The Ob3lisk
 
 #SIZE_X 640

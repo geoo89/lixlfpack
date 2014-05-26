@@ -1,6 +1,6 @@
 $BUILT 2012-05-24 23:44:03
 $AUTHOR mobius
-$GERMAN kritischen Prozeduren
+$GERMAN
 $ENGLISH Critical Procedures
 
 #SIZE_X 640
