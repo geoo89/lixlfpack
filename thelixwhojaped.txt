@@ -1,4 +1,4 @@
-$BUILT 2014-05-25 02:52:42
+$BUILT 2014-05-27 02:28:25
 $AUTHOR mobius
 $GERMAN 
 $ENGLISH The Lix Who Japed
@@ -32,7 +32,7 @@ $ENGLISH The Lix Who Japed
 
 :geoo/sandstone/Hatch.H: 8 0
 
-:geoo/sandstone/Goal.G: 496 80
+:geoo/sandstone/Goal.G: 512 80
 
 :geoo/sandstone/64x32: 8 96
 :geoo/sandstone/64x32: 8 128
@@ -77,7 +77,7 @@ $ENGLISH The Lix Who Japed
 :geoo/steel/16x32o.S: 464 112
 :geoo/steel/16x32o.S: 464 48
 :geoo/steel/16x32o.S: 464 80
-:geoo/sandstone/slopes/64x32lt: 480 48
+:geoo/sandstone/slopes/64x32lt: 496 48
 :geoo/steel/16x32o.S: 624 112
 :geoo/steel/16x32o.S: 624 48
 :geoo/steel/16x32o.S: 624 80
@@ -99,3 +99,7 @@ $ENGLISH The Lix Who Japed
 :geoo/sandstone/32x64: 288 128 d
 :geoo/sandstone/16x32: 272 192 d
 :geoo/sandstone/16x32: 272 160 d
+:geoo/steel/16x32o.S: 480 96
+:geoo/steel/16x32o.S: 480 64
+:geoo/steel/16x16o.S: 480 48
+:geoo/steel/16x16o.S: 480 128

@@ -1,6 +1,6 @@
-$BUILT 2014-05-23 14:33:05
+$BUILT 2014-05-27 02:33:15
 $AUTHOR mobius
-$GERMAN
+$GERMAN 
 $ENGLISH Hard to Port!
 
 #SIZE_X 640
@@ -104,4 +104,5 @@ $ENGLISH Hard to Port!
 :geoo/steel/64x64o.S: 248 176
 :geoo/steel/32x32o.S: 192 80
 :geoo/steel/32x16o.S: 480 224
+:geoo/steel/16x16o.S: 464 224
 :geoo/steel/16x16o.S: 448 80
