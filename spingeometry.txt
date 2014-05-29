@@ -1,7 +1,7 @@
-$BUILT 2014-05-27 23:04:25
-$AUTHOR Michael
+$BUILT 2014-05-28 00:23:09
+$AUTHOR Michael/geoo
 $GERMAN 
-$ENGLISH Changing of the Guards
+$ENGLISH Spin Geometry
 
 #SIZE_X 1376
 #SIZE_Y 400
@@ -15,15 +15,15 @@ $ENGLISH Changing of the Guards
 
 #SECONDS 60
 #INITIAL 10
-#REQUIRED 5
+#REQUIRED 8
 #SPAWN_INTERVAL 32
 #SPAWN_INTERVAL_FAST 4
 
+#NOTHING 0
 #CLIMBER 1
 #FLOATER 1
 #EXPLODER 1
 #BLOCKER 1
-#BUILDER 1
 #DIGGER 1
 #NOTHING 0
 #NOTHING 0
@@ -54,6 +54,7 @@ $ENGLISH Changing of the Guards
 :matt/marble/21c: 528 112
 :matt/marble/21c: 592 144
 :matt/marble/21c: 592 112
+:matt/marble/20: 680 144
 :matt/marble/21c: 656 144
 :matt/marble/21c: 656 112
 :matt/marble/21c: 464 368
@@ -110,7 +111,6 @@ $ENGLISH Changing of the Guards
 :matt/marble/04e_2: 992 368 rrr
 :matt/marble/21: 976 384
 :matt/marble/04e_2: 928 368 rrr
-:matt/marble/21: 912 384
 :matt/marble/04e_1: 912 208
 :matt/marble/21: 912 192 rrr
 :matt/marble/04e_1: 912 272
@@ -198,7 +198,6 @@ $ENGLISH Changing of the Guards
 :matt/marble/21: 304 256 rrr
 :matt/marble/04e_1: 304 336
 :matt/marble/21: 304 320 rrr
-:matt/marble/21: 400 384
 :matt/marble/04e_1: 352 128
 :matt/marble/04e_1: 368 144
 :matt/marble/04e_1: 384 160
@@ -257,7 +256,6 @@ $ENGLISH Changing of the Guards
 :geoo/steel/dark_64x64o.S: 240 336
 :geoo/steel/dark_64x64o.S: 1072 336
 :matt/marble/20: 680 128
-:matt/winter/09b: 672 176
 :matt/marble/20a: 1216 336
 :matt/marble/21a: 1192 320
 :matt/marble/20a: 1256 336
@@ -333,3 +331,8 @@ $ENGLISH Changing of the Guards
 :matt/winter/07: 808 8 f
 :matt/winter/07: 832 -8 f
 :matt/winter/16: 776 -64 frrr
+:matt/marble/21: 912 384 rrr
+:matt/marble/21: 912 384
+:matt/marble/21: 448 384 rrr
+:matt/marble/21: 400 384
+:matt/winter/09b: 672 184

@@ -1,4 +1,4 @@
-$BUILT 2012-08-18 14:32:40
+$BUILT 2014-05-29 01:10:43
 $AUTHOR mobius
 $GERMAN 
 $ENGLISH Play Ball!
@@ -73,3 +73,4 @@ $ENGLISH Play Ball!
 :geoo/construction/wall/small_brick3: 344 -8 r
 :geoo/construction/wall/small_brick3: 344 24 r
 :geoo/construction/wall/small_brickdiag_bu: 344 56 r
+:geoo/construction/wall/big_square: 600 224
