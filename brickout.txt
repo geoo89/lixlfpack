@@ -1,7 +1,7 @@
-$BUILT 2014-05-23 19:15:53
+$BUILT 2014-05-29 14:07:24
 $AUTHOR ccx
 $GERMAN 
-$ENGLISH Brickout (B9)
+$ENGLISH Brickout
 
 #SIZE_X 1200
 #SIZE_Y 400
@@ -15,18 +15,18 @@ $ENGLISH Brickout (B9)
 
 #SECONDS 0
 #INITIAL 50
-#REQUIRED 47
+#REQUIRED 48
 #SPAWN_INTERVAL 8
 #SPAWN_INTERVAL_FAST 4
 
-#CLIMBER 3
-#JUMPER 4
+#CLIMBER 2
+#JUMPER 2
 #EXPLODER 1
-#CUBER 2
+#CUBER 1
 #PLATFORMER 10
 #BASHER 1
 #MINER 1
-#DIGGER 1
+#WALKER 1
 #NOTHING 0
 #NOTHING 0
 #NOTHING 0
@@ -228,9 +228,3 @@ $ENGLISH Brickout (B9)
 :matt/bricks/13b: 1120 384 d
 :matt/bricks/13b: 112 384 d
 :matt/bricks/15b: 16 384 d
-:geoo/steel/32x16o.S: 240 256
-:geoo/steel/16x16o.S: 272 256
-:geoo/steel/32x16o.S: 288 256
-:geoo/steel/32x16o.S: 880 256
-:geoo/steel/32x16o.S: 928 256
-:geoo/steel/16x16o.S: 912 256

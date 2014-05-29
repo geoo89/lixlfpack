@@ -1,4 +1,4 @@
-$BUILT 2014-05-29 02:25:48
+$BUILT 2014-05-29 15:30:18
 $AUTHOR mobius
 $GERMAN 
 $ENGLISH Another Funeral
@@ -45,6 +45,7 @@ $ENGLISH Another Funeral
 :simon/crystal.W: 240 352
 :simon/crystal.W: 528 274
 :simon/crystal.W: 480 274
+:geoo/sandstone/torch.F: 188 160
 
 :matt/winter/10: 488 336
 :matt/winter/06: 420 304
@@ -80,7 +81,6 @@ $ENGLISH Another Funeral
 :geoo/steel/16x32o.S: 368 112
 :matt/winter/03: 232 96
 :matt/winter/15: 296 112
-:matt/winter/07: 206 112 rr
 :matt/winter/15: 200 112
 :matt/winter/15: 232 96
 :matt/winter/06: 420 64
@@ -111,8 +111,6 @@ $ENGLISH Another Funeral
 :geoo/steel/16x32o.S: 368 176
 :matt/winter/01: -40 280
 :matt/winter/13: 168 176 d
-:matt/winter/07: 190 118 rr
-:matt/winter/07: 216 96 rr
 :matt/winter/15: 160 96
 :geoo/steel/32x16o.S: 208 224
 :geoo/construction/wall/small_square: 352 140 d
