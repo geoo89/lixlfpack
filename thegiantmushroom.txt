@@ -1,6 +1,6 @@
-$BUILT 2012-06-05 06:11:19
+$BUILT 2014-05-31 01:26:21
 $AUTHOR minimac
-$GERMAN
+$GERMAN 
 $ENGLISH The Giant Mushroom
 
 #SIZE_X 1104
@@ -31,10 +31,10 @@ $ENGLISH The Giant Mushroom
 #NOTHING 0
 
 :matt/beach/Hatch.H: 304 334
-:matt/beach/Hatch.H: 740 134
+:matt/beach/Hatch.H: 740 102
 
-:matt/beach/goal.G: 154 262
-:matt/beach/goal.G: -2 56
+:matt/beach/goal.G: 154 324
+:matt/beach/goal.G: 12 118
 
 :matt/water.W: 624 368
 :matt/water.W: 656 368

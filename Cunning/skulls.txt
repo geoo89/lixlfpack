@@ -1,6 +1,6 @@
-$BUILT 2014-04-26 15:20:58
+$BUILT 2014-05-30 19:44:18
 $AUTHOR Amanda
-$GERMAN
+$GERMAN 
 $ENGLISH Skulls, Sludge, and Steel
 
 #SIZE_X 960
@@ -156,6 +156,7 @@ $ENGLISH Skulls, Sludge, and Steel
 :amanda/occult/occult_wax64x48: 192 -16
 :amanda/occult/occult_wax32x48: 0 0
 :amanda/occult/occult_wax32x48: 80 -48
+:amanda/occult/occult_wax_details_drip_b: 313 77
 :amanda/occult/occult_wax64x64: 288 16
 :amanda/occult/occult_wax64x64: 256 -32
 :amanda/occult/occult_wax32x48: -16 -48

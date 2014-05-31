@@ -1,7 +1,7 @@
-$BUILT 2014-05-27 00:24:59
+$BUILT 2014-05-30 23:17:35
 $AUTHOR geoo
 $GERMAN 
-$ENGLISH Stroke at Retirement Age
+$ENGLISH The News Struck at Ten
 
 #SIZE_X 1152
 #SIZE_Y 736
