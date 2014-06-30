@@ -1,7 +1,7 @@
-$BUILT 2013-05-09 19:24:48
-$AUTHOR Steve/geoo
+$BUILT 2014-06-26 14:52:52
+$AUTHOR I.S./geoo
 $GERMAN 
-$ENGLISH Empty Space is hardly a Waste
+$ENGLISH Empty Space is Hardly a Waste
 
 #SIZE_X 640
 #SIZE_Y 400

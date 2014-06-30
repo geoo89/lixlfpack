@@ -1,5 +1,5 @@
 $BUILT 2012-06-22 13:42:52
-$AUTHOR Namida
+$AUTHOR namida
 $GERMAN 
 $ENGLISH Hellfire
 

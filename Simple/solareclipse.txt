@@ -1,4 +1,4 @@
-$BUILT 2013-07-24 00:59:08
+$BUILT 2014-06-22 20:12:24
 $AUTHOR geoo
 $GERMAN 
 $ENGLISH Solar Eclipse
@@ -143,3 +143,4 @@ $ENGLISH Solar Eclipse
 :geoo/steel/dark_32x32o.S: 512 160
 :geoo/sandstone/slopes/32x32lb: 592 352
 :geoo/steel/dark_32x32o.S: 640 288
+:geoo/steel/dark_32x16o.S: 128 368

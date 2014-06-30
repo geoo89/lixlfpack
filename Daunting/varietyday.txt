@@ -1,5 +1,5 @@
 $BUILT 2012-06-22 02:13:53
-$AUTHOR Namida
+$AUTHOR namida
 $GERMAN 
 $ENGLISH Variety Day
 

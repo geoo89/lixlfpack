@@ -1,7 +1,7 @@
 $BUILT 2014-05-20 21:01:00
 $AUTHOR tseug
 $GERMAN 
-$ENGLISH Stuff In The Way
+$ENGLISH Stuff in the Way
 
 #SIZE_X 1036
 #SIZE_Y 400

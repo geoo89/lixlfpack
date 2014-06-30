@@ -1,7 +1,7 @@
 $BUILT                                             2012-03-17 11:17:50
 $AUTHOR                                                   Insane Steve
 $GERMAN                                                               
-$ENGLISH                                      Wait why is there a tree
+$ENGLISH                                      Wait Why is There a Tree
 
 #SIZE_X                                                            640
 #SIZE_Y                                                            400

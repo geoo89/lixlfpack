@@ -10,7 +10,7 @@ miceinthepipe.txt
 ittakestime.txt
 labyrinth.txt
 leapoffaith.txt
-lixology.txt
+breackout.txt
 skulls.txt
 elixir.txt
 babylonfading.txt
@@ -23,7 +23,6 @@ everywhichway.txt
 someliketorun.txt
 watchyestep.txt
 comeondown.txt
-bibbidi-bobbidi-boo.txt
 erbalunga.txt
 vignette.txt
 compressionmethod2.txt
@@ -37,7 +36,6 @@ wellokthen.txt
 jacobsladder.txt
 afearfulsym.txt
 danceswithlixes.txt
-alixontheedge.txt
 anotherfuneral.txt
 soaring.txt
 drstrangelix.txt

@@ -1,7 +1,7 @@
 $BUILT                                             2012-02-23 01:02:24
 $AUTHOR                                                     Nortaneous
 $GERMAN                                                               
-$ENGLISH                                             This Is A Stickup
+$ENGLISH                                             This is a Stickup
 
 #SIZE_X                                                           1280
 #SIZE_Y                                                            400

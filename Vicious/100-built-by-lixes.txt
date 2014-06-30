@@ -1,7 +1,7 @@
 $BUILT                                             2012-02-13 02:20:27
 $AUTHOR                                                            ccx
 $GERMAN                                                               
-$ENGLISH                                           100% built by Lixes
+$ENGLISH                                           100% Built by Lixes
 
 #SIZE_X                                                            640
 #SIZE_Y                                                            400

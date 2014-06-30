@@ -1,5 +1,5 @@
 $BUILT 2013-07-26 12:01:41
-$AUTHOR IS / Michael
+$AUTHOR I.S./Michael
 $GERMAN 
 $ENGLISH The Road Goes Ever On
 

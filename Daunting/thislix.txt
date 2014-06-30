@@ -1,7 +1,7 @@
 $BUILT 2012-05-18 16:14:21
 $AUTHOR Michael
 $GERMAN 
-$ENGLISH This lix is your lix
+$ENGLISH This Lix is Your Lix
 
 #SIZE_X 1600
 #SIZE_Y 400

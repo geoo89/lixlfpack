@@ -1,5 +1,5 @@
 $BUILT                                             2012-03-18 15:39:45
-$AUTHOR                                                        mobius/Nort
+$AUTHOR                                                   mobius/Nort.
 $GERMAN                                                               
 $ENGLISH                                                Slipping Again
 

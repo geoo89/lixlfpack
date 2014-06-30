@@ -1,5 +1,5 @@
 $BUILT                                             2012-04-09 19:38:03
-$AUTHOR                                                   IS / Michael
+$AUTHOR                                                   I.S./Michael
 $GERMAN                                                               
 $ENGLISH                                             Lixster Quadrille
 

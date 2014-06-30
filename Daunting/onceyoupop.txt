@@ -1,7 +1,7 @@
 $BUILT                                             2012-02-19 18:59:15
 $AUTHOR                                                        Michael
 $GERMAN                                                               
-$ENGLISH                                 Once you pop, you can't stop!
+$ENGLISH                                 Once You Pop, You Can't Stop!
 
 #SIZE_X                                                           1024
 #SIZE_Y                                                            400

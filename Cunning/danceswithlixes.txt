@@ -1,28 +1,28 @@
-$BUILT 2014-05-28 02:30:32
-$AUTHOR mobius
+$BUILT 2014-06-28 23:28:40
+$AUTHOR mobius/geoo
 $GERMAN 
 $ENGLISH Dances With Lixes
 
-#SIZE_X 960
+#SIZE_X 880
 #SIZE_Y 400
 #TORUS_X 0
 #TORUS_Y 0
-#START_X 320
-#START_Y 380
+#START_X 240
+#START_Y 0
 #BACKGROUND_RED 0
 #BACKGROUND_GREEN 0
 #BACKGROUND_BLUE 0
 
 #SECONDS 0
 #INITIAL 50
-#REQUIRED 46
+#REQUIRED 47
 #SPAWN_INTERVAL 20
 #SPAWN_INTERVAL_FAST 4
 
 #CLIMBER 4
-#FLOATER 2
+#FLOATER 1
 #EXPLODER 3
-#BLOCKER 2
+#BLOCKER 0
 #BUILDER 11
 #BASHER 0
 #MINER 1
@@ -36,24 +36,28 @@ $ENGLISH Dances With Lixes
 
 :matt/marble/Goal.G: 560 144
 
-:geoo/construction/sawblade_small.F: 800 248
+:geoo/construction/sawblade.F: 238 -2
+:geoo/construction/sawblade_medium.F: 784 224
+:geoo/construction/sawblade_medium.F: 336 128
+:geoo/construction/sawblade_medium.F: 336 80
 
 :matt/marble/09b: 448 336
 :matt/marble/09b: 384 336
-:matt/marble/22c: 160 -8
-:matt/marble/23d: 136 80
+:matt/marble/22c: 128 -8
 :matt/marble/23d: 104 80
-:matt/marble/23d: 136 48
+:matt/marble/23d: 72 80
 :matt/marble/23d: 104 48
-:matt/marble/22: 352 8
+:matt/marble/23d: 72 48
+:matt/marble/22: 274 8 rrr
+:matt/marble/21b: 256 0
+:matt/marble/21b: 272 0
 :matt/beach/daytime/06: 488 -48 rr
 :matt/marble/22c: 784 32
 :matt/beach/daytime/00: 800 -16
 :geoo/steel/64x32o.S: 784 368
-:matt/marble/06b: 848 336
-:matt/marble/06b: 848 272
-:matt/marble/06b: 848 208
-:matt/marble/06b: 848 144
+:matt/marble/06b: 848 352
+:matt/marble/06b: 848 288
+:matt/marble/06b: 848 160
 :matt/marble/23e: 576 288
 :matt/marble/23e: 576 320
 :matt/marble/23e: 576 352
@@ -94,23 +98,18 @@ $ENGLISH Dances With Lixes
 :matt/marble/16: 768 32
 :matt/marble/16: 800 64
 :matt/marble/05: 768 64
-:matt/marble/06b: 848 80
-:matt/marble/06b: 848 16
-:matt/marble/06b: 848 -48
+:matt/marble/06b: 848 96
+:matt/marble/06b: 848 32
+:matt/marble/06b: 848 -32
 :matt/marble/21b: 464 0
 :matt/marble/21b: 528 0
+:matt/marble/22: 370 8
 :matt/marble/21b: 336 0
 :matt/marble/21b: 400 0
 :matt/marble/21b: 720 0
 :matt/marble/21b: 784 0
 :matt/marble/21b: 592 0
 :matt/marble/21b: 656 0
-:geoo/steel/64x64o.S: 880 0
-:geoo/steel/64x64o.S: 880 64
-:geoo/steel/64x64o.S: 880 128
-:geoo/steel/64x64o.S: 880 192
-:geoo/steel/64x64o.S: 880 256
-:geoo/steel/64x64o.S: 880 336
 :geoo/steel/32x64o.S: 752 224
 :geoo/steel/32x64o.S: 752 262 d
 :matt/marble/23e: 736 320
@@ -122,29 +121,25 @@ $ENGLISH Dances With Lixes
 :geoo/steel/64x32o.S: 560 192
 :geoo/steel/64x32o.S: 624 192
 :geoo/steel/64x32o.S: 688 192
-:matt/beach/daytime/14: 296 -24 rr
 :matt/marble/09b: 256 336
 :geoo/nopales/nopal_01: 48 312
 :matt/beach/daytime/13: -24 336
 :matt/marble/03: 472 16
 :matt/marble/02e: 496 16
-:matt/marble/02e: 416 16
+:matt/marble/02e: 432 16
 :geoo/steel/64x32o.S: 752 192
 :matt/beach/daytime/14: 40 344
-:matt/beach/daytime/06: 112 -72 rr
-:matt/beach/daytime/14: 232 -56 rr
+:matt/marble/09b: 192 16
+:matt/beach/daytime/06: 80 -72 rr
 :matt/marble/09b: 320 336
 :matt/marble/09b: 192 336
 :matt/marble/09b: 192 272
-:matt/marble/22c: 48 0 rrr
-:matt/beach/daytime/14: 264 -32 rr
-:matt/marble/18a: 72 80
-:matt/marble/18a: 136 16
-:matt/marble/18a: 136 80 rrr
-:matt/marble/18a: 72 16 rrr
-:matt/beach/daytime/03: 32 -24 rr
-:geoo/steel/32x16o.S: 880 320
-:geoo/steel/32x16o.S: 912 320
+:matt/marble/22c: 16 0 rrr
+:matt/marble/18a: 40 80
+:matt/marble/18a: 104 16
+:matt/marble/18a: 104 80 rrr
+:matt/marble/18a: 40 16 rrr
+:matt/beach/daytime/03: 0 -24 rr
 :matt/marble/03: 496 32
 :geoo/steel/64x64o.S: 576 336
 :geoo/steel/dark_32x48o.S: 560 288
@@ -186,3 +181,8 @@ $ENGLISH Dances With Lixes
 :geoo/nopales/fruit_02: 46 244
 :geoo/nopales/fruit_06: 56 244
 :geoo/nopales/nopal_08: 74 258
+:matt/marble/09b: 192 208
+:matt/marble/09b: 192 144
+:matt/marble/09b: 192 80
+:matt/beach/daytime/14: 302 -26 rr
+:geoo/steel/32x64o.S: 848 224

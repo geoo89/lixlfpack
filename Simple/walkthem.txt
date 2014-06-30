@@ -1,7 +1,7 @@
 $BUILT                                             2012-02-19 20:42:41
 $AUTHOR                                                        Michael
 $GERMAN                                                               
-$ENGLISH                                       Walk them golden stairs
+$ENGLISH                                       Walk Them Golden Stairs
 
 #SIZE_X                                                           1024
 #SIZE_Y                                                            400

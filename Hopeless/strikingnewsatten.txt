@@ -1,7 +1,7 @@
-$BUILT 2014-05-30 23:17:35
+$BUILT 2014-06-03 21:20:22
 $AUTHOR geoo
 $GERMAN 
-$ENGLISH The News Struck at Ten
+$ENGLISH Striking News at Ten
 
 #SIZE_X 1152
 #SIZE_Y 736
@@ -81,8 +81,6 @@ $ENGLISH The News Struck at Ten
 :geoo/construction/squarebrick_large: 144 712 d
 :geoo/construction/squarebrick_large: 144 704 n
 :matt/beach/daytime/05: 754 74 r
-:geoo/nopales/nopal_10: 372 222
-:matt/beach/daytime/00: 413 233 frd
 :matt/beach/daytime/05: 256 712 rrr
 :geoo/nopales/nopal_07: 416 682
 :geoo/nopales/nopal_08: 482 648
@@ -108,20 +106,13 @@ $ENGLISH The News Struck at Ten
 :matt/beach/daytime/05: 626 113 rrr
 :matt/beach/daytime/05: 574 139 rrr
 :matt/beach/daytime/05: 833 74 r
-:geoo/nopales/nopal_09: 338 198 frr
-:geoo/nopales/nopal_07: 302 198 rrr
-:geoo/nopales/nopal_10: 316 160 fr
-:geoo/nopales/fruit_01: 300 201
-:geoo/nopales/fruit_00: 296 206
-:geoo/nopales/fruit_05: 300 219 fr
-:geoo/nopales/fruit_03: 297 214 fr
+:matt/beach/daytime/00: 413 233 frd
 :matt/beach/daytime/00: 455 297 rrd
 :matt/beach/daytime/15: 462 290 rd
-:matt/beach/daytime/03: 297 261 frr
-:geoo/nopales/nopal_04: 409 242
 :geoo/nopales/nopal_09: 432 220
 :matt/beach/daytime/15: 438 304 rd
-:geoo/nopales/nopal_12: 346 226 f
+:matt/beach/daytime/00: 414 259 fr
+:geoo/nopales/nopal_04: 409 242
 :geoo/nopales/nopal_06: 282 162 fr
 :geoo/nopales/nopal_11: 260 168 frr
 :geoo/nopales/nopal_08: 276 140
@@ -169,3 +160,16 @@ $ENGLISH The News Struck at Ten
 :matt/beach/daytime/06: 872 296
 :matt/beach/daytime/00: 704 274 d
 :matt/beach/daytime/06: 1076 370 rrr
+:geoo/nopales/fruit_06: 283 137
+:geoo/nopales/nopal_10: 372 222
+:geoo/nopales/nopal_12: 346 226 f
+:geoo/nopales/nopal_09: 338 198 frr
+:geoo/nopales/nopal_07: 302 198 rrr
+:geoo/nopales/fruit_03: 297 214 fr
+:geoo/nopales/fruit_05: 300 219 fr
+:geoo/nopales/fruit_01: 300 201
+:geoo/nopales/fruit_00: 296 206
+:geoo/nopales/nopal_10: 316 160 fr
+:matt/beach/daytime/00: 363 273 frd
+:matt/beach/daytime/03: 264 272
+:matt/beach/daytime/00: 383 329 frd

@@ -1,4 +1,4 @@
-$BUILT 2012-05-20 01:05:52
+$BUILT 2014-06-02 00:24:04
 $AUTHOR Michael
 $GERMAN 
 $ENGLISH Buridan's Lix
@@ -45,14 +45,14 @@ $ENGLISH Buridan's Lix
 :simon/water.W: 1136 352
 :simon/water.W: 1088 352
 :simon/water.W: 1184 352
-:proxima/flame.F: 248 160
+:proxima/flame.F: 248 156
 
-:geoo/abstract/pipes/central0: 432 208
-:geoo/abstract/pipes/central0: 464 208
-:geoo/abstract/pipes/central0: 496 208
-:geoo/abstract/pipes/central0: 368 208
-:geoo/abstract/pipes/central0: 400 208
-:geoo/abstract/pipes/central0: 336 208
+:geoo/abstract/pipes/central0: 432 204
+:geoo/abstract/pipes/central0: 464 204
+:geoo/abstract/pipes/central0: 496 204
+:geoo/abstract/pipes/central0: 368 204
+:geoo/abstract/pipes/central0: 400 204
+:geoo/abstract/pipes/central0: 336 204
 :matt/marble/23e: 272 336
 :matt/marble/23e: 272 368
 :matt/marble/23e: 304 336
@@ -177,9 +177,9 @@ $ENGLISH Buridan's Lix
 :matt/marble/23e: 208 336
 :matt/earth/04: 144 320 frr
 :matt/earth/10: -32 320 frr
-:geoo/abstract/pipes/central0: 304 208
-:geoo/abstract/pipes/central0: 272 208
-:geoo/steel/dark_32x32o.S: 252 208
+:geoo/abstract/pipes/central0: 304 204
+:geoo/abstract/pipes/central0: 272 204
+:geoo/steel/dark_32x32o.S: 252 204
 :matt/marble/20a: 96 128
 :matt/marble/21d: 64 168
 :matt/marble/20d: 48 160

@@ -1,7 +1,7 @@
 $BUILT 2014-04-03 23:51:12
 $AUTHOR Michael
 $GERMAN 
-$ENGLISH Put your lix on ice
+$ENGLISH Put Your Lix on Ice
 
 #SIZE_X 1280
 #SIZE_Y 400

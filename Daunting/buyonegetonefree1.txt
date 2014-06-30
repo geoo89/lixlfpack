@@ -1,7 +1,7 @@
 $BUILT                                             2012-02-21 14:45:29
 $AUTHOR                                                           geoo
 $GERMAN                                                               
-$ENGLISH                                 Buy one get one free (Part 1)
+$ENGLISH                                 Buy One Get One Free (Part 1)
 
 #SIZE_X                                                            640
 #SIZE_Y                                                            400

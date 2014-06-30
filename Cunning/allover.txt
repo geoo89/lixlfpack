@@ -1,6 +1,6 @@
-$BUILT 2012-06-05 13:15:32
+$BUILT 2014-06-29 02:17:56
 $AUTHOR minimac
-$GERMAN
+$GERMAN 
 $ENGLISH All over the place
 
 #SIZE_X 1424
@@ -9,9 +9,9 @@ $ENGLISH All over the place
 #TORUS_Y 0
 #START_X 304
 #START_Y 0
-#BACKGROUND_RED 160
-#BACKGROUND_GREEN 192
-#BACKGROUND_BLUE 255
+#BACKGROUND_RED 16
+#BACKGROUND_GREEN 48
+#BACKGROUND_BLUE 111
 
 #SECONDS 240
 #INITIAL 80
@@ -98,12 +98,12 @@ $ENGLISH All over the place
 :geoo/steel/16x16o.S: 1344 384
 :matt/earth/11: 1050 240
 :matt/earth/12: 1100 244
-:geoo/steel/64x32o.S: 1056 224
 :matt/earth/13: 1128 238
 :matt/earth/14: 1176 332
 :geoo/steel/32x16o.S: 1216 384
 :geoo/steel/32x32o.S: 1216 352
 :matt/earth/15: 982 250
+:geoo/steel/64x32o.S: 1056 224
 :geoo/steel/64x32o.S: 992 224
 :matt/earth/11: 1148 238
 :matt/earth/11: 1180 242
@@ -174,5 +174,5 @@ $ENGLISH All over the place
 :matt/beach/daytime/03: 646 254 rrrd
 :matt/beach/daytime/03: 656 348 rrrd
 :geoo/steel/32x64o.S: 652 362 d
-:matt/marble/13d: 1392 78
-:matt/marble/13d: 1392 62 r
+:matt/marble/10d: 1392 64
+:matt/marble/13d: 1392 80

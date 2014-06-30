@@ -1,6 +1,6 @@
 $BUILT                                             2012-03-04 20:08:15
-$AUTHOR                                               Martin Zurlinden
-$GERMAN                                                Pfad zu Mahimah
+$AUTHOR                                               M. Zurlinden
+$GERMAN
 $ENGLISH                                               Path to Mahimah
 
 #SIZE_X                                                            640

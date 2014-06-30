@@ -1,7 +1,7 @@
 $BUILT 2014-05-29 01:57:35
 $AUTHOR mobius
 $GERMAN 
-$ENGLISH Over my Head
+$ENGLISH Over My Head
 
 #SIZE_X 640
 #SIZE_Y 400

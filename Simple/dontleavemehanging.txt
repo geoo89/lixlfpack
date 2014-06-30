@@ -1,7 +1,7 @@
 $BUILT 2014-05-25 03:12:22
 $AUTHOR BulletRide
 $GERMAN 
-$ENGLISH Don't Leave me Hanging!
+$ENGLISH Don't Leave Me Hanging!
 
 #SIZE_X 640
 #SIZE_Y 400

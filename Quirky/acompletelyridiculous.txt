@@ -1,7 +1,7 @@
 $BUILT                                             2012-02-27 16:38:00
 $AUTHOR                                                     Nortaneous
 $GERMAN                                                               
-$ENGLISH                                 A completely ridiculous level
+$ENGLISH                                 A Completely Ridiculous Level
 
 #SIZE_X                                                            696
 #SIZE_Y                                                            640

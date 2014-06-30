@@ -1,4 +1,4 @@
-$BUILT 2014-05-30 19:44:18
+$BUILT 2014-06-29 04:11:38
 $AUTHOR Amanda
 $GERMAN 
 $ENGLISH Skulls, Sludge, and Steel
@@ -14,14 +14,14 @@ $ENGLISH Skulls, Sludge, and Steel
 #SECONDS 0
 #INITIAL 20
 #REQUIRED 15
-#SPAWN_INTERVAL 96
-#SPAWN_INTERVAL_FAST 96
+#SPAWN_INTERVAL 80
+#SPAWN_INTERVAL_FAST 80
 
-#CLIMBER 4
-#FLOATER 4
+#FLOATER 1
+#CUBER 2
+#CLIMBER 3
 #BUILDER 4
 #MINER 4
-#CUBER 4
 #BURNER -1
 #NOTHING 0
 #NOTHING 0
@@ -30,7 +30,7 @@ $ENGLISH Skulls, Sludge, and Steel
 #NOTHING 0
 #NOTHING 0
 
-:amanda/occult/hatch_tentacle.H: 77 125
+:amanda/occult/hatch_tentacle.H: 47 62
 
 :amanda/occult/occult_goal_skull.G: 805 212
 
@@ -138,7 +138,7 @@ $ENGLISH Skulls, Sludge, and Steel
 :amanda/occult/occult_wax_details_drip: 817 337
 :amanda/occult/occult_wax32x48_cap_right_sheer: 896 288
 :amanda/occult/occult_wax32x16_cap_right: 800 272
-:amanda/occult/occult_wax_details_sunken_cube: 796 254
+:amanda/occult/occult_wax_details_sunken_cube: 780 254
 :amanda/occult/occult_wax16x16: 64 320
 :amanda/occult/occult_wax32x16_cap_left: 32 384
 :amanda/occult/occult_wax32x16_cap_left: 32 368
@@ -227,24 +227,24 @@ $ENGLISH Skulls, Sludge, and Steel
 :amanda/occult/occult_wax32x48_cap_right_soft: 592 128
 :amanda/occult/occult_wax32x16_cap_left: 704 32
 :amanda/occult/occult_wax64x48: 672 -16
-:amanda/steel/steel32x32.S: 624 336
-:amanda/steel/steel32x32.S: 640 368
-:amanda/steel/steel32x32.S: 608 368
-:amanda/occult/occult_wax_details_drip: 624 368
+:amanda/steel/steel32x32.S: 614 346
+:amanda/steel/steel32x32.S: 630 378
+:amanda/steel/steel32x32.S: 598 378
+:amanda/occult/occult_wax_details_drip: 614 378
 :amanda/occult/occult_wax_details_drip_b: 630 41
 :amanda/occult/occult_wax_details_drip: 29 53
-:amanda/occult/overlays/occult_steel_overlay32x32_d.S: 624 336
+:amanda/occult/overlays/occult_steel_overlay32x32_d.S: 614 346
 :amanda/occult/occult_wax_details_drip: 241 81
 :amanda/occult/occult_overlay32x32_d: 153 97
 :amanda/occult/occult_wax_details_drip: 154 128
 :amanda/occult/occult_wax_details_drip_b: 224 143
 :amanda/occult/occult_wax32x16: 768 272
-:amanda/steel/steel32x32.S: 656 336
-:amanda/steel/steel32x32.S: 672 368
-:amanda/steel/steel32x32.S: 688 336
-:amanda/steel/steel32x32.S: 704 368
-:amanda/occult/occult_skulls32x32: 582 362 rrr
-:amanda/occult/overlays/occult_steel_overlay32x32_c.S: 704 368
+:amanda/steel/steel32x32.S: 646 346
+:amanda/steel/steel32x32.S: 662 378
+:amanda/steel/steel32x32.S: 678 346
+:amanda/steel/steel32x32.S: 694 378
+:amanda/occult/occult_skulls32x32: 576 362 rrr
+:amanda/occult/overlays/occult_steel_overlay32x32_c.S: 694 378
 :amanda/occult/occult_wax32x48_cap_right_sheer: 704 224
 :amanda/occult/occult_wax64x64: 736 -16
 :amanda/occult/occult_wax32x16_cap_right: 800 32
@@ -262,7 +262,6 @@ $ENGLISH Skulls, Sludge, and Steel
 :amanda/occult/occult_wax_details_drip: 881 147
 :amanda/occult/occult_wax_details_drip: 923 145
 :amanda/occult/occult_wax_details_drip_b: 910 149
-:amanda/occult/occult_wax_details_sunken_cube: 74 256
 :amanda/steel/steel_flange_right24x16.S: 304 128
 :amanda/steel/steel8x16.S: 336 128
 :amanda/steel/steel16x16.S: 304 272
@@ -273,3 +272,4 @@ $ENGLISH Skulls, Sludge, and Steel
 :amanda/occult/occult_wax_details_drip: 566 235
 :amanda/steel/steel24x16.S: 304 208 fr
 :amanda/steel/steel8x16.S: 304 232 fr
+:amanda/occult/occult_wax_details_sunken_cube: 72 256

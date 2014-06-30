@@ -1,7 +1,7 @@
 $BUILT 2012-05-24 23:27:55
 $AUTHOR Michael
 $GERMAN 
-$ENGLISH You only get one bash at it!
+$ENGLISH You Only Get One Bash at It!
 
 #SIZE_X 640
 #SIZE_Y 400

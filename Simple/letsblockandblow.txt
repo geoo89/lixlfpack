@@ -1,7 +1,7 @@
 $BUILT 2013-05-09 19:40:20
 $AUTHOR geoo
 $GERMAN 
-$ENGLISH Let's block and blow?
+$ENGLISH Let's Block and Blow?
 
 #SIZE_X 640
 #SIZE_Y 400

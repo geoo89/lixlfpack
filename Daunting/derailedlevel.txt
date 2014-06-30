@@ -1,5 +1,5 @@
 $BUILT 2014-05-20 21:14:40
-$AUTHOR Insane Steve/geoo
+$AUTHOR I.S./geoo
 $GERMAN 
 $ENGLISH Derailed Level
 

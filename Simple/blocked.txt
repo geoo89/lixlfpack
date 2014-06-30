@@ -1,7 +1,7 @@
 $BUILT 2012-06-04 18:23:59
 $AUTHOR minimac
 $GERMAN
-$ENGLISH Blocked by a snowball
+$ENGLISH Blocked by a Snowball
 
 #SIZE_X 640
 #SIZE_Y 400

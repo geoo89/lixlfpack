@@ -1,7 +1,7 @@
 $BUILT                                             2012-02-05 00:33:11
 $AUTHOR                                                   I.S./Michael
 $GERMAN                                                               
-$ENGLISH                                  Let's all go down the Strand
+$ENGLISH                                  Let's All Go Down the Strand
 
 #SIZE_X                                                            768
 #SIZE_Y                                                            400

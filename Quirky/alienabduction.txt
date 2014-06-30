@@ -1,4 +1,4 @@
-$BUILT 2014-05-15 19:50:24
+$BUILT 2014-06-28 21:19:40
 $AUTHOR geoo
 $GERMAN 
 $ENGLISH Alien Abduction
@@ -32,7 +32,7 @@ $ENGLISH Alien Abduction
 #NOTHING 0
 #NOTHING 0
 
-:matt/earth/Hatch.H: 520 208 r
+:matt/earth/Hatch.H: 526 208 r
 
 :geoo/abstract/goal.G: 112 144
 :geoo/abstract/goal.G: 240 144
@@ -80,19 +80,22 @@ $ENGLISH Alien Abduction
 :geoo/abstract/tbeam_up.T: 176 112
 
 :matt/earth/18: 290 360
+:matt/earth/18: 389 277 rrr
+:matt/earth/18: 387 257 rrr
+:matt/earth/18: 385 245 rrr
+:matt/earth/09: 382 244 frr
 :matt/earth/17: 406 184
-:matt/earth/00: 448 240
-:matt/earth/10: 410 308
-:matt/earth/09: 384 264 frr
-:matt/earth/00: 454 254
+:matt/earth/00: 456 240
+:matt/earth/10: 418 308
+:matt/earth/00: 462 254
 :matt/earth/02: 393 272
 :matt/earth/01: 280 372
 :matt/earth/02: 174 390
 :matt/earth/04: 186 360 fr
 :matt/earth/05: 278 326
 :matt/earth/05: 387 252 fr
-:matt/earth/10: 420 270
-:matt/earth/16: 512 298
+:matt/earth/10: 428 270
+:matt/earth/16: 520 298
 :matt/earth/16: 60 328
 :matt/earth/16: 612 -96
 :matt/earth/10: 448 -38
@@ -127,15 +130,16 @@ $ENGLISH Alien Abduction
 :matt/carnival/29: 224 48
 :matt/carnival/29: 96 48
 :matt/earth/04: 92 348 frr
-:matt/earth/05: 458 194 frr
-:matt/earth/09: 516 252
-:matt/earth/09: 538 248 rr
-:matt/earth/01: 448 178
+:matt/earth/05: 466 196 frr
+:matt/earth/09: 524 252
+:matt/earth/09: 546 248 rr
+:matt/earth/00: 434 208
+:matt/earth/01: 456 178
 :matt/earth/00: 403 186
 :matt/earth/06: 400 180
 :matt/earth/09: 422 180
-:matt/earth/06: 471 176 frr
-:matt/earth/07b: 460 176
+:matt/earth/06: 479 172 frr
 :matt/earth/07b: 428 180
 :matt/earth/07b: 416 182
 :matt/earth/07b: 410 184
+:matt/earth/09: 442 174 frr

@@ -1,7 +1,7 @@
 $BUILT                                             2012-02-25 21:45:19
 $AUTHOR                                                     Nortaneous
 $GERMAN                                                               
-$ENGLISH                                               Now This Is Fun
+$ENGLISH                                               Now This is Fun
 
 #SIZE_X                                                           1592
 #SIZE_Y                                                            400

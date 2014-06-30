@@ -1,7 +1,7 @@
 $BUILT 2014-05-21 00:06:04
 $AUTHOR geoo
 $GERMAN 
-$ENGLISH Have another try
+$ENGLISH Have Another Try
 
 #SIZE_X 640
 #SIZE_Y 400

@@ -1,7 +1,7 @@
 $BUILT                                             2012-01-21 06:11:50
 $AUTHOR                                                         finlay
 $GERMAN                                                               
-$ENGLISH                                            It's a long way up
+$ENGLISH                                            It's a Long Way Up
 
 #SIZE_X                                                            640
 #SIZE_Y                                                            400

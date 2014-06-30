@@ -1,5 +1,5 @@
 $BUILT 2014-05-25 00:11:33
-$AUTHOR Zurlinden/mobius
+$AUTHOR M.Z./mobius
 $GERMAN 
 $ENGLISH The Final Sacrifice
 

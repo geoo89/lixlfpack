@@ -1,7 +1,7 @@
 $BUILT                                             2012-02-05 01:10:15
 $AUTHOR                                                             mobius
 $GERMAN                                                               
-$ENGLISH                                            Leap Of The Locust
+$ENGLISH                                            Leap of the Locust
 
 #SIZE_X                                                            880
 #SIZE_Y                                                            400
