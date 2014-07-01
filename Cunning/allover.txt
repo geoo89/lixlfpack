@@ -1,7 +1,7 @@
 $BUILT 2014-06-29 02:17:56
 $AUTHOR minimac
 $GERMAN 
-$ENGLISH All over the place
+$ENGLISH All Over the Place
 
 #SIZE_X 1424
 #SIZE_Y 400

@@ -1,7 +1,7 @@
 $BUILT                                             2012-03-12 01:10:59
 $AUTHOR                                                            Isu
 $GERMAN                                                               
-$ENGLISH                                                    Cry for me
+$ENGLISH                                                    Cry for Me
 
 #SIZE_X                                                            640
 #SIZE_Y                                                            400

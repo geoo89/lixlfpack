@@ -1,6 +1,5 @@
 theadventureplaygr.txt
 flugtag.txt
-fearofheights.txt
 loggingyourprog.txt
 wastenot.txt
 boxset.txt
@@ -15,7 +14,6 @@ acompletelyridiculous.txt
 timetochange.txt
 theabominablesnowlix.txt
 roundabout.txt
-paraglide.txt
 decompressionmeth1.txt
 pathtomahimah.txt
 100waystodie.txt
@@ -34,7 +32,9 @@ prelude.txt
 snowballbattle.txt
 minimalism3.txt
 followtheyellow.txt
+infrastructure.txt
 snowjump.txt
 exitstageright.txt
 therunaround.txt
+therazorsedge.txt
 thefinalsacrifice.txt

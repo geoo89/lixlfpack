@@ -1,4 +1,4 @@
-$BUILT 2012-05-05 10:57:22
+$BUILT 2014-07-01 19:53:29
 $AUTHOR Nortaneous
 $GERMAN 
 $ENGLISH The Ring of Fnargl
@@ -25,14 +25,14 @@ $ENGLISH The Ring of Fnargl
 #EXPLODER2 1
 #PLATFORMER 5
 #MINER 1
-#DIGGER 1
+#DIGGER 2
 #RUNNER 1
-#NOTHING 0
+#BLOCKER 1
 #NOTHING 0
 #NOTHING 0
 #NOTHING 0
 
-:geoo/construction/Hatch.H: 304 80
+:geoo/construction/Hatch.H: 304 72
 
 :geoo/construction/Goal2.G: 288 -16
 

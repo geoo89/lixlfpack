@@ -1,5 +1,4 @@
 dividing.txt
-juststop.txt
 conundrum.txt
 endeavor.txt
 lowprofile.txt
@@ -14,17 +13,14 @@ lixesinarms.txt
 laser1.txt
 laser2.txt
 laser3.txt
-theringoffnargl.txt
 thelastlaugh.txt
 lixsterquadrille.txt
 bulldozing.txt
 thegr8escape.txt
 toccata.txt
-gethype.txt
 thomastheclimber.txt
 trapeze.txt
 thecircularruins.txt
-lixesinmotion.txt
 thecrimsonroom.txt
 buridan.txt
 downamong.txt
@@ -34,6 +30,7 @@ brutefours.txt
 100-built-by-lixes.txt
 waltzincsharp.txt
 halfwaydownthestairs.txt
+gethype.txt
 spingeometry.txt
 bashingandbuilding.txt
 survivalofthecraft.txt
