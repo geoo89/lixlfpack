@@ -1,4 +1,4 @@
-$BUILT 2012-06-06 16:28:41
+$BUILT 2014-07-02 23:43:50
 $AUTHOR Insane Steve
 $GERMAN 
 $ENGLISH Watch Ye Step!
@@ -34,10 +34,10 @@ $ENGLISH Watch Ye Step!
 
 :geoo/construction/Goal2.G: 1360 32
 
-:geoo/construction/factory.T: 432 272
-:geoo/construction/factory.T: 480 272
-:geoo/construction/factory.T: 528 272
-:geoo/construction/factory.T: 576 272
+:geoo/construction/squisher.T: 424 272
+:geoo/construction/squisher.T: 472 272
+:geoo/construction/squisher.T: 520 272
+:geoo/construction/squisher.T: 568 272
 
 :geoo/construction/wall/big_128x64: 32 336
 :geoo/construction/wall/big_128x64: 160 336
