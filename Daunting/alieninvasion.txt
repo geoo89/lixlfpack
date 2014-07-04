@@ -1,4 +1,4 @@
-$BUILT 2014-07-05 00:33:17
+$BUILT 2014-07-05 00:49:23
 $AUTHOR geoo
 $GERMAN 
 $ENGLISH Alien Invasion
@@ -66,7 +66,6 @@ $ENGLISH Alien Invasion
 :matt/earth/01: 328 372
 :matt/earth/02: 222 390
 :matt/earth/04: 234 360 fr
-:matt/earth/05: 326 326
 :matt/earth/06: 438 252
 :matt/earth/05: 405 252 fr
 :matt/earth/10: 436 270
@@ -114,5 +113,6 @@ $ENGLISH Alien Invasion
 :matt/earth/15: 152 264
 :matt/earth/04: 140 348 frr
 :matt/earth/18: 388 296 d
-:matt/earth/18: 399 301 rrrd
-:matt/earth/18: 401 307 rrrd
+:matt/earth/18: 400 344 rrrd
+:matt/earth/00: 376 294 rrd
+:matt/earth/05: 326 326
