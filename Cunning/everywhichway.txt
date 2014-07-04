@@ -1,4 +1,4 @@
-$BUILT 2014-06-17 13:54:41
+$BUILT 2014-07-04 21:56:33
 $AUTHOR mobius
 $GERMAN Stillleben
 $ENGLISH Every Which Way But Loose
@@ -46,7 +46,7 @@ $ENGLISH Every Which Way But Loose
 :geoo/steel/64x32o.S: 400 224
 :geoo/steel/64x32o.S: 464 224
 :geoo/steel/64x32o.S: 528 224
-:geoo/steel/64x32o.S: 592 232
+:geoo/steel/64x32o.S: 592 236
 :geoo/steel/64x32o.S: 656 224
 :geoo/steel/64x32o.S: 720 224
 :matt/marble/04e_1: 784 344
@@ -167,11 +167,11 @@ $ENGLISH Every Which Way But Loose
 :matt/marble/01c: 160 240
 :matt/marble/01c: 928 136
 :matt/marble/01c: 896 88
-:geoo/steel/32x64o.S: 608 168
+:geoo/steel/32x64o.S: 608 172
 :matt/marble/06c: 1000 -16
 :matt/marble/08c: 992 48
 :geoo/steel/32x32o.S: 240 224
-:geoo/steel/32x32o.S: 608 136
+:geoo/steel/32x32o.S: 608 140
 :matt/marble/04c: 272 80
 :matt/marble/04c: 304 80
 :matt/marble/03e_1: 288 96

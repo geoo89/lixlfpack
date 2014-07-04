@@ -1,4 +1,4 @@
-$BUILT 2012-05-16 10:51:05
+$BUILT 2014-07-04 22:01:46
 $AUTHOR geoo
 $GERMAN 
 $ENGLISH Can't Reach it - Don't Need it
@@ -57,7 +57,7 @@ $ENGLISH Can't Reach it - Don't Need it
 :matt/underworld/02: 192 192
 :matt/underworld/02: 192 96
 :matt/underworld/02: 128 192
-:geoo/steel/dark_64x64.S: 320 288
+:geoo/steel/dark_64x64.S: 320 284
 :matt/underworld/02: 64 192
 :matt/underworld/02: 0 192
 :matt/underworld/02: 576 96
@@ -70,7 +70,7 @@ $ENGLISH Can't Reach it - Don't Need it
 :matt/underworld/02: 544 304
 :matt/underworld/02: 480 304
 :geoo/steel/dark_64x64.S: 416 304
-:geoo/steel/dark_64x64.S: 320 352
+:geoo/steel/dark_64x64.S: 320 348
 :geoo/steel/dark_64x64.S: 416 368
 :matt/underworld/00: 576 288
 :matt/underworld/00: 448 208
