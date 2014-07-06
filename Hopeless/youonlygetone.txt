@@ -1,7 +1,7 @@
-$BUILT 2012-05-24 23:27:55
+$BUILT 2014-06-04 16:08:19
 $AUTHOR Michael
 $GERMAN 
-$ENGLISH You Only Get One Bash at It!
+$ENGLISH You only get one bash at it!
 
 #SIZE_X 640
 #SIZE_Y 400
@@ -97,3 +97,5 @@ $ENGLISH You Only Get One Bash at It!
 :geoo/steel/dark_32x16o.S: 224 320
 :geoo/sandstone/pillar_top: 32 128
 :geoo/sandstone/pillar_top: 96 128
+:geoo/steel/dark_16x16o.S: 272 172
+:geoo/steel/dark_16x16o.S: 368 172

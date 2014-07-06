@@ -1,4 +1,4 @@
-$BUILT 2014-05-15 18:10:04
+$BUILT 2014-07-04 21:25:35
 $AUTHOR Insane Steve
 $GERMAN 
 $ENGLISH Just Stop the Bleeding
@@ -36,9 +36,11 @@ $ENGLISH Just Stop the Bleeding
 :matt/marble/Hatch.H: 1520 48 r
 
 :matt/marble/Goal.G: 1280 320
+:geoo/abstract/goal.G: 32 76
 
 :geoo/construction/squisher.T: 1144 272
 :geoo/construction/squisher.T: 1096 272
+:geoo/sandstone/chopper.T: 871 165
 
 :simon/water.W: 1216 360
 :simon/water.W: 1168 360
@@ -46,23 +48,26 @@ $ENGLISH Just Stop the Bleeding
 :simon/water.W: 1072 360
 :simon/water.W: 1024 360
 :simon/water.W: 976 360
-:simon/water.W: 928 360
+:simon/water.W: 928 365
 :simon/water.W: 880 360
 :proxima/flame.F: 1276 120
-:proxima/flame.F: 736 32
+:proxima/flame.F: 737 30
 :proxima/flame.F: 2000 128
 :proxima/flame.F: 2120 128
-:proxima/flame.F: 2480 128
+:proxima/flame.F: 2468 165
 :proxima/flame.F: 2600 128
 :simon/acid.W: 2768 352
 :simon/acid.W: 2816 352
 :simon/acid.W: 2864 352
-:simon/acid.W: 2912 352
+:simon/acid.W: 2911 346
 :simon/acid.W: 2960 352
 :simon/acid.W: 3008 352
 :simon/acid.W: 3056 352
 :simon/acid.W: 3104 352
-:simon/acid.W: 3152 352
+:simon/acid.W: 3146 310
+:proxima/flame.F: 538 59
+:proxima/flame.F: 26 98
+:proxima/flame.F: 1218 332
 
 :matt/bricks/02: 1264 368
 :matt/bricks/02: 1328 368
@@ -97,7 +102,7 @@ $ENGLISH Just Stop the Bleeding
 :matt/bricks/12: 1400 240
 :matt/bricks/12: 1400 272
 :matt/bricks/02: 1560 112
-:matt/bricks/12: 1624 112
+:matt/bricks/12: 1624 112 f
 :matt/bricks/08: 1656 112
 :matt/bricks/02: 1528 208
 :matt/bricks/12: 1496 240
@@ -108,7 +113,7 @@ $ENGLISH Just Stop the Bleeding
 :matt/bricks/11: 1496 144
 :matt/bricks/09: 1592 144
 :matt/bricks/02: 1624 272
-:matt/bricks/02: 1688 272
+:matt/bricks/02: 1688 272 f
 :matt/bricks/02: 1752 272
 :matt/bricks/11: 1432 176
 :matt/bricks/11: 1904 176
@@ -120,9 +125,9 @@ $ENGLISH Just Stop the Bleeding
 :matt/bricks/12: 1872 64
 :matt/bricks/12: 1872 32
 :matt/bricks/12: 1872 0
-:matt/bricks/09: 1840 0
-:matt/bricks/11: 1904 0
-:matt/bricks/09: 1392 0
+:matt/bricks/09: 1847 6
+:matt/bricks/11: 1907 -1
+:matt/bricks/09: 1390 0 frr
 :matt/bricks/02: 1424 0
 :matt/bricks/02: 1488 0
 :matt/bricks/02: 1552 0
@@ -136,24 +141,24 @@ $ENGLISH Just Stop the Bleeding
 :matt/goldmine/plank: 824 224 rrr
 :matt/goldmine/08: 800 336 r
 :matt/goldmine/08: 736 352
-:matt/goldmine/planksupport2: 992 336
+:matt/goldmine/planksupport2: 991 342
 :matt/goldmine/planksupport2: 1136 336
-:matt/goldmine/tracks: 968 328
+:matt/goldmine/tracks: 967 331
 :matt/goldmine/tracks: 1088 328
 :matt/goldmine/explosivecrate: 1072 208
-:matt/goldmine/crate64: 1136 208
+:matt/goldmine/crate64: 1136 205
 :matt/goldmine/plankdiag2: 1040 176
 :matt/goldmine/plankdiag2: 1008 144
-:matt/goldmine/plankdiag2: 1152 176
+:matt/goldmine/plankdiag2: 1152 165
 :matt/goldmine/plankdiag2: 1120 144
-:matt/goldmine/plankdiag2: 976 112
+:matt/goldmine/plankdiag2: 973 112
 :matt/goldmine/plankdiag2: 944 80
 :matt/goldmine/plankdiag2: 1088 112
 :matt/goldmine/plankdiag2: 1056 80
 :matt/goldmine/plankdiag: 1040 144
-:matt/goldmine/plankdiag: 1072 112
+:matt/goldmine/plankdiag: 1080 112
 :matt/goldmine/plankdiag: 1072 176
-:matt/goldmine/plankdiag: 1104 144
+:matt/goldmine/plankdiag: 1104 151
 :matt/goldmine/plankdiag: 1136 112
 :matt/goldmine/plankdiag: 1168 80
 :matt/goldmine/plankdiag: 1168 160
@@ -169,21 +174,21 @@ $ENGLISH Just Stop the Bleeding
 :matt/goldmine/plankdiag2: 1104 48
 :matt/goldmine/plankdiag: 1056 48
 :matt/goldmine/plankdiag: 1088 16
-:matt/goldmine/plankdiag2: 1072 16
+:matt/goldmine/plankdiag2: 1066 17
 :matt/goldmine/plankdiag: 1184 0
 :matt/goldmine/plankdiag: 1152 32
 :matt/goldmine/plankdiag: 1136 48
-:matt/goldmine/03: 1040 -16
+:matt/goldmine/03: 1042 -7
 :matt/goldmine/plankdiag: 976 16
 :matt/goldmine/03: 896 -16 frr
 :matt/goldmine/plankdiag: 944 48
-:matt/goldmine/plank: 944 80
+:matt/goldmine/plank: 918 71
 :matt/goldmine/plankdiag: 1184 64
 :matt/goldmine/plankdiag2: 1200 48 d
 :matt/goldmine/plankdiag2: 1088 96 d
 :matt/goldmine/crate64: 880 80
 :matt/goldmine/crate32: 848 80
-:matt/goldmine/explosivecrate: 784 80
+:matt/goldmine/explosivecrate: 785 72 rrr
 :matt/goldmine/crate32: 752 80
 :matt/goldmine/crate32: 800 144
 :matt/goldmine/crate32: 896 144
@@ -191,12 +196,12 @@ $ENGLISH Just Stop the Bleeding
 :matt/goldmine/crate16: 896 176
 :matt/goldmine/crate32: 816 192
 :matt/goldmine/crate32: 880 192
-:matt/goldmine/crate32: 848 176
-:matt/goldmine/plankdiag: 856 224
-:matt/goldmine/plank: 1296 64
+:matt/goldmine/crate32: 842 183
+:matt/goldmine/plankdiag: 842 244
+:matt/goldmine/plank: 1179 20
 :matt/goldmine/plank: 1360 64 d
 :matt/goldmine/crate16: 736 80
-:matt/goldmine/explosivecrate: 1264 160
+:matt/goldmine/explosivecrate: 1264 160 frr
 :matt/bricks/01: 1280 152 d
 :matt/earth/04: 608 272
 :matt/earth/10: 472 336 frr
@@ -206,11 +211,11 @@ $ENGLISH Just Stop the Bleeding
 :matt/earth/06: 536 328
 :matt/earth/08: 632 280 frr
 :matt/earth/08: 648 264 frr
-:matt/earth/10: 144 112
+:matt/earth/10: 157 99
 :matt/earth/04: 280 168
 :matt/earth/17: 376 288
 :matt/earth/04: 72 160
-:matt/earth/10: 160 176
+:matt/earth/10: 166 174
 :matt/earth/10: 72 240 frr
 :matt/earth/16: 8 288
 :matt/earth/04: 216 264
@@ -234,7 +239,7 @@ $ENGLISH Just Stop the Bleeding
 :matt/earth/08: 40 288 frr
 :matt/earth/08: 16 328 frr
 :matt/earth/08: 376 288 frr
-:matt/earth/08: 120 144 frr
+:matt/earth/08: 98 121 fr
 :matt/earth/08: 88 176 frr
 :matt/earth/06: 160 112
 :matt/earth/09: 200 104
@@ -246,7 +251,7 @@ $ENGLISH Just Stop the Bleeding
 :matt/earth/08: 296 328 frr
 :matt/earth/08: 152 232 frr
 :matt/earth/09: 184 232
-:matt/earth/26: 224 56 rr
+:matt/earth/26: 227 44 rr
 :matt/earth/19: 544 168 rrr
 :matt/earth/11: 528 96
 :matt/earth/14: 496 112
@@ -255,13 +260,13 @@ $ENGLISH Just Stop the Bleeding
 :matt/earth/26: 568 224 rrr
 :matt/earth/23: 528 208 r
 :matt/earth/23: 528 272 r
-:matt/earth/26: 368 208 rrr
+:matt/earth/26: 480 208 rrr
 :geoo/sandstone/pillar_top_ext: 2000 176
 :geoo/sandstone/pillar_top_ext: 2096 176
 :geoo/sandstone/pillar_top_shaded: 2016 192
 :geoo/sandstone/pillar_top_shaded: 2112 192
 :geoo/sandstone/pillar_32: 2016 224
-:geoo/sandstone/arc_small: 1984 240
+:geoo/sandstone/arc_small: 1984 239
 :geoo/sandstone/pillar_32: 2112 224
 :geoo/sandstone/arc_small: 2080 240
 :geoo/sandstone/pillar_top_ext: 1952 272
@@ -269,7 +274,7 @@ $ENGLISH Just Stop the Bleeding
 :geoo/sandstone/pillar_top_shaded: 1968 288
 :geoo/sandstone/pillar_top_shaded: 2064 288
 :geoo/sandstone/pillar_top_ext: 2144 272
-:geoo/sandstone/pillar_top_shaded: 2160 288
+:geoo/sandstone/pillar_top_shaded: 2153 288
 :geoo/sandstone/pillar_32: 1968 320
 :geoo/sandstone/pillar_32: 2064 320
 :geoo/sandstone/pillar_32: 2160 320
@@ -280,7 +285,7 @@ $ENGLISH Just Stop the Bleeding
 :geoo/sandstone/pillar_bottom_ext: 2048 384
 :geoo/sandstone/pillar_bottom_ext: 2144 384
 :geoo/sandstone/slopes/64x32rb: 1936 128
-:geoo/sandstone/slopes/32x64lb: 2032 96
+:geoo/sandstone/slopes/32x64lb: 2060 90
 :geoo/sandstone/slopes/32x64rb: 2096 96
 :geoo/sandstone/slopes/64x32lb: 2160 128
 :geoo/sandstone/32x32: 2000 96
@@ -288,19 +293,19 @@ $ENGLISH Just Stop the Bleeding
 :geoo/sandstone/slopes/64x32rb: 2000 64
 :geoo/sandstone/slopes/64x32lb: 2096 64
 :geoo/sandstone/32x32: 2064 48
-:geoo/sandstone/32x32: 2064 16
+:geoo/sandstone/32x32: 2119 3
 :geoo/sandstone/slopes/64x32rt: 2000 0
 :geoo/sandstone/slopes/64x32lt: 2096 0
 :geoo/sandstone/slopes/32x64rb: 2288 192
-:geoo/sandstone/slopes/32x64lb: 2320 192
+:geoo/sandstone/slopes/32x64lb: 2324 200
 :geoo/sandstone/slopes/64x32lb: 2256 160
 :geoo/sandstone/slopes/64x32rb: 2320 160
 :geoo/sandstone/slopes/32x64rb: 2224 160
 :geoo/sandstone/slopes/32x64lb: 2384 160
 :geoo/sandstone/slopes/32x64rt: 2240 224
 :geoo/sandstone/slopes/32x64lt: 2368 224
-:geoo/sandstone/slopes/64x32rt: 2256 288
-:geoo/sandstone/slopes/64x32lt: 2320 288
+:geoo/sandstone/slopes/64x32rt: 2187 14
+:geoo/sandstone/slopes/64x32lt: 2352 26
 :geoo/sandstone/slopes/64x32rb: 2224 128
 :geoo/sandstone/slopes/64x32lb: 2352 128
 :geoo/sandstone/slopes/64x32rb: 2256 96
@@ -308,12 +313,12 @@ $ENGLISH Just Stop the Bleeding
 :geoo/sandstone/slopes/32x32rb: 2288 336
 :geoo/sandstone/slopes/32x32rb: 2256 368
 :geoo/sandstone/slopes/32x32lb: 2320 336
-:geoo/sandstone/slopes/32x32lb: 2352 368
-:geoo/sandstone/64x32: 2288 368
-:geoo/sandstone/slopes/64x32rb: 2224 64
+:geoo/sandstone/slopes/32x32lb: 2357 370
+:geoo/sandstone/64x32: 2287 368
+:geoo/sandstone/slopes/64x32rb: 2255 287
 :geoo/sandstone/slopes/32x16rb: 2288 48
 :geoo/sandstone/slopes/32x16lb: 2320 48
-:geoo/sandstone/slopes/64x32lb: 2352 64
+:geoo/sandstone/slopes/64x32lb: 2320 286
 :geoo/sandstone/64x32: 2288 64
 :geoo/sandstone/pillar_top_ext: 2480 176
 :geoo/sandstone/pillar_top_ext: 2576 176
@@ -324,41 +329,37 @@ $ENGLISH Just Stop the Bleeding
 :geoo/sandstone/pillar_32: 2592 224
 :geoo/sandstone/arc_small: 2560 240
 :geoo/sandstone/pillar_top_ext: 2432 272
-:geoo/sandstone/pillar_top_ext: 2528 272
+:geoo/sandstone/pillar_top_ext: 2534 267
 :geoo/sandstone/pillar_top_shaded: 2448 288
 :geoo/sandstone/pillar_top_shaded: 2544 288
-:geoo/sandstone/pillar_top_ext: 2624 272
-:geoo/sandstone/pillar_top_shaded: 2640 288
 :geoo/sandstone/pillar_32: 2448 320
 :geoo/sandstone/pillar_32: 2544 320
-:geoo/sandstone/pillar_32: 2640 320
 :geoo/sandstone/pillar_bottom: 2448 352
 :geoo/sandstone/pillar_bottom: 2544 352
-:geoo/sandstone/pillar_bottom: 2640 352
 :geoo/sandstone/pillar_bottom_ext: 2432 384
 :geoo/sandstone/pillar_bottom_ext: 2528 384
-:geoo/sandstone/pillar_bottom_ext: 2624 384
+:geoo/sandstone/pillar_bottom_ext: 2705 379
 :geoo/sandstone/slopes/64x32rb: 2416 128
 :geoo/sandstone/slopes/32x64lb: 2512 96
 :geoo/sandstone/slopes/32x64rb: 2576 96
-:geoo/sandstone/slopes/64x32lb: 2640 128
+:geoo/sandstone/slopes/64x32lb: 2641 128
 :geoo/sandstone/32x32: 2480 96
 :geoo/sandstone/32x32: 2608 96
 :geoo/sandstone/slopes/64x32rb: 2480 64
 :geoo/sandstone/slopes/64x32lb: 2576 64
 :geoo/sandstone/32x32: 2544 48
-:geoo/sandstone/32x32: 2544 16
+:geoo/sandstone/32x32: 2548 16
 :geoo/sandstone/slopes/64x32rt: 2480 0
 :geoo/sandstone/slopes/64x32lt: 2576 0
 :matt/marble/04a: 2720 160
 :matt/marble/04a: 2752 160
 :matt/marble/04a: 2784 160
 :matt/marble/04a: 2816 160
-:matt/marble/06a: 2768 208
+:matt/marble/06a: 2763 209
 :matt/marble/01a: 2792 288
 :matt/marble/06a: 2768 272
 :matt/marble/06a: 2768 336
-:matt/marble/05a: 2752 176
+:matt/marble/05a: 2968 148
 :matt/marble/05a: 2784 176
 :matt/marble/02a: 2816 176
 :matt/marble/02a: 2736 176
@@ -388,7 +389,7 @@ $ENGLISH Just Stop the Bleeding
 :matt/marble/01a: 3096 288
 :matt/marble/06a: 3104 272
 :matt/marble/06a: 3104 336
-:matt/marble/05a: 3088 176
+:matt/marble/05a: 3108 125
 :matt/marble/05a: 3120 176
 :matt/marble/02a: 3152 176
 :matt/marble/02a: 3072 176
@@ -400,9 +401,9 @@ $ENGLISH Just Stop the Bleeding
 :matt/marble/04a: 2904 288
 :matt/marble/02a: 2888 304
 :matt/marble/02a: 2840 304
-:matt/marble/01a: 2936 288
+:matt/marble/01a: 2959 270
 :matt/marble/04a: 2968 288
-:matt/marble/04a: 3000 288
+:matt/marble/04a: 3010 277
 :matt/marble/04a: 3032 288
 :matt/marble/04a: 3064 288
 :matt/marble/02a: 3048 304
@@ -410,7 +411,7 @@ $ENGLISH Just Stop the Bleeding
 :matt/marble/01a: 2952 288
 :matt/marble/06a: 2856 320
 :matt/marble/06a: 3016 320
-:matt/marble/14a: 2872 256
+:matt/marble/14a: 2840 232
 :matt/marble/14a: 2904 224
 :matt/marble/16a: 2968 224
 :matt/marble/16a: 3000 256
@@ -424,22 +425,22 @@ $ENGLISH Just Stop the Bleeding
 :matt/marble/12a: 2784 80
 :matt/marble/14a: 3040 128
 :matt/marble/14a: 3072 96
-:matt/marble/16a: 3136 96
-:matt/marble/16a: 3168 128
+:matt/marble/16a: 3139 129
+:matt/marble/16a: 3166 135
 :matt/marble/10a: 3104 80
-:matt/marble/12a: 3120 80
+:matt/marble/12a: 3119 107
 :matt/marble/13a: 2768 64
 :matt/marble/13a: 3104 64
 :matt/marble/11a: 2784 64
-:matt/marble/11a: 3120 64
+:matt/marble/11a: 3132 108
 :matt/marble/17a: 2736 32
 :matt/marble/17a: 2704 0
 :matt/marble/15a: 2800 32
-:matt/marble/15a: 2832 0
+:matt/marble/15a: 2835 5
 :matt/marble/17a: 3072 32
 :matt/marble/17a: 3040 0
-:matt/marble/15a: 3136 32
-:matt/marble/15a: 3168 0
+:matt/marble/15a: 3151 111
+:matt/marble/15a: 3175 121
 :matt/marble/01a: 2864 0
 :matt/marble/01a: 2872 8
 :matt/marble/01a: 2880 16
@@ -451,7 +452,7 @@ $ENGLISH Just Stop the Bleeding
 :matt/marble/01a: 2952 40
 :matt/marble/01a: 2968 40
 :matt/marble/01a: 2976 32
-:matt/marble/01a: 2992 32
+:matt/marble/01a: 3000 71
 :matt/marble/01a: 3000 24
 :matt/marble/01a: 3008 16
 :matt/marble/01a: 3016 8
@@ -484,8 +485,8 @@ $ENGLISH Just Stop the Bleeding
 :matt/marble/11a: 2952 0
 :matt/marble/13a: 3104 0
 :matt/marble/11a: 3120 0
-:geoo/steel/dark_64x64o.S: 2704 336
-:matt/marble/04a: 2856 304
+:geoo/steel/dark_64x64o.S: 2723 315
+:matt/marble/04a: 2874 280
 :matt/marble/04a: 3016 304
 :matt/marble/02a: 2888 384
 :matt/marble/02a: 2840 384
@@ -494,3 +495,30 @@ $ENGLISH Just Stop the Bleeding
 :matt/marble/04a: 2856 384
 :matt/marble/04a: 3016 384
 :matt/bricks/12: 1400 304
+:matt/goldmine/tracks: 238 185
+:matt/earth/23: 320 240
+:matt/earth/20: 1638 -6
+:matt/earth/07b: 1882 383
+:matt/earth/18: 2076 22
+:matt/oriental/02: 2938 74
+:matt/underworld/09b: 2902 111
+:matt/underworld/09a: 1131 265
+:matt/underworld/09b: 99 292
+:matt/winter/09c: 39 141
+:matt/winter/08: 38 155
+:matt/earth/09: 1888 178
+:matt/underworld/00: 1079 226
+:matt/goldmine/plankdiag: 1108 168
+:matt/goldmine/plankdiag: 1139 155
+:matt/oriental/10: 826 120
+:matt/marble/03e_2: 1526 221
+:matt/marble/02e_2: 1922 278
+:matt/underworld/09b: 2870 139
+:matt/underworld/08: 3143 337
+:matt/underworld/09a: 987 335
+:matt/bricks/01a: 1768 208
+:matt/bricks/01b: 1879 277
+:matt/carnival/17: 2052 153
+:amanda/occult/occult_wax_details_drip: 490 167
+:proxima/tile/pink5: 325 40
+:amanda/occult/occult_scrawl_pentagram: 330 45
