@@ -1,4 +1,4 @@
-$BUILT 2014-02-13 17:22:11
+$BUILT 2014-07-12 19:19:06
 $AUTHOR Michael
 $GERMAN 
 $ENGLISH The Crimson Room
@@ -179,9 +179,7 @@ $ENGLISH The Crimson Room
 :proxima/tile/red1a: 240 480
 :proxima/tile/red3s: 448 464
 :proxima/tile/red3s: 400 464
-:proxima/tile/red1a: 416 496
-:proxima/tile/red1a: 384 496
-:proxima/tile/red1a: 368 496 d
+:proxima/tile/red1a: 400 496
 :proxima/tile/red1a: 288 496
 :proxima/tile/red1a: 192 400
 :proxima/tile/red1a: 208 416
