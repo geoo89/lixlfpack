@@ -1,4 +1,4 @@
-$BUILT 2012-05-28 00:28:08
+$BUILT 2014-07-05 17:27:01
 $AUTHOR Michael
 $GERMAN 
 $ENGLISH Lix Potion Number Nine
@@ -54,14 +54,14 @@ $ENGLISH Lix Potion Number Nine
 :simon/acid.W: 448 368
 :simon/acid.W: 496 368
 :simon/acid.W: 544 368
-:geoo/construction/Laseremit_hzl_16.F: 432 256
+:geoo/construction/Laseremit_hzl_16.F: 464 256
 :geoo/construction/Laseremit_hzr_16.F: 576 256
-:geoo/construction/Laser_hz_64.F: 448 256
+:geoo/construction/Laser_hz_64.F: 480 256
 :geoo/construction/Laser_hz_64.F: 512 256
 :geoo/construction/Laseremit_hzl_16.F: 112 160
-:geoo/construction/Laseremit_hzr_16.F: 256 160
+:geoo/construction/Laseremit_hzr_16.F: 224 160
 :geoo/construction/Laser_hz_64.F: 128 160
-:geoo/construction/Laser_hz_64.F: 192 160
+:geoo/construction/Laser_hz_64.F: 160 160
 
 :geoo/construction/concrete/016h: 64 144
 :geoo/construction/concrete/016h: 80 160
@@ -221,3 +221,5 @@ $ENGLISH Lix Potion Number Nine
 :geoo/construction/pillar_32: 592 304
 :geoo/construction/pillar_32: 592 336
 :geoo/construction/concrete/016h: 608 32
+:geoo/construction/concrete/016h: 240 160
+:geoo/construction/concrete/016h: 432 256

@@ -1,7 +1,7 @@
-$BUILT 2012-08-27 17:00:54
+$BUILT 2014-07-09 11:44:07
 $AUTHOR mobius
 $GERMAN 
-$ENGLISH The Italian Job
+$ENGLISH Walk the Plank
 
 #SIZE_X 1280
 #SIZE_Y 400
@@ -17,12 +17,12 @@ $ENGLISH The Italian Job
 #INITIAL 150
 #REQUIRED 150
 #SPAWN_INTERVAL 5
-#SPAWN_INTERVAL_FAST 4
+#SPAWN_INTERVAL_FAST 5
 
 #CLIMBER 2
 #NOTHING 0
 #NOTHING 0
-#BUILDER 2
+#BUILDER 3
 #BASHER 1
 #MINER 1
 #DIGGER 1
@@ -41,18 +41,19 @@ $ENGLISH The Italian Job
 :matt/water.W: 944 256
 :matt/water.W: 976 256
 :matt/water.W: 1008 256
-:geoo/construction/sawblade_small.F: 320 336
+:geoo/construction/sawblade_small.F: 336 336
 :matt/water.W: 1040 256
 :matt/water.W: 1072 256
 :matt/water.W: 1104 256
 :matt/water.W: 1136 256
-:matt/water.W: 80 160
-:matt/water.W: 112 160
-:matt/water.W: 144 160
-:matt/water.W: 176 160
-:matt/water.W: 208 160
-:matt/water.W: 240 160
-:matt/water.W: 240 160
+:matt/water.W: 40 160
+:matt/water.W: 72 160
+:matt/water.W: 104 160
+:matt/water.W: 136 160
+:matt/water.W: 168 160
+:matt/water.W: 200 160
+:matt/water.W: 200 160
+:geoo/construction/sawblade_small.F: 208 336
 
 :geoo/sandstone/64x16: 768 176
 :geoo/sandstone/64x16: 832 176
@@ -102,15 +103,15 @@ $ENGLISH The Italian Job
 :geoo/steel/32x16o.S: 1088 288
 :geoo/steel/32x16o.S: 1120 288
 :geoo/steel/32x16o.S: 1152 288
-:geoo/steel/32x16o.S: 64 192
-:geoo/steel/16x32o.S: 64 160
-:geoo/steel/32x16o.S: 96 192
-:geoo/steel/32x16o.S: 128 192
-:geoo/steel/32x16o.S: 160 192
-:geoo/steel/32x16o.S: 192 192
-:geoo/steel/32x16o.S: 224 192
-:geoo/steel/16x32o.S: 272 160
-:geoo/steel/32x16o.S: 256 192
+:geoo/steel/32x16o.S: 24 192
+:geoo/steel/16x32o.S: 24 160
+:geoo/steel/32x16o.S: 56 192
+:geoo/steel/32x16o.S: 88 192
+:geoo/steel/32x16o.S: 120 192
+:geoo/steel/32x16o.S: 152 192
+:geoo/steel/32x16o.S: 184 192
+:geoo/steel/16x32o.S: 232 160
+:geoo/steel/32x16o.S: 216 192
 :geoo/steel/64x32o.S: 0 0
 :geoo/steel/64x32o.S: 64 0
 :geoo/steel/64x32o.S: 128 0
@@ -131,3 +132,13 @@ $ENGLISH The Italian Job
 :geoo/steel/64x32o.S: 1088 0
 :geoo/steel/64x32o.S: 1152 0
 :geoo/steel/64x32o.S: 1216 0
+:geoo/sandstone/64x64: 480 144
+:geoo/sandstone/64x64: 608 144
+:geoo/sandstone/64x64: 480 272
+:geoo/sandstone/64x64: 608 272
+:geoo/sandstone/smaragd: 504 296
+:geoo/sandstone/smaragd: 632 296
+:geoo/sandstone/smaragd: 632 168
+:geoo/sandstone/smaragd: 504 168
+:geoo/sandstone/64x64: 544 208
+:geoo/sandstone/smaragd: 568 232

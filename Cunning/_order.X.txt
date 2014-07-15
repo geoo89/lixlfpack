@@ -5,7 +5,6 @@ itsalongwayup.txt
 lixcannon.txt
 towerofbabel.txt
 miceinthepipe.txt
-ittakestime.txt
 labyrinth.txt
 leapoffaith.txt
 breackout.txt
@@ -14,12 +13,12 @@ babylonfading.txt
 cryforme.txt
 whentheleveebreaks.txt
 dontlookback.txt
-thepit.txt
 threedaysofthecondor.txt
 everywhichway.txt
+acompletelyridiculous.txt
+watchyestep.txt
 skulls.txt
 someliketorun.txt
-watchyestep.txt
 comeondown.txt
 coldironsbound.txt
 erbalunga.txt
@@ -31,9 +30,10 @@ haveanothertry.txt
 mentalprocess.txt
 gowest.txt
 tapestry.txt
+ittakestime.txt
 wellokthen.txt
 jacobsladder.txt
-danceswithlixes.txt
+walktheplank.txt
 anotherfuneral.txt
 soaring.txt
 drstrangelix.txt

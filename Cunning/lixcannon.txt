@@ -1,4 +1,4 @@
-$BUILT 2014-06-02 00:44:03
+$BUILT 2014-07-15 21:08:26
 $AUTHOR Ben Bryant
 $GERMAN 
 $ENGLISH Lix Cannon
@@ -188,3 +188,18 @@ $ENGLISH Lix Cannon
 :geoo/construction/wall/big_diag_tu: 416 128 d
 :geoo/construction/wall/big_diag_td: 448 128 d
 :geoo/construction/rod_rust/straight32: 448 336
+:geoo/construction/wall/small_diag_td: 352 128 d
+:geoo/construction/wall/small_diag_tu: 368 128 d
+:geoo/construction/wall/small_diag_td: 368 144
+:geoo/construction/wall/small_diag_tu: 352 144
+:geoo/construction/wall/small_diag_bd: 352 144 d
+:geoo/construction/wall/small_diag_bu: 368 144 d
+:geoo/construction/wall/small_diag_tu: 384 128 d
+:geoo/construction/wall/small_diag_td: 368 128 d
+:geoo/construction/wall/small_diag_tu: 352 128 d
+:geoo/construction/wall/small_diag_td: 336 128 d
+:geoo/construction/wall/small_diag_tu: 336 128
+:geoo/construction/wall/small_brickdiag_tu: 384 128
+:geoo/construction/wall/small_brickdiag_td: 320 128
+:geoo/construction/wall/small_brickdiag_td: 336 144
+:geoo/construction/wall/small_brickdiag_tu: 368 144

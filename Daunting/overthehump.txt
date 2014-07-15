@@ -1,4 +1,4 @@
-$BUILT 2014-05-25 03:16:10
+$BUILT 2014-07-15 22:34:37
 $AUTHOR mobius/geoo
 $GERMAN 
 $ENGLISH Over the Hump
@@ -14,12 +14,12 @@ $ENGLISH Over the Hump
 #BACKGROUND_BLUE 0
 
 #SECONDS 0
-#INITIAL 20
-#REQUIRED 19
-#SPAWN_INTERVAL 21
+#INITIAL 30
+#REQUIRED 29
+#SPAWN_INTERVAL 16
 #SPAWN_INTERVAL_FAST 4
 
-#CLIMBER 10
+#CLIMBER 15
 #NOTHING 0
 #NOTHING 0
 #BUILDER 2
@@ -33,9 +33,9 @@ $ENGLISH Over the Hump
 #NOTHING 0
 
 :matt/earth/Hatch.H: 414 256
-:matt/earth/Hatch.H: 686 256 r
+:matt/earth/Hatch.H: 718 256 r
 
-:matt/earth/Goal.G: 204 232
+:matt/earth/Goal.G: 199 234
 
 :simon/water_thin.W: 88 368
 :simon/water_thin.W: 136 368
@@ -47,15 +47,14 @@ $ENGLISH Over the Hump
 :matt/earth/28: 112 80
 :matt/earth/28: 376 40
 :matt/earth/24: 240 56
+:matt/earth/05: 543 200 frr
 :geoo/steel/dark_32x64o.S: 606 240 d
-:matt/earth/05: 552 176
-:matt/earth/16: 530 248
+:matt/earth/05: 552 140
 :matt/earth/23: 120 72
 :matt/earth/26: 160 56
 :matt/earth/25: 320 48
 :matt/earth/24: 496 24
 :matt/earth/19: 408 -56 rrr
-:matt/earth/05: 542 200
 :matt/earth/01: 364 360
 :matt/earth/01: 380 360
 :matt/earth/01: 374 360
@@ -64,7 +63,7 @@ $ENGLISH Over the Hump
 :matt/earth/01: 446 360
 :matt/earth/01: 470 360
 :matt/earth/01: 494 362
-:matt/earth/01: 518 362
+:matt/earth/01: 518 364
 :matt/earth/01: 566 360
 :matt/earth/01: 590 360
 :matt/earth/01: 614 360
@@ -73,7 +72,7 @@ $ENGLISH Over the Hump
 :matt/earth/01: 718 360
 :matt/earth/01: 742 360
 :matt/earth/01: 766 364
-:matt/earth/05: 96 290 r
+:matt/earth/05: 91 292 r
 :matt/earth/05: 40 184
 :matt/earth/05: -72 256
 :matt/earth/04: -40 288
@@ -85,24 +84,26 @@ $ENGLISH Over the Hump
 :matt/earth/10: -88 -32
 :matt/earth/10: -136 80
 :matt/earth/10: -144 24
-:matt/earth/28: 280 306
-:matt/earth/09: 264 302
-:matt/earth/09: 176 290
-:matt/earth/27: 208 302
-:matt/earth/09: 226 296
-:matt/earth/09: 144 290
+:matt/earth/28: 275 308
+:matt/earth/09: 259 304
+:matt/earth/09: 171 292
+:matt/earth/27: 203 304
+:matt/earth/09: 221 298
+:matt/earth/09: 139 292
 :matt/earth/09: 378 352
 :matt/earth/09: 426 354
-:matt/earth/09: 472 356
-:matt/earth/09: 516 358
+:matt/earth/09: 484 356
 :matt/earth/09: 564 356
 :geoo/steel/dark_32x64o.S: 606 304 d
-:matt/earth/05: 566 264
+:matt/earth/05: 575 310 frr
+:matt/earth/05: 560 224 frr
+:matt/earth/05: 535 277
 :matt/earth/09: 586 354
 :matt/earth/09: 672 355
 :matt/earth/09: 626 356
 :matt/earth/09: 744 354
 :matt/earth/07b: 576 352 rr
+:matt/earth/09: 531 359
 :matt/earth/07b: 584 352 rr
 :geoo/steel/dark_32x64o.S: 574 294
 :geoo/steel/dark_32x64o.S: 574 230
@@ -112,18 +113,22 @@ $ENGLISH Over the Hump
 :matt/earth/10: 496 -80
 :matt/earth/07: 496 0
 :matt/earth/28: 96 0
-:matt/earth/09: 104 282
-:matt/earth/09: 124 286
-:matt/earth/09: 204 294
+:matt/earth/09: 99 284
+:matt/earth/09: 119 288
+:matt/earth/09: 199 296
 :matt/earth/01: 542 360
-:matt/earth/09: 534 356
+:matt/earth/09: 539 356
 :matt/earth/01: 614 360
 :matt/earth/09: 610 356
 :matt/earth/29: 590 294
-:geoo/steel/dark_32x64o.S: 574 134
-:geoo/steel/dark_32x64o.S: 574 70
-:matt/earth/29: 582 70
-:geoo/steel/dark_32x32o.S: 574 198
-:matt/earth/07b: 632 346 rrd
+:geoo/steel/dark_32x64o.S: 574 102
+:geoo/steel/dark_32x64o.S: 574 38
+:matt/earth/29: 582 38
+:matt/earth/07b: 632 346 fd
 :matt/earth/01: 694 360
 :matt/earth/09: 704 354
+:matt/earth/07b: 528 349 d
+:geoo/steel/dark_32x64o.S: 574 166
+:matt/earth/09: 449 356
+:matt/earth/07b: 531 343 d
+:matt/earth/07b: 532 340 d

@@ -1,4 +1,4 @@
-$BUILT 2014-05-29 15:30:18
+$BUILT 2014-07-15 22:07:33
 $AUTHOR mobius
 $GERMAN 
 $ENGLISH Another Funeral
@@ -66,7 +66,7 @@ $ENGLISH Another Funeral
 :matt/winter/06: 436 240
 :matt/winter/06: 452 240
 :matt/winter/06: 468 240
-:matt/winter/10: 224 336
+:matt/winter/10: 238 336
 :matt/winter/03: 208 193
 :matt/winter/15: 296 200
 :matt/winter/15: 216 200
@@ -88,10 +88,11 @@ $ENGLISH Another Funeral
 :matt/winter/06: 452 64
 :matt/winter/06: 468 64
 :matt/winter/10: 424 304
-:matt/winter/07: 128 256 rr
-:matt/winter/07: 80 264 rr
-:matt/winter/07: 32 272 rr
-:matt/winter/10: -42 206 f
+:matt/winter/07: 122 242 rr
+:matt/winter/07: 80 268 rr
+:matt/winter/07: 32 274 rr
+:matt/winter/13: 171 176 d
+:matt/winter/10: -40 206 f
 :matt/winter/04: -32 96 frr
 :matt/winter/07: 88 24 rr
 :matt/winter/04: -16 -16 f
@@ -110,8 +111,13 @@ $ENGLISH Another Funeral
 :matt/winter/15: 297 178 d
 :geoo/steel/16x32o.S: 368 176
 :matt/winter/01: -40 280
-:matt/winter/13: 168 176 d
+:matt/winter/18: 208 187 rrr
 :matt/winter/15: 160 96
 :geoo/steel/32x16o.S: 208 224
 :geoo/construction/wall/small_square: 352 140 d
 :geoo/construction/wall/small_square: 246 187 d
+:matt/winter/13: 203 154 frrrd
+:matt/winter/13: 182 164 rd
+:matt/winter/13: 208 154 frrrd
+:matt/winter/00: 206 318 rrrd
+:matt/winter/00: 198 352 frd
