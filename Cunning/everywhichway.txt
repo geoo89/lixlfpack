@@ -1,6 +1,6 @@
 $BUILT 2014-07-04 21:56:33
 $AUTHOR mobius
-$GERMAN Stillleben
+$GERMAN
 $ENGLISH Every Which Way But Loose
 
 #SIZE_X 1056

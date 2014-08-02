@@ -1,6 +1,6 @@
 $BUILT                                             2012-02-20 18:43:58
 $AUTHOR                                                       Pieuw/mobius
-$GERMAN                                              Das Letzte Lachen
+$GERMAN
 $ENGLISH                                                The Last Laugh
 
 #SIZE_X                                                            640

@@ -1,7 +1,7 @@
-$BUILT 2014-05-26 13:43:06
+$BUILT 2014-07-26 10:42:05
 $AUTHOR Nepster
 $GERMAN 
-$ENGLISH Devil's Right Hand
+$ENGLISH Devil's Right Hand V4 New
 
 #SIZE_X 1086
 #SIZE_Y 400
@@ -39,22 +39,22 @@ $ENGLISH Devil's Right Hand
 
 :proxima/flame.F: 988 320
 
-:matt/underworld/thinplatform128: 576 200
-:matt/underworld/thinplatform128: 640 200
-:matt/underworld/thinplatform128: 600 224
-:matt/underworld/thinplatform128: 616 224
-:matt/underworld/thinplatform64: 656 248
-:matt/underworld/thinplatform64: 624 248
-:matt/underworld/thinplatform16: 648 272
-:matt/underworld/thinplatform16: 664 272
-:matt/underworld/thinplatform16: 680 272
-:matt/underworld/thinplatform128: 600 176
-:matt/underworld/thinplatform128: 616 176
-:matt/underworld/thinplatform64: 656 152
-:matt/underworld/thinplatform64: 624 152
-:matt/underworld/thinplatform16: 664 128
-:matt/underworld/thinplatform16: 680 128
-:matt/underworld/thinplatform16: 648 128
+:matt/underworld/thinplatform128: 576 188
+:matt/underworld/thinplatform128: 640 188
+:matt/underworld/thinplatform128: 600 212
+:matt/underworld/thinplatform128: 616 212
+:matt/underworld/thinplatform64: 656 236
+:matt/underworld/thinplatform64: 624 236
+:matt/underworld/thinplatform16: 648 260
+:matt/underworld/thinplatform16: 664 260
+:matt/underworld/thinplatform16: 680 260
+:matt/underworld/thinplatform128: 600 164
+:matt/underworld/thinplatform128: 616 164
+:matt/underworld/thinplatform64: 656 140
+:matt/underworld/thinplatform64: 624 140
+:matt/underworld/thinplatform16: 664 116
+:matt/underworld/thinplatform16: 680 116
+:matt/underworld/thinplatform16: 648 116
 :matt/underworld/00: 328 368
 :matt/underworld/00: 440 368
 :matt/underworld/00: 128 264
@@ -265,10 +265,9 @@ $ENGLISH Devil's Right Hand
 :matt/underworld/thinplatform64: 826 344 rrrn
 :matt/underworld/thinplatform128: 826 344 rrrn
 :matt/underworld/thinplatform128: 828 352 rrrn
-:matt/underworld/thinplatform128: 830 360 rrrn
 :geoo/steel/dark_64x32o.S: 768 368
 :geoo/construction/platform_single.S: 816 366
-:geoo/construction/platform_single.S: 832 366
+:geoo/construction/platform_single.S: 830 366
 :geoo/construction/platform.S: 804 320 fr
 :geoo/construction/platform_single.S: 808 366 d
 :geoo/construction/platform_single.S: 320 364
@@ -279,7 +278,7 @@ $ENGLISH Devil's Right Hand
 :geoo/construction/platform_single.S: 542 364 d
 :geoo/construction/platform_single.S: 820 364
 :geoo/construction/platform_single.S: 812 364 d
-:geoo/construction/platform_single.S: 832 364
+:geoo/construction/platform_single.S: 830 364
 :matt/underworld/00: 768 0
 :matt/underworld/00: 704 0
 :matt/underworld/00: 640 0
@@ -297,3 +296,5 @@ $ENGLISH Devil's Right Hand
 :geoo/construction/platform.S: 806 264 fr
 :geoo/construction/platform.S: 806 296 fr
 :geoo/construction/platform.S: 806 320 fr
+:matt/underworld/thinplatform8: 804 350 rrr
+:matt/underworld/thinplatform8: 806 350 rrr

@@ -1,4 +1,4 @@
-$BUILT 2012-06-12 23:02:20
+$BUILT 2014-08-02 22:52:32
 $AUTHOR Insane Steve
 $GERMAN 
 $ENGLISH Bipolar Maniac
@@ -144,4 +144,5 @@ $ENGLISH Bipolar Maniac
 :geoo/abstract/cvblocks/005: 440 288
 :geoo/abstract/cvblocks/005: 456 288
 :geoo/abstract/cvblocks/005: 472 288
-:geoo/abstract/cvblocks/005: 488 288
+:geoo/abstract/cvblocks/007: 488 288
+:geoo/steel/32x32o.S: 168 160

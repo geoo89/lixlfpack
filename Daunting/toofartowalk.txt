@@ -1,6 +1,6 @@
 $BUILT                                             2012-02-20 00:51:11
 $AUTHOR                                                             mobius
-$GERMAN                                               Zu Weit Zu Gehen
+$GERMAN
 $ENGLISH                                               Too Far to Walk
 
 #SIZE_X                                                           1600

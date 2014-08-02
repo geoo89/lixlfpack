@@ -1,6 +1,6 @@
 $BUILT                                             2012-01-22 13:27:34
 $AUTHOR                                                     Nortaneous
-$GERMAN                                                      Die Grube
+$GERMAN
 $ENGLISH                                                       The Pit
 
 #SIZE_X                                                            640
