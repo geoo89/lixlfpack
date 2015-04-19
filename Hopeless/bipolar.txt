@@ -1,4 +1,4 @@
-$BUILT 2014-08-02 22:52:32
+$BUILT 2014-08-08 23:31:16
 $AUTHOR Insane Steve
 $GERMAN 
 $ENGLISH Bipolar Maniac
@@ -32,22 +32,8 @@ $ENGLISH Bipolar Maniac
 
 :geoo/abstract/hatch.H: 280 224
 
-:geoo/abstract/goal.G: 1152 288
+:geoo/abstract/goal.G: 1152 296
 
-:geoo/abstract/cvblocks/020: 504 336
-:geoo/abstract/cvblocks/020: 536 336
-:geoo/abstract/cvblocks/020: 598 336
-:geoo/abstract/cvblocks/019: 568 336
-:geoo/abstract/cvblocks/016: 582 336
-:geoo/abstract/cvblocks/019: 630 336
-:geoo/abstract/cvblocks/016: 644 336
-:geoo/abstract/cvblocks/020: 660 336
-:geoo/abstract/cvblocks/019: 692 336
-:geoo/abstract/cvblocks/016: 706 336
-:geoo/abstract/cvblocks/020: 722 336
-:geoo/abstract/cvblocks/019: 754 336
-:geoo/abstract/cvblocks/016: 768 336
-:geoo/abstract/cvblocks/020: 784 336
 :geoo/abstract/cvblocks/045: 816 288
 :geoo/abstract/cvblocks/045: 816 224
 :geoo/abstract/cvblocks/045: 816 160
@@ -62,10 +48,6 @@ $ENGLISH Bipolar Maniac
 :geoo/abstract/cvblocks/045: 944 288
 :geoo/abstract/cvblocks/045: 1008 288
 :geoo/abstract/cvblocks/045: 1008 224
-:geoo/abstract/cvblocks/020: 1072 336
-:geoo/abstract/cvblocks/020: 1104 336
-:geoo/abstract/cvblocks/020: 1136 336
-:geoo/abstract/cvblocks/020: 1168 336
 :geoo/abstract/cvblocks/032: 232 256
 :geoo/abstract/cvblocks/042: 200 192
 :geoo/abstract/cvblocks/030: 200 256
@@ -146,3 +128,39 @@ $ENGLISH Bipolar Maniac
 :geoo/abstract/cvblocks/005: 472 288
 :geoo/abstract/cvblocks/007: 488 288
 :geoo/steel/32x32o.S: 168 160
+:geoo/abstract/cvblocks/004: 528 344
+:geoo/abstract/cvblocks/001: 536 344
+:geoo/abstract/cvblocks/005: 512 344
+:geoo/abstract/cvblocks/004: 560 344
+:geoo/abstract/cvblocks/001: 568 344
+:geoo/abstract/cvblocks/005: 544 344
+:geoo/abstract/cvblocks/004: 592 344
+:geoo/abstract/cvblocks/001: 600 344
+:geoo/abstract/cvblocks/005: 576 344
+:geoo/abstract/cvblocks/004: 624 344
+:geoo/abstract/cvblocks/001: 632 344
+:geoo/abstract/cvblocks/005: 608 344
+:geoo/abstract/cvblocks/004: 656 344
+:geoo/abstract/cvblocks/001: 664 344
+:geoo/abstract/cvblocks/005: 640 344
+:geoo/abstract/cvblocks/004: 688 344
+:geoo/abstract/cvblocks/001: 696 344
+:geoo/abstract/cvblocks/005: 672 344
+:geoo/abstract/cvblocks/004: 720 344
+:geoo/abstract/cvblocks/001: 728 344
+:geoo/abstract/cvblocks/005: 704 344
+:geoo/abstract/cvblocks/004: 752 344
+:geoo/abstract/cvblocks/001: 760 344
+:geoo/abstract/cvblocks/005: 736 344
+:geoo/abstract/cvblocks/004: 784 344
+:geoo/abstract/cvblocks/001: 792 344
+:geoo/abstract/cvblocks/005: 768 344
+:geoo/abstract/cvblocks/005: 800 344
+:geoo/abstract/cvblocks/003: 504 344
+:geoo/abstract/cvblocks/005: 1072 344
+:geoo/abstract/cvblocks/005: 1088 344
+:geoo/abstract/cvblocks/005: 1104 344
+:geoo/abstract/cvblocks/005: 1120 344
+:geoo/abstract/cvblocks/005: 1136 344
+:geoo/abstract/cvblocks/005: 1152 344
+:geoo/abstract/cvblocks/005: 1168 344
