@@ -1,4 +1,4 @@
-$BUILT 2014-05-17 16:21:00
+$BUILT 2014-09-15 17:35:59
 $AUTHOR Michael
 $GERMAN 
 $ENGLISH The Hotel in Hell
@@ -57,8 +57,9 @@ $ENGLISH The Hotel in Hell
 :proxima/flame.F: 1084 196
 :proxima/flame.F: 960 132
 :proxima/flame.F: 1056 196
-:proxima/flame.F: 1322 252
-:proxima/flame.F: 1294 252
+:proxima/flame.F: 1326 252
+:proxima/flame.F: 1290 252
+:proxima/flame.F: 1310 244
 
 :matt/underworld/01: 768 368
 :matt/underworld/01: 832 368
@@ -444,3 +445,5 @@ $ENGLISH The Hotel in Hell
 :matt/underworld/09c: 2272 16 rr
 :matt/underworld/09b: 2336 16
 :geoo/steel/dark_64x32o.S: 1120 232
+:matt/underworld/01: 1792 336
+:geoo/construction/concrete/032hd: 1792 336 d
