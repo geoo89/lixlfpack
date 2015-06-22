@@ -1,0 +1,8 @@
+$FILENAME single/lixlfpack/Simple/lixpotion.txt
+$BUILT_REQUIRED 2012-05-28 00:28:08
+#VERSION_REQUIRED 2014070200
+
++PLAYER 0 Garden Sekti
+
+! 65 0 SPAWNINT 4
+

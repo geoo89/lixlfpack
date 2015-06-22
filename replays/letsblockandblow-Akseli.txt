@@ -1,0 +1,12 @@
+$FILENAME single/lixlfpack/Simple/letsblockandblow.txt
+$BUILT_REQUIRED 2013-05-09 19:40:20
+#VERSION_REQUIRED 2014070200
+
++PLAYER 0 Garden Akseli
+
+! 71 0 SKILL 4
+! 82 0 ASSIGN 0
+! 145 0 SPAWNINT 4
+! 153 0 SKILL 3
+! 160 0 ASSIGN 1
+
