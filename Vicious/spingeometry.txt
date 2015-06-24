@@ -1,5 +1,5 @@
 $BUILT 2015-06-22 12:09:59
-$AUTHOR Michael/geoo
+$AUTHOR Michael S. Repton/geoo
 $GERMAN 
 $ENGLISH Spin Geometry
 
