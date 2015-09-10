@@ -21,7 +21,6 @@ littleminerpuzz2.txt
 tributetoflagpole.txt
 undertherainbow.txt
 alienabduction.txt
-excavation.txt
 anotherlixinthewall.txt
 detour.txt
 hardtoport.txt
@@ -34,6 +33,7 @@ followtheyellow.txt
 infrastructure.txt
 thepit.txt
 exitstageright.txt
+towerofbabel.txt
 snowjump.txt
 therunaround.txt
 therazorsedge.txt

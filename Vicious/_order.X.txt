@@ -5,8 +5,6 @@ lowprofile.txt
 betchacantsave.txt
 changing.txt
 fiveforfighting.txt
-slipping.txt
-slippingagain.txt
 waitwhyisthereatree.txt
 roundtrip.txt
 lixesinarms.txt
@@ -36,5 +34,7 @@ bashingandbuilding.txt
 survivalofthecraft.txt
 dreamtheimpossible.txt
 triangleineq.txt
+hellfire.txt
+3111.txt
 finale.txt
 chasm.txt

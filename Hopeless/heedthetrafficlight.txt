@@ -1,4 +1,4 @@
-$BUILT 2014-05-19 17:42:41
+$BUILT 2015-06-25 19:31:46
 $AUTHOR Nepster
 $GERMAN 
 $ENGLISH Heed the Traffic Light
@@ -12,9 +12,9 @@ $ENGLISH Heed the Traffic Light
 #BACKGROUND_BLUE 0
 
 #SECONDS 0
-#INITIAL 9
-#REQUIRED 8
-#SPAWN_INTERVAL 30
+#INITIAL 13
+#REQUIRED 12
+#SPAWN_INTERVAL 20
 #SPAWN_INTERVAL_FAST 4
 
 #NOTHING 0
@@ -32,7 +32,6 @@ $ENGLISH Heed the Traffic Light
 
 :geoo/construction/Hatch.H: 120 0
 :geoo/construction/Hatch.H: 32 256
-:geoo/construction/Hatch.H: 120 0
 :geoo/construction/Hatch.H: 576 256 r
 
 :geoo/construction/Goal2.G: 432 272
