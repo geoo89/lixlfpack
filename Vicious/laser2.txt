@@ -1,4 +1,4 @@
-$BUILT 2014-05-06 15:29:12
+$BUILT 2016-02-01 00:26:33
 $AUTHOR Insane Steve
 $GERMAN 
 $ENGLISH Laser Deathroom (Part 2)
@@ -22,74 +22,70 @@ $ENGLISH Laser Deathroom (Part 2)
 #CLIMBER 5
 #FLOATER 5
 #EXPLODER 5
-#BLOCKER 0
 #BUILDER 10
 #BASHER 5
 #MINER 5
 #DIGGER 5
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
+#JUMPER 5
 
-:geoo/abstract/hatch.H: 222 134
+:geoo/abstract/hatch.H: 214 134
 
-:geoo/abstract/goal.G: 378 166
+:geoo/abstract/goal.G: 386 166
 
-:geoo/construction/Laser_vr_64.F: 274 128
-:geoo/construction/Laser_vr_64.F: 350 128
-:geoo/construction/Laser_hz_64.F: 220 118
-:geoo/construction/Laser_hz_64.F: 356 118
-:geoo/construction/Laser_vr_64.F: 210 126
-:geoo/construction/Laser_vr_64.F: 414 126
-:geoo/construction/Laser_hz_16.F: 216 118
+:geoo/construction/Laser_vr_64.F: 266 128
+:geoo/construction/Laser_vr_64.F: 358 128
+:geoo/construction/Laser_hz_64.F: 212 118
+:geoo/construction/Laser_hz_64.F: 364 118
+:geoo/construction/Laser_vr_64.F: 202 126
+:geoo/construction/Laser_vr_64.F: 422 126
+:geoo/construction/Laser_hz_16.F: 208 118
+:geoo/construction/Laser_hz_16.F: 416 118
 :geoo/construction/Laser_hz_16.F: 408 118
-:geoo/construction/Laser_hz_16.F: 400 118
-:geoo/construction/Laser_hz_16.F: 222 118
-:geoo/construction/Laser_hz_64.F: 216 334
-:geoo/construction/Laser_hz_64.F: 360 334
-:geoo/construction/Laser_vr_16.F: 278 230
-:geoo/construction/Laser_vr_16.F: 278 326
-:geoo/construction/Laser_vr_16.F: 278 234
-:geoo/construction/Laser_vr_16.F: 346 326
-:geoo/construction/Laser_vr_16.F: 346 230
-:geoo/construction/Laser_vr_16.F: 210 230
-:geoo/construction/Laser_vr_16.F: 210 234
-:geoo/construction/Laser_vr_16.F: 210 326
-:geoo/construction/Laser_vr_16.F: 414 326
-:geoo/construction/Laser_vr_16.F: 414 236
-:geoo/construction/Laser_vr_16.F: 414 230
-:geoo/construction/Laser_hz_16.F: 272 334
-:geoo/construction/Laser_hz_16.F: 352 334
-:geoo/construction/Laser_vr_64.F: 278 262
-:geoo/construction/Laser_vr_64.F: 210 266
-:geoo/construction/Laser_vr_64.F: 346 262
-:geoo/construction/Laser_vr_64.F: 414 266
+:geoo/construction/Laser_hz_16.F: 214 118
+:geoo/construction/Laser_hz_64.F: 208 334
+:geoo/construction/Laser_hz_64.F: 368 334
+:geoo/construction/Laser_vr_16.F: 270 230
+:geoo/construction/Laser_vr_16.F: 270 326
+:geoo/construction/Laser_vr_16.F: 270 234
+:geoo/construction/Laser_vr_16.F: 354 326
+:geoo/construction/Laser_vr_16.F: 354 230
+:geoo/construction/Laser_vr_16.F: 202 230
+:geoo/construction/Laser_vr_16.F: 202 234
+:geoo/construction/Laser_vr_16.F: 202 326
+:geoo/construction/Laser_vr_16.F: 422 326
+:geoo/construction/Laser_vr_16.F: 422 236
+:geoo/construction/Laser_vr_16.F: 422 230
+:geoo/construction/Laser_hz_16.F: 264 334
+:geoo/construction/Laser_hz_16.F: 360 334
+:geoo/construction/Laser_vr_64.F: 270 262
+:geoo/construction/Laser_vr_64.F: 202 266
+:geoo/construction/Laser_vr_64.F: 354 262
+:geoo/construction/Laser_vr_64.F: 422 266
 :geoo/construction/Laser_hz_16.F: 312 284
 :geoo/construction/Laser_vr_64.F: 306 228
 :geoo/construction/Laser_vr_64.F: 318 228
 :geoo/construction/Laser_hz_16.F: 312 220
-:geoo/construction/Laser_vr_64.F: 278 246
-:geoo/construction/Laser_vr_64.F: 346 246
-:geoo/construction/Laser_vr_64.F: 210 246
-:geoo/construction/Laser_vr_64.F: 414 252
+:geoo/construction/Laser_vr_64.F: 270 246
+:geoo/construction/Laser_vr_64.F: 354 246
+:geoo/construction/Laser_vr_64.F: 202 246
+:geoo/construction/Laser_vr_64.F: 422 252
 
-:geoo/steel/16x16o.S: 278 214
-:geoo/steel/16x16o.S: 346 214
-:geoo/steel/16x16o.S: 278 192
-:geoo/steel/16x16o.S: 346 192
-:geoo/steel/16x16o.S: 362 214
-:geoo/steel/16x16o.S: 378 214
-:geoo/steel/16x16o.S: 394 214
-:geoo/steel/16x16o.S: 410 214
-:geoo/steel/16x16o.S: 410 198
-:geoo/steel/16x16o.S: 410 182
-:geoo/steel/16x16o.S: 262 214
-:geoo/steel/16x16o.S: 246 214
-:geoo/steel/16x16o.S: 230 214
-:geoo/steel/16x16o.S: 214 214
-:geoo/steel/16x16o.S: 214 198
-:geoo/steel/16x16o.S: 214 182
+:geoo/steel/16x16o.S: 270 214
+:geoo/steel/16x16o.S: 354 214
+:geoo/steel/16x16o.S: 270 192
+:geoo/steel/16x16o.S: 354 192
+:geoo/steel/16x16o.S: 370 214
+:geoo/steel/16x16o.S: 386 214
+:geoo/steel/16x16o.S: 402 214
+:geoo/steel/16x16o.S: 418 214
+:geoo/steel/16x16o.S: 418 198
+:geoo/steel/16x16o.S: 418 182
+:geoo/steel/16x16o.S: 254 214
+:geoo/steel/16x16o.S: 238 214
+:geoo/steel/16x16o.S: 222 214
+:geoo/steel/16x16o.S: 206 214
+:geoo/steel/16x16o.S: 206 198
+:geoo/steel/16x16o.S: 206 182
 :geoo/abstract/cvblocks/047: 128 272
 :geoo/abstract/cvblocks/047: 448 272
 :geoo/abstract/cvblocks/047: 128 144
@@ -134,7 +130,7 @@ $ENGLISH Laser Deathroom (Part 2)
 :geoo/abstract/cvblocks/015: 336 368
 :geoo/abstract/cvblocks/015: 288 384
 :geoo/abstract/cvblocks/015: 336 384
-:geoo/abstract/cvblocks/000: 254 206
-:geoo/abstract/cvblocks/000: 254 198
-:geoo/abstract/cvblocks/000: 254 190
-:geoo/abstract/cvblocks/000: 254 182
+:geoo/abstract/cvblocks/000: 246 206
+:geoo/abstract/cvblocks/000: 246 198
+:geoo/abstract/cvblocks/000: 246 190
+:geoo/abstract/cvblocks/000: 246 182
