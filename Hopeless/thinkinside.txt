@@ -1,5 +1,5 @@
 $BUILT 2015-08-26 21:49:56
-$AUTHOR Michael S. Repton
+$AUTHOR Michael
 $GERMAN 
 $ENGLISH Think Inside the Box
 

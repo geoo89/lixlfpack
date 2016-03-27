@@ -1,5 +1,5 @@
 $BUILT                                             2012-02-25 23:58:39
-$AUTHOR                                                        Michael S. Repton
+$AUTHOR                                                        Michael
 $GERMAN                                                               
 $ENGLISH                                  Follow the Yellow Brick Road
 

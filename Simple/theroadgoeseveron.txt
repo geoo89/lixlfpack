@@ -1,5 +1,5 @@
 $BUILT 2015-09-07 20:56:07
-$AUTHOR I.S./Michael S. Repton
+$AUTHOR I.S./Michael
 $GERMAN 
 $ENGLISH The Road Goes Ever On
 

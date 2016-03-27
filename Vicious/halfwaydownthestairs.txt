@@ -1,5 +1,5 @@
 $BUILT 2015-08-26 23:32:19
-$AUTHOR Michael S. Repton
+$AUTHOR Michael
 $GERMAN 
 $ENGLISH Halfway Down the Stairs
 

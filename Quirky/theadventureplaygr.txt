@@ -1,5 +1,5 @@
 $BUILT 2015-09-07 20:56:19
-$AUTHOR Michael S. Repton
+$AUTHOR Michael
 $GERMAN 
 $ENGLISH The Adventure Playground
 

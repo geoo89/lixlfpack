@@ -1,5 +1,5 @@
 $BUILT 2012-05-29 20:30:04
-$AUTHOR Michael S. Repton
+$AUTHOR Michael
 $GERMAN
 $ENGLISH LIX
 

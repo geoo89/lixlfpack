@@ -1,5 +1,5 @@
 $BUILT 2014-01-26 15:42:18
-$AUTHOR Michael S. Repton
+$AUTHOR Michael
 $GERMAN 
 $ENGLISH Rhapsody in Blue
 

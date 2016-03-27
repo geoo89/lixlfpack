@@ -1,5 +1,5 @@
 $BUILT 2015-08-26 22:10:26
-$AUTHOR Michael S. Repton
+$AUTHOR Michael
 $GERMAN 
 $ENGLISH Ascending and Descending
 
