@@ -3,7 +3,6 @@ emptyspace.txt
 systematicsep.txt
 closetotheedge.txt
 dontcatchmeifyoucan.txt
-heedthetrafficlight.txt
 thehotelinhell.txt
 merdemerdemerde.txt
 yukimuon.txt
@@ -17,13 +16,13 @@ fromtheotherside.txt
 stuffintheway.txt
 tinkertailorsoldier.txt
 thinkinside.txt
-metalcitymayhem.txt
 trading.txt
+metalcitymayhem.txt
 nomoreheroes.txt
 pathofwickedness.txt
 onestepoff.txt
-lasranas.txt
 wereinthisonetog.txt
+lasranas.txt
 behindbars.txt
 devilsrighthand.txt
 thelixliesdownonbroadway.txt
@@ -34,7 +33,8 @@ wontgetfooledagain.txt
 absolutezero.txt
 themon0lith.txt
 loveisover.txt
-labyrinthofdespair.txt
 brickout.txt
+labyrinthofdespair.txt
 youonlygetone.txt
+themilehighclub.txt
 thenewsstruck.txt

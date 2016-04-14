@@ -10,8 +10,7 @@ lixsterquadrille.txt
 lixesinarms.txt
 downamong.txt
 laser1.txt
-laser2.txt
-laser3.txt
+crownjewelheist.txt
 thelastlaugh.txt
 bulldozer.txt
 thegr8escape.txt
@@ -32,6 +31,7 @@ spingeometry.txt
 bashingandbuilding.txt
 survivalofthecraft.txt
 hellfire.txt
+heedthetrafficlight.txt
 halfwaydownthestairs.txt
 dreamtheimpossible.txt
 triangleineq.txt
